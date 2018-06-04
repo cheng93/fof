@@ -44,8 +44,8 @@ do
 
     if [ -v password ]
     then
-        python "$dir/../fof/python/run.py" -y $((i+2015)) -s ${seasons[$i]} -u $user -ho $hostname -p $port -d $db -pa $password
+        python "$dir/../data/python/run.py" -y $((i+2015)) -s ${seasons[$i]} -u $user -ho $hostname -p $port -d $db -pa $password
     else 
-        python "$dir/../fof/python/run.py" -y $((i+2015)) -s ${seasons[$i]} -u $user -ho $hostname -p $port -d $db
+        python "$dir/../data/python/run.py" -y $((i+2015)) -s ${seasons[$i]} -u $user -ho $hostname -p $port -d $db
     fi
 done
