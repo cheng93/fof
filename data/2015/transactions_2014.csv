@@ -1,0 +1,912 @@
+Stage,Year,Player_ID/Staff_ID/Round,Transaction,Team,Position_Group/Year,Money,Years/Original_Position/Destination_City,Original_Team/Destination_Position/Misc.
+Ex. Season Week 1,2014,765,signed as a free agent,19,C,65,1,0
+Ex. Season Week 1,2014,2363,signed as a free agent,19,QB,42,1,0
+Ex. Season Week 1,2014,2583,signed as a free agent,19,WR,42,1,0
+Ex. Season Week 1,2014,2249,signed as a free agent,19,ILB,42,1,0
+Ex. Season Week 1,2014,8,signed as a free agent,19,TE,96,1,0
+Ex. Season Week 1,2014,378,signed as a free agent,19,ILB,73,1,0
+Ex. Season Week 1,2014,1116,signed as a free agent,19,ILB,57,1,0
+Ex. Season Week 1,2014,2355,signed as a free agent,1,QB,42,1,0
+Ex. Season Week 1,2014,2638,signed as a free agent,1,C,42,1,0
+Ex. Season Week 1,2014,994,signed as a free agent,1,WR,65,1,0
+Ex. Season Week 1,2014,294,signed as a free agent,1,C,73,1,0
+Ex. Season Week 1,2014,326,signed as a free agent,1,ILB,86,1,0
+Ex. Season Week 1,2014,2170,signed as a free agent,1,DT,42,1,0
+Ex. Season Week 1,2014,1561,signed as a free agent,1,DE,42,1,0
+Ex. Season Week 1,2014,2377,signed as a free agent,2,QB,42,1,0
+Ex. Season Week 1,2014,2564,signed as a free agent,2,WR,42,1,0
+Ex. Season Week 1,2014,2078,signed as a free agent,2,C,42,1,0
+Ex. Season Week 1,2014,2250,signed as a free agent,2,ILB,42,1,0
+Ex. Season Week 1,2014,2341,signed as a free agent,2,C,42,1,0
+Ex. Season Week 1,2014,3090,signed as a free agent,2,CB,42,1,0
+Ex. Season Week 1,2014,3034,signed as a free agent,2,OLB,42,1,0
+Ex. Season Week 1,2014,2240,signed as a free agent,2,OLB,42,1,0
+Ex. Season Week 1,2014,1638,released,2,OLB,0,0,0
+Ex. Season Week 1,2014,2651,signed as a free agent,6,C,42,1,0
+Ex. Season Week 1,2014,252,signed as a free agent,6,C,86,1,0
+Ex. Season Week 1,2014,586,signed as a free agent,6,QB,65,1,0
+Ex. Season Week 1,2014,2565,signed as a free agent,6,WR,42,1,0
+Ex. Season Week 1,2014,2326,signed as a free agent,6,S,42,1,0
+Ex. Season Week 1,2014,1303,signed as a free agent,6,DE,57,1,0
+Ex. Season Week 1,2014,409,signed as a free agent,6,DE,73,1,0
+Ex. Season Week 1,2014,860,signed as a free agent,15,QB,65,1,0
+Ex. Season Week 1,2014,2660,signed as a free agent,15,C,42,1,0
+Ex. Season Week 1,2014,2536,signed as a free agent,15,TE,42,1,0
+Ex. Season Week 1,2014,1174,signed as a free agent,15,WR,57,1,0
+Ex. Season Week 1,2014,872,signed as a free agent,15,DT,73,1,0
+Ex. Season Week 1,2014,2882,signed as a free agent,15,DE,42,1,0
+Ex. Season Week 1,2014,1440,signed as a free agent,15,S,57,1,0
+Ex. Season Week 1,2014,1082,signed as a free agent,26,QB,65,1,0
+Ex. Season Week 1,2014,2646,signed as a free agent,26,C,42,1,0
+Ex. Season Week 1,2014,155,signed as a free agent,26,TE,73,1,0
+Ex. Season Week 1,2014,1316,signed as a free agent,26,WR,50,1,0
+Ex. Season Week 1,2014,868,signed as a free agent,26,OLB,57,1,0
+Ex. Season Week 1,2014,1713,signed as a free agent,26,CB,42,1,0
+Ex. Season Week 1,2014,68,signed as a free agent,26,DE,96,1,0
+Ex. Season Week 1,2014,596,signed as a free agent,26,DE,73,1,0
+Ex. Season Week 1,2014,3052,released,26,OLB,0,0,0
+Ex. Season Week 1,2014,552,signed as a free agent,25,ILB,73,1,0
+Ex. Season Week 1,2014,1353,signed as a free agent,25,WR,50,1,0
+Ex. Season Week 1,2014,156,signed as a free agent,25,C,86,1,0
+Ex. Season Week 1,2014,2394,signed as a free agent,25,QB,42,1,0
+Ex. Season Week 1,2014,43,signed as a free agent,25,TE,96,1,0
+Ex. Season Week 1,2014,881,signed as a free agent,25,ILB,65,1,0
+Ex. Season Week 1,2014,2989,signed as a free agent,25,ILB,42,1,0
+Ex. Season Week 1,2014,32,signed as a free agent,7,TE,96,1,0
+Ex. Season Week 1,2014,1922,signed as a free agent,7,QB,42,1,0
+Ex. Season Week 1,2014,2590,signed as a free agent,7,WR,42,1,0
+Ex. Season Week 1,2014,1184,signed as a free agent,7,C,42,1,0
+Ex. Season Week 1,2014,580,signed as a free agent,7,CB,65,1,0
+Ex. Season Week 1,2014,14,signed as a free agent,7,DE,96,1,0
+Ex. Season Week 1,2014,989,signed as a free agent,7,DE,73,1,0
+Ex. Season Week 1,2014,1486,signed as a free agent,4,WR,50,1,0
+Ex. Season Week 1,2014,2081,signed as a free agent,4,C,42,1,0
+Ex. Season Week 1,2014,1923,signed as a free agent,4,QB,42,1,0
+Ex. Season Week 1,2014,2344,signed as a free agent,4,C,42,1,0
+Ex. Season Week 1,2014,595,signed as a free agent,4,CB,73,1,0
+Ex. Season Week 1,2014,213,signed as a free agent,4,DE,86,1,0
+Ex. Season Week 1,2014,2181,signed as a free agent,4,DT,42,1,0
+Ex. Season Week 1,2014,247,signed as a free agent,29,QB,86,1,0
+Ex. Season Week 1,2014,2080,signed as a free agent,29,C,42,1,0
+Ex. Season Week 1,2014,2347,signed as a free agent,29,C,42,1,0
+Ex. Season Week 1,2014,1683,signed as a free agent,29,WR,42,1,0
+Ex. Season Week 1,2014,3007,signed as a free agent,29,ILB,42,1,0
+Ex. Season Week 1,2014,1148,signed as a free agent,29,ILB,57,1,0
+Ex. Season Week 1,2014,590,signed as a free agent,29,ILB,73,1,0
+Ex. Season Week 1,2014,916,signed as a free agent,14,TE,65,1,0
+Ex. Season Week 1,2014,2381,signed as a free agent,14,QB,42,1,0
+Ex. Season Week 1,2014,2632,signed as a free agent,14,WR,42,1,0
+Ex. Season Week 1,2014,361,signed as a free agent,14,C,65,1,0
+Ex. Season Week 1,2014,3041,signed as a free agent,14,OLB,42,1,0
+Ex. Season Week 1,2014,2860,signed as a free agent,14,DE,42,1,0
+Ex. Season Week 1,2014,873,signed as a free agent,14,DE,57,1,0
+Ex. Season Week 1,2014,2074,signed as a free agent,0,C,42,1,0
+Ex. Season Week 1,2014,721,signed as a free agent,0,ILB,65,1,0
+Ex. Season Week 1,2014,1305,signed as a free agent,0,WR,57,1,0
+Ex. Season Week 1,2014,1910,signed as a free agent,0,QB,42,1,0
+Ex. Season Week 1,2014,2509,signed as a free agent,0,TE,42,1,0
+Ex. Season Week 1,2014,2236,signed as a free agent,0,OLB,42,1,0
+Ex. Season Week 1,2014,1502,signed as a free agent,0,OLB,42,1,0
+Ex. Season Week 1,2014,467,signed as a free agent,31,C,73,1,0
+Ex. Season Week 1,2014,1859,signed as a free agent,31,QB,42,1,0
+Ex. Season Week 1,2014,2634,signed as a free agent,31,WR,42,1,0
+Ex. Season Week 1,2014,2545,signed as a free agent,31,TE,42,1,0
+Ex. Season Week 1,2014,1497,signed as a free agent,31,ILB,42,1,0
+Ex. Season Week 1,2014,3167,signed as a free agent,31,S,42,1,0
+Ex. Season Week 1,2014,483,signed as a free agent,31,OLB,73,1,0
+Ex. Season Week 1,2014,832,signed as a free agent,31,ILB,65,1,0
+Ex. Season Week 1,2014,1975,released,31,FB,0,0,0
+Ex. Season Week 1,2014,441,signed as a free agent,20,TE,73,1,0
+Ex. Season Week 1,2014,1862,signed as a free agent,20,WR,42,1,0
+Ex. Season Week 1,2014,1914,signed as a free agent,20,QB,42,1,0
+Ex. Season Week 1,2014,2073,signed as a free agent,20,C,42,1,0
+Ex. Season Week 1,2014,1290,signed as a free agent,20,S,65,1,0
+Ex. Season Week 1,2014,3051,signed as a free agent,20,OLB,42,1,0
+Ex. Season Week 1,2014,1742,signed as a free agent,20,DT,42,1,0
+Ex. Season Week 1,2014,1206,signed as a free agent,20,DE,57,1,0
+Ex. Season Week 1,2014,2489,released,20,FB,0,0,0
+Ex. Season Week 1,2014,18,signed as a free agent,21,ILB,86,1,0
+Ex. Season Week 1,2014,2663,signed as a free agent,21,C,42,1,0
+Ex. Season Week 1,2014,1926,signed as a free agent,21,QB,42,1,0
+Ex. Season Week 1,2014,692,signed as a free agent,21,WR,73,1,0
+Ex. Season Week 1,2014,362,signed as a free agent,21,ILB,73,1,0
+Ex. Season Week 1,2014,588,signed as a free agent,21,CB,73,1,0
+Ex. Season Week 1,2014,1572,signed as a free agent,21,OLB,42,1,0
+Ex. Season Week 1,2014,393,signed as a free agent,21,ILB,86,1,0
+Ex. Season Week 1,2014,3055,released,21,OLB,0,0,0
+Ex. Season Week 1,2014,548,signed as a free agent,9,TE,57,1,0
+Ex. Season Week 1,2014,2357,signed as a free agent,9,QB,42,1,0
+Ex. Season Week 1,2014,723,signed as a free agent,9,WR,73,1,0
+Ex. Season Week 1,2014,2076,signed as a free agent,9,C,42,1,0
+Ex. Season Week 1,2014,1655,signed as a free agent,9,OLB,42,1,0
+Ex. Season Week 1,2014,706,signed as a free agent,9,S,65,1,0
+Ex. Season Week 1,2014,1312,signed as a free agent,9,DE,57,1,0
+Ex. Season Week 1,2014,300,signed as a free agent,9,DE,65,1,0
+Ex. Season Week 1,2014,461,released,9,FB,0,0,0
+Ex. Season Week 1,2014,1894,signed as a free agent,27,QB,42,1,0
+Ex. Season Week 1,2014,768,signed as a free agent,27,WR,65,1,0
+Ex. Season Week 1,2014,2087,signed as a free agent,27,C,42,1,0
+Ex. Season Week 1,2014,2647,signed as a free agent,27,C,42,1,0
+Ex. Season Week 1,2014,2846,signed as a free agent,27,DE,42,1,0
+Ex. Season Week 1,2014,2877,signed as a free agent,27,DE,42,1,0
+Ex. Season Week 1,2014,702,signed as a free agent,27,ILB,73,1,0
+Ex. Season Week 1,2014,1887,signed as a free agent,8,QB,42,1,0
+Ex. Season Week 1,2014,2343,signed as a free agent,8,C,42,1,0
+Ex. Season Week 1,2014,1276,signed as a free agent,8,WR,50,1,0
+Ex. Season Week 1,2014,2652,signed as a free agent,8,C,42,1,0
+Ex. Season Week 1,2014,1685,signed as a free agent,8,CB,50,1,0
+Ex. Season Week 1,2014,512,signed as a free agent,8,DE,73,1,0
+Ex. Season Week 1,2014,2221,signed as a free agent,8,DT,42,1,0
+Ex. Season Week 1,2014,956,signed as a free agent,12,WR,73,1,0
+Ex. Season Week 1,2014,1205,signed as a free agent,12,TE,50,1,0
+Ex. Season Week 1,2014,2083,signed as a free agent,12,C,42,1,0
+Ex. Season Week 1,2014,2366,signed as a free agent,12,QB,42,1,0
+Ex. Season Week 1,2014,3121,signed as a free agent,12,CB,42,1,0
+Ex. Season Week 1,2014,1427,signed as a free agent,12,ILB,50,1,0
+Ex. Season Week 1,2014,1223,signed as a free agent,12,DE,65,1,0
+Ex. Season Week 1,2014,1782,signed as a free agent,12,DE,42,1,0
+Ex. Season Week 1,2014,1993,released,12,FB,0,0,0
+Ex. Season Week 1,2014,2340,signed as a free agent,17,C,42,1,0
+Ex. Season Week 1,2014,71,signed as a free agent,17,WR,96,1,0
+Ex. Season Week 1,2014,2976,signed as a free agent,17,ILB,42,1,0
+Ex. Season Week 1,2014,2365,signed as a free agent,17,QB,42,1,0
+Ex. Season Week 1,2014,602,signed as a free agent,17,C,57,1,0
+Ex. Season Week 1,2014,3192,signed as a free agent,17,S,42,1,0
+Ex. Season Week 1,2014,889,signed as a free agent,17,OLB,65,1,0
+Ex. Season Week 1,2014,1450,signed as a free agent,17,OLB,57,1,0
+Ex. Season Week 1,2014,3182,released,17,S,0,0,0
+Ex. Season Week 1,2014,1494,signed as a free agent,22,ILB,42,1,0
+Ex. Season Week 1,2014,801,signed as a free agent,22,QB,65,1,0
+Ex. Season Week 1,2014,369,signed as a free agent,22,WR,73,1,0
+Ex. Season Week 1,2014,77,signed as a free agent,22,C,86,1,0
+Ex. Season Week 1,2014,2665,signed as a free agent,22,C,42,1,0
+Ex. Season Week 1,2014,2306,signed as a free agent,22,CB,42,1,0
+Ex. Season Week 1,2014,1638,signed as a free agent,22,OLB,50,1,0
+Ex. Season Week 1,2014,1772,signed as a free agent,22,ILB,42,1,0
+Ex. Season Week 1,2014,2151,released,22,DT,0,0,0
+Ex. Season Week 1,2014,2653,signed as a free agent,23,C,42,1,0
+Ex. Season Week 1,2014,959,signed as a free agent,23,WR,65,1,0
+Ex. Season Week 1,2014,2385,signed as a free agent,23,QB,42,1,0
+Ex. Season Week 1,2014,1273,signed as a free agent,23,TE,57,1,0
+Ex. Season Week 1,2014,2295,signed as a free agent,23,ILB,42,1,0
+Ex. Season Week 1,2014,668,signed as a free agent,23,OLB,73,1,0
+Ex. Season Week 1,2014,1727,signed as a free agent,23,OLB,50,1,0
+Ex. Season Week 1,2014,379,signed as a free agent,16,TE,57,1,0
+Ex. Season Week 1,2014,428,signed as a free agent,16,C,73,1,0
+Ex. Season Week 1,2014,1748,signed as a free agent,16,WR,42,1,0
+Ex. Season Week 1,2014,1226,signed as a free agent,16,QB,50,1,0
+Ex. Season Week 1,2014,402,signed as a free agent,16,DE,73,1,0
+Ex. Season Week 1,2014,274,signed as a free agent,16,DT,65,1,0
+Ex. Season Week 1,2014,740,signed as a free agent,16,CB,73,1,0
+Ex. Season Week 1,2014,2661,signed as a free agent,30,C,42,1,0
+Ex. Season Week 1,2014,2349,signed as a free agent,30,QB,42,1,0
+Ex. Season Week 1,2014,941,signed as a free agent,30,ILB,65,1,0
+Ex. Season Week 1,2014,416,signed as a free agent,30,WR,86,1,0
+Ex. Season Week 1,2014,2643,signed as a free agent,30,C,42,1,0
+Ex. Season Week 1,2014,679,signed as a free agent,30,S,73,1,0
+Ex. Season Week 1,2014,1050,signed as a free agent,30,OLB,65,1,0
+Ex. Season Week 1,2014,2972,signed as a free agent,30,ILB,42,1,0
+Ex. Season Week 1,2014,2478,released,30,FB,0,0,0
+Ex. Season Week 1,2014,1198,signed as a free agent,5,WR,57,1,0
+Ex. Season Week 1,2014,2406,signed as a free agent,5,QB,42,1,0
+Ex. Season Week 1,2014,2671,signed as a free agent,5,C,42,1,0
+Ex. Season Week 1,2014,2662,signed as a free agent,5,C,42,1,0
+Ex. Season Week 1,2014,2313,signed as a free agent,5,CB,42,1,0
+Ex. Season Week 1,2014,3008,signed as a free agent,5,OLB,42,1,0
+Ex. Season Week 1,2014,2927,signed as a free agent,5,DT,42,1,0
+Ex. Season Week 1,2014,1102,signed as a free agent,5,DT,57,1,0
+Ex. Season Week 1,2014,1185,released,5,OLB,0,0,0
+Ex. Season Week 1,2014,1501,signed as a free agent,10,WR,42,1,0
+Ex. Season Week 1,2014,2650,signed as a free agent,10,C,42,1,0
+Ex. Season Week 1,2014,776,signed as a free agent,10,ILB,73,1,0
+Ex. Season Week 1,2014,1915,signed as a free agent,10,QB,42,1,0
+Ex. Season Week 1,2014,2666,signed as a free agent,10,C,42,1,0
+Ex. Season Week 1,2014,3174,signed as a free agent,10,S,42,1,0
+Ex. Season Week 1,2014,1185,signed as a free agent,10,OLB,50,1,0
+Ex. Season Week 1,2014,3016,signed as a free agent,10,OLB,42,1,0
+Ex. Season Week 1,2014,1984,released,10,FB,0,0,0
+Ex. Season Week 1,2014,453,signed as a free agent,24,TE,73,1,0
+Ex. Season Week 1,2014,2670,signed as a free agent,24,C,42,1,0
+Ex. Season Week 1,2014,926,signed as a free agent,24,WR,73,1,0
+Ex. Season Week 1,2014,2392,signed as a free agent,24,QB,42,1,0
+Ex. Season Week 1,2014,2853,signed as a free agent,24,DE,42,1,0
+Ex. Season Week 1,2014,241,signed as a free agent,24,DE,73,1,0
+Ex. Season Week 1,2014,2318,signed as a free agent,24,CB,42,1,0
+Ex. Season Week 1,2014,1724,signed as a free agent,3,QB,42,1,0
+Ex. Season Week 1,2014,755,signed as a free agent,3,TE,65,1,0
+Ex. Season Week 1,2014,2657,signed as a free agent,3,C,42,1,0
+Ex. Season Week 1,2014,2613,signed as a free agent,3,WR,42,1,0
+Ex. Season Week 1,2014,952,signed as a free agent,3,CB,50,1,0
+Ex. Season Week 1,2014,289,signed as a free agent,3,ILB,86,1,0
+Ex. Season Week 1,2014,2146,signed as a free agent,3,DT,42,1,0
+Ex. Season Week 1,2014,2870,signed as a free agent,3,DE,42,1,0
+Ex. Season Week 1,2014,3132,released,3,CB,0,0,0
+Ex. Season Week 1,2014,2601,signed as a free agent,18,WR,42,1,0
+Ex. Season Week 1,2014,682,signed as a free agent,18,TE,42,1,0
+Ex. Season Week 1,2014,2637,signed as a free agent,18,C,42,1,0
+Ex. Season Week 1,2014,2351,signed as a free agent,18,QB,42,1,0
+Ex. Season Week 1,2014,2933,signed as a free agent,18,DT,42,1,0
+Ex. Season Week 1,2014,636,signed as a free agent,18,DE,73,1,0
+Ex. Season Week 1,2014,2275,signed as a free agent,18,ILB,42,1,0
+Ex. Season Week 1,2014,1421,signed as a free agent,13,WR,50,1,0
+Ex. Season Week 1,2014,2996,signed as a free agent,13,ILB,42,1,0
+Ex. Season Week 1,2014,1399,signed as a free agent,13,C,50,1,0
+Ex. Season Week 1,2014,1435,signed as a free agent,13,QB,50,1,0
+Ex. Season Week 1,2014,2336,signed as a free agent,13,C,42,1,0
+Ex. Season Week 1,2014,479,signed as a free agent,13,OLB,73,1,0
+Ex. Season Week 1,2014,918,signed as a free agent,13,OLB,65,1,0
+Ex. Season Week 1,2014,1764,signed as a free agent,28,WR,42,1,0
+Ex. Season Week 1,2014,1238,signed as a free agent,28,ILB,50,1,0
+Ex. Season Week 1,2014,1930,signed as a free agent,28,QB,42,1,0
+Ex. Season Week 1,2014,2648,signed as a free agent,28,C,42,1,0
+Ex. Season Week 1,2014,1390,signed as a free agent,28,TE,57,1,0
+Ex. Season Week 1,2014,1696,signed as a free agent,28,CB,50,1,0
+Ex. Season Week 1,2014,1105,signed as a free agent,28,OLB,65,1,0
+Ex. Season Week 1,2014,1346,signed as a free agent,28,OLB,50,1,0
+Ex. Season Week 1,2014,1676,released,28,OLB,0,0,0
+Ex. Season Week 1,2014,24,signed as a free agent,11,WR,96,1,0
+Ex. Season Week 1,2014,2529,signed as a free agent,11,TE,42,1,0
+Ex. Season Week 1,2014,3003,signed as a free agent,11,ILB,42,1,0
+Ex. Season Week 1,2014,2667,signed as a free agent,11,C,42,1,0
+Ex. Season Week 1,2014,2402,signed as a free agent,11,QB,42,1,0
+Ex. Season Week 1,2014,465,signed as a free agent,11,CB,73,1,0
+Ex. Season Week 1,2014,1676,signed as a free agent,11,OLB,50,1,0
+Ex. Season Week 1,2014,3055,signed as a free agent,11,OLB,42,1,0
+Ex. Season Week 1,2014,1414,released,11,DT,0,0,0
+Ex. Season Week 1,2014,1484,changed primary position,0,T,0,RT,0,T,0,RT,
+Ex. Season Week 1,2014,1515,changed primary position,0,G,0,RG,0,G,0,RG,
+Ex. Season Week 1,2014,587,changed primary position,0,CB,0,RCB,0,CB,0,RCB,
+Ex. Season Week 1,2014,1333,changed primary position,0,S,0,SS,0,S,0,SS,
+Ex. Season Week 1,2014,604,changed primary position,0,DT,0,RDT,0,DT,0,RDT,
+Ex. Season Week 1,2014,1091,changed primary position,0,ILB,0,MLB,0,ILB,0,MLB,
+Ex. Season Week 1,2014,3017,changed primary position,1,OLB,0,SLB,1,OLB,0,SLB,
+Ex. Season Week 1,2014,1083,changed primary position,1,ILB,0,WILB,1,ILB,0,WILB,
+Ex. Season Week 1,2014,892,changed primary position,2,T,0,RT,2,T,0,RT,
+Ex. Season Week 1,2014,2066,changed primary position,2,G,0,LG,2,G,0,LG,
+Ex. Season Week 1,2014,222,changed primary position,2,OLB,0,WLB,2,OLB,0,WLB,
+Ex. Season Week 1,2014,2984,changed primary position,2,ILB,0,SILB,2,ILB,0,SILB,
+Ex. Season Week 1,2014,397,changed primary position,3,G,0,LG,3,G,0,LG,
+Ex. Season Week 1,2014,2889,changed primary position,3,DE,0,RDE,3,DE,0,RDE,
+Ex. Season Week 1,2014,708,changed primary position,3,S,0,FS,3,S,0,FS,
+Ex. Season Week 1,2014,1470,changed primary position,3,DT,0,LDT,3,DT,0,LDT,
+Ex. Season Week 1,2014,219,changed primary position,3,ILB,0,SILB,3,ILB,0,SILB,
+Ex. Season Week 1,2014,150,changed primary position,4,WR,0,SE,4,WR,0,SE,
+Ex. Season Week 1,2014,1322,changed primary position,4,DE,0,RDE,4,DE,0,RDE,
+Ex. Season Week 1,2014,1590,changed primary position,4,OLB,0,WLB,4,OLB,0,WLB,
+Ex. Season Week 1,2014,193,changed primary position,4,S,0,FS,4,S,0,FS,
+Ex. Season Week 1,2014,482,changed primary position,4,ILB,0,WILB,4,ILB,0,WILB,
+Ex. Season Week 1,2014,254,changed primary position,5,DE,0,RDE,5,DE,0,RDE,
+Ex. Season Week 1,2014,1853,changed primary position,5,OLB,0,SLB,5,OLB,0,SLB,
+Ex. Season Week 1,2014,203,changed primary position,5,DT,0,RDT,5,DT,0,RDT,
+Ex. Season Week 1,2014,141,changed primary position,5,ILB,0,WILB,5,ILB,0,WILB,
+Ex. Season Week 1,2014,1137,changed primary position,6,DE,0,LDE,6,DE,0,LDE,
+Ex. Season Week 1,2014,284,changed primary position,7,WR,0,FL,7,WR,0,FL,
+Ex. Season Week 1,2014,171,changed primary position,7,DE,0,LDE,7,DE,0,LDE,
+Ex. Season Week 1,2014,59,changed primary position,7,OLB,0,WLB,7,OLB,0,WLB,
+Ex. Season Week 1,2014,221,changed primary position,7,S,0,SS,7,S,0,SS,
+Ex. Season Week 1,2014,781,changed primary position,8,G,0,LG,8,G,0,LG,
+Ex. Season Week 1,2014,2065,changed primary position,8,T,0,LT,8,T,0,LT,
+Ex. Season Week 1,2014,1246,changed primary position,8,DE,0,RDE,8,DE,0,RDE,
+Ex. Season Week 1,2014,1625,changed primary position,8,DT,0,NT,8,DT,0,NT,
+Ex. Season Week 1,2014,438,changed primary position,8,DT,0,NT,8,DT,0,NT,
+Ex. Season Week 1,2014,884,changed primary position,8,ILB,0,WILB,8,ILB,0,WILB,
+Ex. Season Week 1,2014,735,changed primary position,9,G,0,LG,9,G,0,LG,
+Ex. Season Week 1,2014,1779,changed primary position,9,CB,0,RCB,9,CB,0,RCB,
+Ex. Season Week 1,2014,678,changed primary position,9,S,0,SS,9,S,0,SS,
+Ex. Season Week 1,2014,190,changed primary position,9,DT,0,RDT,9,DT,0,RDT,
+Ex. Season Week 1,2014,838,changed primary position,9,ILB,0,WILB,9,ILB,0,WILB,
+Ex. Season Week 1,2014,1068,changed primary position,10,G,0,LG,10,G,0,LG,
+Ex. Season Week 1,2014,49,changed primary position,10,OLB,0,WLB,10,OLB,0,WLB,
+Ex. Season Week 1,2014,511,changed primary position,10,CB,0,LCB,10,CB,0,LCB,
+Ex. Season Week 1,2014,1645,changed primary position,10,S,0,FS,10,S,0,FS,
+Ex. Season Week 1,2014,405,changed primary position,11,WR,0,FL,11,WR,0,FL,
+Ex. Season Week 1,2014,2071,changed primary position,11,G,0,LG,11,G,0,LG,
+Ex. Season Week 1,2014,1518,changed primary position,11,T,0,LT,11,T,0,LT,
+Ex. Season Week 1,2014,1209,changed primary position,11,DT,0,LDT,11,DT,0,LDT,
+Ex. Season Week 1,2014,1821,changed primary position,11,ILB,0,MLB,11,ILB,0,MLB,
+Ex. Season Week 1,2014,779,changed primary position,12,WR,0,SE,12,WR,0,SE,
+Ex. Season Week 1,2014,108,changed primary position,12,DE,0,RDE,12,DE,0,RDE,
+Ex. Season Week 1,2014,1175,changed primary position,12,S,0,FS,12,S,0,FS,
+Ex. Season Week 1,2014,202,changed primary position,13,G,0,RG,13,G,0,RG,
+Ex. Season Week 1,2014,543,changed primary position,13,T,0,LT,13,T,0,LT,
+Ex. Season Week 1,2014,1327,changed primary position,13,DE,0,RDE,13,DE,0,RDE,
+Ex. Season Week 1,2014,600,changed primary position,13,S,0,FS,13,S,0,FS,
+Ex. Season Week 1,2014,1814,changed primary position,13,DT,0,RDT,13,DT,0,RDT,
+Ex. Season Week 1,2014,1121,changed primary position,13,ILB,0,MLB,13,ILB,0,MLB,
+Ex. Season Week 1,2014,267,changed primary position,13,ILB,0,SILB,13,ILB,0,SILB,
+Ex. Season Week 1,2014,730,changed primary position,14,G,0,RG,14,G,0,RG,
+Ex. Season Week 1,2014,1784,changed primary position,14,DE,0,LDE,14,DE,0,LDE,
+Ex. Season Week 1,2014,1735,changed primary position,14,OLB,0,WLB,14,OLB,0,WLB,
+Ex. Season Week 1,2014,311,changed primary position,14,S,0,SS,14,S,0,SS,
+Ex. Season Week 1,2014,1575,changed primary position,14,DT,0,NT,14,DT,0,NT,
+Ex. Season Week 1,2014,91,changed primary position,14,DT,0,LDT,14,DT,0,LDT,
+Ex. Season Week 1,2014,1789,changed primary position,14,ILB,0,WILB,14,ILB,0,WILB,
+Ex. Season Week 1,2014,107,changed primary position,15,G,0,LG,15,G,0,LG,
+Ex. Season Week 1,2014,574,changed primary position,15,ILB,0,SILB,15,ILB,0,SILB,
+Ex. Season Week 1,2014,599,changed primary position,16,WR,0,SE,16,WR,0,SE,
+Ex. Season Week 1,2014,1634,changed primary position,16,T,0,RT,16,T,0,RT,
+Ex. Season Week 1,2014,201,changed primary position,16,OLB,0,WLB,16,OLB,0,WLB,
+Ex. Season Week 1,2014,1794,changed primary position,16,DT,0,RDT,16,DT,0,RDT,
+Ex. Season Week 1,2014,591,changed primary position,16,ILB,0,SILB,16,ILB,0,SILB,
+Ex. Season Week 1,2014,2070,changed primary position,17,G,0,LG,17,G,0,LG,
+Ex. Season Week 1,2014,487,changed primary position,17,OLB,0,SLB,17,OLB,0,SLB,
+Ex. Season Week 1,2014,7,changed primary position,17,S,0,FS,17,S,0,FS,
+Ex. Season Week 1,2014,431,changed primary position,17,ILB,0,MLB,17,ILB,0,MLB,
+Ex. Season Week 1,2014,853,changed primary position,18,G,0,LG,18,G,0,LG,
+Ex. Season Week 1,2014,887,changed primary position,18,CB,0,RCB,18,CB,0,RCB,
+Ex. Season Week 1,2014,2161,changed primary position,18,DT,0,LDT,18,DT,0,LDT,
+Ex. Season Week 1,2014,997,changed primary position,18,ILB,0,SILB,18,ILB,0,SILB,
+Ex. Season Week 1,2014,1871,changed primary position,19,DE,0,LDE,19,DE,0,LDE,
+Ex. Season Week 1,2014,787,changed primary position,19,DT,0,LDT,19,DT,0,LDT,
+Ex. Season Week 1,2014,783,changed primary position,19,ILB,0,MLB,19,ILB,0,MLB,
+Ex. Season Week 1,2014,318,changed primary position,19,ILB,0,MLB,19,ILB,0,MLB,
+Ex. Season Week 1,2014,1850,changed primary position,20,WR,0,SE,20,WR,0,SE,
+Ex. Season Week 1,2014,1080,changed primary position,20,T,0,RT,20,T,0,RT,
+Ex. Season Week 1,2014,1766,changed primary position,20,OLB,0,SLB,20,OLB,0,SLB,
+Ex. Season Week 1,2014,340,changed primary position,20,S,0,FS,20,S,0,FS,
+Ex. Season Week 1,2014,1571,changed primary position,20,DT,0,LDT,20,DT,0,LDT,
+Ex. Season Week 1,2014,257,changed primary position,20,ILB,0,WILB,20,ILB,0,WILB,
+Ex. Season Week 1,2014,1490,changed primary position,21,T,0,RT,21,T,0,RT,
+Ex. Season Week 1,2014,624,changed primary position,21,DE,0,RDE,21,DE,0,RDE,
+Ex. Season Week 1,2014,1588,changed primary position,21,OLB,0,SLB,21,OLB,0,SLB,
+Ex. Season Week 1,2014,217,changed primary position,21,DT,0,RDT,21,DT,0,RDT,
+Ex. Season Week 1,2014,334,changed primary position,22,G,0,LG,22,G,0,LG,
+Ex. Season Week 1,2014,1865,changed primary position,22,OLB,0,WLB,22,OLB,0,WLB,
+Ex. Season Week 1,2014,58,changed primary position,22,CB,0,RCB,22,CB,0,RCB,
+Ex. Season Week 1,2014,380,changed primary position,22,ILB,0,MLB,22,ILB,0,MLB,
+Ex. Season Week 1,2014,2717,changed primary position,23,G,0,LG,23,G,0,LG,
+Ex. Season Week 1,2014,313,changed primary position,23,CB,0,LCB,23,CB,0,LCB,
+Ex. Season Week 1,2014,116,changed primary position,23,S,0,FS,23,S,0,FS,
+Ex. Season Week 1,2014,121,changed primary position,23,ILB,0,MLB,23,ILB,0,MLB,
+Ex. Season Week 1,2014,2244,changed primary position,23,ILB,0,MLB,23,ILB,0,MLB,
+Ex. Season Week 1,2014,236,changed primary position,24,WR,0,FL,24,WR,0,FL,
+Ex. Season Week 1,2014,50,changed primary position,24,DE,0,LDE,24,DE,0,LDE,
+Ex. Season Week 1,2014,427,changed primary position,24,CB,0,LCB,24,CB,0,LCB,
+Ex. Season Week 1,2014,726,changed primary position,24,DT,0,NT,24,DT,0,NT,
+Ex. Season Week 1,2014,712,changed primary position,25,WR,0,FL,25,WR,0,FL,
+Ex. Season Week 1,2014,500,changed primary position,25,T,0,RT,25,T,0,RT,
+Ex. Season Week 1,2014,1197,changed primary position,25,G,0,RG,25,G,0,RG,
+Ex. Season Week 1,2014,149,changed primary position,25,DE,0,LDE,25,DE,0,LDE,
+Ex. Season Week 1,2014,1199,changed primary position,25,S,0,SS,25,S,0,SS,
+Ex. Season Week 1,2014,38,changed primary position,25,ILB,0,SILB,25,ILB,0,SILB,
+Ex. Season Week 1,2014,109,changed primary position,26,T,0,RT,26,T,0,RT,
+Ex. Season Week 1,2014,64,changed primary position,26,G,0,RG,26,G,0,RG,
+Ex. Season Week 1,2014,122,changed primary position,26,DE,0,RDE,26,DE,0,RDE,
+Ex. Season Week 1,2014,476,changed primary position,26,OLB,0,WLB,26,OLB,0,WLB,
+Ex. Season Week 1,2014,206,changed primary position,26,DT,0,NT,26,DT,0,NT,
+Ex. Season Week 1,2014,223,changed primary position,26,ILB,0,WILB,26,ILB,0,WILB,
+Ex. Season Week 1,2014,1878,changed primary position,27,WR,0,SE,27,WR,0,SE,
+Ex. Season Week 1,2014,1813,changed primary position,27,CB,0,LCB,27,CB,0,LCB,
+Ex. Season Week 1,2014,1166,changed primary position,27,ILB,0,SILB,27,ILB,0,SILB,
+Ex. Season Week 1,2014,547,changed primary position,28,WR,0,SE,28,WR,0,SE,
+Ex. Season Week 1,2014,1841,changed primary position,28,T,0,RT,28,T,0,RT,
+Ex. Season Week 1,2014,99,changed primary position,28,OLB,0,WLB,28,OLB,0,WLB,
+Ex. Season Week 1,2014,368,changed primary position,28,ILB,0,MLB,28,ILB,0,MLB,
+Ex. Season Week 1,2014,1644,changed primary position,29,WR,0,FL,29,WR,0,FL,
+Ex. Season Week 1,2014,346,changed primary position,29,G,0,RG,29,G,0,RG,
+Ex. Season Week 1,2014,932,changed primary position,29,T,0,LT,29,T,0,LT,
+Ex. Season Week 1,2014,305,changed primary position,29,DE,0,RDE,29,DE,0,RDE,
+Ex. Season Week 1,2014,389,changed primary position,29,S,0,FS,29,S,0,FS,
+Ex. Season Week 1,2014,951,changed primary position,29,DT,0,RDT,29,DT,0,RDT,
+Ex. Season Week 1,2014,474,changed primary position,30,G,0,RG,30,G,0,RG,
+Ex. Season Week 1,2014,406,changed primary position,30,DE,0,LDE,30,DE,0,LDE,
+Ex. Season Week 1,2014,804,changed primary position,30,OLB,0,WLB,30,OLB,0,WLB,
+Ex. Season Week 1,2014,849,changed primary position,30,CB,0,RCB,30,CB,0,RCB,
+Ex. Season Week 1,2014,290,changed primary position,30,S,0,FS,30,S,0,FS,
+Ex. Season Week 1,2014,79,changed primary position,30,DT,0,LDT,30,DT,0,LDT,
+Ex. Season Week 1,2014,815,changed primary position,30,ILB,0,MLB,30,ILB,0,MLB,
+Ex. Season Week 1,2014,589,changed primary position,30,ILB,0,MLB,30,ILB,0,MLB,
+Ex. Season Week 1,2014,1216,changed primary position,31,WR,0,FL,31,WR,0,FL,
+Ex. Season Week 1,2014,167,changed primary position,31,DE,0,LDE,31,DE,0,LDE,
+Ex. Season Week 1,2014,803,changed primary position,31,DT,0,LDT,31,DT,0,LDT,
+Ex. Season Week 1,2014,1619,changed primary position,31,ILB,0,MLB,31,ILB,0,MLB,
+Ex. Season Week 3,2014,2024,signed as a free agent,7,TE,42,1,0
+Ex. Season Week 3,2014,14,released,7,DE,0,0,0
+Ex. Season Week 3,2014,2528,signed as a free agent,8,TE,42,1,0
+Ex. Season Week 3,2014,512,released,8,DE,0,0,0
+Ex. Season Week 4,2014,1272,signed as a free agent,3,RB,57,1,0
+Ex. Season Week 4,2014,289,released,3,ILB,0,0,0
+Ex. Season Week 5,2014,243,signed as a free agent,30,G,65,1,0
+Ex. Season Week 5,2014,941,released,30,ILB,0,0,0
+Ex. Season Week 5,2014,2352,signed as a free agent,8,QB,42,1,0
+Ex. Season Week 5,2014,2141,released,8,DT,0,0,0
+Ex. Season Week 5,2014,1256,signed as a free agent,13,TE,50,1,0
+Ex. Season Week 5,2014,1974,released,13,FB,0,0,0
+Ex. Season Week 5,2014,2544,signed as a free agent,18,TE,42,1,0
+Ex. Season Week 5,2014,636,released,18,DE,0,0,0
+Reg. Season Week 1,2014,2671,released,5,C,0,0,0
+Reg. Season Week 1,2014,178,released,5,RB,0,0,0
+Reg. Season Week 1,2014,67,released,5,DT,0,0,0
+Reg. Season Week 1,2014,2313,released,5,CB,0,0,0
+Reg. Season Week 1,2014,141,released,5,ILB,0,0,0
+Reg. Season Week 1,2014,1198,released,5,WR,0,0,0
+Reg. Season Week 1,2014,2406,released,5,QB,0,0,0
+Reg. Season Week 1,2014,2498,released,3,FB,0,0,0
+Reg. Season Week 1,2014,2870,released,3,DE,0,0,0
+Reg. Season Week 1,2014,1272,released,3,RB,0,0,0
+Reg. Season Week 1,2014,952,released,3,CB,0,0,0
+Reg. Season Week 1,2014,1724,released,3,QB,0,0,0
+Reg. Season Week 1,2014,2743,released,3,T,0,0,0
+Reg. Season Week 1,2014,2613,released,3,WR,0,0,0
+Reg. Season Week 1,2014,2087,released,27,C,0,0,0
+Reg. Season Week 1,2014,1987,released,27,FB,0,0,0
+Reg. Season Week 1,2014,702,released,27,ILB,0,0,0
+Reg. Season Week 1,2014,2877,released,27,DE,0,0,0
+Reg. Season Week 1,2014,1894,released,27,QB,0,0,0
+Reg. Season Week 1,2014,768,released,27,WR,0,0,0
+Reg. Season Week 1,2014,1136,released,27,T,0,0,0
+Reg. Season Week 1,2014,3166,released,4,S,0,0,0
+Reg. Season Week 1,2014,213,released,4,DE,0,0,0
+Reg. Season Week 1,2014,796,released,4,RB,0,0,0
+Reg. Season Week 1,2014,2081,released,4,C,0,0,0
+Reg. Season Week 1,2014,544,released,4,ILB,0,0,0
+Reg. Season Week 1,2014,2772,released,4,T,0,0,0
+Reg. Season Week 1,2014,1795,released,4,OLB,0,0,0
+Reg. Season Week 1,2014,827,released,2,T,0,0,0
+Reg. Season Week 1,2014,3140,released,2,S,0,0,0
+Reg. Season Week 1,2014,2458,released,2,RB,0,0,0
+Reg. Season Week 1,2014,2177,released,2,DT,0,0,0
+Reg. Season Week 1,2014,2625,released,2,WR,0,0,0
+Reg. Season Week 1,2014,3076,released,2,CB,0,0,0
+Reg. Season Week 1,2014,2373,released,2,QB,0,0,0
+Reg. Season Week 1,2014,1976,released,6,FB,0,0,0
+Reg. Season Week 1,2014,2651,released,6,C,0,0,0
+Reg. Season Week 1,2014,409,released,6,DE,0,0,0
+Reg. Season Week 1,2014,451,released,6,OLB,0,0,0
+Reg. Season Week 1,2014,586,released,6,QB,0,0,0
+Reg. Season Week 1,2014,1542,released,6,S,0,0,0
+Reg. Season Week 1,2014,970,released,6,G,0,0,0
+Reg. Season Week 1,2014,2665,released,22,C,0,0,0
+Reg. Season Week 1,2014,549,released,22,S,0,0,0
+Reg. Season Week 1,2014,1772,released,22,ILB,0,0,0
+Reg. Season Week 1,2014,1933,released,22,RB,0,0,0
+Reg. Season Week 1,2014,801,released,22,QB,0,0,0
+Reg. Season Week 1,2014,369,released,22,WR,0,0,0
+Reg. Season Week 1,2014,3083,released,22,CB,0,0,0
+Reg. Season Week 1,2014,2661,released,30,C,0,0,0
+Reg. Season Week 1,2014,2158,released,30,DT,0,0,0
+Reg. Season Week 1,2014,416,released,30,WR,0,0,0
+Reg. Season Week 1,2014,2422,released,30,RB,0,0,0
+Reg. Season Week 1,2014,679,released,30,S,0,0,0
+Reg. Season Week 1,2014,809,released,30,OLB,0,0,0
+Reg. Season Week 1,2014,2054,released,30,T,0,0,0
+Reg. Season Week 1,2014,3184,placed on injured reserve,24,S,0,0,0
+Reg. Season Week 1,2014,2670,released,24,C,0,0,0
+Reg. Season Week 1,2014,1710,released,24,RB,0,0,0
+Reg. Season Week 1,2014,1047,released,24,G,0,0,0
+Reg. Season Week 1,2014,2392,released,24,QB,0,0,0
+Reg. Season Week 1,2014,3059,released,24,OLB,0,0,0
+Reg. Season Week 1,2014,2318,released,24,CB,0,0,0
+Reg. Season Week 1,2014,3174,released,10,S,0,0,0
+Reg. Season Week 1,2014,776,released,10,ILB,0,0,0
+Reg. Season Week 1,2014,2650,released,10,C,0,0,0
+Reg. Season Week 1,2014,95,released,10,RB,0,0,0
+Reg. Season Week 1,2014,1501,released,10,WR,0,0,0
+Reg. Season Week 1,2014,1915,released,10,QB,0,0,0
+Reg. Season Week 1,2014,2069,released,10,G,0,0,0
+Reg. Season Week 1,2014,1511,released,8,G,0,0,0
+Reg. Season Week 1,2014,2652,released,8,C,0,0,0
+Reg. Season Week 1,2014,905,released,8,TE,0,0,0
+Reg. Season Week 1,2014,1276,released,8,WR,0,0,0
+Reg. Season Week 1,2014,1860,released,8,CB,0,0,0
+Reg. Season Week 1,2014,3079,released,8,CB,0,0,0
+Reg. Season Week 1,2014,2221,released,8,DT,0,0,0
+Reg. Season Week 1,2014,2667,released,11,C,0,0,0
+Reg. Season Week 1,2014,465,released,11,CB,0,0,0
+Reg. Season Week 1,2014,2442,released,11,RB,0,0,0
+Reg. Season Week 1,2014,24,released,11,WR,0,0,0
+Reg. Season Week 1,2014,2402,released,11,QB,0,0,0
+Reg. Season Week 1,2014,2088,released,11,G,0,0,0
+Reg. Season Week 1,2014,2503,released,11,FB,0,0,0
+Reg. Season Week 1,2014,588,released,21,CB,0,0,0
+Reg. Season Week 1,2014,2663,released,21,C,0,0,0
+Reg. Season Week 1,2014,2496,released,21,FB,0,0,0
+Reg. Season Week 1,2014,2917,released,21,DT,0,0,0
+Reg. Season Week 1,2014,362,released,21,ILB,0,0,0
+Reg. Season Week 1,2014,696,released,21,S,0,0,0
+Reg. Season Week 1,2014,393,released,21,ILB,0,0,0
+Reg. Season Week 1,2014,2083,released,12,C,0,0,0
+Reg. Season Week 1,2014,160,released,12,OLB,0,0,0
+Reg. Season Week 1,2014,2147,released,12,DT,0,0,0
+Reg. Season Week 1,2014,3085,released,12,CB,0,0,0
+Reg. Season Week 1,2014,623,released,12,RB,0,0,0
+Reg. Season Week 1,2014,1427,released,12,ILB,0,0,0
+Reg. Season Week 1,2014,956,released,12,WR,0,0,0
+Reg. Season Week 1,2014,2419,released,26,RB,0,0,0
+Reg. Season Week 1,2014,2082,released,26,C,0,0,0
+Reg. Season Week 1,2014,3157,released,26,S,0,0,0
+Reg. Season Week 1,2014,818,released,26,ILB,0,0,0
+Reg. Season Week 1,2014,1082,released,26,QB,0,0,0
+Reg. Season Week 1,2014,868,released,26,OLB,0,0,0
+Reg. Season Week 1,2014,1966,released,26,FB,0,0,0
+Reg. Season Week 1,2014,2673,released,15,G,0,0,0
+Reg. Season Week 1,2014,1271,released,15,S,0,0,0
+Reg. Season Week 1,2014,2150,released,15,DT,0,0,0
+Reg. Season Week 1,2014,3012,released,15,OLB,0,0,0
+Reg. Season Week 1,2014,168,released,15,QB,0,0,0
+Reg. Season Week 1,2014,2660,released,15,C,0,0,0
+Reg. Season Week 1,2014,680,released,15,FB,0,0,0
+Reg. Season Week 1,2014,2271,released,14,ILB,0,0,0
+Reg. Season Week 1,2014,361,released,14,C,0,0,0
+Reg. Season Week 1,2014,2468,released,14,FB,0,0,0
+Reg. Season Week 1,2014,2187,released,14,DT,0,0,0
+Reg. Season Week 1,2014,186,released,14,G,0,0,0
+Reg. Season Week 1,2014,3099,released,14,CB,0,0,0
+Reg. Season Week 1,2014,2607,released,14,WR,0,0,0
+Reg. Season Week 1,2014,428,released,16,C,0,0,0
+Reg. Season Week 1,2014,274,released,16,DT,0,0,0
+Reg. Season Week 1,2014,489,released,16,QB,0,0,0
+Reg. Season Week 1,2014,740,released,16,CB,0,0,0
+Reg. Season Week 1,2014,1748,released,16,WR,0,0,0
+Reg. Season Week 1,2014,2686,released,16,G,0,0,0
+Reg. Season Week 1,2014,2003,released,16,FB,0,0,0
+Reg. Season Week 1,2014,326,released,1,ILB,0,0,0
+Reg. Season Week 1,2014,1265,released,1,C,0,0,0
+Reg. Season Week 1,2014,1204,released,1,DE,0,0,0
+Reg. Season Week 1,2014,2490,released,1,FB,0,0,0
+Reg. Season Week 1,2014,1576,released,1,S,0,0,0
+Reg. Season Week 1,2014,2990,released,1,ILB,0,0,0
+Reg. Season Week 1,2014,2690,released,1,G,0,0,0
+Reg. Season Week 1,2014,889,released,17,OLB,0,0,0
+Reg. Season Week 1,2014,602,released,17,C,0,0,0
+Reg. Season Week 1,2014,324,released,17,RB,0,0,0
+Reg. Season Week 1,2014,2961,released,17,DT,0,0,0
+Reg. Season Week 1,2014,71,released,17,WR,0,0,0
+Reg. Season Week 1,2014,2365,released,17,QB,0,0,0
+Reg. Season Week 1,2014,2709,released,17,G,0,0,0
+Reg. Season Week 1,2014,546,released,9,OLB,0,0,0
+Reg. Season Week 1,2014,1188,released,9,DT,0,0,0
+Reg. Season Week 1,2014,2321,released,9,CB,0,0,0
+Reg. Season Week 1,2014,2076,released,9,C,0,0,0
+Reg. Season Week 1,2014,723,released,9,WR,0,0,0
+Reg. Season Week 1,2014,1356,released,9,T,0,0,0
+Reg. Season Week 1,2014,1917,released,9,QB,0,0,0
+Reg. Season Week 1,2014,2637,released,18,C,0,0,0
+Reg. Season Week 1,2014,1387,released,18,ILB,0,0,0
+Reg. Season Week 1,2014,2473,released,18,FB,0,0,0
+Reg. Season Week 1,2014,2351,released,18,QB,0,0,0
+Reg. Season Week 1,2014,2933,released,18,DT,0,0,0
+Reg. Season Week 1,2014,2275,released,18,ILB,0,0,0
+Reg. Season Week 1,2014,902,released,18,WR,0,0,0
+Reg. Season Week 1,2014,746,released,19,FB,0,0,0
+Reg. Season Week 1,2014,378,released,19,ILB,0,0,0
+Reg. Season Week 1,2014,743,released,19,C,0,0,0
+Reg. Season Week 1,2014,664,released,19,DT,0,0,0
+Reg. Season Week 1,2014,808,released,19,OLB,0,0,0
+Reg. Season Week 1,2014,1116,released,19,ILB,0,0,0
+Reg. Season Week 1,2014,2363,released,19,QB,0,0,0
+Reg. Season Week 1,2014,2073,released,20,C,0,0,0
+Reg. Season Week 1,2014,820,released,20,DE,0,0,0
+Reg. Season Week 1,2014,1525,released,20,OLB,0,0,0
+Reg. Season Week 1,2014,1290,released,20,S,0,0,0
+Reg. Season Week 1,2014,1914,released,20,QB,0,0,0
+Reg. Season Week 1,2014,1206,released,20,DE,0,0,0
+Reg. Season Week 1,2014,2310,released,20,CB,0,0,0
+Reg. Season Week 1,2014,2074,released,0,C,0,0,0
+Reg. Season Week 1,2014,721,released,0,ILB,0,0,0
+Reg. Season Week 1,2014,1932,released,0,RB,0,0,0
+Reg. Season Week 1,2014,1305,released,0,WR,0,0,0
+Reg. Season Week 1,2014,2732,released,0,G,0,0,0
+Reg. Season Week 1,2014,1963,released,0,FB,0,0,0
+Reg. Season Week 1,2014,1910,released,0,QB,0,0,0
+Reg. Season Week 1,2014,1748,signed as a free agent,23,WR,42,1,0
+Reg. Season Week 1,2014,2653,released,23,C,0,0,0
+Reg. Season Week 1,2014,1169,released,23,OLB,0,0,0
+Reg. Season Week 1,2014,846,released,23,DE,0,0,0
+Reg. Season Week 1,2014,1989,released,23,FB,0,0,0
+Reg. Season Week 1,2014,3100,released,23,CB,0,0,0
+Reg. Season Week 1,2014,2385,released,23,QB,0,0,0
+Reg. Season Week 1,2014,668,released,23,OLB,0,0,0
+Reg. Season Week 1,2014,1727,released,23,OLB,0,0,0
+Reg. Season Week 1,2014,2000,released,7,FB,0,0,0
+Reg. Season Week 1,2014,1184,released,7,C,0,0,0
+Reg. Season Week 1,2014,1334,released,7,TE,0,0,0
+Reg. Season Week 1,2014,491,released,7,CB,0,0,0
+Reg. Season Week 1,2014,1610,released,7,RB,0,0,0
+Reg. Season Week 1,2014,989,released,7,DE,0,0,0
+Reg. Season Week 1,2014,2633,released,7,WR,0,0,0
+Reg. Season Week 1,2014,881,released,25,ILB,0,0,0
+Reg. Season Week 1,2014,156,released,25,C,0,0,0
+Reg. Season Week 1,2014,1999,released,25,FB,0,0,0
+Reg. Season Week 1,2014,2362,released,25,QB,0,0,0
+Reg. Season Week 1,2014,2237,released,25,OLB,0,0,0
+Reg. Season Week 1,2014,552,released,25,ILB,0,0,0
+Reg. Season Week 1,2014,1353,released,25,WR,0,0,0
+Reg. Season Week 1,2014,918,released,13,OLB,0,0,0
+Reg. Season Week 1,2014,2918,released,13,DT,0,0,0
+Reg. Season Week 1,2014,1421,released,13,WR,0,0,0
+Reg. Season Week 1,2014,1435,released,13,QB,0,0,0
+Reg. Season Week 1,2014,2996,released,13,ILB,0,0,0
+Reg. Season Week 1,2014,551,released,13,TE,0,0,0
+Reg. Season Week 1,2014,479,released,13,OLB,0,0,0
+Reg. Season Week 1,2014,2648,released,28,C,0,0,0
+Reg. Season Week 1,2014,1696,released,28,CB,0,0,0
+Reg. Season Week 1,2014,1973,released,28,FB,0,0,0
+Reg. Season Week 1,2014,643,released,28,DE,0,0,0
+Reg. Season Week 1,2014,1105,released,28,OLB,0,0,0
+Reg. Season Week 1,2014,1930,released,28,QB,0,0,0
+Reg. Season Week 1,2014,1238,released,28,ILB,0,0,0
+Reg. Season Week 1,2014,2510,signed as a free agent,31,TE,42,1,0
+Reg. Season Week 1,2014,483,released,31,OLB,0,0,0
+Reg. Season Week 1,2014,467,released,31,C,0,0,0
+Reg. Season Week 1,2014,2190,released,31,DT,0,0,0
+Reg. Season Week 1,2014,821,released,31,OLB,0,0,0
+Reg. Season Week 1,2014,1187,released,31,QB,0,0,0
+Reg. Season Week 1,2014,3179,released,31,S,0,0,0
+Reg. Season Week 1,2014,748,released,31,T,0,0,0
+Reg. Season Week 1,2014,832,released,31,ILB,0,0,0
+Reg. Season Week 1,2014,2080,released,29,C,0,0,0
+Reg. Season Week 1,2014,1148,released,29,ILB,0,0,0
+Reg. Season Week 1,2014,1964,released,29,FB,0,0,0
+Reg. Season Week 1,2014,2205,released,29,DT,0,0,0
+Reg. Season Week 1,2014,247,released,29,QB,0,0,0
+Reg. Season Week 1,2014,3004,released,29,ILB,0,0,0
+Reg. Season Week 1,2014,1683,released,29,WR,0,0,0
+Reg. Season Week 2,2014,702,signed as a free agent,4,ILB,73,1,0
+Reg. Season Week 2,2014,2100,released,4,G,0,0,0
+Reg. Season Week 2,2014,749,signed as a free agent,9,TE,65,1,0
+Reg. Season Week 2,2014,1472,placed on injured reserve,9,TE,0,0,0
+Reg. Season Week 2,2014,2019,signed as a free agent,12,TE,42,1,0
+Reg. Season Week 2,2014,2752,released,12,T,0,0,0
+Reg. Season Week 2,2014,1683,signed as a free agent,8,WR,42,1,0
+Reg. Season Week 2,2014,740,signed as a free agent,8,CB,73,1,0
+Reg. Season Week 2,2014,1958,released,8,FB,0,0,0
+Reg. Season Week 2,2014,1524,released,8,OLB,0,0,0
+Reg. Season Week 2,2014,1290,signed as a free agent,3,S,65,1,0
+Reg. Season Week 2,2014,2146,released,3,DT,0,0,0
+Reg. Season Week 2,2014,1696,signed as a free agent,14,CB,50,1,0
+Reg. Season Week 2,2014,2381,released,14,QB,0,0,0
+Reg. Season Week 2,2014,1272,signed as a free agent,30,RB,57,1,0
+Reg. Season Week 2,2014,2972,released,30,ILB,0,0,0
+Reg. Season Week 2,2014,2119,signed as a free agent,11,P,42,1,0
+Reg. Season Week 2,2014,3003,released,11,ILB,0,0,0
+Reg. Season Week 2,2014,1116,signed as a free agent,21,ILB,57,1,0
+Reg. Season Week 2,2014,732,released,21,ILB,0,0,0
+Reg. Season Week 2,2014,1148,signed as a free agent,26,ILB,57,1,0
+Reg. Season Week 2,2014,596,released,26,DE,0,0,0
+Reg. Season Week 3,2014,2514,signed as a free agent,30,TE,42,1,0
+Reg. Season Week 3,2014,2349,released,30,QB,0,0,0
+Reg. Season Week 3,2014,3066,signed as a free agent,14,CB,42,1,0
+Reg. Season Week 3,2014,3132,signed as a free agent,14,CB,42,1,0
+Reg. Season Week 3,2014,3041,released,14,OLB,0,0,0
+Reg. Season Week 3,2014,3024,released,14,OLB,0,0,0
+Reg. Season Week 3,2014,776,signed as a free agent,13,ILB,73,1,0
+Reg. Season Week 3,2014,1399,released,13,C,0,0,0
+Reg. Season Week 3,2014,1198,signed as a free agent,17,WR,57,1,0
+Reg. Season Week 3,2014,956,signed as a free agent,17,WR,73,1,0
+Reg. Season Week 3,2014,1450,released,17,OLB,0,0,0
+Reg. Season Week 3,2014,504,released,17,ILB,0,0,0
+Reg. Season Week 3,2014,2608,signed as a free agent,16,WR,42,1,0
+Reg. Season Week 3,2014,2754,released,16,T,0,0,0
+Reg. Season Week 3,2014,918,signed as a free agent,6,OLB,65,1,0
+Reg. Season Week 3,2014,2213,released,6,DT,0,0,0
+Reg. Season Week 3,2014,2320,signed as a free agent,21,CB,42,1,0
+Reg. Season Week 3,2014,153,released,21,WR,0,0,0
+Reg. Season Week 4,2014,808,signed as a free agent,19,OLB,57,1,0
+Reg. Season Week 4,2014,1944,released,19,RB,0,0,0
+Reg. Season Week 4,2014,1568,placed on injured reserve,9,OLB,0,0,0
+Reg. Season Week 4,2014,2754,signed as a free agent,9,T,42,1,0
+Reg. Season Week 4,2014,832,signed as a free agent,14,ILB,65,1,0
+Reg. Season Week 4,2014,3066,released,14,CB,0,0,0
+Reg. Season Week 4,2014,346,placed on injured reserve,29,G,0,0,0
+Reg. Season Week 4,2014,1659,signed as a free agent,29,G,50,1,0
+Reg. Season Week 4,2014,2127,signed as a free agent,18,K,42,1,0
+Reg. Season Week 4,2014,3063,released,18,CB,0,0,0
+Reg. Season Week 4,2014,1944,signed as a free agent,22,RB,42,1,0
+Reg. Season Week 4,2014,1494,released,22,ILB,0,0,0
+Reg. Season Week 5,2014,2363,signed as a free agent,11,QB,42,1,0
+Reg. Season Week 5,2014,2300,released,11,OLB,0,0,0
+Reg. Season Week 5,2014,3024,signed as a free agent,9,OLB,42,1,0
+Reg. Season Week 5,2014,1367,released,9,RB,0,0,0
+Reg. Season Week 5,2014,2063,signed as a free agent,16,T,42,1,0
+Reg. Season Week 5,2014,553,released,16,RB,0,0,0
+Reg. Season Week 5,2014,2414,signed as a free agent,30,RB,42,1,0
+Reg. Season Week 5,2014,2016,released,30,TE,0,0,0
+Reg. Season Week 5,2014,207,signed as a free agent,7,TE,86,1,0
+Reg. Season Week 5,2014,747,placed on injured reserve,7,TE,0,0,0
+Reg. Season Week 5,2014,1021,signed as a free agent,29,WR,57,1,0
+Reg. Season Week 5,2014,378,signed as a free agent,29,ILB,73,1,0
+Reg. Season Week 5,2014,590,released,29,ILB,0,0,0
+Reg. Season Week 5,2014,885,released,29,T,0,0,0
+Reg. Season Week 5,2014,3174,signed as a free agent,21,S,42,1,0
+Reg. Season Week 5,2014,1926,released,21,QB,0,0,0
+Reg. Season Week 6,2014,1964,signed as a free agent,27,FB,42,1,0
+Reg. Season Week 6,2014,134,released,27,G,0,0,0
+Reg. Season Week 6,2014,2177,signed as a free agent,2,DT,42,1,0
+Reg. Season Week 6,2014,1203,released,2,FB,0,0,0
+Reg. Season Week 6,2014,1548,placed on injured reserve,1,DT,0,0,0
+Reg. Season Week 6,2014,2313,signed as a free agent,1,CB,42,1,0
+Reg. Season Week 6,2014,1044,signed as a free agent,7,RB,57,1,0
+Reg. Season Week 6,2014,2102,released,7,G,0,0,0
+Reg. Season Week 6,2014,2001,signed as a free agent,8,FB,42,1,0
+Reg. Season Week 6,2014,2352,released,8,QB,0,0,0
+Reg. Season Week 6,2014,2551,signed as a free agent,9,TE,42,1,0
+Reg. Season Week 6,2014,2739,released,9,T,0,0,0
+Reg. Season Week 6,2014,590,signed as a free agent,31,ILB,73,1,0
+Reg. Season Week 6,2014,2510,released,31,TE,0,0,0
+Reg. Season Week 6,2014,552,signed as a free agent,29,ILB,73,1,0
+Reg. Season Week 6,2014,378,released,29,ILB,0,0,0
+Reg. Season Week 7,2014,2651,signed as a free agent,10,C,42,1,0
+Reg. Season Week 7,2014,2333,released,10,S,0,0,0
+Reg. Season Week 7,2014,134,signed as a free agent,4,G,86,1,0
+Reg. Season Week 7,2014,2938,released,4,DT,0,0,0
+Reg. Season Week 7,2014,586,signed as a free agent,23,QB,65,1,0
+Reg. Season Week 7,2014,959,released,23,WR,0,0,0
+Reg. Season Week 7,2014,959,signed as a free agent,5,WR,65,1,0
+Reg. Season Week 7,2014,1183,placed on injured reserve,5,WR,0,0,0
+Reg. Season Week 7,2014,1973,signed as a free agent,16,FB,42,1,0
+Reg. Season Week 7,2014,2608,released,16,WR,0,0,0
+Reg. Season Week 7,2014,1199,placed on injured reserve,25,S,0,0,0
+Reg. Season Week 7,2014,2333,signed as a free agent,25,S,42,1,0
+Reg. Season Week 7,2014,1276,signed as a free agent,25,WR,50,1,0
+Reg. Season Week 7,2014,446,released,25,DT,0,0,0
+Reg. Season Week 7,2014,576,signed as a free agent,24,S,73,1,0
+Reg. Season Week 7,2014,3110,signed as a free agent,24,CB,42,1,0
+Reg. Season Week 7,2014,2853,released,24,DE,0,0,0
+Reg. Season Week 7,2014,926,released,24,WR,0,0,0
+Reg. Season Week 7,2014,378,signed as a free agent,29,ILB,73,1,0
+Reg. Season Week 7,2014,890,released,29,G,0,0,0
+Reg. Season Week 8,2014,2510,signed as a free agent,6,TE,42,1,0
+Reg. Season Week 8,2014,1673,placed on injured reserve,6,TE,0,0,0
+Reg. Season Week 8,2014,1933,signed as a free agent,6,RB,42,1,0
+Reg. Season Week 8,2014,1012,signed as a free agent,6,RB,57,1,0
+Reg. Season Week 8,2014,918,released,6,OLB,0,0,0
+Reg. Season Week 8,2014,1549,released,6,CB,0,0,0
+Reg. Season Week 8,2014,1024,signed as a free agent,2,S,57,1,0
+Reg. Season Week 8,2014,2261,released,2,ILB,0,0,0
+Reg. Season Week 8,2014,890,signed as a free agent,14,G,73,1,0
+Reg. Season Week 8,2014,3132,released,14,CB,0,0,0
+Reg. Season Week 9,2014,2660,signed as a free agent,7,C,42,1,0
+Reg. Season Week 9,2014,3144,released,7,S,0,0,0
+Reg. Season Week 9,2014,1811,signed as a free agent,0,RB,42,1,0
+Reg. Season Week 9,2014,626,released,0,DE,0,0,0
+Reg. Season Week 9,2014,3132,signed as a free agent,18,CB,42,1,0
+Reg. Season Week 9,2014,2544,released,18,TE,0,0,0
+Reg. Season Week 9,2014,2815,signed as a free agent,24,P,42,1,0
+Reg. Season Week 9,2014,3119,released,24,CB,0,0,0
+Reg. Season Week 9,2014,926,signed as a free agent,21,WR,73,1,0
+Reg. Season Week 9,2014,2320,released,21,CB,0,0,0
+Reg. Season Week 9,2014,313,placed on injured reserve,23,CB,0,0,0
+Reg. Season Week 9,2014,2318,signed as a free agent,23,CB,42,1,0
+Reg. Season Week 9,2014,1577,signed as a free agent,26,S,42,1,0
+Reg. Season Week 9,2014,810,released,26,WR,0,0,0
+Reg. Season Week 9,2014,2342,signed as a free agent,27,C,42,1,0
+Reg. Season Week 9,2014,538,released,27,RB,0,0,0
+Reg. Season Week 10,2014,2965,placed on injured reserve,21,ILB,0,0,0
+Reg. Season Week 10,2014,721,signed as a free agent,21,ILB,65,1,0
+Reg. Season Week 10,2014,743,signed as a free agent,20,C,65,1,0
+Reg. Season Week 10,2014,900,released,20,WR,0,0,0
+Reg. Season Week 10,2014,2544,signed as a free agent,18,TE,42,1,0
+Reg. Season Week 10,2014,953,placed on injured reserve,18,TE,0,0,0
+Reg. Season Week 10,2014,74,placed on injured reserve,19,OLB,0,0,0
+Reg. Season Week 10,2014,2261,signed as a free agent,19,ILB,42,1,0
+Reg. Season Week 10,2014,918,signed as a free agent,19,OLB,65,1,0
+Reg. Season Week 10,2014,808,released,19,OLB,0,0,0
+Reg. Season Week 11,2014,927,signed as a free agent,14,TE,57,1,0
+Reg. Season Week 11,2014,1476,placed on injured reserve,14,TE,0,0,0
+Reg. Season Week 11,2014,2918,signed as a free agent,6,DT,42,1,0
+Reg. Season Week 11,2014,1012,released,6,RB,0,0,0
+Reg. Season Week 11,2014,711,placed on injured reserve,8,T,0,0,0
+Reg. Season Week 11,2014,885,signed as a free agent,8,T,73,1,0
+Reg. Season Week 11,2014,2069,signed as a free agent,8,G,42,1,0
+Reg. Season Week 11,2014,2001,released,8,FB,0,0,0
+Reg. Season Week 11,2014,1136,signed as a free agent,9,T,57,1,0
+Reg. Season Week 11,2014,2551,released,9,TE,0,0,0
+Reg. Season Week 11,2014,2001,signed as a free agent,23,FB,42,1,0
+Reg. Season Week 11,2014,586,released,23,QB,0,0,0
+Reg. Season Week 11,2014,808,signed as a free agent,18,OLB,57,1,0
+Reg. Season Week 11,2014,3132,released,18,CB,0,0,0
+Reg. Season Week 11,2014,1184,signed as a free agent,13,C,42,1,0
+Reg. Season Week 11,2014,2698,released,13,G,0,0,0
+Reg. Season Week 12,2014,369,signed as a free agent,0,WR,73,1,0
+Reg. Season Week 12,2014,1772,signed as a free agent,0,ILB,42,1,0
+Reg. Season Week 12,2014,424,released,0,T,0,0,0
+Reg. Season Week 12,2014,1811,released,0,RB,0,0,0
+Reg. Season Week 12,2014,1622,signed as a free agent,18,S,50,1,0
+Reg. Season Week 12,2014,874,placed on injured reserve,18,S,0,0,0
+Reg. Season Week 12,2014,3132,signed as a free agent,18,CB,42,1,0
+Reg. Season Week 12,2014,1465,released,18,RB,0,0,0
+Reg. Season Week 12,2014,1474,signed as a free agent,16,TE,50,1,0
+Reg. Season Week 12,2014,2063,released,16,T,0,0,0
+Reg. Season Week 12,2014,538,signed as a free agent,10,RB,73,1,0
+Reg. Season Week 12,2014,2195,released,10,DT,0,0,0
+Reg. Season Week 12,2014,594,signed as a free agent,3,FB,57,1,0
+Reg. Season Week 12,2014,429,placed on injured reserve,3,FB,0,0,0
+Reg. Season Week 12,2014,2608,signed as a free agent,19,WR,42,1,0
+Reg. Season Week 12,2014,1602,placed on injured reserve,19,WR,0,0,0
+Reg. Season Week 12,2014,2063,signed as a free agent,29,T,42,1,0
+Reg. Season Week 12,2014,378,released,29,ILB,0,0,0
+Reg. Season Week 13,2014,2331,signed as a free agent,4,S,42,1,0
+Reg. Season Week 13,2014,1486,released,4,WR,0,0,0
+Reg. Season Week 13,2014,1811,signed as a free agent,5,RB,42,1,0
+Reg. Season Week 13,2014,2762,released,5,T,0,0,0
+Reg. Season Week 13,2014,378,signed as a free agent,30,ILB,73,1,0
+Reg. Season Week 13,2014,2441,released,30,RB,0,0,0
+Reg. Season Week 13,2014,1486,signed as a free agent,14,WR,50,1,0
+Reg. Season Week 13,2014,2150,signed as a free agent,14,DT,42,1,0
+Reg. Season Week 13,2014,832,released,14,ILB,0,0,0
+Reg. Season Week 13,2014,813,released,14,RB,0,0,0
+Reg. Season Week 13,2014,161,placed on injured reserve,22,DE,0,0,0
+Reg. Season Week 13,2014,626,signed as a free agent,22,DE,73,1,0
+Reg. Season Week 13,2014,3066,signed as a free agent,22,CB,42,1,0
+Reg. Season Week 13,2014,1944,released,22,RB,0,0,0
+Reg. Season Week 13,2014,596,signed as a free agent,21,DE,73,1,0
+Reg. Season Week 13,2014,926,released,21,WR,0,0,0
+Reg. Season Week 13,2014,1221,placed on injured reserve,11,QB,0,0,0
+Reg. Season Week 13,2014,424,signed as a free agent,11,T,73,1,0
+Reg. Season Week 13,2014,1379,signed as a free agent,11,S,57,1,0
+Reg. Season Week 13,2014,3055,released,11,OLB,0,0,0
+Reg. Season Week 14,2014,832,signed as a free agent,14,ILB,65,1,0
+Reg. Season Week 14,2014,65,released,14,WR,0,0,0
+Reg. Season Week 14,2014,2006,signed as a free agent,2,TE,42,1,0
+Reg. Season Week 14,2014,2177,released,2,DT,0,0,0
+Reg. Season Week 14,2014,431,placed on injured reserve,17,ILB,0,0,0
+Reg. Season Week 14,2014,3004,signed as a free agent,17,ILB,42,1,0
+Reg. Season Week 14,2014,3111,signed as a free agent,17,CB,42,1,0
+Reg. Season Week 14,2014,1198,released,17,WR,0,0,0
+Reg. Season Week 14,2014,1989,signed as a free agent,30,FB,42,1,0
+Reg. Season Week 14,2014,378,released,30,ILB,0,0,0
+Reg. Season Week 14,2014,378,signed as a free agent,23,ILB,73,1,0
+Reg. Season Week 14,2014,1996,released,23,FB,0,0,0
+Reg. Season Week 14,2014,437,signed as a free agent,16,G,73,1,0
+Reg. Season Week 14,2014,1973,released,16,FB,0,0,0
+Reg. Season Week 14,2014,2080,signed as a free agent,22,C,42,1,0
+Reg. Season Week 14,2014,3066,released,22,CB,0,0,0
+Reg. Season Week 14,2014,926,signed as a free agent,9,WR,73,1,0
+Reg. Season Week 14,2014,2966,released,9,ILB,0,0,0
+Reg. Season Week 15,2014,1494,signed as a free agent,30,ILB,42,1,0
+Reg. Season Week 15,2014,1989,released,30,FB,0,0,0
+Reg. Season Week 15,2014,1973,signed as a free agent,7,FB,42,1,0
+Reg. Season Week 15,2014,662,released,7,DT,0,0,0
+Reg. Season Week 15,2014,2613,signed as a free agent,11,WR,42,1,0
+Reg. Season Week 15,2014,1379,released,11,S,0,0,0
+Reg. Season Week 15,2014,2515,signed as a free agent,31,TE,42,1,0
+Reg. Season Week 15,2014,1497,released,31,ILB,0,0,0
+Reg. Season Week 15,2014,1388,signed as a free agent,14,TE,50,1,0
+Reg. Season Week 15,2014,51,placed on injured reserve,14,TE,0,0,0
+Reg. Season Week 15,2014,1525,signed as a free agent,9,OLB,42,1,0
+Reg. Season Week 15,2014,1491,signed as a free agent,9,CB,42,1,0
+Reg. Season Week 15,2014,1136,released,9,T,0,0,0
+Reg. Season Week 15,2014,1312,released,9,DE,0,0,0
+Reg. Season Week 15,2014,1072,signed as a free agent,4,TE,57,1,0
+Reg. Season Week 15,2014,2331,released,4,S,0,0,0
+Reg. Season Week 15,2014,1198,signed as a free agent,27,WR,57,1,0
+Reg. Season Week 15,2014,3010,released,27,OLB,0,0,0
+Reg. Season Week 16,2014,1136,signed as a free agent,31,T,57,1,0
+Reg. Season Week 16,2014,3120,released,31,CB,0,0,0
+Reg. Season Week 16,2014,1591,placed on injured reserve,6,OLB,0,0,0
+Reg. Season Week 16,2014,3041,signed as a free agent,6,OLB,42,1,0
+Reg. Season Week 16,2014,1259,signed as a free agent,5,TE,50,1,0
+Reg. Season Week 16,2014,2005,released,5,FB,0,0,0
+Reg. Season Week 16,2014,2802,signed as a free agent,27,P,42,1,0
+Reg. Season Week 16,2014,479,signed as a free agent,27,OLB,73,1,0
+Reg. Season Week 16,2014,2342,released,27,C,0,0,0
+Reg. Season Week 16,2014,172,released,27,ILB,0,0,0
+Reg. Season Week 16,2014,551,signed as a free agent,14,TE,73,1,0
+Reg. Season Week 16,2014,832,released,14,ILB,0,0,0
+Reg. Season Week 16,2014,159,placed on injured reserve,21,CB,0,0,0
+Reg. Season Week 16,2014,2320,signed as a free agent,21,CB,42,1,0
+Reg. Season Week 17,2014,1642,signed as a free agent,0,T,42,1,0
+Reg. Season Week 17,2014,1706,placed on injured reserve,0,T,0,0,0
+Reg. Season Week 17,2014,832,signed as a free agent,15,ILB,65,1,0
+Reg. Season Week 17,2014,1174,released,15,WR,0,0,0
+Reg. Season Week 17,2014,3066,signed as a free agent,31,CB,42,1,0
+Reg. Season Week 17,2014,2433,released,31,RB,0,0,0
+Reg. Season Week 17,2014,172,signed as a free agent,14,ILB,86,1,0
+Reg. Season Week 17,2014,1696,released,14,CB,0,0,0
+Wild Card Round,2014,2005,signed as a free agent,6,FB,42,1,0
+Wild Card Round,2014,859,released,6,ILB,0,0,0
+Divisional Round,2014,1497,signed as a free agent,6,ILB,42,1,0
+Divisional Round,2014,468,released,6,RB,0,0,0
+Divisional Round,2014,1222,placed on injured reserve,15,CB,0,0,0
+Divisional Round,2014,1696,signed as a free agent,15,CB,50,1,0
+Conference Round,2014,2877,signed as a free agent,31,DE,42,1,0
+Conference Round,2014,1028,placed on injured reserve,31,DE,0,0,0
+Conference Round,2014,1989,signed as a free agent,31,FB,42,1,0
+Conference Round,2014,2515,released,31,TE,0,0,0
+Conference Round,2014,1239,signed as a free agent,27,G,57,1,0
+Conference Round,2014,205,placed on injured reserve,27,G,0,0,0
+Conference Round,2014,276,placed on injured reserve,27,DE,0,0,0
+Conference Round,2014,2177,signed as a free agent,27,DT,42,1,0
+Front Office Bowl,2014,274,signed as a free agent,19,DT,65,1,0
+Front Office Bowl,2014,787,placed on injured reserve,19,DT,0,0,0
