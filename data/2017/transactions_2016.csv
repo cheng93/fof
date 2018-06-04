@@ -1,0 +1,2879 @@
+Stage,Year,Player_ID/Staff_ID/Round,Transaction,Team,Position_Group/Year,Money,Years/Original_Position/Destination_City,Original_Team/Destination_Position/Misc.
+Pre-Staff Draft,2016,11,retired,18,K,0,0,0
+Pre-Staff Draft,2016,13,retired,6,CB,0,0,0
+Pre-Staff Draft,2016,17,retired,27,C,0,0,0
+Pre-Staff Draft,2016,25,retired,24,QB,0,0,0
+Pre-Staff Draft,2016,32,retired,7,C,0,0,0
+Pre-Staff Draft,2016,35,retired,20,CB,0,0,0
+Pre-Staff Draft,2016,43,retired,11,C,0,0,0
+Pre-Staff Draft,2016,46,retired,6,WR,0,0,0
+Pre-Staff Draft,2016,49,retired,10,OLB,0,0,0
+Pre-Staff Draft,2016,63,retired,4,S,0,0,0
+Pre-Staff Draft,2016,66,retired,26,OLB,0,0,0
+Pre-Staff Draft,2016,84,retired,16,T,0,0,0
+Pre-Staff Draft,2016,88,retired,27,G,0,0,0
+Pre-Staff Draft,2016,89,retired,1,WR,0,0,0
+Pre-Staff Draft,2016,90,retired,29,ILB,0,0,0
+Pre-Staff Draft,2016,101,retired,3,G,0,0,0
+Pre-Staff Draft,2016,131,retired,8,OLB,0,0,0
+Pre-Staff Draft,2016,133,retired,5,OLB,0,0,0
+Pre-Staff Draft,2016,139,retired,0,DE,0,0,0
+Pre-Staff Draft,2016,150,retired,4,WR,0,0,0
+Pre-Staff Draft,2016,152,retired,29,OLB,0,0,0
+Pre-Staff Draft,2016,170,retired,2,RB,0,0,0
+Pre-Staff Draft,2016,184,retired,12,DE,0,0,0
+Pre-Staff Draft,2016,204,retired,1,CB,0,0,0
+Pre-Staff Draft,2016,235,retired,31,DT,0,0,0
+Pre-Staff Draft,2016,237,retired,24,DE,0,0,0
+Pre-Staff Draft,2016,244,retired,13,G,0,0,0
+Pre-Staff Draft,2016,261,retired,26,DE,0,0,0
+Pre-Staff Draft,2016,334,retired,22,G,0,0,0
+Pre-Staff Draft,2016,342,retired,13,RB,0,0,0
+Pre-Staff Draft,2016,581,retired,22,RB,0,0,0
+Pre-Staff Draft,2016,50,re-signed as head coach,10,0,0,0,0
+Pre-Staff Draft,2016,54,re-signed as strength coordinator,10,0,0,0,0
+Pre-Staff Draft,2016,58,re-signed as assistant coach,11,0,0,0,0
+Pre-Staff Draft,2016,72,re-signed as defensive coordinator,14,0,0,0,0
+Pre-Staff Draft,2016,74,re-signed as strength coordinator,14,0,0,0,0
+Pre-Staff Draft,2016,88,re-signed as assistant coach,17,0,0,0,0
+Pre-Staff Draft,2016,91,re-signed as offensive coordinator,18,0,0,0,0
+Pre-Staff Draft,2016,93,re-signed as assistant coach,18,0,0,0,0
+Pre-Staff Draft,2016,97,re-signed as defensive coordinator,19,0,0,0,0
+Pre-Staff Draft,2016,101,re-signed as offensive coordinator,20,0,0,0,0
+Pre-Staff Draft,2016,106,re-signed as offensive coordinator,21,0,0,0,0
+Pre-Staff Draft,2016,107,re-signed as defensive coordinator,21,0,0,0,0
+Pre-Staff Draft,2016,110,re-signed as head coach,22,0,0,0,0
+Pre-Staff Draft,2016,139,re-signed as strength coordinator,27,0,0,0,0
+Pre-Staff Draft,2016,142,re-signed as defensive coordinator,28,0,0,0,0
+Pre-Staff Draft,2016,144,re-signed as strength coordinator,28,0,0,0,0
+Pre-Staff Draft,2016,150,fired as head coach,30,0,0,0,0
+Pre-Staff Draft,2016,153,fired as assistant coach,30,0,0,0,0
+Pre-Staff Draft,2016,154,fired as strength coordinator,30,0,0,0,0
+Pre-Staff Draft,2016,261,fired as defensive coordinator,30,0,0,0,0
+Pre-Staff Draft,2016,155,re-signed as head coach,31,0,0,0,0
+Pre-Staff Draft,2016,156,re-signed as offensive coordinator,31,0,0,0,0
+Staff Draft,2016,125,hired as head coach,25,0,0,0,0
+Staff Draft,2016,80,hired as head coach,16,0,0,0,0
+Staff Draft,2016,95,hired as head coach,19,0,0,0,0
+Staff Draft,2016,222,hired as head coach,0,0,0,0,0
+Staff Draft,2016,105,hired as head coach,21,0,0,0,0
+Staff Draft,2016,189,hired as head coach,12,0,0,0,0
+Staff Draft,2016,82,hired as head coach,4,0,0,0,0
+Staff Draft,2016,41,hired as head coach,30,0,0,0,0
+Staff Draft,2016,127,hired as head coach,7,0,0,0,0
+Staff Draft,2016,35,fired as head coach,7,0,0,0,0
+Staff Draft,2016,27,hired as head coach,9,0,0,0,0
+Staff Draft,2016,120,hired as head coach,24,0,0,0,0
+Staff Draft,2016,32,hired as offensive coordinator,28,0,0,0,0
+Staff Draft,2016,296,hired as offensive coordinator,14,0,0,0,0
+Staff Draft,2016,0,hired as offensive coordinator,22,0,0,0,0
+Staff Draft,2016,126,hired as offensive coordinator,25,0,0,0,0
+Staff Draft,2016,35,hired as offensive coordinator,4,0,0,0,0
+Staff Draft,2016,45,hired as offensive coordinator,30,0,0,0,0
+Staff Draft,2016,271,hired as offensive coordinator,8,0,0,0,0
+Staff Draft,2016,48,hired as offensive coordinator,9,0,0,0,0
+Staff Draft,2016,6,hired as offensive coordinator,1,0,0,0,0
+Staff Draft,2016,261,hired as defensive coordinator,23,0,0,0,0
+Staff Draft,2016,92,hired as defensive coordinator,18,0,0,0,0
+Staff Draft,2016,289,hired as defensive coordinator,25,0,0,0,0
+Staff Draft,2016,83,hired as defensive coordinator,16,0,0,0,0
+Staff Draft,2016,2,hired as defensive coordinator,0,0,0,0,0
+Staff Draft,2016,17,hired as defensive coordinator,3,0,0,0,0
+Staff Draft,2016,53,hired as defensive coordinator,26,0,0,0,0
+Staff Draft,2016,241,hired as defensive coordinator,30,0,0,0,0
+Staff Draft,2016,184,hired as defensive coordinator,7,0,0,0,0
+Staff Draft,2016,279,hired as defensive coordinator,9,0,0,0,0
+Staff Draft,2016,33,hired as defensive coordinator,6,0,0,0,0
+Staff Draft,2016,260,hired as defensive coordinator,1,0,0,0,0
+Staff Draft,2016,118,hired as assistant coach,23,0,0,0,0
+Staff Draft,2016,73,hired as assistant coach,28,0,0,0,0
+Staff Draft,2016,191,hired as assistant coach,10,0,0,0,0
+Staff Draft,2016,163,hired as assistant coach,14,0,0,0,0
+Staff Draft,2016,128,hired as assistant coach,25,0,0,0,0
+Staff Draft,2016,290,hired as assistant coach,16,0,0,0,0
+Staff Draft,2016,98,hired as assistant coach,19,0,0,0,0
+Staff Draft,2016,211,hired as assistant coach,21,0,0,0,0
+Staff Draft,2016,297,hired as assistant coach,13,0,0,0,0
+Staff Draft,2016,162,hired as assistant coach,30,0,0,0,0
+Staff Draft,2016,43,hired as assistant coach,8,0,0,0,0
+Staff Draft,2016,13,hired as assistant coach,2,0,0,0,0
+Staff Draft,2016,178,hired as assistant coach,9,0,0,0,0
+Staff Draft,2016,29,hired as strength coordinator,5,0,0,0,0
+Staff Draft,2016,39,hired as strength coordinator,17,0,0,0,0
+Staff Draft,2016,109,hired as strength coordinator,21,0,0,0,0
+Staff Draft,2016,149,hired as strength coordinator,29,0,0,0,0
+Staff Draft,2016,159,hired as strength coordinator,26,0,0,0,0
+Staff Draft,2016,134,fired as strength coordinator,26,0,0,0,0
+Staff Draft,2016,255,hired as strength coordinator,30,0,0,0,0
+Staff Draft,2016,154,hired as strength coordinator,31,0,0,0,0
+Staff Draft,2016,220,hired as strength coordinator,7,0,0,0,0
+FA Stage 1,2016,98,released,0,QB,0,0,0
+FA Stage 1,2016,1134,released,6,RB,0,0,0
+FA Stage 1,2016,435,released,7,DE,0,0,0
+FA Stage 1,2016,190,released,9,DT,0,0,0
+FA Stage 1,2016,165,released,12,RB,0,0,0
+FA Stage 1,2016,1796,released,24,DE,0,0,0
+FA Stage 1,2016,1630,released,31,OLB,0,0,0
+FA Stage 1,2016,1546,released,0,WR,0,0,0
+FA Stage 1,2016,54,released,0,C,0,0,0
+FA Stage 1,2016,995,released,0,OLB,0,0,0
+FA Stage 1,2016,1566,released,0,G,0,0,0
+FA Stage 1,2016,1570,released,0,DE,0,0,0
+FA Stage 1,2016,1225,released,0,OLB,0,0,0
+FA Stage 1,2016,831,released,0,RB,0,0,0
+FA Stage 1,2016,883,released,0,TE,0,0,0
+FA Stage 1,2016,861,released,0,S,0,0,0
+FA Stage 1,2016,1489,released,1,T,0,0,0
+FA Stage 1,2016,1416,released,1,G,0,0,0
+FA Stage 1,2016,143,released,1,K,0,0,0
+FA Stage 1,2016,2411,released,1,RB,0,0,0
+FA Stage 1,2016,960,released,1,RB,0,0,0
+FA Stage 1,2016,3017,released,1,OLB,0,0,0
+FA Stage 1,2016,2170,released,1,DT,0,0,0
+FA Stage 1,2016,1125,released,1,C,0,0,0
+FA Stage 1,2016,436,released,1,S,0,0,0
+FA Stage 1,2016,222,released,2,OLB,0,0,0
+FA Stage 1,2016,707,released,3,CB,0,0,0
+FA Stage 1,2016,2779,released,3,T,0,0,0
+FA Stage 1,2016,2889,released,3,DE,0,0,0
+FA Stage 1,2016,1470,released,3,DT,0,0,0
+FA Stage 1,2016,2574,released,3,WR,0,0,0
+FA Stage 1,2016,2294,released,3,ILB,0,0,0
+FA Stage 1,2016,1249,released,3,CB,0,0,0
+FA Stage 1,2016,688,released,3,OLB,0,0,0
+FA Stage 1,2016,1617,released,3,DT,0,0,0
+FA Stage 1,2016,503,released,6,C,0,0,0
+FA Stage 1,2016,118,released,6,G,0,0,0
+FA Stage 1,2016,1677,released,6,DE,0,0,0
+FA Stage 1,2016,774,released,6,DT,0,0,0
+FA Stage 1,2016,1879,released,6,WR,0,0,0
+FA Stage 1,2016,3122,released,6,CB,0,0,0
+FA Stage 1,2016,985,released,6,T,0,0,0
+FA Stage 1,2016,1672,released,6,C,0,0,0
+FA Stage 1,2016,713,released,6,WR,0,0,0
+FA Stage 1,2016,316,released,7,S,0,0,0
+FA Stage 1,2016,1197,released,7,G,0,0,0
+FA Stage 1,2016,171,released,7,DE,0,0,0
+FA Stage 1,2016,497,released,7,DE,0,0,0
+FA Stage 1,2016,245,released,7,FB,0,0,0
+FA Stage 1,2016,22,released,7,K,0,0,0
+FA Stage 1,2016,928,released,7,WR,0,0,0
+FA Stage 1,2016,947,released,7,RB,0,0,0
+FA Stage 1,2016,129,released,8,FB,0,0,0
+FA Stage 1,2016,2788,released,8,T,0,0,0
+FA Stage 1,2016,992,released,9,T,0,0,0
+FA Stage 1,2016,481,released,9,WR,0,0,0
+FA Stage 1,2016,750,released,9,TE,0,0,0
+FA Stage 1,2016,2308,released,9,CB,0,0,0
+FA Stage 1,2016,1758,released,9,DE,0,0,0
+FA Stage 1,2016,792,released,9,QB,0,0,0
+FA Stage 1,2016,1069,released,9,RB,0,0,0
+FA Stage 1,2016,735,released,9,G,0,0,0
+FA Stage 1,2016,1829,released,9,RB,0,0,0
+FA Stage 1,2016,41,released,10,QB,0,0,0
+FA Stage 1,2016,462,released,10,C,0,0,0
+FA Stage 1,2016,1605,released,10,WR,0,0,0
+FA Stage 1,2016,1698,released,10,RB,0,0,0
+FA Stage 1,2016,981,released,10,OLB,0,0,0
+FA Stage 1,2016,527,released,10,G,0,0,0
+FA Stage 1,2016,411,released,10,TE,0,0,0
+FA Stage 1,2016,1845,released,10,RB,0,0,0
+FA Stage 1,2016,1834,released,10,ILB,0,0,0
+FA Stage 1,2016,275,released,12,T,0,0,0
+FA Stage 1,2016,1108,released,12,DE,0,0,0
+FA Stage 1,2016,271,released,12,TE,0,0,0
+FA Stage 1,2016,255,released,12,WR,0,0,0
+FA Stage 1,2016,211,released,13,T,0,0,0
+FA Stage 1,2016,1318,released,13,OLB,0,0,0
+FA Stage 1,2016,570,released,13,CB,0,0,0
+FA Stage 1,2016,1731,released,13,WR,0,0,0
+FA Stage 1,2016,114,released,14,C,0,0,0
+FA Stage 1,2016,173,released,14,WR,0,0,0
+FA Stage 1,2016,2193,released,15,DT,0,0,0
+FA Stage 1,2016,115,released,15,WR,0,0,0
+FA Stage 1,2016,1808,released,15,RB,0,0,0
+FA Stage 1,2016,534,released,15,CB,0,0,0
+FA Stage 1,2016,367,released,15,S,0,0,0
+FA Stage 1,2016,582,released,15,TE,0,0,0
+FA Stage 1,2016,1360,released,15,DE,0,0,0
+FA Stage 1,2016,1766,released,15,OLB,0,0,0
+FA Stage 1,2016,854,released,15,DT,0,0,0
+FA Stage 1,2016,826,released,16,CB,0,0,0
+FA Stage 1,2016,1634,released,16,T,0,0,0
+FA Stage 1,2016,1462,released,16,ILB,0,0,0
+FA Stage 1,2016,640,released,16,OLB,0,0,0
+FA Stage 1,2016,286,released,16,TE,0,0,0
+FA Stage 1,2016,611,released,16,WR,0,0,0
+FA Stage 1,2016,649,released,16,CB,0,0,0
+FA Stage 1,2016,1567,released,16,RB,0,0,0
+FA Stage 1,2016,1013,released,16,DT,0,0,0
+FA Stage 1,2016,1430,released,17,CB,0,0,0
+FA Stage 1,2016,487,released,17,OLB,0,0,0
+FA Stage 1,2016,1079,released,17,P,0,0,0
+FA Stage 1,2016,645,released,17,WR,0,0,0
+FA Stage 1,2016,1262,released,17,DT,0,0,0
+FA Stage 1,2016,349,released,17,CB,0,0,0
+FA Stage 1,2016,264,released,17,T,0,0,0
+FA Stage 1,2016,526,released,17,S,0,0,0
+FA Stage 1,2016,819,released,17,CB,0,0,0
+FA Stage 1,2016,99,released,18,OLB,0,0,0
+FA Stage 1,2016,432,released,18,DT,0,0,0
+FA Stage 1,2016,598,released,18,CB,0,0,0
+FA Stage 1,2016,566,released,18,WR,0,0,0
+FA Stage 1,2016,2451,released,18,RB,0,0,0
+FA Stage 1,2016,1432,released,18,C,0,0,0
+FA Stage 1,2016,389,released,18,S,0,0,0
+FA Stage 1,2016,540,released,18,DE,0,0,0
+FA Stage 1,2016,1070,released,18,FB,0,0,0
+FA Stage 1,2016,1871,released,19,DE,0,0,0
+FA Stage 1,2016,554,released,19,DT,0,0,0
+FA Stage 1,2016,2608,released,19,WR,0,0,0
+FA Stage 1,2016,783,released,19,ILB,0,0,0
+FA Stage 1,2016,188,released,19,WR,0,0,0
+FA Stage 1,2016,1809,released,19,S,0,0,0
+FA Stage 1,2016,550,released,19,QB,0,0,0
+FA Stage 1,2016,1581,released,19,CB,0,0,0
+FA Stage 1,2016,545,released,19,K,0,0,0
+FA Stage 1,2016,348,released,20,DE,0,0,0
+FA Stage 1,2016,1149,released,20,DE,0,0,0
+FA Stage 1,2016,864,released,20,G,0,0,0
+FA Stage 1,2016,2878,released,20,DE,0,0,0
+FA Stage 1,2016,641,released,20,G,0,0,0
+FA Stage 1,2016,638,released,20,TE,0,0,0
+FA Stage 1,2016,657,released,20,WR,0,0,0
+FA Stage 1,2016,1585,released,20,WR,0,0,0
+FA Stage 1,2016,1377,released,20,C,0,0,0
+FA Stage 1,2016,632,released,21,RB,0,0,0
+FA Stage 1,2016,878,released,21,DE,0,0,0
+FA Stage 1,2016,1280,released,21,WR,0,0,0
+FA Stage 1,2016,2950,released,22,DT,0,0,0
+FA Stage 1,2016,121,released,23,ILB,0,0,0
+FA Stage 1,2016,187,released,23,WR,0,0,0
+FA Stage 1,2016,151,released,23,C,0,0,0
+FA Stage 1,2016,1220,released,23,RB,0,0,0
+FA Stage 1,2016,965,released,23,DT,0,0,0
+FA Stage 1,2016,848,released,23,S,0,0,0
+FA Stage 1,2016,412,released,23,RB,0,0,0
+FA Stage 1,2016,434,released,23,TE,0,0,0
+FA Stage 1,2016,2094,released,23,G,0,0,0
+FA Stage 1,2016,427,released,24,CB,0,0,0
+FA Stage 1,2016,761,released,24,TE,0,0,0
+FA Stage 1,2016,210,released,24,G,0,0,0
+FA Stage 1,2016,62,released,24,S,0,0,0
+FA Stage 1,2016,340,released,24,S,0,0,0
+FA Stage 1,2016,236,released,24,WR,0,0,0
+FA Stage 1,2016,499,released,24,WR,0,0,0
+FA Stage 1,2016,233,released,25,OLB,0,0,0
+FA Stage 1,2016,556,released,25,WR,0,0,0
+FA Stage 1,2016,1106,released,25,FB,0,0,0
+FA Stage 1,2016,1311,released,25,G,0,0,0
+FA Stage 1,2016,335,released,25,CB,0,0,0
+FA Stage 1,2016,1563,released,25,TE,0,0,0
+FA Stage 1,2016,1199,released,25,S,0,0,0
+FA Stage 1,2016,2696,released,25,G,0,0,0
+FA Stage 1,2016,33,released,25,K,0,0,0
+FA Stage 1,2016,616,released,26,G,0,0,0
+FA Stage 1,2016,248,released,26,TE,0,0,0
+FA Stage 1,2016,899,released,26,DE,0,0,0
+FA Stage 1,2016,867,released,26,DT,0,0,0
+FA Stage 1,2016,385,released,28,S,0,0,0
+FA Stage 1,2016,1434,released,28,TE,0,0,0
+FA Stage 1,2016,871,released,28,OLB,0,0,0
+FA Stage 1,2016,410,released,28,OLB,0,0,0
+FA Stage 1,2016,2929,released,28,DT,0,0,0
+FA Stage 1,2016,475,released,29,C,0,0,0
+FA Stage 1,2016,1595,released,29,OLB,0,0,0
+FA Stage 1,2016,354,released,29,WR,0,0,0
+FA Stage 1,2016,1002,released,29,ILB,0,0,0
+FA Stage 1,2016,123,released,29,QB,0,0,0
+FA Stage 1,2016,1181,released,29,G,0,0,0
+FA Stage 1,2016,329,released,29,G,0,0,0
+FA Stage 1,2016,1788,released,29,RB,0,0,0
+FA Stage 1,2016,464,released,29,WR,0,0,0
+FA Stage 1,2016,661,released,30,S,0,0,0
+FA Stage 1,2016,182,released,30,CB,0,0,0
+FA Stage 1,2016,163,released,30,WR,0,0,0
+FA Stage 1,2016,91,released,30,DT,0,0,0
+FA Stage 1,2016,694,released,30,CB,0,0,0
+FA Stage 1,2016,589,released,30,ILB,0,0,0
+FA Stage 1,2016,1819,released,30,WR,0,0,0
+FA Stage 1,2016,984,released,30,G,0,0,0
+FA Stage 1,2016,486,released,30,T,0,0,0
+FA Stage 1,2016,1793,released,31,OLB,0,0,0
+FA Stage 1,2016,1216,released,31,WR,0,0,0
+FA Stage 1,2016,425,released,31,WR,0,0,0
+FA Stage 1,2016,2883,released,31,DE,0,0,0
+FA Stage 1,2016,395,released,31,RB,0,0,0
+FA Stage 1,2016,583,released,31,S,0,0,0
+FA Stage 1,2016,605,released,31,WR,0,0,0
+FA Stage 1,2016,1091,released,31,ILB,0,0,0
+FA Stage 1,2016,1619,released,31,ILB,0,0,0
+FA Stage 1,2016,794,designated as a franchise player,0,ILB,0,0,0
+FA Stage 1,2016,36,designated as a franchise player,11,WR,0,0,0
+FA Stage 1,2016,29,designated as a franchise player,17,QB,0,0,0
+FA Stage 1,2016,73,designated as a franchise player,24,QB,0,0,0
+FA Stage 1,2016,53,designated as a franchise player,27,QB,0,0,0
+FA Stage 1,2016,164,designated as a franchise player,29,QB,0,0,0
+FA Stage 1,2016,593,signed a renegotiated contract,0,C,3220,4,0
+FA Stage 1,2016,1515,signed a renegotiated contract,0,G,1518,5,0
+FA Stage 1,2016,1864,signed a renegotiated contract,0,RB,2107,4,0
+FA Stage 1,2016,1073,signed a renegotiated contract,0,CB,1964,4,0
+FA Stage 1,2016,1836,signed a renegotiated contract,0,FB,499,3,0
+FA Stage 1,2016,1536,signed a renegotiated contract,0,QB,275,2,0
+FA Stage 1,2016,1333,signed a renegotiated contract,0,S,801,5,0
+FA Stage 1,2016,1394,signed a renegotiated contract,0,DT,548,3,0
+FA Stage 1,2016,1706,signed a renegotiated contract,0,T,337,2,0
+FA Stage 1,2016,535,signed a renegotiated contract,0,CB,195,2,0
+FA Stage 1,2016,493,signed a renegotiated contract,1,WR,2746,4,0
+FA Stage 1,2016,277,signed a renegotiated contract,1,TE,1839,3,0
+FA Stage 1,2016,1548,signed a renegotiated contract,1,DT,1374,5,0
+FA Stage 1,2016,1095,signed a renegotiated contract,1,T,1527,3,0
+FA Stage 1,2016,1697,signed a renegotiated contract,1,G,1725,4,0
+FA Stage 1,2016,914,signed a renegotiated contract,1,DE,1309,4,0
+FA Stage 1,2016,55,signed a renegotiated contract,1,DT,797,2,0
+FA Stage 1,2016,1618,signed a renegotiated contract,1,DE,1021,3,0
+FA Stage 1,2016,925,signed a renegotiated contract,1,RB,338,3,0
+FA Stage 1,2016,1219,signed a renegotiated contract,1,CB,601,3,0
+FA Stage 1,2016,3026,signed a renegotiated contract,1,OLB,265,2,0
+FA Stage 1,2016,1300,signed a renegotiated contract,1,TE,289,3,0
+FA Stage 1,2016,294,signed a renegotiated contract,1,C,197,2,0
+FA Stage 1,2016,1425,signed a renegotiated contract,2,DE,1248,4,0
+FA Stage 1,2016,1436,signed a renegotiated contract,2,DT,572,4,0
+FA Stage 1,2016,1193,signed a renegotiated contract,2,S,706,4,0
+FA Stage 1,2016,542,signed a renegotiated contract,2,S,870,5,0
+FA Stage 1,2016,729,signed a renegotiated contract,3,T,2108,4,0
+FA Stage 1,2016,571,signed a renegotiated contract,3,WR,2088,4,0
+FA Stage 1,2016,2012,signed a renegotiated contract,3,TE,141,2,0
+FA Stage 1,2016,2396,signed a renegotiated contract,3,QB,143,2,0
+FA Stage 1,2016,176,signed a renegotiated contract,4,DT,1824,3,0
+FA Stage 1,2016,1297,signed a renegotiated contract,4,K,1039,5,0
+FA Stage 1,2016,363,signed a renegotiated contract,4,QB,2815,5,0
+FA Stage 1,2016,606,signed a renegotiated contract,4,TE,1280,4,0
+FA Stage 1,2016,1322,signed a renegotiated contract,4,DE,977,4,0
+FA Stage 1,2016,1854,signed a renegotiated contract,4,RB,312,2,0
+FA Stage 1,2016,2635,signed a renegotiated contract,4,WR,154,2,0
+FA Stage 1,2016,903,signed a renegotiated contract,4,TE,168,2,0
+FA Stage 1,2016,2403,signed a renegotiated contract,4,QB,143,2,0
+FA Stage 1,2016,1520,signed a renegotiated contract,6,T,2083,4,0
+FA Stage 1,2016,1824,signed a renegotiated contract,6,S,2008,4,0
+FA Stage 1,2016,1591,signed a renegotiated contract,6,OLB,2144,3,0
+FA Stage 1,2016,1673,signed a renegotiated contract,6,TE,1666,5,0
+FA Stage 1,2016,3016,signed a renegotiated contract,6,OLB,283,2,0
+FA Stage 1,2016,1751,signed a renegotiated contract,6,QB,143,2,0
+FA Stage 1,2016,2250,signed a renegotiated contract,6,ILB,255,2,0
+FA Stage 1,2016,3145,signed a renegotiated contract,6,S,145,2,0
+FA Stage 1,2016,584,signed a renegotiated contract,7,DT,2108,4,0
+FA Stage 1,2016,1195,signed a renegotiated contract,7,CB,731,5,0
+FA Stage 1,2016,128,signed a renegotiated contract,7,G,878,2,0
+FA Stage 1,2016,557,signed a renegotiated contract,7,WR,766,2,0
+FA Stage 1,2016,660,signed a renegotiated contract,7,T,514,4,0
+FA Stage 1,2016,1843,signed a renegotiated contract,8,DE,1734,4,0
+FA Stage 1,2016,1625,signed a renegotiated contract,8,DT,888,4,0
+FA Stage 1,2016,884,signed a renegotiated contract,8,ILB,806,4,0
+FA Stage 1,2016,781,signed a renegotiated contract,8,G,830,5,0
+FA Stage 1,2016,2065,signed a renegotiated contract,8,T,393,3,0
+FA Stage 1,2016,117,signed a renegotiated contract,8,K,603,3,0
+FA Stage 1,2016,1443,signed a renegotiated contract,8,CB,973,5,0
+FA Stage 1,2016,2042,signed a renegotiated contract,8,WR,145,2,0
+FA Stage 1,2016,47,signed a renegotiated contract,8,P,311,2,0
+FA Stage 1,2016,1172,signed a renegotiated contract,9,DE,3322,5,0
+FA Stage 1,2016,1269,signed a renegotiated contract,9,CB,1091,4,0
+FA Stage 1,2016,1568,signed a renegotiated contract,9,OLB,421,4,0
+FA Stage 1,2016,1691,signed a renegotiated contract,9,S,345,4,0
+FA Stage 1,2016,1725,signed a renegotiated contract,9,CB,487,3,0
+FA Stage 1,2016,1849,signed a renegotiated contract,10,CB,1455,3,0
+FA Stage 1,2016,690,signed a renegotiated contract,10,ILB,2564,3,0
+FA Stage 1,2016,1423,signed a renegotiated contract,10,DT,1380,5,0
+FA Stage 1,2016,511,signed a renegotiated contract,10,CB,1699,4,0
+FA Stage 1,2016,724,signed a renegotiated contract,10,T,1554,4,0
+FA Stage 1,2016,782,signed a renegotiated contract,10,WR,1069,3,0
+FA Stage 1,2016,1550,signed a renegotiated contract,10,RB,1330,4,0
+FA Stage 1,2016,1774,signed a renegotiated contract,10,S,321,3,0
+FA Stage 1,2016,2925,signed a renegotiated contract,10,DT,735,4,0
+FA Stage 1,2016,1841,signed a renegotiated contract,10,T,161,2,0
+FA Stage 1,2016,1765,signed a renegotiated contract,10,CB,360,3,0
+FA Stage 1,2016,1825,signed a renegotiated contract,10,TE,284,2,0
+FA Stage 1,2016,2368,signed a renegotiated contract,10,QB,141,2,0
+FA Stage 1,2016,405,signed a renegotiated contract,11,WR,2350,4,0
+FA Stage 1,2016,1637,signed a renegotiated contract,11,RB,1240,3,0
+FA Stage 1,2016,1882,signed a renegotiated contract,11,C,972,4,0
+FA Stage 1,2016,2071,signed a renegotiated contract,11,G,715,3,0
+FA Stage 1,2016,1529,signed a renegotiated contract,11,TE,1309,4,0
+FA Stage 1,2016,2948,signed a renegotiated contract,11,DT,552,4,0
+FA Stage 1,2016,1757,signed a renegotiated contract,11,WR,355,3,0
+FA Stage 1,2016,1791,signed a renegotiated contract,11,CB,143,2,0
+FA Stage 1,2016,790,signed a renegotiated contract,12,DT,3002,4,0
+FA Stage 1,2016,1138,signed a renegotiated contract,12,QB,2990,5,0
+FA Stage 1,2016,920,signed a renegotiated contract,12,CB,1159,4,0
+FA Stage 1,2016,1309,signed a renegotiated contract,12,CB,1605,5,0
+FA Stage 1,2016,979,signed a renegotiated contract,12,C,1135,3,0
+FA Stage 1,2016,1773,signed a renegotiated contract,12,G,747,4,0
+FA Stage 1,2016,1670,signed a renegotiated contract,12,FB,331,4,0
+FA Stage 1,2016,1015,signed a renegotiated contract,12,G,807,4,0
+FA Stage 1,2016,2677,signed a renegotiated contract,12,G,269,3,0
+FA Stage 1,2016,494,signed a renegotiated contract,12,WR,561,3,0
+FA Stage 1,2016,3168,signed a renegotiated contract,12,S,143,2,0
+FA Stage 1,2016,341,signed a renegotiated contract,12,P,359,3,0
+FA Stage 1,2016,1945,signed a renegotiated contract,12,RB,141,2,0
+FA Stage 1,2016,1161,signed a renegotiated contract,13,DE,1813,5,0
+FA Stage 1,2016,1121,signed a renegotiated contract,13,ILB,867,3,0
+FA Stage 1,2016,991,signed a renegotiated contract,13,DT,438,3,0
+FA Stage 1,2016,162,signed a renegotiated contract,13,G,583,2,0
+FA Stage 1,2016,2825,signed a renegotiated contract,13,K,145,2,0
+FA Stage 1,2016,2804,signed a renegotiated contract,13,P,154,2,0
+FA Stage 1,2016,2276,signed a renegotiated contract,13,ILB,265,2,0
+FA Stage 1,2016,1291,signed a renegotiated contract,13,QB,197,2,0
+FA Stage 1,2016,1314,signed a renegotiated contract,13,T,181,2,0
+FA Stage 1,2016,1473,signed a renegotiated contract,13,WR,163,2,0
+FA Stage 1,2016,538,signed a renegotiated contract,13,RB,335,3,0
+FA Stage 1,2016,1241,signed a renegotiated contract,13,RB,254,2,0
+FA Stage 1,2016,3007,signed a renegotiated contract,13,ILB,236,2,0
+FA Stage 1,2016,898,signed a renegotiated contract,14,QB,3599,5,0
+FA Stage 1,2016,1715,signed a renegotiated contract,14,OLB,894,2,0
+FA Stage 1,2016,1544,signed a renegotiated contract,14,WR,1088,4,0
+FA Stage 1,2016,769,signed a renegotiated contract,14,DE,1025,4,0
+FA Stage 1,2016,1496,signed a renegotiated contract,14,RB,551,3,0
+FA Stage 1,2016,1517,signed a renegotiated contract,14,WR,857,3,0
+FA Stage 1,2016,1221,signed a renegotiated contract,14,QB,221,2,0
+FA Stage 1,2016,1781,signed a renegotiated contract,14,RB,162,2,0
+FA Stage 1,2016,2350,signed a renegotiated contract,14,QB,143,2,0
+FA Stage 1,2016,916,signed a renegotiated contract,14,TE,168,2,0
+FA Stage 1,2016,177,signed a renegotiated contract,15,QB,2821,3,0
+FA Stage 1,2016,977,signed a renegotiated contract,15,CB,1617,4,0
+FA Stage 1,2016,40,signed a renegotiated contract,15,DT,1687,3,0
+FA Stage 1,2016,923,signed a renegotiated contract,15,T,1769,5,0
+FA Stage 1,2016,1613,signed a renegotiated contract,15,DE,972,3,0
+FA Stage 1,2016,1260,signed a renegotiated contract,15,TE,236,2,0
+FA Stage 1,2016,1586,signed a renegotiated contract,16,WR,1958,4,0
+FA Stage 1,2016,1037,signed a renegotiated contract,16,DE,1613,5,0
+FA Stage 1,2016,524,signed a renegotiated contract,16,FB,546,4,0
+FA Stage 1,2016,1692,signed a renegotiated contract,16,DT,1111,5,0
+FA Stage 1,2016,1553,signed a renegotiated contract,16,G,1122,4,0
+FA Stage 1,2016,301,signed a renegotiated contract,16,C,1493,4,0
+FA Stage 1,2016,1438,signed a renegotiated contract,16,CB,898,5,0
+FA Stage 1,2016,1412,signed a renegotiated contract,16,ILB,313,3,0
+FA Stage 1,2016,2132,signed a renegotiated contract,16,K,163,3,0
+FA Stage 1,2016,1867,signed a renegotiated contract,16,OLB,312,2,0
+FA Stage 1,2016,2513,signed a renegotiated contract,16,TE,189,2,0
+FA Stage 1,2016,1127,signed a renegotiated contract,17,DE,1923,5,0
+FA Stage 1,2016,1011,signed a renegotiated contract,17,DT,2367,5,0
+FA Stage 1,2016,1500,signed a renegotiated contract,17,DE,1645,4,0
+FA Stage 1,2016,1877,signed a renegotiated contract,17,WR,1580,4,0
+FA Stage 1,2016,407,signed a renegotiated contract,17,OLB,1534,3,0
+FA Stage 1,2016,360,signed a renegotiated contract,17,T,1291,4,0
+FA Stage 1,2016,1830,signed a renegotiated contract,17,WR,942,3,0
+FA Stage 1,2016,517,signed a renegotiated contract,17,G,797,3,0
+FA Stage 1,2016,1905,signed a renegotiated contract,17,QB,143,2,0
+FA Stage 1,2016,853,signed a renegotiated contract,18,G,2062,4,0
+FA Stage 1,2016,811,signed a renegotiated contract,18,WR,2758,4,0
+FA Stage 1,2016,1557,signed a renegotiated contract,18,QB,5292,4,0
+FA Stage 1,2016,353,signed a renegotiated contract,18,WR,3139,3,0
+FA Stage 1,2016,953,signed a renegotiated contract,18,TE,2863,4,0
+FA Stage 1,2016,256,signed a renegotiated contract,18,T,1864,3,0
+FA Stage 1,2016,565,signed a renegotiated contract,18,G,1813,4,0
+FA Stage 1,2016,997,signed a renegotiated contract,18,ILB,1255,4,0
+FA Stage 1,2016,1762,signed a renegotiated contract,18,RB,1670,5,0
+FA Stage 1,2016,887,signed a renegotiated contract,18,CB,1015,4,0
+FA Stage 1,2016,136,signed a renegotiated contract,18,S,795,2,0
+FA Stage 1,2016,1532,signed a renegotiated contract,18,RB,360,3,0
+FA Stage 1,2016,112,signed a renegotiated contract,19,QB,4394,3,0
+FA Stage 1,2016,695,signed a renegotiated contract,19,CB,2916,4,0
+FA Stage 1,2016,1716,signed a renegotiated contract,19,WR,1578,3,0
+FA Stage 1,2016,787,signed a renegotiated contract,19,DT,1321,5,0
+FA Stage 1,2016,1602,signed a renegotiated contract,19,WR,2966,4,0
+FA Stage 1,2016,1292,signed a renegotiated contract,19,DE,1391,4,0
+FA Stage 1,2016,1338,signed a renegotiated contract,19,P,627,3,0
+FA Stage 1,2016,647,signed a renegotiated contract,19,CB,1118,4,0
+FA Stage 1,2016,1155,signed a renegotiated contract,19,T,1614,5,0
+FA Stage 1,2016,1749,signed a renegotiated contract,19,S,1074,3,0
+FA Stage 1,2016,1132,signed a renegotiated contract,19,C,844,4,0
+FA Stage 1,2016,1453,signed a renegotiated contract,19,ILB,355,3,0
+FA Stage 1,2016,2640,signed a renegotiated contract,19,C,141,2,0
+FA Stage 1,2016,1835,signed a renegotiated contract,19,S,143,2,0
+FA Stage 1,2016,1846,signed a renegotiated contract,19,TE,283,2,0
+FA Stage 1,2016,1662,signed a renegotiated contract,20,QB,2261,3,0
+FA Stage 1,2016,938,signed a renegotiated contract,20,DT,2773,4,0
+FA Stage 1,2016,15,signed a renegotiated contract,20,P,437,2,0
+FA Stage 1,2016,1850,signed a renegotiated contract,20,WR,1641,4,0
+FA Stage 1,2016,1562,signed a renegotiated contract,20,WR,1384,5,0
+FA Stage 1,2016,731,signed a renegotiated contract,20,RB,979,3,0
+FA Stage 1,2016,1080,signed a renegotiated contract,20,T,1050,3,0
+FA Stage 1,2016,1406,signed a renegotiated contract,20,T,1091,5,0
+FA Stage 1,2016,1062,signed a renegotiated contract,20,WR,702,4,0
+FA Stage 1,2016,1117,signed a renegotiated contract,20,T,179,2,0
+FA Stage 1,2016,2352,signed a renegotiated contract,20,QB,143,2,0
+FA Stage 1,2016,1719,signed a renegotiated contract,20,TE,143,2,0
+FA Stage 1,2016,893,signed a renegotiated contract,21,CB,2367,4,0
+FA Stage 1,2016,1752,signed a renegotiated contract,21,WR,3252,5,0
+FA Stage 1,2016,1490,signed a renegotiated contract,21,T,1394,3,0
+FA Stage 1,2016,1317,signed a renegotiated contract,21,WR,1471,5,0
+FA Stage 1,2016,1258,signed a renegotiated contract,21,G,1326,4,0
+FA Stage 1,2016,1738,signed a renegotiated contract,21,K,524,3,0
+FA Stage 1,2016,1100,signed a renegotiated contract,21,T,954,3,0
+FA Stage 1,2016,2249,signed a renegotiated contract,21,ILB,141,2,0
+FA Stage 1,2016,1093,signed a renegotiated contract,21,TE,301,2,0
+FA Stage 1,2016,1944,signed a renegotiated contract,21,RB,145,2,0
+FA Stage 1,2016,1705,signed a renegotiated contract,21,S,245,2,0
+FA Stage 1,2016,495,signed a renegotiated contract,21,C,199,2,0
+FA Stage 1,2016,208,signed a renegotiated contract,21,QB,216,2,0
+FA Stage 1,2016,1369,signed a renegotiated contract,22,G,1735,4,0
+FA Stage 1,2016,569,signed a renegotiated contract,22,WR,1369,3,0
+FA Stage 1,2016,1059,signed a renegotiated contract,22,T,678,4,0
+FA Stage 1,2016,350,signed a renegotiated contract,22,C,1611,3,0
+FA Stage 1,2016,659,signed a renegotiated contract,22,CB,640,4,0
+FA Stage 1,2016,196,signed a renegotiated contract,22,ILB,691,3,0
+FA Stage 1,2016,380,signed a renegotiated contract,22,ILB,380,3,0
+FA Stage 1,2016,1856,signed a renegotiated contract,22,QB,199,2,0
+FA Stage 1,2016,2488,signed a renegotiated contract,22,FB,149,3,0
+FA Stage 1,2016,2981,signed a renegotiated contract,22,ILB,240,3,0
+FA Stage 1,2016,1402,signed a renegotiated contract,23,DE,1949,4,0
+FA Stage 1,2016,194,signed a renegotiated contract,23,T,2125,3,0
+FA Stage 1,2016,492,signed a renegotiated contract,23,CB,1004,3,0
+FA Stage 1,2016,116,signed a renegotiated contract,23,S,906,2,0
+FA Stage 1,2016,313,signed a renegotiated contract,23,CB,941,3,0
+FA Stage 1,2016,1437,signed a renegotiated contract,23,CB,821,4,0
+FA Stage 1,2016,1248,signed a renegotiated contract,23,WR,647,3,0
+FA Stage 1,2016,2497,signed a renegotiated contract,23,FB,161,2,0
+FA Stage 1,2016,157,signed a renegotiated contract,24,C,1856,4,0
+FA Stage 1,2016,1837,signed a renegotiated contract,24,RB,1793,4,0
+FA Stage 1,2016,1295,signed a renegotiated contract,24,WR,2237,4,0
+FA Stage 1,2016,447,signed a renegotiated contract,24,DT,995,3,0
+FA Stage 1,2016,866,signed a renegotiated contract,24,DE,964,4,0
+FA Stage 1,2016,590,signed a renegotiated contract,24,ILB,313,2,0
+FA Stage 1,2016,1285,signed a renegotiated contract,24,RB,334,3,0
+FA Stage 1,2016,1747,signed a renegotiated contract,25,CB,2290,5,0
+FA Stage 1,2016,238,signed a renegotiated contract,25,WR,2314,3,0
+FA Stage 1,2016,1587,signed a renegotiated contract,25,C,2538,4,0
+FA Stage 1,2016,957,signed a renegotiated contract,25,DE,1392,3,0
+FA Stage 1,2016,28,signed a renegotiated contract,25,QB,3687,3,0
+FA Stage 1,2016,500,signed a renegotiated contract,25,T,1968,3,0
+FA Stage 1,2016,459,signed a renegotiated contract,25,RB,1346,3,0
+FA Stage 1,2016,149,signed a renegotiated contract,25,DE,1084,3,0
+FA Stage 1,2016,1703,signed a renegotiated contract,25,T,1779,4,0
+FA Stage 1,2016,712,signed a renegotiated contract,25,WR,1164,3,0
+FA Stage 1,2016,710,signed a renegotiated contract,25,DT,769,4,0
+FA Stage 1,2016,607,signed a renegotiated contract,25,OLB,276,2,0
+FA Stage 1,2016,2697,signed a renegotiated contract,25,G,143,2,0
+FA Stage 1,2016,2394,signed a renegotiated contract,25,QB,141,2,0
+FA Stage 1,2016,1335,signed a renegotiated contract,26,OLB,402,2,0
+FA Stage 1,2016,1506,signed a renegotiated contract,26,DT,789,4,0
+FA Stage 1,2016,192,signed a renegotiated contract,26,WR,832,2,0
+FA Stage 1,2016,1730,signed a renegotiated contract,26,WR,1115,3,0
+FA Stage 1,2016,704,signed a renegotiated contract,26,DE,340,2,0
+FA Stage 1,2016,727,signed a renegotiated contract,26,RB,327,2,0
+FA Stage 1,2016,443,signed a renegotiated contract,27,T,1516,4,0
+FA Stage 1,2016,287,signed a renegotiated contract,27,WR,1066,3,0
+FA Stage 1,2016,1103,signed a renegotiated contract,27,CB,893,4,0
+FA Stage 1,2016,1153,signed a renegotiated contract,27,OLB,341,3,0
+FA Stage 1,2016,1343,signed a renegotiated contract,27,CB,424,2,0
+FA Stage 1,2016,2482,signed a renegotiated contract,27,FB,189,4,0
+FA Stage 1,2016,737,signed a renegotiated contract,27,CB,426,3,0
+FA Stage 1,2016,572,signed a renegotiated contract,27,ILB,207,2,0
+FA Stage 1,2016,1104,signed a renegotiated contract,27,WR,411,2,0
+FA Stage 1,2016,2536,signed a renegotiated contract,27,TE,141,2,0
+FA Stage 1,2016,1289,signed a renegotiated contract,28,CB,1104,5,0
+FA Stage 1,2016,445,signed a renegotiated contract,28,S,1222,3,0
+FA Stage 1,2016,946,signed a renegotiated contract,28,P,475,3,0
+FA Stage 1,2016,302,signed a renegotiated contract,28,DT,455,3,0
+FA Stage 1,2016,753,signed a renegotiated contract,28,TE,334,3,0
+FA Stage 1,2016,2668,signed a renegotiated contract,28,C,542,4,0
+FA Stage 1,2016,1442,signed a renegotiated contract,28,WR,172,2,0
+FA Stage 1,2016,971,signed a renegotiated contract,28,RB,303,2,0
+FA Stage 1,2016,1088,signed a renegotiated contract,29,DE,1618,3,0
+FA Stage 1,2016,305,signed a renegotiated contract,29,DE,1861,3,0
+FA Stage 1,2016,242,signed a renegotiated contract,29,TE,1701,3,0
+FA Stage 1,2016,951,signed a renegotiated contract,29,DT,1507,4,0
+FA Stage 1,2016,314,signed a renegotiated contract,29,CB,1954,3,0
+FA Stage 1,2016,945,signed a renegotiated contract,29,WR,1358,3,0
+FA Stage 1,2016,1712,signed a renegotiated contract,29,T,1565,4,0
+FA Stage 1,2016,1803,signed a renegotiated contract,29,OLB,1317,5,0
+FA Stage 1,2016,1721,signed a renegotiated contract,29,RB,329,2,0
+FA Stage 1,2016,2098,signed a renegotiated contract,29,G,141,2,0
+FA Stage 1,2016,734,signed a renegotiated contract,29,RB,322,2,0
+FA Stage 1,2016,229,signed a renegotiated contract,30,DE,1420,3,0
+FA Stage 1,2016,849,signed a renegotiated contract,30,CB,2000,3,0
+FA Stage 1,2016,1351,signed a renegotiated contract,30,T,1552,3,0
+FA Stage 1,2016,406,signed a renegotiated contract,30,DE,1124,3,0
+FA Stage 1,2016,1354,signed a renegotiated contract,30,G,796,4,0
+FA Stage 1,2016,815,signed a renegotiated contract,30,ILB,705,3,0
+FA Stage 1,2016,474,signed a renegotiated contract,30,G,1046,4,0
+FA Stage 1,2016,2757,signed a renegotiated contract,30,T,143,2,0
+FA Stage 1,2016,2407,signed a renegotiated contract,30,QB,154,2,0
+FA Stage 1,2016,2386,signed a renegotiated contract,30,QB,141,2,0
+FA Stage 1,2016,167,signed a renegotiated contract,31,DE,1126,3,0
+FA Stage 1,2016,803,signed a renegotiated contract,31,DT,754,4,0
+FA Stage 1,2016,1569,signed a renegotiated contract,31,P,413,4,0
+FA Stage 1,2016,2549,signed a renegotiated contract,31,TE,227,2,0
+FA Stage 2,2016,307,signed as an unrestricted free agent,0,OLB,3932,3,27
+FA Stage 2,2016,307,turned down a contract offer,18,OLB,3397,3,0
+FA Stage 2,2016,307,turned down a contract offer,28,OLB,3275,3,0
+FA Stage 2,2016,307,turned down a contract offer,31,OLB,3883,3,0
+FA Stage 2,2016,435,signed as a free agent,0,DE,3065,4,99
+FA Stage 2,2016,435,turned down a contract offer,12,DE,2842,4,0
+FA Stage 2,2016,435,turned down a contract offer,20,DE,2812,4,0
+FA Stage 2,2016,554,signed as a free agent,22,DT,932,4,99
+FA Stage 2,2016,554,turned down a contract offer,3,DT,813,4,0
+FA Stage 2,2016,554,turned down a contract offer,7,DT,932,4,0
+FA Stage 2,2016,554,turned down a contract offer,9,DT,910,4,0
+FA Stage 2,2016,554,turned down a contract offer,15,DT,926,4,0
+FA Stage 2,2016,554,turned down a contract offer,18,DT,854,4,0
+FA Stage 2,2016,597,signed as an unrestricted free agent,16,CB,5240,5,3
+FA Stage 2,2016,597,turned down a contract offer,17,CB,3717,4,0
+FA Stage 2,2016,597,turned down a contract offer,20,CB,3537,4,0
+FA Stage 2,2016,673,re-signed as an unrestricted free agent,14,CB,2604,4,14
+FA Stage 2,2016,673,turned down a contract offer,3,CB,2468,4,0
+FA Stage 2,2016,673,turned down a contract offer,17,CB,2437,4,0
+FA Stage 2,2016,1134,signed as a free agent,9,RB,5579,5,99
+FA Stage 2,2016,1134,turned down a contract offer,17,RB,3023,4,0
+FA Stage 2,2016,1134,turned down a contract offer,22,RB,5034,5,0
+FA Stage 3,2016,1654,signed to a new contract,1,QB,635,3,0
+FA Stage 3,2016,3523,signed to a new contract,3,G,119,2,0
+FA Stage 3,2016,3886,signed to a new contract,5,CB,516,3,0
+FA Stage 3,2016,2834,signed to a new contract,5,K,158,2,0
+FA Stage 3,2016,3089,signed to a new contract,6,CB,279,2,0
+FA Stage 3,2016,3158,signed to a new contract,7,S,246,2,0
+FA Stage 3,2016,1903,signed to a new contract,7,QB,137,2,0
+FA Stage 3,2016,2783,signed to a new contract,7,T,267,2,0
+FA Stage 3,2016,3418,signed to a new contract,8,WR,320,2,0
+FA Stage 3,2016,2302,signed to a new contract,9,OLB,276,2,0
+FA Stage 3,2016,2629,signed to a new contract,10,WR,578,3,0
+FA Stage 3,2016,2307,signed to a new contract,10,CB,337,2,0
+FA Stage 3,2016,1653,signed to a new contract,15,QB,134,2,0
+FA Stage 3,2016,2838,signed to a new contract,16,K,61,1,0
+FA Stage 3,2016,1447,signed to a new contract,17,G,152,2,0
+FA Stage 3,2016,1508,signed to a new contract,18,T,78,1,0
+FA Stage 3,2016,3662,signed to a new contract,18,K,206,3,0
+FA Stage 3,2016,1458,signed to a new contract,18,QB,930,4,0
+FA Stage 3,2016,1345,signed to a new contract,20,QB,69,1,0
+FA Stage 3,2016,2644,signed to a new contract,21,C,399,3,0
+FA Stage 3,2016,2841,signed to a new contract,22,K,241,3,0
+FA Stage 3,2016,1832,signed to a new contract,22,WR,391,2,0
+FA Stage 3,2016,2751,signed to a new contract,23,T,543,4,0
+FA Stage 3,2016,996,signed to a new contract,23,T,134,2,0
+FA Stage 3,2016,3481,signed to a new contract,23,C,119,2,0
+FA Stage 3,2016,3472,signed to a new contract,31,C,118,2,0
+FA Stage 3,2016,203,signed as an unrestricted free agent,18,DT,2612,4,5
+FA Stage 3,2016,203,turned down a contract offer,4,DT,1686,3,0
+FA Stage 3,2016,203,turned down a contract offer,9,DT,2650,4,0
+FA Stage 3,2016,203,turned down a contract offer,25,DT,1852,3,0
+FA Stage 3,2016,203,turned down a contract offer,29,DT,2299,4,0
+FA Stage 3,2016,466,signed as an unrestricted free agent,12,DE,5694,5,10
+FA Stage 3,2016,466,turned down a contract offer,10,DE,3449,4,0
+FA Stage 3,2016,466,turned down a contract offer,18,DE,5264,5,0
+FA Stage 3,2016,466,turned down a contract offer,20,DE,3325,4,0
+FA Stage 3,2016,466,turned down a contract offer,21,DE,4050,4,0
+FA Stage 3,2016,466,turned down a contract offer,27,DE,3677,4,0
+FA Stage 3,2016,473,signed as an unrestricted free agent,19,DE,3036,4,22
+FA Stage 3,2016,473,turned down a contract offer,10,DE,2064,3,0
+FA Stage 3,2016,473,turned down a contract offer,20,DE,1934,3,0
+FA Stage 3,2016,473,turned down a contract offer,21,DE,1767,3,0
+FA Stage 3,2016,578,signed as an unrestricted free agent,20,DE,3714,4,9
+FA Stage 3,2016,578,turned down a contract offer,10,DE,4230,4,0
+FA Stage 3,2016,578,turned down a contract offer,21,DE,3296,4,0
+FA Stage 3,2016,1006,signed as an unrestricted free agent,10,QB,13375,5,5
+FA Stage 3,2016,1006,turned down a contract offer,6,QB,13089,5,0
+FA Stage 3,2016,1006,turned down a contract offer,7,QB,12565,5,0
+FA Stage 3,2016,1006,turned down a contract offer,17,QB,11698,5,0
+FA Stage 3,2016,1006,turned down a contract offer,31,QB,10225,5,0
+FA Stage 3,2016,1630,signed as a free agent,31,OLB,3912,4,99
+FA Stage 3,2016,1630,turned down a contract offer,18,OLB,3272,4,0
+FA Stage 3,2016,1630,turned down a contract offer,20,OLB,3065,4,0
+FA Stage 3,2016,1630,turned down a contract offer,28,OLB,3596,4,0
+FA Stage 4,2016,395,signed as a free agent,7,RB,665,3,99
+FA Stage 4,2016,395,turned down a contract offer,2,RB,546,3,0
+FA Stage 4,2016,395,turned down a contract offer,6,RB,614,3,0
+FA Stage 4,2016,1581,signed as a free agent,30,CB,2715,5,99
+FA Stage 4,2016,1581,turned down a contract offer,3,CB,2137,5,0
+FA Stage 4,2016,1581,turned down a contract offer,17,CB,2537,5,0
+FA Stage 4,2016,1871,signed as a free agent,9,DE,710,3,99
+FA Stage 4,2016,1871,turned down a contract offer,7,DE,681,3,0
+FA Stage 4,2016,1871,turned down a contract offer,21,DE,567,3,0
+FA Stage 4,2016,1871,turned down a contract offer,24,DE,593,3,0
+FA Stage 5,2016,291,signed as an unrestricted free agent,28,OLB,2408,3,11
+FA Stage 5,2016,291,turned down a contract offer,18,OLB,2248,3,0
+FA Stage 5,2016,291,turned down a contract offer,31,OLB,2260,3,0
+FA Stage 5,2016,312,re-signed as an unrestricted free agent,12,ILB,178,1,12
+FA Stage 5,2016,312,turned down a contract offer,3,ILB,194,1,0
+FA Stage 5,2016,312,turned down a contract offer,31,ILB,190,1,0
+FA Stage 5,2016,373,signed as an unrestricted free agent,20,S,2383,4,6
+FA Stage 5,2016,373,turned down a contract offer,3,S,2072,4,0
+FA Stage 5,2016,373,turned down a contract offer,7,S,2108,4,0
+FA Stage 5,2016,373,turned down a contract offer,30,S,2134,4,0
+FA Stage 5,2016,455,signed as an unrestricted free agent,3,CB,738,3,8
+FA Stage 5,2016,455,turned down a contract offer,17,CB,695,3,0
+FA Stage 5,2016,562,signed as an unrestricted free agent,9,QB,8840,5,26
+FA Stage 5,2016,562,turned down a contract offer,11,QB,6090,4,0
+FA Stage 5,2016,562,turned down a contract offer,26,QB,5636,4,0
+FA Stage 5,2016,562,turned down a contract offer,28,QB,6171,4,0
+FA Stage 5,2016,562,turned down a contract offer,29,QB,5429,4,0
+FA Stage 5,2016,783,signed as a free agent,29,ILB,2652,5,99
+FA Stage 5,2016,783,turned down a contract offer,3,ILB,2540,5,0
+FA Stage 5,2016,783,turned down a contract offer,31,ILB,2256,5,0
+FA Stage 5,2016,999,signed as an unrestricted free agent,7,S,2342,4,21
+FA Stage 5,2016,999,turned down a contract offer,15,S,2388,4,0
+FA Stage 5,2016,1280,signed as a free agent,24,WR,215,2,99
+FA Stage 5,2016,1280,turned down a contract offer,7,WR,201,2,0
+FA Stage 5,2016,1280,turned down a contract offer,9,WR,193,2,0
+FA Stage 5,2016,1280,turned down a contract offer,25,WR,213,2,0
+FA Stage 5,2016,1280,turned down a contract offer,30,WR,192,2,0
+FA Stage 5,2016,1788,signed as a free agent,17,RB,3491,5,99
+FA Stage 5,2016,1788,turned down a contract offer,6,RB,2859,5,0
+FA Stage 5,2016,1788,turned down a contract offer,15,RB,3413,5,0
+FA Stage 5,2016,1788,turned down a contract offer,22,RB,2780,5,0
+FA Stage 5,2016,1788,turned down a contract offer,23,RB,2886,5,0
+FA Stage 5,2016,1788,turned down a contract offer,25,RB,3228,5,0
+FA Stage 5,2016,1796,signed as a free agent,7,DE,3403,5,99
+FA Stage 5,2016,1796,turned down a contract offer,3,DE,3122,5,0
+FA Stage 5,2016,1796,turned down a contract offer,18,DE,3150,5,0
+FA Stage 5,2016,1796,turned down a contract offer,20,DE,3262,5,0
+FA Stage 5,2016,1796,turned down a contract offer,26,DE,3319,5,0
+FA Stage 5,2016,1808,signed as a free agent,6,RB,460,3,99
+FA Stage 5,2016,1808,turned down a contract offer,22,RB,442,3,0
+FA Stage 5,2016,1808,turned down a contract offer,23,RB,438,3,0
+FA Stage 6,2016,114,signed as a free agent,30,C,1777,3,99
+FA Stage 6,2016,114,turned down a contract offer,1,C,1731,3,0
+FA Stage 6,2016,114,turned down a contract offer,6,C,1744,3,0
+FA Stage 6,2016,114,turned down a contract offer,9,C,1665,3,0
+FA Stage 6,2016,114,turned down a contract offer,17,C,1560,3,0
+FA Stage 6,2016,151,signed as a free agent,29,C,1161,3,99
+FA Stage 6,2016,165,signed as a free agent,25,RB,568,1,99
+FA Stage 6,2016,165,turned down a contract offer,1,RB,545,1,0
+FA Stage 6,2016,165,turned down a contract offer,15,RB,538,1,0
+FA Stage 6,2016,165,turned down a contract offer,21,RB,508,1,0
+FA Stage 6,2016,165,turned down a contract offer,22,RB,520,1,0
+FA Stage 6,2016,165,turned down a contract offer,23,RB,541,1,0
+FA Stage 6,2016,190,signed as a free agent,29,DT,909,2,99
+FA Stage 6,2016,190,turned down a contract offer,3,DT,856,2,0
+FA Stage 6,2016,190,turned down a contract offer,9,DT,893,2,0
+FA Stage 6,2016,236,signed as a free agent,25,WR,538,2,99
+FA Stage 6,2016,236,turned down a contract offer,6,WR,513,2,0
+FA Stage 6,2016,236,turned down a contract offer,7,WR,446,2,0
+FA Stage 6,2016,236,turned down a contract offer,9,WR,449,2,0
+FA Stage 6,2016,236,turned down a contract offer,30,WR,533,2,0
+FA Stage 6,2016,236,turned down a contract offer,31,WR,485,2,0
+FA Stage 6,2016,475,signed as a free agent,17,C,2265,4,99
+FA Stage 6,2016,475,turned down a contract offer,9,C,2252,4,0
+FA Stage 6,2016,550,signed as a free agent,16,QB,202,2,99
+FA Stage 6,2016,550,turned down a contract offer,11,QB,188,2,0
+FA Stage 6,2016,550,turned down a contract offer,26,QB,189,2,0
+FA Stage 6,2016,550,turned down a contract offer,29,QB,194,2,0
+FA Stage 6,2016,632,signed as a free agent,15,RB,549,3,99
+FA Stage 6,2016,632,turned down a contract offer,2,RB,503,3,0
+FA Stage 6,2016,632,turned down a contract offer,13,RB,460,3,0
+FA Stage 6,2016,632,turned down a contract offer,22,RB,478,3,0
+FA Stage 6,2016,632,turned down a contract offer,23,RB,460,3,0
+FA Stage 6,2016,797,signed as an unrestricted free agent,4,T,844,4,22
+FA Stage 6,2016,797,turned down a contract offer,1,T,708,4,0
+FA Stage 6,2016,797,turned down a contract offer,8,T,742,4,0
+FA Stage 6,2016,797,turned down a contract offer,13,T,695,4,0
+FA Stage 6,2016,797,turned down a contract offer,15,T,725,4,0
+FA Stage 6,2016,797,turned down a contract offer,16,T,805,4,0
+FA Stage 6,2016,836,signed as an unrestricted free agent,21,DE,359,2,25
+FA Stage 6,2016,836,turned down a contract offer,7,DE,323,2,0
+FA Stage 6,2016,836,turned down a contract offer,18,DE,318,2,0
+FA Stage 6,2016,836,turned down a contract offer,24,DE,325,2,0
+FA Stage 6,2016,917,re-signed as an unrestricted free agent,2,RB,2335,4,2
+FA Stage 6,2016,917,turned down a contract offer,22,RB,2382,4,0
+FA Stage 6,2016,917,turned down a contract offer,23,RB,2255,4,0
+FA Stage 6,2016,947,signed as a free agent,1,RB,348,2,99
+FA Stage 6,2016,947,turned down a contract offer,22,RB,298,2,0
+FA Stage 6,2016,947,turned down a contract offer,23,RB,266,2,0
+FA Stage 6,2016,955,signed as an unrestricted free agent,18,ILB,314,2,25
+FA Stage 6,2016,955,turned down a contract offer,10,ILB,261,2,0
+FA Stage 6,2016,955,turned down a contract offer,23,ILB,305,2,0
+FA Stage 6,2016,965,signed as a free agent,6,DT,285,2,99
+FA Stage 6,2016,965,turned down a contract offer,31,DT,251,2,0
+FA Stage 6,2016,1091,signed as a free agent,31,ILB,316,2,99
+FA Stage 6,2016,1091,turned down a contract offer,3,ILB,271,2,0
+FA Stage 6,2016,1108,signed as a free agent,19,DE,332,2,99
+FA Stage 6,2016,1108,turned down a contract offer,18,DE,317,2,0
+FA Stage 6,2016,1216,signed as a free agent,7,WR,542,2,99
+FA Stage 6,2016,1216,turned down a contract offer,6,WR,491,2,0
+FA Stage 6,2016,1216,turned down a contract offer,9,WR,542,2,0
+FA Stage 6,2016,1216,turned down a contract offer,30,WR,465,2,0
+FA Stage 7,2016,33,signed as a free agent,25,K,523,2,99
+FA Stage 7,2016,33,turned down a contract offer,1,K,523,2,0
+FA Stage 7,2016,33,turned down a contract offer,7,K,525,2,0
+FA Stage 7,2016,33,turned down a contract offer,20,K,479,2,0
+FA Stage 7,2016,33,turned down a contract offer,23,K,480,2,0
+FA Stage 7,2016,140,re-signed as an unrestricted free agent,23,QB,210,2,23
+FA Stage 7,2016,140,turned down a contract offer,0,QB,211,2,0
+FA Stage 7,2016,140,turned down a contract offer,8,QB,210,2,0
+FA Stage 7,2016,140,turned down a contract offer,9,QB,211,2,0
+FA Stage 7,2016,140,turned down a contract offer,15,QB,210,2,0
+FA Stage 7,2016,140,turned down a contract offer,19,QB,210,2,0
+FA Stage 7,2016,140,turned down a contract offer,24,QB,210,2,0
+FA Stage 7,2016,140,turned down a contract offer,25,QB,210,2,0
+FA Stage 7,2016,140,turned down a contract offer,26,QB,214,2,0
+FA Stage 7,2016,140,turned down a contract offer,28,QB,210,2,0
+FA Stage 7,2016,140,turned down a contract offer,31,QB,210,2,0
+FA Stage 7,2016,155,signed as an unrestricted free agent,20,TE,189,2,19
+FA Stage 7,2016,155,turned down a contract offer,3,TE,193,2,0
+FA Stage 7,2016,155,turned down a contract offer,6,TE,188,2,0
+FA Stage 7,2016,155,turned down a contract offer,25,TE,189,2,0
+FA Stage 7,2016,155,turned down a contract offer,30,TE,188,2,0
+FA Stage 7,2016,173,signed as a free agent,3,WR,780,3,99
+FA Stage 7,2016,173,turned down a contract offer,9,WR,776,3,0
+FA Stage 7,2016,173,turned down a contract offer,30,WR,772,3,0
+FA Stage 7,2016,211,signed as a free agent,16,T,2565,3,99
+FA Stage 7,2016,211,turned down a contract offer,1,T,2412,3,0
+FA Stage 7,2016,211,turned down a contract offer,15,T,2485,3,0
+FA Stage 7,2016,254,signed as an unrestricted free agent,24,DE,1575,3,5
+FA Stage 7,2016,254,turned down a contract offer,7,DE,1528,3,0
+FA Stage 7,2016,254,turned down a contract offer,18,DE,1528,3,0
+FA Stage 7,2016,254,turned down a contract offer,20,DE,1521,3,0
+FA Stage 7,2016,320,re-signed as an unrestricted free agent,31,QB,111,1,31
+FA Stage 7,2016,320,turned down a contract offer,0,QB,109,1,0
+FA Stage 7,2016,320,turned down a contract offer,8,QB,112,1,0
+FA Stage 7,2016,320,turned down a contract offer,9,QB,112,1,0
+FA Stage 7,2016,354,signed as a free agent,30,WR,476,2,99
+FA Stage 7,2016,354,turned down a contract offer,9,WR,443,2,0
+FA Stage 7,2016,499,signed as a free agent,9,WR,833,3,99
+FA Stage 7,2016,499,turned down a contract offer,6,WR,762,3,0
+FA Stage 7,2016,570,signed as a free agent,17,CB,403,2,99
+FA Stage 7,2016,611,signed as a free agent,6,WR,424,2,99
+FA Stage 7,2016,686,signed as an unrestricted free agent,22,RB,345,2,29
+FA Stage 7,2016,686,turned down a contract offer,12,RB,300,2,0
+FA Stage 7,2016,686,turned down a contract offer,13,RB,339,2,0
+FA Stage 7,2016,686,turned down a contract offer,15,RB,329,2,0
+FA Stage 7,2016,686,turned down a contract offer,23,RB,345,2,0
+FA Stage 7,2016,689,signed as an unrestricted free agent,6,ILB,81,1,14
+FA Stage 7,2016,689,turned down a contract offer,17,ILB,81,1,0
+FA Stage 7,2016,713,signed as a free agent,19,WR,91,1,99
+FA Stage 7,2016,713,turned down a contract offer,4,WR,94,1,0
+FA Stage 7,2016,713,turned down a contract offer,10,WR,90,1,0
+FA Stage 7,2016,713,turned down a contract offer,13,WR,90,1,0
+FA Stage 7,2016,713,turned down a contract offer,15,WR,90,1,0
+FA Stage 7,2016,713,turned down a contract offer,16,WR,93,1,0
+FA Stage 7,2016,713,turned down a contract offer,17,WR,90,1,0
+FA Stage 7,2016,713,turned down a contract offer,18,WR,92,1,0
+FA Stage 7,2016,713,turned down a contract offer,20,WR,91,1,0
+FA Stage 7,2016,713,turned down a contract offer,21,WR,91,1,0
+FA Stage 7,2016,713,turned down a contract offer,23,WR,93,1,0
+FA Stage 7,2016,713,turned down a contract offer,24,WR,93,1,0
+FA Stage 7,2016,713,turned down a contract offer,25,WR,90,1,0
+FA Stage 7,2016,713,turned down a contract offer,28,WR,90,1,0
+FA Stage 7,2016,774,signed as a free agent,19,DT,552,3,99
+FA Stage 7,2016,774,turned down a contract offer,3,DT,471,3,0
+FA Stage 7,2016,774,turned down a contract offer,7,DT,492,3,0
+FA Stage 7,2016,774,turned down a contract offer,15,DT,547,3,0
+FA Stage 7,2016,774,turned down a contract offer,25,DT,518,3,0
+FA Stage 7,2016,913,signed as an unrestricted free agent,13,RB,2179,4,17
+FA Stage 7,2016,913,turned down a contract offer,12,RB,2165,4,0
+FA Stage 7,2016,913,turned down a contract offer,15,RB,2006,4,0
+FA Stage 7,2016,913,turned down a contract offer,21,RB,1949,4,0
+FA Stage 7,2016,913,turned down a contract offer,23,RB,1906,4,0
+FA Stage 7,2016,1074,signed as an unrestricted free agent,29,DE,337,2,12
+FA Stage 7,2016,1074,turned down a contract offer,10,DE,327,2,0
+FA Stage 7,2016,1074,turned down a contract offer,12,DE,325,2,0
+FA Stage 7,2016,1074,turned down a contract offer,20,DE,327,2,0
+FA Stage 7,2016,1149,signed as a free agent,7,DE,681,3,99
+FA Stage 7,2016,1220,signed as a free agent,15,RB,331,2,99
+FA Stage 7,2016,1220,turned down a contract offer,23,RB,322,2,0
+FA Stage 7,2016,1262,signed as a free agent,15,DT,483,3,99
+FA Stage 7,2016,1262,turned down a contract offer,3,DT,415,3,0
+FA Stage 7,2016,1262,turned down a contract offer,4,DT,415,3,0
+FA Stage 7,2016,1262,turned down a contract offer,7,DT,401,3,0
+FA Stage 7,2016,1262,turned down a contract offer,9,DT,456,3,0
+FA Stage 7,2016,1262,turned down a contract offer,25,DT,405,3,0
+FA Stage 7,2016,1377,signed as a free agent,31,C,344,2,99
+FA Stage 7,2016,1377,turned down a contract offer,14,C,266,2,0
+FA Stage 7,2016,1377,turned down a contract offer,15,C,286,2,0
+FA Stage 7,2016,1377,turned down a contract offer,18,C,299,2,0
+FA Stage 7,2016,1377,turned down a contract offer,27,C,268,2,0
+FA Stage 7,2016,1809,signed as a free agent,3,S,719,4,99
+FA Stage 7,2016,1809,turned down a contract offer,24,S,589,4,0
+FA Stage 7,2016,1809,turned down a contract offer,30,S,704,4,0
+FA Stage 7,2016,1834,signed as a free agent,12,ILB,236,2,99
+FA Stage 7,2016,1834,turned down a contract offer,1,ILB,227,2,0
+FA Stage 7,2016,1834,turned down a contract offer,7,ILB,203,2,0
+FA Stage 8,2016,94,signed as an unrestricted free agent,28,QB,4177,3,16
+FA Stage 8,2016,94,turned down a contract offer,7,QB,4682,3,0
+FA Stage 8,2016,94,turned down a contract offer,11,QB,4307,3,0
+FA Stage 8,2016,94,turned down a contract offer,26,QB,4236,3,0
+FA Stage 8,2016,94,turned down a contract offer,27,QB,4408,3,0
+FA Stage 8,2016,138,signed as an unrestricted free agent,15,TE,319,2,5
+FA Stage 8,2016,143,signed as a free agent,9,K,811,3,99
+FA Stage 8,2016,252,signed as an unrestricted free agent,7,C,208,2,9
+FA Stage 8,2016,252,turned down a contract offer,2,C,199,2,0
+FA Stage 8,2016,252,turned down a contract offer,17,C,199,2,0
+FA Stage 8,2016,348,signed as a free agent,26,DE,406,2,99
+FA Stage 8,2016,348,turned down a contract offer,3,DE,347,2,0
+FA Stage 8,2016,348,turned down a contract offer,18,DE,326,2,0
+FA Stage 8,2016,348,turned down a contract offer,20,DE,334,2,0
+FA Stage 8,2016,486,signed as a free agent,26,T,457,3,99
+FA Stage 8,2016,503,signed as a free agent,3,C,1708,4,99
+FA Stage 8,2016,503,turned down a contract offer,7,C,1532,4,0
+FA Stage 8,2016,503,turned down a contract offer,9,C,1718,4,0
+FA Stage 8,2016,503,turned down a contract offer,16,C,1685,4,0
+FA Stage 8,2016,503,turned down a contract offer,18,C,1504,4,0
+FA Stage 8,2016,503,turned down a contract offer,25,C,1623,4,0
+FA Stage 8,2016,580,signed as an unrestricted free agent,6,CB,87,1,13
+FA Stage 8,2016,580,turned down a contract offer,26,CB,90,1,0
+FA Stage 8,2016,603,signed as an unrestricted free agent,28,ILB,87,1,5
+FA Stage 8,2016,603,turned down a contract offer,3,ILB,86,1,0
+FA Stage 8,2016,603,turned down a contract offer,7,ILB,86,1,0
+FA Stage 8,2016,603,turned down a contract offer,10,ILB,85,1,0
+FA Stage 8,2016,603,turned down a contract offer,16,ILB,88,1,0
+FA Stage 8,2016,603,turned down a contract offer,17,ILB,87,1,0
+FA Stage 8,2016,603,turned down a contract offer,30,ILB,90,1,0
+FA Stage 8,2016,735,signed as a free agent,25,G,540,3,99
+FA Stage 8,2016,735,turned down a contract offer,9,G,512,3,0
+FA Stage 8,2016,735,turned down a contract offer,22,G,439,3,0
+FA Stage 8,2016,735,turned down a contract offer,23,G,479,3,0
+FA Stage 8,2016,735,turned down a contract offer,29,G,487,3,0
+FA Stage 8,2016,792,signed as a free agent,29,QB,915,4,99
+FA Stage 8,2016,792,turned down a contract offer,9,QB,915,4,0
+FA Stage 8,2016,792,turned down a contract offer,16,QB,861,4,0
+FA Stage 8,2016,792,turned down a contract offer,19,QB,908,4,0
+FA Stage 8,2016,862,signed as an unrestricted free agent,15,WR,520,2,19
+FA Stage 8,2016,862,turned down a contract offer,6,WR,516,2,0
+FA Stage 8,2016,862,turned down a contract offer,30,WR,457,2,0
+FA Stage 8,2016,862,turned down a contract offer,31,WR,459,2,0
+FA Stage 8,2016,871,signed as a free agent,29,OLB,545,3,99
+FA Stage 8,2016,871,turned down a contract offer,15,OLB,464,3,0
+FA Stage 8,2016,871,turned down a contract offer,18,OLB,533,3,0
+FA Stage 8,2016,871,turned down a contract offer,20,OLB,504,3,0
+FA Stage 8,2016,871,turned down a contract offer,25,OLB,442,3,0
+FA Stage 8,2016,872,signed as an unrestricted free agent,9,DT,478,3,18
+FA Stage 8,2016,872,turned down a contract offer,3,DT,395,3,0
+FA Stage 8,2016,872,turned down a contract offer,18,DT,424,3,0
+FA Stage 8,2016,872,turned down a contract offer,31,DT,454,3,0
+FA Stage 8,2016,880,signed as an unrestricted free agent,30,WR,775,3,2
+FA Stage 8,2016,880,turned down a contract offer,2,WR,640,3,0
+FA Stage 8,2016,880,turned down a contract offer,12,WR,761,3,0
+FA Stage 8,2016,880,turned down a contract offer,27,WR,737,3,0
+FA Stage 8,2016,883,signed as a free agent,23,TE,371,3,99
+FA Stage 8,2016,981,signed as a free agent,19,OLB,297,2,99
+FA Stage 8,2016,981,turned down a contract offer,2,OLB,255,2,0
+FA Stage 8,2016,981,turned down a contract offer,4,OLB,253,2,0
+FA Stage 8,2016,981,turned down a contract offer,10,OLB,242,2,0
+FA Stage 8,2016,981,turned down a contract offer,12,OLB,261,2,0
+FA Stage 8,2016,981,turned down a contract offer,16,OLB,305,2,0
+FA Stage 8,2016,981,turned down a contract offer,20,OLB,248,2,0
+FA Stage 8,2016,981,turned down a contract offer,21,OLB,276,2,0
+FA Stage 8,2016,981,turned down a contract offer,25,OLB,282,2,0
+FA Stage 8,2016,981,turned down a contract offer,27,OLB,244,2,0
+FA Stage 8,2016,981,turned down a contract offer,28,OLB,265,2,0
+FA Stage 8,2016,981,turned down a contract offer,30,OLB,289,2,0
+FA Stage 8,2016,981,turned down a contract offer,31,OLB,278,2,0
+FA Stage 8,2016,1002,signed as a free agent,3,ILB,499,3,99
+FA Stage 8,2016,1002,turned down a contract offer,16,ILB,461,3,0
+FA Stage 8,2016,1002,turned down a contract offer,17,ILB,425,3,0
+FA Stage 8,2016,1002,turned down a contract offer,23,ILB,425,3,0
+FA Stage 8,2016,1002,turned down a contract offer,25,ILB,439,3,0
+FA Stage 8,2016,1013,signed as a free agent,13,DT,459,3,99
+FA Stage 8,2016,1013,turned down a contract offer,3,DT,451,3,0
+FA Stage 8,2016,1013,turned down a contract offer,10,DT,405,3,0
+FA Stage 8,2016,1054,signed as an unrestricted free agent,1,G,820,4,10
+FA Stage 8,2016,1054,turned down a contract offer,2,G,813,4,0
+FA Stage 8,2016,1054,turned down a contract offer,10,G,722,4,0
+FA Stage 8,2016,1191,signed as an unrestricted free agent,20,DE,549,3,18
+FA Stage 8,2016,1191,turned down a contract offer,3,DE,532,3,0
+FA Stage 8,2016,1191,turned down a contract offer,18,DE,497,3,0
+FA Stage 8,2016,1199,signed as a free agent,30,S,302,2,99
+FA Stage 8,2016,1199,turned down a contract offer,16,S,300,2,0
+FA Stage 8,2016,1199,turned down a contract offer,18,S,277,2,0
+FA Stage 8,2016,1199,turned down a contract offer,21,S,235,2,0
+FA Stage 8,2016,1199,turned down a contract offer,24,S,299,2,0
+FA Stage 8,2016,1318,signed as a free agent,31,OLB,2731,5,99
+FA Stage 8,2016,1318,turned down a contract offer,15,OLB,2731,5,0
+FA Stage 8,2016,1318,turned down a contract offer,18,OLB,2287,5,0
+FA Stage 8,2016,1318,turned down a contract offer,25,OLB,2576,5,0
+FA Stage 8,2016,1567,signed as a free agent,21,RB,490,3,99
+FA Stage 8,2016,1567,turned down a contract offer,6,RB,401,3,0
+FA Stage 8,2016,1567,turned down a contract offer,10,RB,435,3,0
+FA Stage 8,2016,1567,turned down a contract offer,12,RB,453,3,0
+FA Stage 8,2016,1567,turned down a contract offer,22,RB,466,3,0
+FA Stage 8,2016,1567,turned down a contract offer,23,RB,416,3,0
+FA Stage 8,2016,1585,signed as a free agent,17,WR,79,1,99
+FA Stage 8,2016,1585,turned down a contract offer,2,WR,77,1,0
+FA Stage 8,2016,1585,turned down a contract offer,3,WR,77,1,0
+FA Stage 8,2016,1677,signed as a free agent,14,DE,582,3,99
+FA Stage 8,2016,1677,turned down a contract offer,3,DE,543,3,0
+FA Stage 8,2016,1677,turned down a contract offer,18,DE,565,3,0
+FA Stage 8,2016,2788,signed as a free agent,1,T,263,2,99
+FA Stage 8,2016,2788,turned down a contract offer,13,T,247,2,0
+FA Stage 8,2016,2788,turned down a contract offer,15,T,253,2,0
+FA Stage 8,2016,2788,turned down a contract offer,28,T,245,2,0
+FA Stage 8,2016,2929,signed as a free agent,7,DT,449,3,99
+FA Stage 8,2016,2929,turned down a contract offer,3,DT,337,3,0
+FA Stage 8,2016,2929,turned down a contract offer,4,DT,404,3,0
+FA Stage 8,2016,2929,turned down a contract offer,15,DT,442,3,0
+FA Stage 8,2016,2929,turned down a contract offer,25,DT,337,3,0
+FA Stage 9,2016,3558,signed to a new contract,0,G,205,2,0
+FA Stage 9,2016,3209,signed to a new contract,0,QB,118,2,0
+FA Stage 9,2016,22,signed as a free agent,12,K,109,1,99
+FA Stage 9,2016,22,turned down a contract offer,7,K,107,1,0
+FA Stage 9,2016,96,signed as an unrestricted free agent,3,T,339,2,5
+FA Stage 9,2016,96,turned down a contract offer,25,T,310,2,0
+FA Stage 9,2016,123,signed as a free agent,19,QB,215,2,99
+FA Stage 9,2016,123,turned down a contract offer,1,QB,210,2,0
+FA Stage 9,2016,230,signed as an unrestricted free agent,26,CB,412,2,7
+FA Stage 9,2016,230,turned down a contract offer,1,CB,349,2,0
+FA Stage 9,2016,230,turned down a contract offer,3,CB,329,2,0
+FA Stage 9,2016,230,turned down a contract offer,7,CB,356,2,0
+FA Stage 9,2016,230,turned down a contract offer,9,CB,358,2,0
+FA Stage 9,2016,230,turned down a contract offer,13,CB,392,2,0
+FA Stage 9,2016,230,turned down a contract offer,18,CB,323,2,0
+FA Stage 9,2016,230,turned down a contract offer,25,CB,353,2,0
+FA Stage 9,2016,230,turned down a contract offer,31,CB,360,2,0
+FA Stage 9,2016,264,signed as a free agent,25,T,188,2,99
+FA Stage 9,2016,264,turned down a contract offer,22,T,188,2,0
+FA Stage 9,2016,274,signed as an unrestricted free agent,26,DT,395,3,5
+FA Stage 9,2016,275,signed as a free agent,15,T,535,3,99
+FA Stage 9,2016,275,turned down a contract offer,8,T,520,3,0
+FA Stage 9,2016,275,turned down a contract offer,28,T,523,3,0
+FA Stage 9,2016,352,signed as an unrestricted free agent,28,T,518,3,5
+FA Stage 9,2016,352,turned down a contract offer,9,T,522,3,0
+FA Stage 9,2016,411,signed as a free agent,12,TE,508,3,99
+FA Stage 9,2016,411,turned down a contract offer,0,TE,426,3,0
+FA Stage 9,2016,411,turned down a contract offer,6,TE,472,3,0
+FA Stage 9,2016,411,turned down a contract offer,9,TE,498,3,0
+FA Stage 9,2016,411,turned down a contract offer,13,TE,486,3,0
+FA Stage 9,2016,411,turned down a contract offer,14,TE,427,3,0
+FA Stage 9,2016,411,turned down a contract offer,17,TE,478,3,0
+FA Stage 9,2016,411,turned down a contract offer,18,TE,461,3,0
+FA Stage 9,2016,411,turned down a contract offer,19,TE,481,3,0
+FA Stage 9,2016,411,turned down a contract offer,20,TE,396,3,0
+FA Stage 9,2016,411,turned down a contract offer,22,TE,391,3,0
+FA Stage 9,2016,411,turned down a contract offer,24,TE,430,3,0
+FA Stage 9,2016,411,turned down a contract offer,25,TE,399,3,0
+FA Stage 9,2016,411,turned down a contract offer,27,TE,447,3,0
+FA Stage 9,2016,411,turned down a contract offer,28,TE,393,3,0
+FA Stage 9,2016,411,turned down a contract offer,30,TE,432,3,0
+FA Stage 9,2016,411,turned down a contract offer,31,TE,405,3,0
+FA Stage 9,2016,412,signed as a free agent,22,RB,471,3,99
+FA Stage 9,2016,412,turned down a contract offer,10,RB,454,3,0
+FA Stage 9,2016,412,turned down a contract offer,23,RB,465,3,0
+FA Stage 9,2016,462,signed as a free agent,6,C,314,2,99
+FA Stage 9,2016,462,turned down a contract offer,8,C,272,2,0
+FA Stage 9,2016,462,turned down a contract offer,16,C,273,2,0
+FA Stage 9,2016,462,turned down a contract offer,20,C,302,2,0
+FA Stage 9,2016,462,turned down a contract offer,23,C,273,2,0
+FA Stage 9,2016,545,signed as a free agent,27,K,288,3,99
+FA Stage 9,2016,548,re-signed as an unrestricted free agent,21,TE,161,2,21
+FA Stage 9,2016,548,turned down a contract offer,6,TE,160,2,0
+FA Stage 9,2016,548,turned down a contract offer,9,TE,160,2,0
+FA Stage 9,2016,548,turned down a contract offer,10,TE,161,2,0
+FA Stage 9,2016,548,turned down a contract offer,13,TE,160,2,0
+FA Stage 9,2016,548,turned down a contract offer,16,TE,160,2,0
+FA Stage 9,2016,548,turned down a contract offer,17,TE,160,2,0
+FA Stage 9,2016,548,turned down a contract offer,19,TE,170,2,0
+FA Stage 9,2016,548,turned down a contract offer,24,TE,160,2,0
+FA Stage 9,2016,548,turned down a contract offer,25,TE,160,2,0
+FA Stage 9,2016,548,turned down a contract offer,26,TE,161,2,0
+FA Stage 9,2016,548,turned down a contract offer,28,TE,160,2,0
+FA Stage 9,2016,548,turned down a contract offer,29,TE,160,2,0
+FA Stage 9,2016,559,signed as an unrestricted free agent,26,QB,92,1,28
+FA Stage 9,2016,641,signed as a free agent,26,G,549,3,99
+FA Stage 9,2016,641,turned down a contract offer,6,G,517,3,0
+FA Stage 9,2016,641,turned down a contract offer,9,G,528,3,0
+FA Stage 9,2016,641,turned down a contract offer,13,G,482,3,0
+FA Stage 9,2016,641,turned down a contract offer,20,G,533,3,0
+FA Stage 9,2016,641,turned down a contract offer,22,G,427,3,0
+FA Stage 9,2016,641,turned down a contract offer,23,G,431,3,0
+FA Stage 9,2016,641,turned down a contract offer,28,G,451,3,0
+FA Stage 9,2016,641,turned down a contract offer,29,G,440,3,0
+FA Stage 9,2016,649,signed as a free agent,20,CB,611,3,99
+FA Stage 9,2016,649,turned down a contract offer,3,CB,580,3,0
+FA Stage 9,2016,649,turned down a contract offer,15,CB,544,3,0
+FA Stage 9,2016,649,turned down a contract offer,18,CB,586,3,0
+FA Stage 9,2016,661,signed as a free agent,16,S,374,3,99
+FA Stage 9,2016,843,signed as an unrestricted free agent,27,DT,258,2,16
+FA Stage 9,2016,843,turned down a contract offer,3,DT,232,2,0
+FA Stage 9,2016,843,turned down a contract offer,15,DT,241,2,0
+FA Stage 9,2016,843,turned down a contract offer,17,DT,256,2,0
+FA Stage 9,2016,843,turned down a contract offer,30,DT,252,2,0
+FA Stage 9,2016,861,signed as a free agent,10,S,301,2,99
+FA Stage 9,2016,861,turned down a contract offer,0,S,246,2,0
+FA Stage 9,2016,861,turned down a contract offer,3,S,281,2,0
+FA Stage 9,2016,861,turned down a contract offer,15,S,271,2,0
+FA Stage 9,2016,861,turned down a contract offer,17,S,252,2,0
+FA Stage 9,2016,861,turned down a contract offer,18,S,243,2,0
+FA Stage 9,2016,861,turned down a contract offer,20,S,280,2,0
+FA Stage 9,2016,861,turned down a contract offer,23,S,244,2,0
+FA Stage 9,2016,861,turned down a contract offer,25,S,240,2,0
+FA Stage 9,2016,861,turned down a contract offer,27,S,241,2,0
+FA Stage 9,2016,861,turned down a contract offer,28,S,244,2,0
+FA Stage 9,2016,861,turned down a contract offer,30,S,238,2,0
+FA Stage 9,2016,861,turned down a contract offer,31,S,285,2,0
+FA Stage 9,2016,878,signed as a free agent,18,DE,539,3,99
+FA Stage 9,2016,878,turned down a contract offer,1,DE,491,3,0
+FA Stage 9,2016,878,turned down a contract offer,3,DE,429,3,0
+FA Stage 9,2016,878,turned down a contract offer,10,DE,530,3,0
+FA Stage 9,2016,878,turned down a contract offer,27,DE,437,3,0
+FA Stage 9,2016,915,signed as an unrestricted free agent,31,WR,733,3,9
+FA Stage 9,2016,915,turned down a contract offer,2,WR,630,3,0
+FA Stage 9,2016,915,turned down a contract offer,6,WR,630,3,0
+FA Stage 9,2016,915,turned down a contract offer,12,WR,717,3,0
+FA Stage 9,2016,915,turned down a contract offer,24,WR,656,3,0
+FA Stage 9,2016,976,signed as an unrestricted free agent,3,RB,80,1,23
+FA Stage 9,2016,1106,signed as a free agent,1,FB,694,4,99
+FA Stage 9,2016,1106,turned down a contract offer,8,FB,595,4,0
+FA Stage 9,2016,1106,turned down a contract offer,14,FB,530,4,0
+FA Stage 9,2016,1106,turned down a contract offer,17,FB,635,4,0
+FA Stage 9,2016,1225,signed as a free agent,29,OLB,251,2,99
+FA Stage 9,2016,1225,turned down a contract offer,0,OLB,251,2,0
+FA Stage 9,2016,1225,turned down a contract offer,10,OLB,241,2,0
+FA Stage 9,2016,1225,turned down a contract offer,17,OLB,224,2,0
+FA Stage 9,2016,1225,turned down a contract offer,26,OLB,251,2,0
+FA Stage 9,2016,1225,turned down a contract offer,27,OLB,232,2,0
+FA Stage 9,2016,1228,signed as an unrestricted free agent,10,OLB,88,1,7
+FA Stage 9,2016,1235,signed as an unrestricted free agent,24,RB,315,2,12
+FA Stage 9,2016,1235,turned down a contract offer,30,RB,301,2,0
+FA Stage 9,2016,1409,signed as an unrestricted free agent,15,CB,529,3,1
+FA Stage 9,2016,1409,turned down a contract offer,18,CB,434,3,0
+FA Stage 9,2016,1409,turned down a contract offer,24,CB,509,3,0
+FA Stage 9,2016,1409,turned down a contract offer,25,CB,458,3,0
+FA Stage 9,2016,1462,signed as a free agent,3,ILB,149,2,99
+FA Stage 9,2016,1672,signed as a free agent,20,C,135,2,99
+FA Stage 9,2016,1793,signed as a free agent,18,OLB,682,4,99
+FA Stage 9,2016,1793,turned down a contract offer,0,OLB,631,4,0
+FA Stage 9,2016,1793,turned down a contract offer,3,OLB,595,4,0
+FA Stage 9,2016,1793,turned down a contract offer,25,OLB,574,4,0
+FA Stage 9,2016,2817,signed as a free agent,7,P,61,1,99
+FA Stage 9,2016,2817,turned down a contract offer,30,P,61,1,0
+FA Stage 10,2016,3,signed as an unrestricted free agent,10,K,106,1,27
+FA Stage 10,2016,3,turned down a contract offer,1,K,106,1,0
+FA Stage 10,2016,62,signed as a free agent,25,S,150,1,99
+FA Stage 10,2016,62,turned down a contract offer,2,S,140,1,0
+FA Stage 10,2016,62,turned down a contract offer,3,S,149,1,0
+FA Stage 10,2016,62,turned down a contract offer,7,S,142,1,0
+FA Stage 10,2016,62,turned down a contract offer,17,S,148,1,0
+FA Stage 10,2016,62,turned down a contract offer,18,S,144,1,0
+FA Stage 10,2016,62,turned down a contract offer,20,S,138,1,0
+FA Stage 10,2016,62,turned down a contract offer,28,S,144,1,0
+FA Stage 10,2016,62,turned down a contract offer,31,S,145,1,0
+FA Stage 10,2016,91,signed as a free agent,23,DT,140,1,99
+FA Stage 10,2016,104,signed as an unrestricted free agent,29,QB,823,3,28
+FA Stage 10,2016,104,turned down a contract offer,7,QB,740,3,0
+FA Stage 10,2016,104,turned down a contract offer,11,QB,785,3,0
+FA Stage 10,2016,104,turned down a contract offer,26,QB,781,3,0
+FA Stage 10,2016,115,signed as a free agent,15,WR,204,1,99
+FA Stage 10,2016,115,turned down a contract offer,9,WR,207,1,0
+FA Stage 10,2016,118,signed as a free agent,0,G,302,2,99
+FA Stage 10,2016,118,turned down a contract offer,9,G,297,2,0
+FA Stage 10,2016,222,signed as a free agent,0,OLB,288,2,99
+FA Stage 10,2016,222,turned down a contract offer,25,OLB,279,2,0
+FA Stage 10,2016,258,signed as an unrestricted free agent,29,T,526,3,31
+FA Stage 10,2016,258,turned down a contract offer,8,T,478,3,0
+FA Stage 10,2016,258,turned down a contract offer,9,T,477,3,0
+FA Stage 10,2016,258,turned down a contract offer,15,T,467,3,0
+FA Stage 10,2016,258,turned down a contract offer,17,T,492,3,0
+FA Stage 10,2016,258,turned down a contract offer,22,T,439,3,0
+FA Stage 10,2016,258,turned down a contract offer,24,T,463,3,0
+FA Stage 10,2016,258,turned down a contract offer,31,T,464,3,0
+FA Stage 10,2016,271,signed as a free agent,14,TE,306,2,99
+FA Stage 10,2016,271,turned down a contract offer,7,TE,288,2,0
+FA Stage 10,2016,271,turned down a contract offer,30,TE,293,2,0
+FA Stage 10,2016,271,turned down a contract offer,31,TE,292,2,0
+FA Stage 10,2016,335,signed as a free agent,3,CB,374,2,99
+FA Stage 10,2016,335,turned down a contract offer,1,CB,348,2,0
+FA Stage 10,2016,335,turned down a contract offer,6,CB,313,2,0
+FA Stage 10,2016,335,turned down a contract offer,7,CB,377,2,0
+FA Stage 10,2016,335,turned down a contract offer,9,CB,290,2,0
+FA Stage 10,2016,335,turned down a contract offer,12,CB,317,2,0
+FA Stage 10,2016,335,turned down a contract offer,13,CB,342,2,0
+FA Stage 10,2016,335,turned down a contract offer,16,CB,341,2,0
+FA Stage 10,2016,335,turned down a contract offer,18,CB,332,2,0
+FA Stage 10,2016,335,turned down a contract offer,25,CB,299,2,0
+FA Stage 10,2016,335,turned down a contract offer,26,CB,308,2,0
+FA Stage 10,2016,335,turned down a contract offer,28,CB,289,2,0
+FA Stage 10,2016,335,turned down a contract offer,31,CB,295,2,0
+FA Stage 10,2016,340,signed as a free agent,31,S,285,2,99
+FA Stage 10,2016,340,turned down a contract offer,0,S,275,2,0
+FA Stage 10,2016,340,turned down a contract offer,18,S,264,2,0
+FA Stage 10,2016,425,signed as a free agent,6,WR,506,2,99
+FA Stage 10,2016,425,turned down a contract offer,1,WR,473,2,0
+FA Stage 10,2016,425,turned down a contract offer,3,WR,438,2,0
+FA Stage 10,2016,425,turned down a contract offer,4,WR,421,2,0
+FA Stage 10,2016,425,turned down a contract offer,9,WR,427,2,0
+FA Stage 10,2016,425,turned down a contract offer,18,WR,446,2,0
+FA Stage 10,2016,425,turned down a contract offer,19,WR,473,2,0
+FA Stage 10,2016,425,turned down a contract offer,20,WR,442,2,0
+FA Stage 10,2016,425,turned down a contract offer,21,WR,410,2,0
+FA Stage 10,2016,425,turned down a contract offer,23,WR,473,2,0
+FA Stage 10,2016,425,turned down a contract offer,28,WR,456,2,0
+FA Stage 10,2016,425,turned down a contract offer,30,WR,479,2,0
+FA Stage 10,2016,441,signed as an unrestricted free agent,19,TE,92,1,20
+FA Stage 10,2016,441,turned down a contract offer,10,TE,92,1,0
+FA Stage 10,2016,441,turned down a contract offer,12,TE,92,1,0
+FA Stage 10,2016,441,turned down a contract offer,15,TE,92,1,0
+FA Stage 10,2016,441,turned down a contract offer,17,TE,92,1,0
+FA Stage 10,2016,441,turned down a contract offer,22,TE,92,1,0
+FA Stage 10,2016,526,signed as a free agent,18,S,408,3,99
+FA Stage 10,2016,582,signed as a free agent,30,TE,289,2,99
+FA Stage 10,2016,589,signed as a free agent,23,ILB,238,2,99
+FA Stage 10,2016,613,signed as a free agent,30,P,175,2,99
+FA Stage 10,2016,620,signed as an unrestricted free agent,16,DT,414,3,26
+FA Stage 10,2016,620,turned down a contract offer,3,DT,392,3,0
+FA Stage 10,2016,620,turned down a contract offer,17,DT,411,3,0
+FA Stage 10,2016,620,turned down a contract offer,18,DT,407,3,0
+FA Stage 10,2016,635,re-signed as an unrestricted free agent,31,T,193,2,31
+FA Stage 10,2016,657,signed as a free agent,20,WR,174,2,99
+FA Stage 10,2016,657,turned down a contract offer,1,WR,174,2,0
+FA Stage 10,2016,657,turned down a contract offer,3,WR,174,2,0
+FA Stage 10,2016,657,turned down a contract offer,9,WR,174,2,0
+FA Stage 10,2016,657,turned down a contract offer,23,WR,174,2,0
+FA Stage 10,2016,707,signed as a free agent,8,CB,361,2,99
+FA Stage 10,2016,707,turned down a contract offer,1,CB,302,2,0
+FA Stage 10,2016,707,turned down a contract offer,18,CB,281,2,0
+FA Stage 10,2016,711,signed as an unrestricted free agent,9,T,91,1,5
+FA Stage 10,2016,738,signed as an unrestricted free agent,17,QB,165,2,22
+FA Stage 10,2016,738,turned down a contract offer,1,QB,160,2,0
+FA Stage 10,2016,738,turned down a contract offer,3,QB,161,2,0
+FA Stage 10,2016,738,turned down a contract offer,9,QB,163,2,0
+FA Stage 10,2016,738,turned down a contract offer,24,QB,160,2,0
+FA Stage 10,2016,738,turned down a contract offer,26,QB,161,2,0
+FA Stage 10,2016,761,signed as a free agent,31,TE,473,3,99
+FA Stage 10,2016,761,turned down a contract offer,8,TE,459,3,0
+FA Stage 10,2016,761,turned down a contract offer,18,TE,402,3,0
+FA Stage 10,2016,761,turned down a contract offer,24,TE,407,3,0
+FA Stage 10,2016,761,turned down a contract offer,28,TE,369,3,0
+FA Stage 10,2016,761,turned down a contract offer,29,TE,457,3,0
+FA Stage 10,2016,819,signed as a free agent,31,CB,310,2,99
+FA Stage 10,2016,819,turned down a contract offer,6,CB,288,2,0
+FA Stage 10,2016,819,turned down a contract offer,13,CB,275,2,0
+FA Stage 10,2016,860,signed as an unrestricted free agent,16,QB,78,1,15
+FA Stage 10,2016,864,signed as a free agent,9,G,1569,4,99
+FA Stage 10,2016,864,turned down a contract offer,3,G,1422,4,0
+FA Stage 10,2016,864,turned down a contract offer,20,G,1467,4,0
+FA Stage 10,2016,864,turned down a contract offer,22,G,1489,4,0
+FA Stage 10,2016,864,turned down a contract offer,23,G,1445,4,0
+FA Stage 10,2016,867,signed as a free agent,3,DT,467,3,99
+FA Stage 10,2016,867,turned down a contract offer,14,DT,461,3,0
+FA Stage 10,2016,867,turned down a contract offer,15,DT,430,3,0
+FA Stage 10,2016,867,turned down a contract offer,17,DT,393,3,0
+FA Stage 10,2016,867,turned down a contract offer,25,DT,380,3,0
+FA Stage 10,2016,995,signed as a free agent,17,OLB,447,3,99
+FA Stage 10,2016,995,turned down a contract offer,20,OLB,368,3,0
+FA Stage 10,2016,995,turned down a contract offer,25,OLB,367,3,0
+FA Stage 10,2016,995,turned down a contract offer,31,OLB,417,3,0
+FA Stage 10,2016,998,re-signed as an unrestricted free agent,19,RB,230,2,19
+FA Stage 10,2016,1070,signed as a free agent,29,FB,90,1,99
+FA Stage 10,2016,1070,turned down a contract offer,7,FB,91,1,0
+FA Stage 10,2016,1070,turned down a contract offer,14,FB,91,1,0
+FA Stage 10,2016,1070,turned down a contract offer,17,FB,91,1,0
+FA Stage 10,2016,1070,turned down a contract offer,18,FB,91,1,0
+FA Stage 10,2016,1070,turned down a contract offer,25,FB,91,1,0
+FA Stage 10,2016,1079,signed as a free agent,2,P,214,2,99
+FA Stage 10,2016,1079,turned down a contract offer,18,P,208,2,0
+FA Stage 10,2016,1079,turned down a contract offer,25,P,200,2,0
+FA Stage 10,2016,1125,signed as a free agent,10,C,242,2,99
+FA Stage 10,2016,1311,signed as a free agent,27,G,474,3,99
+FA Stage 10,2016,1311,turned down a contract offer,13,G,440,3,0
+FA Stage 10,2016,1311,turned down a contract offer,28,G,464,3,0
+FA Stage 10,2016,1432,signed as a free agent,13,C,432,3,99
+FA Stage 10,2016,1432,turned down a contract offer,6,C,403,3,0
+FA Stage 10,2016,1432,turned down a contract offer,16,C,360,3,0
+FA Stage 10,2016,1432,turned down a contract offer,27,C,358,3,0
+FA Stage 10,2016,1619,signed as a free agent,31,ILB,72,1,99
+FA Stage 10,2016,1619,turned down a contract offer,7,ILB,72,1,0
+FA Stage 10,2016,1619,turned down a contract offer,14,ILB,73,1,0
+FA Stage 10,2016,1698,signed as a free agent,7,RB,85,1,99
+FA Stage 10,2016,1698,turned down a contract offer,2,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,6,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,8,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,10,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,12,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,15,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,18,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,22,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,23,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,28,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,29,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,30,RB,81,1,0
+FA Stage 10,2016,1698,turned down a contract offer,31,RB,82,1,0
+FA Stage 10,2016,1938,signed as a free agent,10,RB,141,2,99
+FA Stage 10,2016,1938,turned down a contract offer,2,RB,138,2,0
+FA Stage 10,2016,1938,turned down a contract offer,18,RB,140,2,0
+FA Stage 10,2016,1938,turned down a contract offer,29,RB,138,2,0
+FA Stage 10,2016,1938,turned down a contract offer,30,RB,139,2,0
+FA Stage 10,2016,2294,signed as a free agent,7,ILB,271,2,99
+FA Stage 10,2016,2294,turned down a contract offer,3,ILB,268,2,0
+FA Stage 10,2016,2294,turned down a contract offer,4,ILB,227,2,0
+FA Stage 10,2016,2294,turned down a contract offer,9,ILB,245,2,0
+FA Stage 10,2016,2294,turned down a contract offer,10,ILB,255,2,0
+FA Stage 10,2016,2294,turned down a contract offer,12,ILB,271,2,0
+FA Stage 10,2016,2294,turned down a contract offer,16,ILB,218,2,0
+FA Stage 10,2016,2294,turned down a contract offer,20,ILB,228,2,0
+FA Stage 10,2016,2294,turned down a contract offer,21,ILB,243,2,0
+FA Stage 10,2016,2294,turned down a contract offer,29,ILB,243,2,0
+FA Stage 10,2016,2294,turned down a contract offer,30,ILB,271,2,0
+FA Stage 10,2016,2336,signed as a free agent,17,C,61,1,99
+FA Stage 10,2016,2336,turned down a contract offer,12,C,61,1,0
+FA Stage 10,2016,2889,signed as a free agent,21,DE,502,3,99
+FA Stage 10,2016,2889,turned down a contract offer,12,DE,484,3,0
+FA Stage 10,2016,2889,turned down a contract offer,25,DE,416,3,0
+FA Stage 10,2016,3332,signed as a free agent,17,FB,214,3,99
+FA Stage 11,2016,54,signed as a free agent,10,C,103,1,99
+FA Stage 11,2016,54,turned down a contract offer,16,C,103,1,0
+FA Stage 11,2016,54,turned down a contract offer,17,C,103,1,0
+FA Stage 11,2016,54,turned down a contract offer,30,C,103,1,0
+FA Stage 11,2016,83,signed as an unrestricted free agent,12,DE,161,1,1
+FA Stage 11,2016,83,turned down a contract offer,22,DE,155,1,0
+FA Stage 11,2016,130,signed as an unrestricted free agent,3,CB,213,2,12
+FA Stage 11,2016,130,turned down a contract offer,1,CB,212,2,0
+FA Stage 11,2016,163,signed as a free agent,19,WR,615,3,99
+FA Stage 11,2016,163,turned down a contract offer,9,WR,557,3,0
+FA Stage 11,2016,163,turned down a contract offer,17,WR,580,3,0
+FA Stage 11,2016,163,turned down a contract offer,23,WR,593,3,0
+FA Stage 11,2016,163,turned down a contract offer,30,WR,621,3,0
+FA Stage 11,2016,171,signed as a free agent,19,DE,359,2,99
+FA Stage 11,2016,171,turned down a contract offer,3,DE,332,2,0
+FA Stage 11,2016,171,turned down a contract offer,18,DE,331,2,0
+FA Stage 11,2016,171,turned down a contract offer,27,DE,351,2,0
+FA Stage 11,2016,220,signed as an unrestricted free agent,17,C,273,2,13
+FA Stage 11,2016,267,re-signed as an unrestricted free agent,3,ILB,213,2,3
+FA Stage 11,2016,269,signed as a free agent,6,QB,207,2,99
+FA Stage 11,2016,269,turned down a contract offer,1,QB,199,2,0
+FA Stage 11,2016,269,turned down a contract offer,2,QB,199,2,0
+FA Stage 11,2016,269,turned down a contract offer,9,QB,205,2,0
+FA Stage 11,2016,269,turned down a contract offer,24,QB,199,2,0
+FA Stage 11,2016,269,turned down a contract offer,25,QB,200,2,0
+FA Stage 11,2016,269,turned down a contract offer,31,QB,199,2,0
+FA Stage 11,2016,309,signed as an unrestricted free agent,20,RB,133,1,16
+FA Stage 11,2016,309,turned down a contract offer,6,RB,129,1,0
+FA Stage 11,2016,309,turned down a contract offer,15,RB,132,1,0
+FA Stage 11,2016,309,turned down a contract offer,17,RB,134,1,0
+FA Stage 11,2016,329,signed as a free agent,2,G,92,1,99
+FA Stage 11,2016,329,turned down a contract offer,13,G,92,1,0
+FA Stage 11,2016,379,signed as an unrestricted free agent,29,TE,160,2,18
+FA Stage 11,2016,379,turned down a contract offer,6,TE,160,2,0
+FA Stage 11,2016,379,turned down a contract offer,12,TE,160,2,0
+FA Stage 11,2016,379,turned down a contract offer,13,TE,160,2,0
+FA Stage 11,2016,379,turned down a contract offer,25,TE,161,2,0
+FA Stage 11,2016,432,signed as a free agent,9,DT,300,2,99
+FA Stage 11,2016,432,turned down a contract offer,3,DT,298,2,0
+FA Stage 11,2016,432,turned down a contract offer,25,DT,283,2,0
+FA Stage 11,2016,458,re-signed as an unrestricted free agent,31,ILB,279,2,31
+FA Stage 11,2016,458,turned down a contract offer,10,ILB,259,2,0
+FA Stage 11,2016,458,turned down a contract offer,16,ILB,274,2,0
+FA Stage 11,2016,458,turned down a contract offer,23,ILB,266,2,0
+FA Stage 11,2016,458,turned down a contract offer,29,ILB,260,2,0
+FA Stage 11,2016,534,signed as a free agent,9,CB,208,2,99
+FA Stage 11,2016,583,signed as a free agent,3,S,260,2,99
+FA Stage 11,2016,583,turned down a contract offer,24,S,252,2,0
+FA Stage 11,2016,808,signed as an unrestricted free agent,21,OLB,109,1,19
+FA Stage 11,2016,911,signed as a free agent,31,QB,160,2,99
+FA Stage 11,2016,931,signed as an unrestricted free agent,2,WR,685,3,25
+FA Stage 11,2016,931,turned down a contract offer,4,WR,636,3,0
+FA Stage 11,2016,931,turned down a contract offer,12,WR,623,3,0
+FA Stage 11,2016,931,turned down a contract offer,27,WR,651,3,0
+FA Stage 11,2016,1061,re-signed as an unrestricted free agent,1,T,644,4,1
+FA Stage 11,2016,1061,turned down a contract offer,8,T,541,4,0
+FA Stage 11,2016,1061,turned down a contract offer,15,T,512,4,0
+FA Stage 11,2016,1061,turned down a contract offer,22,T,606,4,0
+FA Stage 11,2016,1063,signed as an unrestricted free agent,10,OLB,428,3,23
+FA Stage 11,2016,1063,turned down a contract offer,15,OLB,419,3,0
+FA Stage 11,2016,1063,turned down a contract offer,18,OLB,397,3,0
+FA Stage 11,2016,1063,turned down a contract offer,20,OLB,431,3,0
+FA Stage 11,2016,1063,turned down a contract offer,26,OLB,410,3,0
+FA Stage 11,2016,1063,turned down a contract offer,28,OLB,431,3,0
+FA Stage 11,2016,1083,re-signed as an unrestricted free agent,20,ILB,85,1,20
+FA Stage 11,2016,1083,turned down a contract offer,30,ILB,85,1,0
+FA Stage 11,2016,1273,signed as an unrestricted free agent,28,TE,161,2,16
+FA Stage 11,2016,1273,turned down a contract offer,18,TE,160,2,0
+FA Stage 11,2016,1563,signed as a free agent,16,TE,440,3,99
+FA Stage 11,2016,1563,turned down a contract offer,9,TE,440,3,0
+FA Stage 11,2016,1563,turned down a contract offer,12,TE,429,3,0
+FA Stage 11,2016,1563,turned down a contract offer,26,TE,399,3,0
+FA Stage 11,2016,1563,turned down a contract offer,27,TE,355,3,0
+FA Stage 11,2016,1563,turned down a contract offer,30,TE,386,3,0
+FA Stage 11,2016,1595,signed as a free agent,3,OLB,278,2,99
+FA Stage 11,2016,1595,turned down a contract offer,7,OLB,248,2,0
+FA Stage 11,2016,1595,turned down a contract offer,18,OLB,252,2,0
+FA Stage 11,2016,1595,turned down a contract offer,20,OLB,260,2,0
+FA Stage 11,2016,1595,turned down a contract offer,25,OLB,255,2,0
+FA Stage 11,2016,1964,signed as a free agent,14,FB,254,3,99
+FA Stage 11,2016,1964,turned down a contract offer,18,FB,244,3,0
+FA Stage 11,2016,1964,turned down a contract offer,25,FB,250,3,0
+FA Stage 11,2016,2094,signed as a free agent,28,G,223,2,99
+FA Stage 11,2016,2184,signed as a free agent,15,DT,147,2,99
+FA Stage 11,2016,2818,signed as a free agent,23,K,61,1,99
+FA Stage 11,2016,2818,turned down a contract offer,7,K,61,1,0
+FA Stage 11,2016,3122,signed as a free agent,7,CB,342,2,99
+FA Stage 11,2016,3122,turned down a contract offer,19,CB,303,2,0
+FA Stage 11,2016,3622,signed as a free agent,25,P,119,2,99
+FA Stage 11,2016,3622,turned down a contract offer,18,P,119,2,0
+FA Stage 12,2016,18,signed as an unrestricted free agent,10,ILB,106,1,8
+FA Stage 12,2016,18,turned down a contract offer,4,ILB,103,1,0
+FA Stage 12,2016,18,turned down a contract offer,12,ILB,103,1,0
+FA Stage 12,2016,18,turned down a contract offer,15,ILB,103,1,0
+FA Stage 12,2016,172,signed as an unrestricted free agent,25,ILB,410,3,29
+FA Stage 12,2016,172,turned down a contract offer,1,ILB,416,3,0
+FA Stage 12,2016,172,turned down a contract offer,9,ILB,412,3,0
+FA Stage 12,2016,172,turned down a contract offer,23,ILB,397,3,0
+FA Stage 12,2016,255,signed as a free agent,24,WR,577,3,99
+FA Stage 12,2016,255,turned down a contract offer,14,WR,560,3,0
+FA Stage 12,2016,319,signed as a free agent,30,DT,92,1,99
+FA Stage 12,2016,436,signed as a free agent,15,S,234,2,99
+FA Stage 12,2016,552,signed as an unrestricted free agent,29,ILB,178,2,31
+FA Stage 12,2016,552,turned down a contract offer,9,ILB,177,2,0
+FA Stage 12,2016,651,signed as an unrestricted free agent,13,OLB,380,3,5
+FA Stage 12,2016,651,turned down a contract offer,18,OLB,346,3,0
+FA Stage 12,2016,717,re-signed as an unrestricted free agent,8,QB,78,1,8
+FA Stage 12,2016,717,turned down a contract offer,1,QB,78,1,0
+FA Stage 12,2016,717,turned down a contract offer,3,QB,78,1,0
+FA Stage 12,2016,717,turned down a contract offer,22,QB,78,1,0
+FA Stage 12,2016,717,turned down a contract offer,24,QB,78,1,0
+FA Stage 12,2016,717,turned down a contract offer,28,QB,78,1,0
+FA Stage 12,2016,750,signed as a free agent,7,TE,414,3,99
+FA Stage 12,2016,750,turned down a contract offer,0,TE,368,3,0
+FA Stage 12,2016,750,turned down a contract offer,17,TE,370,3,0
+FA Stage 12,2016,750,turned down a contract offer,23,TE,343,3,0
+FA Stage 12,2016,750,turned down a contract offer,26,TE,329,3,0
+FA Stage 12,2016,750,turned down a contract offer,27,TE,329,3,0
+FA Stage 12,2016,750,turned down a contract offer,30,TE,390,3,0
+FA Stage 12,2016,750,turned down a contract offer,31,TE,348,3,0
+FA Stage 12,2016,767,signed as an unrestricted free agent,27,S,364,3,25
+FA Stage 12,2016,767,turned down a contract offer,2,S,389,3,0
+FA Stage 12,2016,767,turned down a contract offer,6,S,379,3,0
+FA Stage 12,2016,767,turned down a contract offer,17,S,364,3,0
+FA Stage 12,2016,767,turned down a contract offer,20,S,371,3,0
+FA Stage 12,2016,858,signed as an unrestricted free agent,17,T,86,1,14
+FA Stage 12,2016,876,signed as an unrestricted free agent,23,C,313,3,31
+FA Stage 12,2016,921,signed as an unrestricted free agent,18,T,172,2,3
+FA Stage 12,2016,958,signed as an unrestricted free agent,9,C,83,1,22
+FA Stage 12,2016,958,turned down a contract offer,1,C,78,1,0
+FA Stage 12,2016,1035,signed as an unrestricted free agent,21,ILB,380,3,4
+FA Stage 12,2016,1035,turned down a contract offer,0,ILB,343,3,0
+FA Stage 12,2016,1035,turned down a contract offer,14,ILB,360,3,0
+FA Stage 12,2016,1181,signed as a free agent,9,G,520,3,99
+FA Stage 12,2016,1272,signed as an unrestricted free agent,29,RB,161,2,21
+FA Stage 12,2016,1272,turned down a contract offer,12,RB,160,2,0
+FA Stage 12,2016,1272,turned down a contract offer,17,RB,160,2,0
+FA Stage 12,2016,1272,turned down a contract offer,30,RB,160,2,0
+FA Stage 12,2016,1303,signed as an unrestricted free agent,25,DE,392,3,6
+FA Stage 12,2016,1303,turned down a contract offer,22,DE,386,3,0
+FA Stage 12,2016,1365,signed as an unrestricted free agent,26,TE,242,2,0
+FA Stage 12,2016,1572,signed as a free agent,31,OLB,418,3,99
+FA Stage 12,2016,1572,turned down a contract offer,4,OLB,396,3,0
+FA Stage 12,2016,1572,turned down a contract offer,7,OLB,392,3,0
+FA Stage 12,2016,1572,turned down a contract offer,18,OLB,367,3,0
+FA Stage 12,2016,1572,turned down a contract offer,28,OLB,383,3,0
+FA Stage 12,2016,1829,signed as a free agent,3,RB,293,2,99
+FA Stage 12,2016,2411,signed as a free agent,16,RB,134,2,99
+FA Stage 12,2016,3311,signed as a free agent,25,FB,53,1,99
+FA Stage 12,2016,3311,turned down a contract offer,8,FB,53,1,0
+FA Stage 12,2016,3620,signed as a free agent,18,P,119,2,99
+FA Stage 12,2016,3650,signed as a free agent,20,K,119,2,99
+Amateur Draft,2016,2,received draft pick in trade,20,2016,0,0,14
+Amateur Draft,2016,2,received draft pick in trade,14,2016,0,0,20
+Amateur Draft,2016,5,received draft pick in trade,14,2018,0,0,20
+Amateur Draft,2016,2,received draft pick in trade,22,2016,0,0,25
+Amateur Draft,2016,7,received draft pick in trade,25,2016,0,0,22
+Amateur Draft,2016,2,received draft pick in trade,25,2017,0,0,22
+Amateur Draft,2016,5,received draft pick in trade,25,2018,0,0,22
+Amateur Draft,2016,2,received draft pick in trade,23,2016,0,0,19
+Amateur Draft,2016,2,received draft pick in trade,19,2017,0,0,23
+Amateur Draft,2016,4,received draft pick in trade,19,2018,0,0,23
+Amateur Draft,2016,3,received draft pick in trade,22,2016,0,0,24
+Amateur Draft,2016,5,received draft pick in trade,24,2016,0,0,22
+Amateur Draft,2016,3,received draft pick in trade,24,2017,0,0,22
+Amateur Draft,2016,5,received draft pick in trade,24,2017,0,0,22
+Amateur Draft,2016,4,received draft pick in trade,22,2016,0,0,28
+Amateur Draft,2016,4,received draft pick in trade,28,2018,0,0,22
+Amateur Draft,2016,7,received draft pick in trade,28,2018,0,0,22
+Amateur Draft,2016,4,received draft pick in trade,23,2016,0,0,10
+Amateur Draft,2016,5,received draft pick in trade,10,2016,0,0,23
+Amateur Draft,2016,4,received draft pick in trade,10,2017,0,0,23
+Amateur Draft,2016,5,received draft pick in trade,10,2018,0,0,23
+Pre-Late FA Period,2016,406,suspended for off-field conduct,30,DE,0,0,0
+Pre-Late FA Period,2016,-1,Construction vote,3,0,0,0,Failed
+Pre-Late FA Period,2016,-1,Renovation vote,6,0,0,0,Failed
+Pre-Late FA Period,2016,-1,Renovation vote,13,0,0,0,Succeeded
+Pre-Late FA Period,2016,-1,Renovation vote,14,0,0,0,Failed
+Pre-Late FA Period,2016,-1,Renovation vote,16,0,0,0,Succeeded
+Pre-Late FA Period,2016,-1,Renovation vote,17,0,0,0,Failed
+Pre-Late FA Period,2016,-1,Renovation vote,18,0,0,0,Succeeded
+Pre-Late FA Period,2016,-1,Renovation vote,20,0,0,0,Succeeded
+Pre-Late FA Period,2016,-1,Renovation vote,23,0,0,0,Succeeded
+Pre-Late FA Period,2016,-1,Renovation vote,26,0,0,0,Failed
+Pre-Late FA Period,2016,-1,Renovation vote,27,0,0,0,Succeeded
+Pre-Late FA Period,2016,-1,Renovation vote,28,0,0,0,Succeeded
+Pre-Late FA Period,2016,-1,Construction vote,31,0,0,0,Failed
+Late FA Stage 1,2016,1324,released,3,S,0,0,0
+Late FA Stage 1,2016,267,released,3,ILB,0,0,0
+Late FA Stage 1,2016,949,released,3,CB,0,0,0
+Late FA Stage 1,2016,2663,released,17,C,0,0,0
+Late FA Stage 1,2016,4486,released,2,DE,0,0,0
+Late FA Stage 1,2016,891,released,2,G,0,0,0
+Late FA Stage 1,2016,3022,released,2,OLB,0,0,0
+Late FA Stage 1,2016,2965,released,21,ILB,0,0,0
+Late FA Stage 1,2016,1207,released,21,S,0,0,0
+Late FA Stage 1,2016,2851,released,27,DE,0,0,0
+Late FA Stage 1,2016,910,released,27,CB,0,0,0
+Late FA Stage 1,2016,874,released,27,S,0,0,0
+Late FA Stage 1,2016,57,has begun a contract holdout,27,RB,0,0,0
+Late FA Stage 1,2016,200,has begun a contract holdout,11,QB,0,0,0
+Late FA Stage 1,2016,219,has begun a contract holdout,1,ILB,0,0,0
+Late FA Stage 1,2016,226,has begun a contract holdout,30,OLB,0,0,0
+Late FA Stage 1,2016,253,has begun a contract holdout,22,OLB,0,0,0
+Late FA Stage 1,2016,318,has begun a contract holdout,17,ILB,0,0,0
+Late FA Stage 1,2016,414,has begun a contract holdout,4,CB,0,0,0
+Late FA Stage 1,2016,756,has begun a contract holdout,15,CB,0,0,0
+Late FA Stage 1,2016,784,has begun a contract holdout,2,OLB,0,0,0
+Late FA Stage 1,2016,1386,has begun a contract holdout,29,S,0,0,0
+Late FA Stage 1,2016,1461,has begun a contract holdout,10,QB,0,0,0
+Late FA Stage 1,2016,410,signed as a free agent,26,OLB,861,3,99
+Late FA Stage 1,2016,410,turned down a contract offer,7,OLB,768,3,0
+Late FA Stage 1,2016,410,turned down a contract offer,20,OLB,737,3,0
+Late FA Stage 1,2016,410,turned down a contract offer,25,OLB,760,3,0
+Late FA Stage 1,2016,566,signed as a free agent,30,WR,353,2,99
+Late FA Stage 1,2016,985,signed as a free agent,23,T,78,1,99
+Late FA Stage 1,2016,985,turned down a contract offer,21,T,77,1,0
+Late FA Stage 1,2016,1361,signed as an unrestricted free agent,22,DE,210,2,19
+Late FA Stage 1,2016,1617,signed as a free agent,2,DT,220,2,99
+Late FA Stage 1,2016,1617,turned down a contract offer,1,DT,192,2,0
+Late FA Stage 1,2016,1617,turned down a contract offer,3,DT,214,2,0
+Late FA Stage 1,2016,1617,turned down a contract offer,12,DT,183,2,0
+Late FA Stage 1,2016,1634,signed as a free agent,22,T,233,2,99
+Late FA Stage 1,2016,1634,turned down a contract offer,9,T,216,2,0
+Late FA Stage 1,2016,1634,turned down a contract offer,14,T,188,2,0
+Late FA Stage 1,2016,1842,signed as an unrestricted free agent,30,ILB,158,2,3
+Late FA Stage 1,2016,1844,signed as an unrestricted free agent,16,WR,342,2,24
+Late FA Stage 1,2016,1844,turned down a contract offer,0,WR,281,2,0
+Late FA Stage 1,2016,1844,turned down a contract offer,4,WR,283,2,0
+Late FA Stage 1,2016,1844,turned down a contract offer,28,WR,326,2,0
+Late FA Stage 1,2016,1844,turned down a contract offer,31,WR,286,2,0
+Late FA Stage 1,2016,2170,signed as a free agent,17,DT,320,3,99
+Late FA Stage 1,2016,2341,signed as an unrestricted free agent,25,C,61,1,13
+Late FA Stage 1,2016,2341,turned down a contract offer,2,C,61,1,0
+Late FA Stage 1,2016,2341,turned down a contract offer,23,C,61,1,0
+Late FA Stage 1,2016,2583,signed as an unrestricted free agent,29,WR,259,2,10
+Late FA Stage 1,2016,2638,signed as an unrestricted free agent,29,C,135,2,10
+Late FA Stage 1,2016,2638,turned down a contract offer,1,C,134,2,0
+Late FA Stage 1,2016,2638,turned down a contract offer,25,C,134,2,0
+Late FA Stage 1,2016,2658,re-signed as an unrestricted free agent,25,C,135,2,25
+Late FA Stage 1,2016,2658,turned down a contract offer,6,C,136,2,0
+Late FA Stage 1,2016,2658,turned down a contract offer,16,C,136,2,0
+Late FA Stage 1,2016,2658,turned down a contract offer,18,C,136,2,0
+Late FA Stage 1,2016,3787,signed as an unrestricted free agent,4,ILB,118,2,21
+Late FA Stage 1,2016,3787,turned down a contract offer,9,ILB,118,2,0
+Late FA Stage 1,2016,3787,turned down a contract offer,14,ILB,118,2,0
+Late FA Stage 1,2016,3787,turned down a contract offer,17,ILB,121,2,0
+Late FA Stage 2,2016,98,signed as a free agent,11,QB,368,2,99
+Late FA Stage 2,2016,98,turned down a contract offer,26,QB,341,2,0
+Late FA Stage 2,2016,129,signed as a free agent,8,FB,276,2,99
+Late FA Stage 2,2016,129,turned down a contract offer,7,FB,272,2,0
+Late FA Stage 2,2016,129,turned down a contract offer,15,FB,265,2,0
+Late FA Stage 2,2016,129,turned down a contract offer,22,FB,269,2,0
+Late FA Stage 2,2016,129,turned down a contract offer,31,FB,264,2,0
+Late FA Stage 2,2016,187,signed as a free agent,14,WR,354,2,99
+Late FA Stage 2,2016,187,turned down a contract offer,0,WR,333,2,0
+Late FA Stage 2,2016,187,turned down a contract offer,4,WR,329,2,0
+Late FA Stage 2,2016,233,signed as a free agent,25,OLB,268,2,99
+Late FA Stage 2,2016,233,turned down a contract offer,7,OLB,268,2,0
+Late FA Stage 2,2016,233,turned down a contract offer,20,OLB,260,2,0
+Late FA Stage 2,2016,316,signed as a free agent,24,S,961,3,99
+Late FA Stage 2,2016,385,signed as a free agent,28,S,383,3,99
+Late FA Stage 2,2016,385,turned down a contract offer,1,S,377,3,0
+Late FA Stage 2,2016,385,turned down a contract offer,15,S,390,3,0
+Late FA Stage 2,2016,385,turned down a contract offer,20,S,377,3,0
+Late FA Stage 2,2016,464,signed as a free agent,4,WR,78,1,99
+Late FA Stage 2,2016,464,turned down a contract offer,0,WR,78,1,0
+Late FA Stage 2,2016,464,turned down a contract offer,26,WR,78,1,0
+Late FA Stage 2,2016,487,signed as a free agent,7,OLB,377,3,99
+Late FA Stage 2,2016,487,turned down a contract offer,15,OLB,397,3,0
+Late FA Stage 2,2016,487,turned down a contract offer,20,OLB,374,3,0
+Late FA Stage 2,2016,497,signed as a free agent,12,DE,201,2,99
+Late FA Stage 2,2016,688,signed as a free agent,3,OLB,733,3,99
+Late FA Stage 2,2016,688,turned down a contract offer,18,OLB,693,3,0
+Late FA Stage 2,2016,688,turned down a contract offer,20,OLB,672,3,0
+Late FA Stage 2,2016,694,signed as a free agent,17,CB,246,2,99
+Late FA Stage 2,2016,899,signed as a free agent,18,DE,398,3,99
+Late FA Stage 2,2016,899,turned down a contract offer,10,DE,362,3,0
+Late FA Stage 2,2016,960,signed as a free agent,2,RB,221,2,99
+Late FA Stage 2,2016,960,turned down a contract offer,6,RB,216,2,0
+Late FA Stage 2,2016,960,turned down a contract offer,10,RB,196,2,0
+Late FA Stage 2,2016,960,turned down a contract offer,21,RB,220,2,0
+Late FA Stage 2,2016,960,turned down a contract offer,23,RB,200,2,0
+Late FA Stage 2,2016,960,turned down a contract offer,30,RB,195,2,0
+Late FA Stage 2,2016,1102,signed as an unrestricted free agent,14,DT,211,2,26
+Late FA Stage 2,2016,1102,turned down a contract offer,3,DT,205,2,0
+Late FA Stage 2,2016,1102,turned down a contract offer,15,DT,205,2,0
+Late FA Stage 2,2016,1102,turned down a contract offer,16,DT,203,2,0
+Late FA Stage 2,2016,1102,turned down a contract offer,31,DT,205,2,0
+Late FA Stage 2,2016,1107,signed as an unrestricted free agent,24,CB,83,1,10
+Late FA Stage 2,2016,1107,turned down a contract offer,1,CB,83,1,0
+Late FA Stage 2,2016,1434,signed as a free agent,30,TE,1651,4,99
+Late FA Stage 2,2016,1434,turned down a contract offer,26,TE,1547,4,0
+Late FA Stage 2,2016,1509,signed as an unrestricted free agent,20,S,168,2,5
+Late FA Stage 2,2016,1509,turned down a contract offer,1,S,164,2,0
+Late FA Stage 2,2016,1509,turned down a contract offer,6,S,172,2,0
+Late FA Stage 2,2016,1509,turned down a contract offer,15,S,166,2,0
+Late FA Stage 2,2016,1509,turned down a contract offer,17,S,161,2,0
+Late FA Stage 2,2016,1526,signed as an unrestricted free agent,12,OLB,134,2,23
+Late FA Stage 2,2016,1570,signed as a free agent,1,DE,326,3,99
+Late FA Stage 2,2016,1570,turned down a contract offer,10,DE,314,3,0
+Late FA Stage 2,2016,1570,turned down a contract offer,22,DE,288,3,0
+Late FA Stage 2,2016,1632,signed as an unrestricted free agent,31,WR,311,2,11
+Late FA Stage 2,2016,1632,turned down a contract offer,10,WR,278,2,0
+Late FA Stage 2,2016,1632,turned down a contract offer,13,WR,270,2,0
+Late FA Stage 2,2016,1632,turned down a contract offer,18,WR,300,2,0
+Late FA Stage 2,2016,1632,turned down a contract offer,25,WR,296,2,0
+Late FA Stage 2,2016,1632,turned down a contract offer,28,WR,281,2,0
+Late FA Stage 2,2016,1651,re-signed as an unrestricted free agent,18,G,151,2,18
+Late FA Stage 2,2016,1758,signed as a free agent,10,DE,381,3,99
+Late FA Stage 2,2016,1819,signed as a free agent,0,WR,314,2,99
+Late FA Stage 2,2016,1845,signed as a free agent,6,RB,194,2,99
+Late FA Stage 2,2016,1845,turned down a contract offer,11,RB,177,2,0
+Late FA Stage 2,2016,1845,turned down a contract offer,23,RB,186,2,0
+Late FA Stage 2,2016,2193,signed as a free agent,3,DT,284,3,99
+Late FA Stage 2,2016,2305,signed as an unrestricted free agent,1,CB,238,2,26
+Late FA Stage 2,2016,2722,signed as an unrestricted free agent,1,G,259,3,22
+Late FA Stage 2,2016,2878,signed as a free agent,22,DE,174,2,99
+Late FA Stage 2,2016,2950,signed as a free agent,4,DT,323,3,99
+Late FA Stage 2,2016,2950,turned down a contract offer,1,DT,275,3,0
+Late FA Stage 2,2016,2950,turned down a contract offer,8,DT,274,3,0
+Late FA Stage 2,2016,2950,turned down a contract offer,12,DT,289,3,0
+Late FA Stage 2,2016,2984,signed as an unrestricted free agent,16,ILB,295,3,12
+Late FA Stage 2,2016,2984,turned down a contract offer,0,ILB,273,3,0
+Late FA Stage 2,2016,2984,turned down a contract offer,9,ILB,268,3,0
+Late FA Stage 2,2016,2984,turned down a contract offer,25,ILB,267,3,0
+Late FA Stage 2,2016,3220,signed as an unrestricted free agent,28,QB,118,2,16
+Late FA Stage 2,2016,3220,turned down a contract offer,0,QB,118,2,0
+Late FA Stage 2,2016,3220,turned down a contract offer,3,QB,119,2,0
+Late FA Stage 2,2016,3220,turned down a contract offer,18,QB,118,2,0
+Late FA Stage 2,2016,3220,turned down a contract offer,22,QB,119,2,0
+Late FA Stage 2,2016,3220,turned down a contract offer,24,QB,119,2,0
+Late FA Stage 2,2016,3361,signed as an unrestricted free agent,28,TE,321,4,29
+Late FA Stage 2,2016,4023,signed as a free agent,18,QB,45,1,99
+Late FA Stage 2,2016,4023,turned down a contract offer,3,QB,45,1,0
+Late FA Stage 2,2016,4038,signed as a free agent,2,QB,45,1,99
+Late FA Stage 2,2016,4038,turned down a contract offer,12,QB,45,1,0
+Late FA Stage 2,2016,4038,turned down a contract offer,24,QB,45,1,0
+Late FA Stage 2,2016,4300,signed as a free agent,1,C,47,1,99
+Late FA Stage 2,2016,4305,signed as a free agent,26,C,45,1,99
+Late FA Stage 3,2016,41,signed as a free agent,24,QB,115,1,99
+Late FA Stage 3,2016,41,turned down a contract offer,0,QB,117,1,0
+Late FA Stage 3,2016,41,turned down a contract offer,9,QB,115,1,0
+Late FA Stage 3,2016,41,turned down a contract offer,26,QB,116,1,0
+Late FA Stage 3,2016,99,signed as a free agent,20,OLB,289,1,99
+Late FA Stage 3,2016,99,turned down a contract offer,18,OLB,267,1,0
+Late FA Stage 3,2016,188,signed as a free agent,13,WR,230,2,99
+Late FA Stage 3,2016,188,turned down a contract offer,23,WR,217,2,0
+Late FA Stage 3,2016,188,turned down a contract offer,26,WR,222,2,0
+Late FA Stage 3,2016,210,signed as a free agent,24,G,588,2,99
+Late FA Stage 3,2016,210,turned down a contract offer,1,G,565,2,0
+Late FA Stage 3,2016,210,turned down a contract offer,21,G,553,2,0
+Late FA Stage 3,2016,210,turned down a contract offer,23,G,518,2,0
+Late FA Stage 3,2016,245,signed as a free agent,9,FB,283,2,99
+Late FA Stage 3,2016,245,turned down a contract offer,7,FB,276,2,0
+Late FA Stage 3,2016,245,turned down a contract offer,22,FB,278,2,0
+Late FA Stage 3,2016,245,turned down a contract offer,25,FB,268,2,0
+Late FA Stage 3,2016,245,turned down a contract offer,31,FB,281,2,0
+Late FA Stage 3,2016,248,signed as a free agent,9,TE,1075,3,99
+Late FA Stage 3,2016,248,turned down a contract offer,26,TE,998,3,0
+Late FA Stage 3,2016,371,signed as an unrestricted free agent,0,DE,361,3,2
+Late FA Stage 3,2016,371,turned down a contract offer,7,DE,384,3,0
+Late FA Stage 3,2016,540,signed as a free agent,7,DE,387,3,99
+Late FA Stage 3,2016,605,signed as a free agent,10,WR,99,1,99
+Late FA Stage 3,2016,605,turned down a contract offer,3,WR,99,1,0
+Late FA Stage 3,2016,605,turned down a contract offer,26,WR,99,1,0
+Late FA Stage 3,2016,616,signed as a free agent,20,G,346,3,99
+Late FA Stage 3,2016,616,turned down a contract offer,3,G,349,3,0
+Late FA Stage 3,2016,616,turned down a contract offer,22,G,372,3,0
+Late FA Stage 3,2016,640,signed as a free agent,18,OLB,1228,4,99
+Late FA Stage 3,2016,645,signed as a free agent,3,WR,520,3,99
+Late FA Stage 3,2016,645,turned down a contract offer,26,WR,518,3,0
+Late FA Stage 3,2016,854,signed as a free agent,19,DT,217,2,99
+Late FA Stage 3,2016,854,turned down a contract offer,3,DT,213,2,0
+Late FA Stage 3,2016,854,turned down a contract offer,7,DT,221,2,0
+Late FA Stage 3,2016,854,turned down a contract offer,10,DT,210,2,0
+Late FA Stage 3,2016,854,turned down a contract offer,15,DT,220,2,0
+Late FA Stage 3,2016,854,turned down a contract offer,16,DT,217,2,0
+Late FA Stage 3,2016,1039,signed as an unrestricted free agent,19,CB,136,2,5
+Late FA Stage 3,2016,1039,turned down a contract offer,12,CB,141,2,0
+Late FA Stage 3,2016,1039,turned down a contract offer,28,CB,136,2,0
+Late FA Stage 3,2016,1069,signed as a free agent,10,RB,89,1,99
+Late FA Stage 3,2016,1069,turned down a contract offer,2,RB,88,1,0
+Late FA Stage 3,2016,1069,turned down a contract offer,11,RB,87,1,0
+Late FA Stage 3,2016,1069,turned down a contract offer,14,RB,89,1,0
+Late FA Stage 3,2016,1069,turned down a contract offer,23,RB,90,1,0
+Late FA Stage 3,2016,1069,turned down a contract offer,30,RB,92,1,0
+Late FA Stage 3,2016,1230,re-signed as an unrestricted free agent,4,RB,211,2,4
+Late FA Stage 3,2016,1230,turned down a contract offer,14,RB,205,2,0
+Late FA Stage 3,2016,1230,turned down a contract offer,23,RB,210,2,0
+Late FA Stage 3,2016,1470,signed as a free agent,15,DT,187,2,99
+Late FA Stage 3,2016,1470,turned down a contract offer,3,DT,179,2,0
+Late FA Stage 3,2016,1470,turned down a contract offer,7,DT,175,2,0
+Late FA Stage 3,2016,1470,turned down a contract offer,10,DT,174,2,0
+Late FA Stage 3,2016,1470,turned down a contract offer,16,DT,181,2,0
+Late FA Stage 3,2016,1470,turned down a contract offer,25,DT,185,2,0
+Late FA Stage 3,2016,1479,signed as an unrestricted free agent,10,TE,193,2,14
+Late FA Stage 3,2016,1479,turned down a contract offer,6,TE,188,2,0
+Late FA Stage 3,2016,1479,turned down a contract offer,22,TE,193,2,0
+Late FA Stage 3,2016,1479,turned down a contract offer,23,TE,185,2,0
+Late FA Stage 3,2016,1479,turned down a contract offer,31,TE,189,2,0
+Late FA Stage 3,2016,1528,signed as an unrestricted free agent,15,S,184,2,7
+Late FA Stage 3,2016,1528,turned down a contract offer,6,S,182,2,0
+Late FA Stage 3,2016,1546,signed as a free agent,28,WR,518,3,99
+Late FA Stage 3,2016,1546,turned down a contract offer,23,WR,404,3,0
+Late FA Stage 3,2016,1546,turned down a contract offer,25,WR,433,3,0
+Late FA Stage 3,2016,1546,turned down a contract offer,26,WR,420,3,0
+Late FA Stage 3,2016,1564,signed as an unrestricted free agent,6,S,288,3,16
+Late FA Stage 3,2016,1601,signed as an unrestricted free agent,30,RB,219,2,15
+Late FA Stage 3,2016,1601,turned down a contract offer,9,RB,209,2,0
+Late FA Stage 3,2016,1601,turned down a contract offer,17,RB,194,2,0
+Late FA Stage 3,2016,1601,turned down a contract offer,27,RB,203,2,0
+Late FA Stage 3,2016,1605,signed as a free agent,26,WR,275,2,99
+Late FA Stage 3,2016,1616,signed as an unrestricted free agent,17,RB,195,2,3
+Late FA Stage 3,2016,1766,signed as a free agent,15,OLB,336,3,99
+Late FA Stage 3,2016,1766,turned down a contract offer,12,OLB,280,3,0
+Late FA Stage 3,2016,2013,signed as an unrestricted free agent,26,TE,162,2,7
+Late FA Stage 3,2016,2077,signed as an unrestricted free agent,18,C,61,1,16
+Late FA Stage 3,2016,2077,turned down a contract offer,0,C,61,1,0
+Late FA Stage 3,2016,2077,turned down a contract offer,4,C,61,1,0
+Late FA Stage 3,2016,2077,turned down a contract offer,16,C,61,1,0
+Late FA Stage 3,2016,2343,signed as an unrestricted free agent,3,C,64,1,29
+Late FA Stage 3,2016,2343,turned down a contract offer,18,C,61,1,0
+Late FA Stage 3,2016,2989,signed as an unrestricted free agent,17,ILB,134,2,18
+Late FA Stage 3,2016,3272,signed as an unrestricted free agent,31,RB,177,2,0
+Late FA Stage 3,2016,3272,turned down a contract offer,9,RB,161,2,0
+Late FA Stage 3,2016,3272,turned down a contract offer,16,RB,151,2,0
+Late FA Stage 3,2016,3272,turned down a contract offer,23,RB,149,2,0
+Late FA Stage 3,2016,3272,turned down a contract offer,27,RB,172,2,0
+Late FA Stage 3,2016,3352,signed as an unrestricted free agent,4,TE,122,2,25
+Late FA Stage 3,2016,3352,turned down a contract offer,0,TE,121,2,0
+Late FA Stage 3,2016,3352,turned down a contract offer,6,TE,118,2,0
+Late FA Stage 3,2016,3352,turned down a contract offer,8,TE,119,2,0
+Late FA Stage 3,2016,3352,turned down a contract offer,9,TE,119,2,0
+Late FA Stage 3,2016,3352,turned down a contract offer,13,TE,119,2,0
+Late FA Stage 3,2016,3352,turned down a contract offer,15,TE,118,2,0
+Late FA Stage 3,2016,3352,turned down a contract offer,18,TE,119,2,0
+Late FA Stage 3,2016,3352,turned down a contract offer,22,TE,118,2,0
+Late FA Stage 3,2016,3352,turned down a contract offer,23,TE,119,2,0
+Late FA Stage 3,2016,3352,turned down a contract offer,24,TE,118,2,0
+Late FA Stage 3,2016,3380,signed as an unrestricted free agent,29,TE,217,3,6
+Late FA Stage 3,2016,3380,turned down a contract offer,24,TE,213,3,0
+Late FA Stage 3,2016,3380,turned down a contract offer,31,TE,219,3,0
+Late FA Stage 3,2016,3497,signed as an unrestricted free agent,27,C,227,3,9
+Late FA Stage 3,2016,3640,signed as an unrestricted free agent,7,K,302,4,9
+Late FA Stage 3,2016,4031,signed as a free agent,12,QB,45,1,99
+Late FA Stage 3,2016,4041,signed as a free agent,9,QB,48,1,99
+Late FA Stage 3,2016,4041,turned down a contract offer,0,QB,45,1,0
+Late FA Stage 3,2016,4041,turned down a contract offer,15,QB,46,1,0
+Late FA Stage 3,2016,4041,turned down a contract offer,26,QB,45,1,0
+Late FA Stage 3,2016,4042,signed as a free agent,0,QB,45,1,99
+Late FA Stage 3,2016,4151,signed as a free agent,30,TE,45,1,99
+Late FA Stage 3,2016,4159,signed as a free agent,31,TE,45,1,99
+Late FA Stage 3,2016,4159,turned down a contract offer,18,TE,45,1,0
+Late FA Stage 3,2016,4171,signed as a free agent,27,TE,45,1,99
+Late FA Stage 3,2016,4224,signed as a free agent,25,WR,45,1,99
+Late FA Stage 3,2016,4266,signed as a free agent,20,WR,45,1,99
+Late FA Stage 3,2016,4266,turned down a contract offer,18,WR,45,1,0
+Late FA Stage 3,2016,4285,signed as a free agent,9,C,47,1,99
+Late FA Stage 3,2016,4285,turned down a contract offer,4,C,45,1,0
+Late FA Stage 3,2016,4310,signed as a free agent,6,C,45,1,99
+Late FA Stage 3,2016,4310,turned down a contract offer,0,C,45,1,0
+Late FA Stage 3,2016,4310,turned down a contract offer,12,C,46,1,0
+Late FA Stage 3,2016,4310,turned down a contract offer,16,C,46,1,0
+Late FA Stage 3,2016,4310,turned down a contract offer,18,C,45,1,0
+Late FA Stage 3,2016,4310,turned down a contract offer,23,C,45,1,0
+Late FA Stage 3,2016,4310,turned down a contract offer,31,C,45,1,0
+Late FA Stage 3,2016,4312,signed as a free agent,18,C,45,1,99
+Late FA Stage 3,2016,4312,turned down a contract offer,12,C,47,1,0
+Late FA Stage 3,2016,4312,turned down a contract offer,13,C,45,1,0
+Late FA Stage 3,2016,4612,signed as a free agent,25,ILB,45,1,99
+Late FA Stage 3,2016,4789,signed as a free agent,17,S,46,1,99
+Late FA Stage 4,2016,1614,signed as an unrestricted free agent,6,G,61,1,26
+Late FA Stage 4,2016,2427,signed as an unrestricted free agent,16,RB,291,3,3
+Late FA Stage 4,2016,2427,turned down a contract offer,0,RB,260,3,0
+Late FA Stage 4,2016,2427,turned down a contract offer,23,RB,265,3,0
+Late FA Stage 4,2016,3484,signed as an unrestricted free agent,6,C,226,3,17
+Late FA Stage 4,2016,3484,turned down a contract offer,22,C,220,3,0
+Late FA Stage 4,2016,4164,signed as a free agent,18,TE,45,1,99
+Late FA Stage 4,2016,4164,turned down a contract offer,9,TE,45,1,0
+Late FA Stage 4,2016,4164,turned down a contract offer,22,TE,45,1,0
+Late FA Stage 4,2016,4180,signed as a free agent,8,TE,45,1,99
+Late FA Stage 4,2016,4180,turned down a contract offer,13,TE,45,1,0
+Late FA Stage 4,2016,4189,signed as a free agent,25,TE,47,1,99
+Late FA Stage 4,2016,4189,turned down a contract offer,13,TE,45,1,0
+Late FA Stage 4,2016,4205,signed as a free agent,18,WR,45,1,99
+Late FA Stage 4,2016,4205,turned down a contract offer,23,WR,45,1,0
+Late FA Stage 4,2016,4229,signed as a free agent,23,WR,45,1,99
+Late FA Stage 4,2016,4229,turned down a contract offer,21,WR,45,1,0
+Late FA Stage 4,2016,4239,signed as a free agent,21,WR,45,1,99
+Late FA Stage 4,2016,4294,signed as a free agent,7,C,45,1,99
+Late FA Stage 4,2016,4313,signed as a free agent,16,C,48,1,99
+Late FA Stage 4,2016,4313,turned down a contract offer,0,C,45,1,0
+Late FA Stage 4,2016,4313,turned down a contract offer,12,C,45,1,0
+Late FA Stage 4,2016,4313,turned down a contract offer,15,C,45,1,0
+Late FA Stage 4,2016,4313,turned down a contract offer,23,C,45,1,0
+Late FA Stage 4,2016,4313,turned down a contract offer,30,C,48,1,0
+Late FA Stage 4,2016,4636,signed as a free agent,14,ILB,45,1,99
+Late FA Stage 4,2016,4636,turned down a contract offer,1,ILB,45,1,0
+Late FA Stage 4,2016,4823,signed as a free agent,1,S,45,1,99
+Late FA Stage 5,2016,389,signed as a free agent,0,S,934,4,99
+Late FA Stage 5,2016,1398,signed as an unrestricted free agent,28,CB,293,3,18
+Late FA Stage 5,2016,1767,signed as an unrestricted free agent,12,CB,281,3,20
+Late FA Stage 5,2016,2977,signed as an unrestricted free agent,1,ILB,137,2,10
+Late FA Stage 5,2016,3022,signed as a free agent,30,OLB,61,1,99
+Late FA Stage 5,2016,3259,signed as an unrestricted free agent,9,RB,146,2,24
+Late FA Stage 5,2016,3351,signed as an unrestricted free agent,15,TE,118,2,6
+Late FA Stage 5,2016,3351,turned down a contract offer,12,TE,118,2,0
+Late FA Stage 5,2016,4002,signed as a free agent,3,QB,45,1,99
+Late FA Stage 5,2016,4035,signed as a free agent,26,QB,45,1,99
+Late FA Stage 5,2016,4036,signed as a free agent,15,QB,45,1,99
+Late FA Stage 5,2016,4169,signed as a free agent,17,TE,45,1,99
+Late FA Stage 5,2016,4169,turned down a contract offer,0,TE,45,1,0
+Late FA Stage 5,2016,4169,turned down a contract offer,13,TE,45,1,0
+Late FA Stage 5,2016,4186,signed as a free agent,23,TE,45,1,99
+Late FA Stage 5,2016,4186,turned down a contract offer,0,TE,45,1,0
+Late FA Stage 5,2016,4210,signed as a free agent,17,WR,45,1,99
+Late FA Stage 5,2016,4289,signed as a free agent,31,C,45,1,99
+Late FA Stage 5,2016,4289,turned down a contract offer,0,C,45,1,0
+Late FA Stage 5,2016,4289,turned down a contract offer,12,C,45,1,0
+Late FA Stage 5,2016,4289,turned down a contract offer,23,C,45,1,0
+Late FA Stage 5,2016,4790,signed as a free agent,7,S,48,1,99
+Pre-Training Camp,2016,3236,signed as a free agent,0,QB,118,2,0
+Pre-Training Camp,2016,4042,released,0,QB,0,0,0
+Pre-Training Camp,2016,1923,signed as a free agent,5,QB,134,2,0
+Pre-Training Camp,2016,1898,signed as a free agent,26,QB,134,2,0
+Pre-Training Camp,2016,4035,released,26,QB,0,0,0
+Pre-Training Camp,2016,1909,signed as a free agent,30,QB,134,2,0
+Pre-Training Camp,2016,2386,released,30,QB,0,0,0
+Pre-Training Camp,2016,1737,signed as a free agent,8,OLB,61,1,0
+Pre-Training Camp,2016,183,signed as a free agent,8,DT,61,1,0
+Pre-Training Camp,2016,1555,signed as a free agent,8,RB,61,1,0
+Pre-Training Camp,2016,2079,signed as a free agent,8,C,61,1,0
+Pre-Training Camp,2016,3213,signed as a free agent,8,QB,53,1,0
+Pre-Training Camp,2016,598,signed as a free agent,8,CB,92,1,0
+Pre-Training Camp,2016,3382,signed as a free agent,8,TE,53,1,0
+Pre-Training Camp,2016,1493,signed as a free agent,8,DT,69,1,0
+Pre-Training Camp,2016,2883,signed as a free agent,8,DE,61,1,0
+Pre-Training Camp,2016,121,signed as a free agent,8,ILB,103,1,0
+Pre-Training Camp,2016,2545,signed as a free agent,24,TE,61,1,0
+Pre-Training Camp,2016,1255,signed as a free agent,24,CB,78,1,0
+Pre-Training Camp,2016,2538,signed as a free agent,24,TE,61,1,0
+Pre-Training Camp,2016,2508,signed as a free agent,24,TE,61,1,0
+Pre-Training Camp,2016,375,signed as a free agent,24,TE,78,1,0
+Pre-Training Camp,2016,1879,signed as a free agent,24,WR,61,1,0
+Pre-Training Camp,2016,3588,signed as a free agent,24,T,53,1,0
+Pre-Training Camp,2016,3050,signed as a free agent,27,OLB,61,1,0
+Pre-Training Camp,2016,2459,signed as a free agent,27,RB,61,1,0
+Pre-Training Camp,2016,2423,signed as a free agent,27,RB,61,1,0
+Pre-Training Camp,2016,2438,signed as a free agent,27,RB,61,1,0
+Pre-Training Camp,2016,1323,signed as a free agent,27,QB,69,1,0
+Pre-Training Camp,2016,1812,signed as a free agent,27,T,61,1,0
+Pre-Training Camp,2016,1551,signed as a free agent,27,G,61,1,0
+Pre-Training Camp,2016,2660,signed as a free agent,27,C,61,1,0
+Pre-Training Camp,2016,1784,signed as a free agent,27,DE,61,1,0
+Pre-Training Camp,2016,1552,signed as a free agent,27,DE,69,1,0
+Pre-Training Camp,2016,2475,signed as a free agent,27,FB,61,1,0
+Pre-Training Camp,2016,826,signed as a free agent,27,CB,92,1,0
+Pre-Training Camp,2016,591,signed as a free agent,2,ILB,92,1,0
+Pre-Training Camp,2016,1017,signed as a free agent,2,RB,69,1,0
+Pre-Training Camp,2016,1236,signed as a free agent,2,S,61,1,0
+Pre-Training Camp,2016,4307,signed as a free agent,2,C,45,1,0
+Pre-Training Camp,2016,1505,signed as a free agent,2,DE,69,1,0
+Pre-Training Camp,2016,2632,signed as a free agent,2,WR,61,1,0
+Pre-Training Camp,2016,2377,signed as a free agent,2,QB,61,1,0
+Pre-Training Camp,2016,2080,signed as a free agent,2,C,61,1,0
+Pre-Training Camp,2016,1729,signed as a free agent,2,OLB,61,1,0
+Pre-Training Camp,2016,1430,signed as a free agent,2,CB,69,1,0
+Pre-Training Camp,2016,3051,signed as a free agent,2,OLB,61,1,0
+Pre-Training Camp,2016,1185,signed as a free agent,2,OLB,69,1,0
+Pre-Training Camp,2016,2534,released,2,TE,0,0,0
+Pre-Training Camp,2016,3204,signed as a free agent,23,QB,53,1,0
+Pre-Training Camp,2016,1847,signed as a free agent,23,DE,61,1,0
+Pre-Training Camp,2016,2340,signed as a free agent,23,C,61,1,0
+Pre-Training Camp,2016,3289,signed as a free agent,23,RB,53,1,0
+Pre-Training Camp,2016,1940,signed as a free agent,23,RB,61,1,0
+Pre-Training Camp,2016,1952,signed as a free agent,23,RB,61,1,0
+Pre-Training Camp,2016,2991,signed as a free agent,23,ILB,61,1,0
+Pre-Training Camp,2016,4290,signed as a free agent,23,C,45,1,0
+Pre-Training Camp,2016,556,signed as a free agent,23,WR,78,1,0
+Pre-Training Camp,2016,2717,signed as a free agent,23,G,61,1,0
+Pre-Training Camp,2016,1718,signed as a free agent,23,S,61,1,0
+Pre-Training Camp,2016,2240,signed as a free agent,23,OLB,61,1,0
+Pre-Training Camp,2016,1346,signed as a free agent,23,OLB,69,1,0
+Pre-Training Camp,2016,1731,signed as a free agent,26,WR,61,1,0
+Pre-Training Camp,2016,3161,signed as a free agent,26,S,61,1,0
+Pre-Training Camp,2016,1887,signed as a free agent,26,QB,61,1,0
+Pre-Training Camp,2016,763,signed as a free agent,26,G,78,1,0
+Pre-Training Camp,2016,2236,signed as a free agent,26,OLB,61,1,0
+Pre-Training Camp,2016,1483,signed as a free agent,26,C,61,1,0
+Pre-Training Camp,2016,2534,signed as a free agent,26,TE,61,1,0
+Pre-Training Camp,2016,1565,signed as a free agent,26,OLB,61,1,0
+Pre-Training Camp,2016,2177,signed as a free agent,26,DT,61,1,0
+Pre-Training Camp,2016,2154,signed as a free agent,26,DT,61,1,0
+Pre-Training Camp,2016,2843,signed as a free agent,28,DE,61,1,0
+Pre-Training Camp,2016,2446,signed as a free agent,28,RB,61,1,0
+Pre-Training Camp,2016,1507,signed as a free agent,28,OLB,61,1,0
+Pre-Training Camp,2016,182,signed as a free agent,28,CB,103,1,0
+Pre-Training Camp,2016,3004,signed as a free agent,28,ILB,61,1,0
+Pre-Training Camp,2016,3250,signed as a free agent,28,QB,53,1,0
+Pre-Training Camp,2016,3152,signed as a free agent,28,S,61,1,0
+Pre-Training Camp,2016,1816,signed as a free agent,28,WR,61,1,0
+Pre-Training Camp,2016,3502,signed as a free agent,28,C,53,1,0
+Pre-Training Camp,2016,2456,signed as a free agent,28,RB,61,1,0
+Pre-Training Camp,2016,2308,signed as a free agent,28,CB,61,1,0
+Pre-Training Camp,2016,2299,signed as a free agent,28,OLB,61,1,0
+Pre-Training Camp,2016,3030,signed as a free agent,28,OLB,61,1,0
+Pre-Training Camp,2016,4728,released,28,CB,0,0,0
+Pre-Training Camp,2016,527,signed as a free agent,16,G,92,1,0
+Pre-Training Camp,2016,2642,signed as a free agent,16,C,61,1,0
+Pre-Training Camp,2016,2651,signed as a free agent,16,C,61,1,0
+Pre-Training Camp,2016,1709,signed as a free agent,16,DT,61,1,0
+Pre-Training Camp,2016,992,signed as a free agent,16,T,78,1,0
+Pre-Training Camp,2016,1680,signed as a free agent,16,DE,69,1,0
+Pre-Training Camp,2016,1685,signed as a free agent,16,CB,69,1,0
+Pre-Training Camp,2016,3424,signed as a free agent,16,WR,53,1,0
+Pre-Training Camp,2016,3177,signed as a free agent,16,S,61,1,0
+Pre-Training Camp,2016,3292,signed as a free agent,16,RB,53,1,0
+Pre-Training Camp,2016,2501,signed as a free agent,16,FB,61,1,0
+Pre-Training Camp,2016,3828,signed as a free agent,16,OLB,53,1,0
+Pre-Training Camp,2016,2958,signed as a free agent,16,DT,61,1,0
+Pre-Training Camp,2016,1744,signed as a free agent,16,DT,69,1,0
+Pre-Training Camp,2016,4651,released,16,OLB,0,0,0
+Pre-Training Camp,2016,2301,signed as a free agent,30,OLB,61,1,0
+Pre-Training Camp,2016,1655,signed as a free agent,30,OLB,61,1,0
+Pre-Training Camp,2016,2564,signed as a free agent,30,WR,61,1,0
+Pre-Training Camp,2016,2756,signed as a free agent,30,T,61,1,0
+Pre-Training Camp,2016,2072,signed as a free agent,30,C,61,1,0
+Pre-Training Camp,2016,4014,signed as a free agent,30,QB,45,1,0
+Pre-Training Camp,2016,1197,signed as a free agent,30,G,69,1,0
+Pre-Training Camp,2016,1828,signed as a free agent,30,DE,61,1,0
+Pre-Training Camp,2016,471,signed as a free agent,30,CB,92,1,0
+Pre-Training Camp,2016,1646,signed as a free agent,30,S,61,1,0
+Pre-Training Camp,2016,2347,signed as a free agent,30,C,61,1,0
+Pre-Training Camp,2016,2970,signed as a free agent,30,ILB,61,1,0
+Pre-Training Camp,2016,1469,signed as a free agent,30,RB,69,1,0
+Pre-Training Camp,2016,2324,signed as a free agent,30,S,61,1,0
+Pre-Training Camp,2016,1465,signed as a free agent,30,RB,78,1,0
+Pre-Training Camp,2016,1951,signed as a free agent,0,RB,61,1,0
+Pre-Training Camp,2016,2424,signed as a free agent,0,RB,61,1,0
+Pre-Training Camp,2016,3999,signed as a free agent,0,QB,45,1,0
+Pre-Training Camp,2016,2634,signed as a free agent,0,WR,61,1,0
+Pre-Training Camp,2016,4308,signed as a free agent,0,C,45,1,0
+Pre-Training Camp,2016,3469,signed as a free agent,0,C,53,1,0
+Pre-Training Camp,2016,2344,signed as a free agent,0,C,61,1,0
+Pre-Training Camp,2016,3084,signed as a free agent,0,CB,61,1,0
+Pre-Training Camp,2016,1675,signed as a free agent,0,TE,69,1,0
+Pre-Training Camp,2016,2512,signed as a free agent,0,TE,61,1,0
+Pre-Training Camp,2016,2264,signed as a free agent,0,ILB,61,1,0
+Pre-Training Camp,2016,2973,signed as a free agent,0,ILB,61,1,0
+Pre-Training Camp,2016,1445,signed as a free agent,0,RB,61,1,0
+Pre-Training Camp,2016,2332,signed as a free agent,0,S,61,1,0
+Pre-Training Camp,2016,3008,signed as a free agent,0,OLB,61,1,0
+Pre-Training Camp,2016,3014,signed as a free agent,0,OLB,61,1,0
+Pre-Training Camp,2016,222,released,0,OLB,0,0,0
+Pre-Training Camp,2016,1135,signed as a free agent,14,WR,78,1,0
+Pre-Training Camp,2016,2095,signed as a free agent,14,G,61,1,0
+Pre-Training Camp,2016,4091,signed as a free agent,14,RB,45,1,0
+Pre-Training Camp,2016,4037,signed as a free agent,14,QB,45,1,0
+Pre-Training Camp,2016,1130,signed as a free agent,14,C,69,1,0
+Pre-Training Camp,2016,4280,signed as a free agent,14,C,45,1,0
+Pre-Training Camp,2016,1489,signed as a free agent,14,T,78,1,0
+Pre-Training Camp,2016,222,signed as a free agent,14,OLB,103,1,0
+Pre-Training Camp,2016,2211,signed as a free agent,14,DT,61,1,0
+Pre-Training Camp,2016,2161,signed as a free agent,14,DT,61,1,0
+Pre-Training Camp,2016,2447,signed as a free agent,9,RB,61,1,0
+Pre-Training Camp,2016,3017,signed as a free agent,9,OLB,61,1,0
+Pre-Training Camp,2016,1078,signed as a free agent,9,G,78,1,0
+Pre-Training Camp,2016,2628,signed as a free agent,9,WR,61,1,0
+Pre-Training Camp,2016,3192,signed as a free agent,9,S,61,1,0
+Pre-Training Camp,2016,2056,signed as a free agent,9,T,61,1,0
+Pre-Training Camp,2016,2987,signed as a free agent,9,ILB,61,1,0
+Pre-Training Camp,2016,3492,signed as a free agent,9,C,53,1,0
+Pre-Training Camp,2016,2078,signed as a free agent,9,C,61,1,0
+Pre-Training Camp,2016,3067,signed as a free agent,9,CB,61,1,0
+Pre-Training Camp,2016,1896,signed as a free agent,9,QB,61,1,0
+Pre-Training Camp,2016,195,signed as a free agent,9,TE,92,1,0
+Pre-Training Camp,2016,2521,signed as a free agent,9,TE,61,1,0
+Pre-Training Camp,2016,1279,signed as a free agent,9,ILB,69,1,0
+Pre-Training Camp,2016,3163,signed as a free agent,9,S,61,1,0
+Pre-Training Camp,2016,2011,signed as a free agent,22,TE,61,1,0
+Pre-Training Camp,2016,2333,signed as a free agent,22,S,61,1,0
+Pre-Training Camp,2016,2647,signed as a free agent,22,C,61,1,0
+Pre-Training Camp,2016,1676,signed as a free agent,22,OLB,69,1,0
+Pre-Training Camp,2016,1638,signed as a free agent,22,OLB,69,1,0
+Pre-Training Camp,2016,3798,signed as a free agent,22,ILB,53,1,0
+Pre-Training Camp,2016,2688,signed as a free agent,22,G,61,1,0
+Pre-Training Camp,2016,3491,signed as a free agent,22,C,53,1,0
+Pre-Training Camp,2016,4295,signed as a free agent,22,C,45,1,0
+Pre-Training Camp,2016,1922,signed as a free agent,22,QB,61,1,0
+Pre-Training Camp,2016,2363,signed as a free agent,22,QB,61,1,0
+Pre-Training Camp,2016,2451,signed as a free agent,22,RB,61,1,0
+Pre-Training Camp,2016,3167,signed as a free agent,22,S,61,1,0
+Pre-Training Camp,2016,1679,signed as a free agent,25,CB,61,1,0
+Pre-Training Camp,2016,2386,signed as a free agent,25,QB,61,1,0
+Pre-Training Camp,2016,1290,signed as a free agent,25,S,78,1,0
+Pre-Training Camp,2016,2720,signed as a free agent,25,G,61,1,0
+Pre-Training Camp,2016,2655,signed as a free agent,25,C,61,1,0
+Pre-Training Camp,2016,1748,signed as a free agent,25,WR,61,1,0
+Pre-Training Camp,2016,2261,signed as a free agent,25,ILB,61,1,0
+Pre-Training Camp,2016,4086,signed as a free agent,25,RB,45,1,0
+Pre-Training Camp,2016,3847,signed as a free agent,25,OLB,53,1,0
+Pre-Training Camp,2016,367,signed as a free agent,25,S,92,1,0
+Pre-Training Camp,2016,2993,signed as a free agent,25,ILB,61,1,0
+Pre-Training Camp,2016,2972,signed as a free agent,25,ILB,61,1,0
+Pre-Training Camp,2016,2846,signed as a free agent,25,DE,61,1,0
+Pre-Training Camp,2016,4042,signed as a free agent,4,QB,45,1,0
+Pre-Training Camp,2016,4291,signed as a free agent,4,C,45,1,0
+Pre-Training Camp,2016,1157,signed as a free agent,4,C,69,1,0
+Pre-Training Camp,2016,2608,signed as a free agent,4,WR,61,1,0
+Pre-Training Camp,2016,378,signed as a free agent,4,ILB,92,1,0
+Pre-Training Camp,2016,1378,signed as a free agent,4,CB,69,1,0
+Pre-Training Camp,2016,3095,signed as a free agent,4,CB,61,1,0
+Pre-Training Camp,2016,3175,signed as a free agent,4,S,61,1,0
+Pre-Training Camp,2016,3822,signed as a free agent,4,OLB,53,1,0
+Pre-Training Camp,2016,823,signed as a free agent,12,G,78,1,0
+Pre-Training Camp,2016,2554,signed as a free agent,12,WR,61,1,0
+Pre-Training Camp,2016,2153,signed as a free agent,12,DT,61,1,0
+Pre-Training Camp,2016,3817,signed as a free agent,12,OLB,53,1,0
+Pre-Training Camp,2016,1928,signed as a free agent,12,QB,61,1,0
+Pre-Training Camp,2016,3383,signed as a free agent,12,TE,53,1,0
+Pre-Training Camp,2016,450,signed as a free agent,12,C,92,1,0
+Pre-Training Camp,2016,349,signed as a free agent,12,CB,92,1,0
+Pre-Training Camp,2016,2434,signed as a free agent,12,RB,61,1,0
+Pre-Training Camp,2016,2907,signed as a free agent,12,DT,61,1,0
+Pre-Training Camp,2016,2909,signed as a free agent,12,DT,61,1,0
+Pre-Training Camp,2016,3779,signed as a free agent,12,ILB,53,1,0
+Pre-Training Camp,2016,267,signed as a free agent,13,ILB,103,1,0
+Pre-Training Camp,2016,1222,signed as a free agent,13,CB,69,1,0
+Pre-Training Camp,2016,1475,signed as a free agent,13,G,61,1,0
+Pre-Training Camp,2016,1024,signed as a free agent,13,S,78,1,0
+Pre-Training Camp,2016,4292,signed as a free agent,13,C,45,1,0
+Pre-Training Camp,2016,1686,signed as a free agent,13,WR,61,1,0
+Pre-Training Camp,2016,2361,signed as a free agent,13,QB,61,1,0
+Pre-Training Camp,2016,2509,signed as a free agent,13,TE,61,1,0
+Pre-Training Camp,2016,434,signed as a free agent,13,TE,92,1,0
+Pre-Training Camp,2016,286,signed as a free agent,13,TE,92,1,0
+Pre-Training Camp,2016,2256,signed as a free agent,13,ILB,61,1,0
+Pre-Training Camp,2016,918,signed as a free agent,13,OLB,78,1,0
+Pre-Training Camp,2016,1330,signed as a free agent,17,ILB,78,1,0
+Pre-Training Camp,2016,3797,signed as a free agent,17,ILB,53,1,0
+Pre-Training Camp,2016,1405,signed as a free agent,17,S,69,1,0
+Pre-Training Camp,2016,2014,signed as a free agent,17,TE,61,1,0
+Pre-Training Camp,2016,1726,signed as a free agent,17,T,69,1,0
+Pre-Training Camp,2016,2590,signed as a free agent,17,WR,61,1,0
+Pre-Training Camp,2016,3395,signed as a free agent,17,WR,53,1,0
+Pre-Training Camp,2016,4099,signed as a free agent,17,RB,45,1,0
+Pre-Training Camp,2016,4314,signed as a free agent,17,C,45,1,0
+Pre-Training Camp,2016,949,signed as a free agent,17,CB,78,1,0
+Pre-Training Camp,2016,4134,signed as a free agent,17,FB,45,1,0
+Pre-Training Camp,2016,1838,signed as a free agent,17,S,61,1,0
+Pre-Training Camp,2016,785,signed as a free agent,17,OLB,61,1,0
+Pre-Training Camp,2016,4651,signed as a free agent,17,OLB,45,1,0
+Pre-Training Camp,2016,3837,released,17,OLB,0,0,0
+Pre-Training Camp,2016,2787,signed as a free agent,1,T,61,1,0
+Pre-Training Camp,2016,2374,signed as a free agent,1,QB,61,1,0
+Pre-Training Camp,2016,3010,signed as a free agent,1,OLB,61,1,0
+Pre-Training Camp,2016,1116,signed as a free agent,1,ILB,78,1,0
+Pre-Training Camp,2016,984,signed as a free agent,1,G,78,1,0
+Pre-Training Camp,2016,1196,signed as a free agent,1,S,78,1,0
+Pre-Training Camp,2016,4299,signed as a free agent,1,C,45,1,0
+Pre-Training Camp,2016,400,signed as a free agent,1,CB,92,1,0
+Pre-Training Camp,2016,2918,signed as a free agent,1,DT,61,1,0
+Pre-Training Camp,2016,1176,signed as a free agent,1,CB,69,1,0
+Pre-Training Camp,2016,2476,signed as a free agent,1,FB,61,1,0
+Pre-Training Camp,2016,3049,signed as a free agent,1,OLB,61,1,0
+Pre-Training Camp,2016,1360,signed as a free agent,1,DE,78,1,0
+Pre-Training Camp,2016,2852,signed as a free agent,1,DE,61,1,0
+Pre-Training Camp,2016,3882,released,1,CB,0,0,0
+Pre-Training Camp,2016,1810,signed as a free agent,15,OLB,69,1,0
+Pre-Training Camp,2016,1316,signed as a free agent,15,WR,69,1,0
+Pre-Training Camp,2016,1315,signed as a free agent,15,CB,78,1,0
+Pre-Training Camp,2016,2699,signed as a free agent,15,G,61,1,0
+Pre-Training Camp,2016,1167,signed as a free agent,15,S,78,1,0
+Pre-Training Camp,2016,2380,signed as a free agent,15,QB,61,1,0
+Pre-Training Camp,2016,2663,signed as a free agent,15,C,61,1,0
+Pre-Training Camp,2016,4296,signed as a free agent,15,C,45,1,0
+Pre-Training Camp,2016,4081,signed as a free agent,15,RB,45,1,0
+Pre-Training Camp,2016,2769,signed as a free agent,15,T,61,1,0
+Pre-Training Camp,2016,2238,signed as a free agent,15,OLB,61,1,0
+Pre-Training Camp,2016,2500,signed as a free agent,15,FB,61,1,0
+Pre-Training Camp,2016,2877,signed as a free agent,15,DE,61,1,0
+Pre-Training Camp,2016,2920,signed as a free agent,15,DT,61,1,0
+Pre-Training Camp,2016,831,signed as a free agent,21,RB,78,1,0
+Pre-Training Camp,2016,3184,signed as a free agent,21,S,61,1,0
+Pre-Training Camp,2016,4297,signed as a free agent,21,C,45,1,0
+Pre-Training Camp,2016,1160,signed as a free agent,21,OLB,78,1,0
+Pre-Training Camp,2016,1772,signed as a free agent,21,ILB,61,1,0
+Pre-Training Camp,2016,891,signed as a free agent,21,G,78,1,0
+Pre-Training Camp,2016,4202,signed as a free agent,21,WR,45,1,0
+Pre-Training Camp,2016,336,signed as a free agent,21,T,92,1,0
+Pre-Training Camp,2016,3226,signed as a free agent,21,QB,53,1,0
+Pre-Training Camp,2016,1249,signed as a free agent,21,CB,69,1,0
+Pre-Training Camp,2016,1347,signed as a free agent,21,OLB,69,1,0
+Pre-Training Camp,2016,2253,signed as a free agent,21,ILB,61,1,0
+Pre-Training Camp,2016,2074,signed as a free agent,18,C,61,1,0
+Pre-Training Camp,2016,1937,signed as a free agent,18,RB,61,1,0
+Pre-Training Camp,2016,799,signed as a free agent,18,OLB,78,1,0
+Pre-Training Camp,2016,2696,signed as a free agent,18,G,61,1,0
+Pre-Training Camp,2016,4024,signed as a free agent,18,QB,45,1,0
+Pre-Training Camp,2016,481,signed as a free agent,18,WR,78,1,0
+Pre-Training Camp,2016,2622,signed as a free agent,18,WR,61,1,0
+Pre-Training Camp,2016,3073,signed as a free agent,18,CB,61,1,0
+Pre-Training Camp,2016,423,signed as a free agent,18,S,78,1,0
+Pre-Training Camp,2016,180,signed as a free agent,18,CB,92,1,0
+Pre-Training Camp,2016,2295,signed as a free agent,18,ILB,61,1,0
+Pre-Training Camp,2016,1606,signed as a free agent,18,FB,69,1,0
+Pre-Training Camp,2016,1782,signed as a free agent,18,DE,61,1,0
+Pre-Training Camp,2016,191,signed as a free agent,18,DE,92,1,0
+Pre-Training Camp,2016,899,released,18,DE,0,0,0
+Pre-Training Camp,2016,3434,signed as a free agent,20,WR,53,1,0
+Pre-Training Camp,2016,1492,signed as a free agent,20,T,61,1,0
+Pre-Training Camp,2016,3837,signed as a free agent,20,OLB,53,1,0
+Pre-Training Camp,2016,1795,signed as a free agent,20,OLB,61,1,0
+Pre-Training Camp,2016,791,signed as a free agent,20,S,78,1,0
+Pre-Training Camp,2016,4047,signed as a free agent,20,QB,45,1,0
+Pre-Training Camp,2016,1341,signed as a free agent,20,CB,61,1,0
+Pre-Training Camp,2016,4309,signed as a free agent,20,C,45,1,0
+Pre-Training Camp,2016,3132,signed as a free agent,20,CB,61,1,0
+Pre-Training Camp,2016,899,signed as a free agent,20,DE,78,1,0
+Pre-Training Camp,2016,1307,signed as a free agent,20,DE,69,1,0
+Pre-Training Camp,2016,513,released,20,FB,0,0,0
+Pre-Training Camp,2016,1440,signed as a free agent,7,S,78,1,0
+Pre-Training Camp,2016,3397,signed as a free agent,7,WR,53,1,0
+Pre-Training Camp,2016,2082,signed as a free agent,7,C,61,1,0
+Pre-Training Camp,2016,513,signed as a free agent,7,FB,92,1,0
+Pre-Training Camp,2016,4686,signed as a free agent,7,OLB,45,1,0
+Pre-Training Camp,2016,924,signed as a free agent,7,G,78,1,0
+Pre-Training Camp,2016,2185,signed as a free agent,7,DT,61,1,0
+Pre-Training Camp,2016,2951,signed as a free agent,7,DT,61,1,0
+Pre-Training Camp,2016,1531,signed as a free agent,7,DE,61,1,0
+Pre-Training Camp,2016,4060,signed as a free agent,7,RB,45,1,0
+Pre-Training Camp,2016,1931,signed as a free agent,31,QB,61,1,0
+Pre-Training Camp,2016,2773,signed as a free agent,31,T,61,1,0
+Pre-Training Camp,2016,1525,signed as a free agent,31,OLB,61,1,0
+Pre-Training Camp,2016,874,signed as a free agent,31,S,78,1,0
+Pre-Training Camp,2016,3487,signed as a free agent,31,C,53,1,0
+Pre-Training Camp,2016,1566,signed as a free agent,31,G,61,1,0
+Pre-Training Camp,2016,2567,signed as a free agent,31,WR,61,1,0
+Pre-Training Camp,2016,1933,signed as a free agent,31,RB,61,1,0
+Pre-Training Camp,2016,239,signed as a free agent,31,CB,103,1,0
+Pre-Training Camp,2016,87,signed as a free agent,31,DE,103,1,0
+Pre-Training Camp,2016,2979,signed as a free agent,31,ILB,61,1,0
+Pre-Training Camp,2016,2292,signed as a free agent,31,ILB,61,1,0
+Pre-Training Camp,2016,2025,signed as a free agent,29,TE,61,1,0
+Pre-Training Camp,2016,3154,signed as a free agent,29,S,61,1,0
+Pre-Training Camp,2016,61,signed as a free agent,29,S,103,1,0
+Pre-Training Camp,2016,351,signed as a free agent,29,DE,92,1,0
+Pre-Training Camp,2016,3499,signed as a free agent,29,C,53,1,0
+Pre-Training Camp,2016,4657,signed as a free agent,29,OLB,45,1,0
+Pre-Training Camp,2016,3468,signed as a free agent,29,WR,53,1,0
+Pre-Training Camp,2016,2965,signed as a free agent,29,ILB,61,1,0
+Pre-Training Camp,2016,3882,signed as a free agent,29,CB,53,1,0
+Pre-Training Camp,2016,3799,signed as a free agent,29,ILB,53,1,0
+Pre-Training Camp,2016,721,signed as a free agent,29,ILB,78,1,0
+Pre-Training Camp,2016,4015,signed as a free agent,5,QB,45,1,0
+Pre-Training Camp,2016,4021,signed as a free agent,5,QB,45,1,0
+Pre-Training Camp,2016,1223,signed as a free agent,5,DE,78,1,0
+Pre-Training Camp,2016,2866,signed as a free agent,5,DE,61,1,0
+Pre-Training Camp,2016,1372,signed as a free agent,5,DT,69,1,0
+Pre-Training Camp,2016,2195,signed as a free agent,5,DT,61,1,0
+Pre-Training Camp,2016,832,signed as a free agent,5,ILB,78,1,0
+Pre-Training Camp,2016,3773,signed as a free agent,5,ILB,53,1,0
+Pre-Training Camp,2016,2755,signed as a free agent,5,T,61,1,0
+Pre-Training Camp,2016,2303,signed as a free agent,5,OLB,61,1,0
+Pre-Training Camp,2016,1416,signed as a free agent,5,G,61,1,0
+Pre-Training Camp,2016,2528,signed as a free agent,5,TE,61,1,0
+Pre-Training Camp,2016,4156,signed as a free agent,5,TE,45,1,0
+Pre-Training Camp,2016,288,signed as a free agent,5,TE,92,1,0
+Pre-Training Camp,2016,3270,signed as a free agent,5,RB,53,1,0
+Pre-Training Camp,2016,427,signed as a free agent,5,CB,92,1,0
+Pre-Training Camp,2016,1358,signed as a free agent,5,S,69,1,0
+Pre-Training Camp,2016,1276,signed as a free agent,5,WR,69,1,0
+Pre-Training Camp,2016,692,signed as a free agent,5,WR,92,1,0
+Pre-Training Camp,2016,4188,signed as a free agent,5,TE,45,1,0
+Pre-Training Camp,2016,4301,signed as a free agent,5,C,45,1,0
+Pre-Training Camp,2016,4284,signed as a free agent,5,C,45,1,0
+Pre-Training Camp,2016,3036,signed as a free agent,5,OLB,61,1,0
+Pre-Training Camp,2016,1696,signed as a free agent,5,CB,69,1,0
+Pre-Training Camp,2016,1811,signed as a free agent,6,RB,61,1,0
+Pre-Training Camp,2016,2029,signed as a free agent,6,WR,61,1,0
+Pre-Training Camp,2016,890,signed as a free agent,6,G,78,1,0
+Pre-Training Camp,2016,1350,signed as a free agent,6,CB,69,1,0
+Pre-Training Camp,2016,3201,signed as a free agent,6,QB,53,1,0
+Pre-Training Camp,2016,2026,signed as a free agent,6,TE,61,1,0
+Pre-Training Camp,2016,4663,signed as a free agent,6,OLB,45,1,0
+Pre-Training Camp,2016,4288,signed as a free agent,6,C,45,1,0
+Pre-Training Camp,2016,1324,signed as a free agent,6,S,78,1,0
+Pre-Training Camp,2016,2204,signed as a free agent,6,DT,61,1,0
+Pre-Training Camp,2016,2851,signed as a free agent,6,DE,61,1,0
+Pre-Training Camp,2016,1497,signed as a free agent,10,ILB,61,1,0
+Pre-Training Camp,2016,4283,signed as a free agent,10,C,45,1,0
+Pre-Training Camp,2016,928,signed as a free agent,10,WR,78,1,0
+Pre-Training Camp,2016,4027,signed as a free agent,10,QB,45,1,0
+Pre-Training Camp,2016,4044,signed as a free agent,10,QB,45,1,0
+Pre-Training Camp,2016,3148,signed as a free agent,10,S,61,1,0
+Pre-Training Camp,2016,910,signed as a free agent,10,CB,78,1,0
+Pre-Training Camp,2016,2066,signed as a free agent,10,G,61,1,0
+Pre-Training Camp,2016,317,signed as a free agent,10,CB,92,1,0
+Pre-Training Camp,2016,4677,signed as a free agent,10,OLB,45,1,0
+Pre-Training Camp,2016,1450,signed as a free agent,10,OLB,78,1,0
+Pre-Training Camp,2016,2205,signed as a free agent,10,DT,61,1,0
+Pre-Training Camp,2016,2559,signed as a free agent,11,WR,61,1,0
+Pre-Training Camp,2016,2106,signed as a free agent,11,T,61,1,0
+Pre-Training Camp,2016,2443,signed as a free agent,11,RB,61,1,0
+Pre-Training Camp,2016,4304,signed as a free agent,11,C,45,1,0
+Pre-Training Camp,2016,3001,signed as a free agent,11,ILB,61,1,0
+Pre-Training Camp,2016,3786,signed as a free agent,11,ILB,53,1,0
+Pre-Training Camp,2016,3480,signed as a free agent,11,C,53,1,0
+Pre-Training Camp,2016,3246,signed as a free agent,11,QB,53,1,0
+Pre-Training Camp,2016,2356,signed as a free agent,11,QB,61,1,0
+Pre-Training Camp,2016,633,signed as a free agent,19,G,92,1,0
+Pre-Training Camp,2016,4661,signed as a free agent,19,OLB,45,1,0
+Pre-Training Camp,2016,420,signed as a free agent,19,CB,92,1,0
+Pre-Training Camp,2016,1578,signed as a free agent,19,T,61,1,0
+Pre-Training Camp,2016,3476,signed as a free agent,19,C,53,1,0
+Pre-Training Camp,2016,822,signed as a free agent,19,S,78,1,0
+Pre-Training Camp,2016,4018,signed as a free agent,19,QB,45,1,0
+Pre-Training Camp,2016,1943,signed as a free agent,19,RB,61,1,0
+Pre-Training Camp,2016,4593,signed as a free agent,19,ILB,45,1,0
+Pre-Training Camp,2016,4679,signed as a free agent,19,OLB,45,1,0
+Pre-Training Camp,2016,1148,signed as a free agent,19,ILB,78,1,0
+Pre-Training Camp,2016,4557,signed as a free agent,3,DT,45,1,0
+Pre-Training Camp,2016,2155,signed as a free agent,3,DT,61,1,0
+Pre-Training Camp,2016,4213,signed as a free agent,3,WR,45,1,0
+Pre-Training Camp,2016,2616,signed as a free agent,3,WR,61,1,0
+Pre-Training Camp,2016,2761,signed as a free agent,3,T,61,1,0
+Pre-Training Camp,2016,3851,signed as a free agent,3,OLB,53,1,0
+Pre-Training Camp,2016,4306,signed as a free agent,3,C,45,1,0
+Pre-Training Camp,2016,736,signed as a free agent,3,S,78,1,0
+Pre-Training Camp,2016,2715,signed as a free agent,3,G,61,1,0
+Pre-Training Camp,2016,4040,signed as a free agent,3,QB,45,1,0
+Pre-Training Camp,2016,2976,signed as a free agent,3,ILB,61,1,0
+Pre-Training Camp,2016,1713,signed as a free agent,3,CB,61,1,0
+Pre-Training Camp,2016,1299,signed as a free agent,3,DE,78,1,0
+Pre-Training Camp,2016,873,signed as a free agent,3,DE,78,1,0
+Pre-Training Camp,2016,4624,released,3,ILB,0,0,0
+Pre-Training Camp,2016,435,changed primary position,0,DE,0,LDE,0,DE,0,LDE,
+Pre-Training Camp,2016,307,changed primary position,0,OLB,0,WLB,0,OLB,0,WLB,
+Pre-Training Camp,2016,2918,changed primary position,1,DT,0,NT,1,DT,0,NT,
+Pre-Training Camp,2016,2977,changed primary position,1,ILB,0,SILB,1,ILB,0,SILB,
+Pre-Training Camp,2016,703,changed primary position,1,WR,0,FL,1,WR,0,FL,
+Pre-Training Camp,2016,1697,changed primary position,1,G,0,RG,1,G,0,RG,
+Pre-Training Camp,2016,3026,changed primary position,1,OLB,0,SLB,1,OLB,0,SLB,
+Pre-Training Camp,2016,1219,changed primary position,1,CB,0,LCB,1,CB,0,LCB,
+Pre-Training Camp,2016,591,changed primary position,2,ILB,0,MLB,2,ILB,0,MLB,
+Pre-Training Camp,2016,1617,changed primary position,2,DT,0,LDT,2,DT,0,LDT,
+Pre-Training Camp,2016,742,changed primary position,2,WR,0,SE,2,WR,0,SE,
+Pre-Training Camp,2016,4676,changed primary position,2,OLB,0,WLB,2,OLB,0,WLB,
+Pre-Training Camp,2016,1002,changed primary position,3,ILB,0,SILB,3,ILB,0,SILB,
+Pre-Training Camp,2016,2976,changed primary position,3,ILB,0,WILB,3,ILB,0,WILB,
+Pre-Training Camp,2016,4511,changed primary position,3,DE,0,RDE,3,DE,0,RDE,
+Pre-Training Camp,2016,455,changed primary position,3,CB,0,RCB,3,CB,0,RCB,
+Pre-Training Camp,2016,867,changed primary position,3,DT,0,RDT,3,DT,0,RDT,
+Pre-Training Camp,2016,378,changed primary position,4,ILB,0,SILB,4,ILB,0,SILB,
+Pre-Training Camp,2016,2950,changed primary position,4,DT,0,NT,4,DT,0,NT,
+Pre-Training Camp,2016,3787,changed primary position,4,ILB,0,SILB,4,ILB,0,SILB,
+Pre-Training Camp,2016,1022,changed primary position,4,WR,0,SE,4,WR,0,SE,
+Pre-Training Camp,2016,1322,changed primary position,4,DE,0,LDE,4,DE,0,LDE,
+Pre-Training Camp,2016,832,changed primary position,5,ILB,0,WILB,5,ILB,0,WILB,
+Pre-Training Camp,2016,2195,changed primary position,5,DT,0,NT,5,DT,0,NT,
+Pre-Training Camp,2016,3773,changed primary position,5,ILB,0,WILB,5,ILB,0,WILB,
+Pre-Training Camp,2016,965,changed primary position,6,DT,0,NT,6,DT,0,NT,
+Pre-Training Camp,2016,4540,changed primary position,6,DT,0,NT,6,DT,0,NT,
+Pre-Training Camp,2016,4626,changed primary position,6,ILB,0,WILB,6,ILB,0,WILB,
+Pre-Training Camp,2016,3541,changed primary position,6,G,0,LG,6,G,0,LG,
+Pre-Training Camp,2016,671,changed primary position,6,DT,0,LDT,6,DT,0,LDT,
+Pre-Training Camp,2016,2929,changed primary position,7,DT,0,NT,7,DT,0,NT,
+Pre-Training Camp,2016,660,changed primary position,7,T,0,LT,7,T,0,LT,
+Pre-Training Camp,2016,3158,changed primary position,7,S,0,SS,7,S,0,SS,
+Pre-Training Camp,2016,121,changed primary position,8,ILB,0,SILB,8,ILB,0,SILB,
+Pre-Training Camp,2016,872,changed primary position,9,DT,0,NT,9,DT,0,NT,
+Pre-Training Camp,2016,2987,changed primary position,9,ILB,0,WILB,9,ILB,0,WILB,
+Pre-Training Camp,2016,4623,changed primary position,10,ILB,0,MLB,10,ILB,0,MLB,
+Pre-Training Camp,2016,1667,changed primary position,10,OLB,0,WLB,10,OLB,0,WLB,
+Pre-Training Camp,2016,2241,changed primary position,11,OLB,0,SLB,11,OLB,0,SLB,
+Pre-Training Camp,2016,1834,changed primary position,12,ILB,0,SILB,12,ILB,0,SILB,
+Pre-Training Camp,2016,2153,changed primary position,12,DT,0,NT,12,DT,0,NT,
+Pre-Training Camp,2016,4621,changed primary position,12,ILB,0,SILB,12,ILB,0,SILB,
+Pre-Training Camp,2016,1593,changed primary position,12,WR,0,FL,12,WR,0,FL,
+Pre-Training Camp,2016,536,changed primary position,12,T,0,RT,12,T,0,RT,
+Pre-Training Camp,2016,790,changed primary position,12,DT,0,RDT,12,DT,0,RDT,
+Pre-Training Camp,2016,267,changed primary position,13,ILB,0,MLB,13,ILB,0,MLB,
+Pre-Training Camp,2016,1013,changed primary position,13,DT,0,LDT,13,DT,0,LDT,
+Pre-Training Camp,2016,2276,changed primary position,13,ILB,0,SILB,13,ILB,0,SILB,
+Pre-Training Camp,2016,2161,changed primary position,14,DT,0,NT,14,DT,0,NT,
+Pre-Training Camp,2016,4636,changed primary position,14,ILB,0,SILB,14,ILB,0,SILB,
+Pre-Training Camp,2016,1262,changed primary position,15,DT,0,NT,15,DT,0,NT,
+Pre-Training Camp,2016,275,changed primary position,15,T,0,LT,15,T,0,LT,
+Pre-Training Camp,2016,4749,changed primary position,15,CB,0,LCB,15,CB,0,LCB,
+Pre-Training Camp,2016,4603,changed primary position,16,ILB,0,SILB,16,ILB,0,SILB,
+Pre-Training Camp,2016,1330,changed primary position,17,ILB,0,MLB,17,ILB,0,MLB,
+Pre-Training Camp,2016,2170,changed primary position,17,DT,0,LDT,17,DT,0,LDT,
+Pre-Training Camp,2016,4554,changed primary position,17,DT,0,LDT,17,DT,0,LDT,
+Pre-Training Camp,2016,4632,changed primary position,17,ILB,0,MLB,17,ILB,0,MLB,
+Pre-Training Camp,2016,346,changed primary position,17,G,0,LG,17,G,0,LG,
+Pre-Training Camp,2016,995,changed primary position,17,OLB,0,SLB,17,OLB,0,SLB,
+Pre-Training Camp,2016,4632,changed primary position,17,ILB,0,SILB,17,ILB,0,SILB,
+Pre-Training Camp,2016,955,changed primary position,18,ILB,0,WILB,18,ILB,0,WILB,
+Pre-Training Camp,2016,2295,changed primary position,18,ILB,0,SILB,18,ILB,0,SILB,
+Pre-Training Camp,2016,4674,changed primary position,18,OLB,0,SLB,18,OLB,0,SLB,
+Pre-Training Camp,2016,1194,changed primary position,18,CB,0,LCB,18,CB,0,LCB,
+Pre-Training Camp,2016,526,changed primary position,18,S,0,SS,18,S,0,SS,
+Pre-Training Camp,2016,774,changed primary position,19,DT,0,RDT,19,DT,0,RDT,
+Pre-Training Camp,2016,854,changed primary position,19,DT,0,RDT,19,DT,0,RDT,
+Pre-Training Camp,2016,4593,changed primary position,19,ILB,0,MLB,19,ILB,0,MLB,
+Pre-Training Camp,2016,4600,changed primary position,20,ILB,0,SILB,20,ILB,0,SILB,
+Pre-Training Camp,2016,578,changed primary position,20,DE,0,RDE,20,DE,0,RDE,
+Pre-Training Camp,2016,387,changed primary position,20,OLB,0,SLB,20,OLB,0,SLB,
+Pre-Training Camp,2016,373,changed primary position,20,S,0,FS,20,S,0,FS,
+Pre-Training Camp,2016,1035,changed primary position,21,ILB,0,MLB,21,ILB,0,MLB,
+Pre-Training Camp,2016,2253,changed primary position,21,ILB,0,MLB,21,ILB,0,MLB,
+Pre-Training Camp,2016,3798,changed primary position,22,ILB,0,MLB,22,ILB,0,MLB,
+Pre-Training Camp,2016,4553,changed primary position,22,DT,0,RDT,22,DT,0,RDT,
+Pre-Training Camp,2016,276,changed primary position,22,DE,0,LDE,22,DE,0,LDE,
+Pre-Training Camp,2016,1676,changed primary position,22,OLB,0,SLB,22,OLB,0,SLB,
+Pre-Training Camp,2016,2991,changed primary position,23,ILB,0,MLB,23,ILB,0,MLB,
+Pre-Training Camp,2016,4563,changed primary position,23,DT,0,LDT,23,DT,0,LDT,
+Pre-Training Camp,2016,4573,changed primary position,23,DT,0,RDT,23,DT,0,RDT,
+Pre-Training Camp,2016,1556,changed primary position,23,S,0,SS,23,S,0,SS,
+Pre-Training Camp,2016,4378,changed primary position,24,T,0,RT,24,T,0,RT,
+Pre-Training Camp,2016,316,changed primary position,24,S,0,FS,24,S,0,FS,
+Pre-Training Camp,2016,2261,changed primary position,25,ILB,0,MLB,25,ILB,0,MLB,
+Pre-Training Camp,2016,2972,changed primary position,25,ILB,0,MLB,25,ILB,0,MLB,
+Pre-Training Camp,2016,3794,changed primary position,25,ILB,0,WILB,25,ILB,0,WILB,
+Pre-Training Camp,2016,2177,changed primary position,26,DT,0,NT,26,DT,0,NT,
+Pre-Training Camp,2016,567,changed primary position,26,DE,0,LDE,26,DE,0,LDE,
+Pre-Training Camp,2016,4215,changed primary position,27,WR,0,SE,27,WR,0,SE,
+Pre-Training Camp,2016,603,changed primary position,28,ILB,0,MLB,28,ILB,0,MLB,
+Pre-Training Camp,2016,4547,changed primary position,28,DT,0,RDT,28,DT,0,RDT,
+Pre-Training Camp,2016,4574,changed primary position,28,DT,0,RDT,28,DT,0,RDT,
+Pre-Training Camp,2016,3531,changed primary position,28,G,0,RG,28,G,0,RG,
+Pre-Training Camp,2016,3589,changed primary position,28,T,0,LT,28,T,0,LT,
+Pre-Training Camp,2016,190,changed primary position,29,DT,0,LDT,29,DT,0,LDT,
+Pre-Training Camp,2016,4541,changed primary position,29,DT,0,LDT,29,DT,0,LDT,
+Pre-Training Camp,2016,4340,changed primary position,29,G,0,LG,29,G,0,LG,
+Pre-Training Camp,2016,3958,changed primary position,29,S,0,FS,29,S,0,FS,
+Pre-Training Camp,2016,319,changed primary position,30,DT,0,LDT,30,DT,0,LDT,
+Pre-Training Camp,2016,1842,changed primary position,30,ILB,0,MLB,30,ILB,0,MLB,
+Pre-Training Camp,2016,4560,changed primary position,30,DT,0,RDT,30,DT,0,RDT,
+Pre-Training Camp,2016,4616,changed primary position,30,ILB,0,MLB,30,ILB,0,MLB,
+Pre-Training Camp,2016,354,changed primary position,30,WR,0,FL,30,WR,0,FL,
+Pre-Training Camp,2016,2756,changed primary position,30,T,0,LT,30,T,0,LT,
+Pre-Training Camp,2016,2292,changed primary position,31,ILB,0,MLB,31,ILB,0,MLB,
+Pre-Training Camp,2016,2979,changed primary position,31,ILB,0,MLB,31,ILB,0,MLB,
+Pre-Training Camp,2016,4598,changed primary position,31,ILB,0,MLB,31,ILB,0,MLB,
+Pre-Training Camp,2016,771,changed primary position,31,WR,0,FL,31,WR,0,FL,
+Pre-Training Camp,2016,839,changed primary position,31,T,0,LT,31,T,0,LT,
+Pre-Training Camp,2016,4495,changed primary position,31,DE,0,LDE,31,DE,0,LDE,
+Pre-Training Camp,2016,1630,changed primary position,31,OLB,0,WLB,31,OLB,0,WLB,
+Pre-Training Camp,2016,1175,changed primary position,31,S,0,SS,31,S,0,SS,
+Ex. Season Week 1,2016,200,has ended his contract holdout,11,QB,0,0,0
+Ex. Season Week 1,2016,219,signed a renegotiated contract,1,ILB,759,3,0
+Ex. Season Week 1,2016,219,has ended his contract holdout,1,ILB,0,0,0
+Ex. Season Week 1,2016,226,signed a renegotiated contract,30,OLB,2534,3,0
+Ex. Season Week 1,2016,226,has ended his contract holdout,30,OLB,0,0,0
+Ex. Season Week 1,2016,318,has ended his contract holdout,17,ILB,0,0,0
+Ex. Season Week 1,2016,414,has ended his contract holdout,4,CB,0,0,0
+Ex. Season Week 1,2016,756,has ended his contract holdout,15,CB,0,0,0
+Ex. Season Week 1,2016,784,has ended his contract holdout,2,OLB,0,0,0
+Ex. Season Week 2,2016,3010,released,1,OLB,0,0,0
+Ex. Season Week 2,2016,414,released,4,CB,0,0,0
+Ex. Season Week 2,2016,319,released,30,DT,0,0,0
+Ex. Season Week 2,2016,1064,released,2,OLB,0,0,0
+Ex. Season Week 2,2016,3928,released,15,CB,0,0,0
+Ex. Season Week 2,2016,4651,released,17,OLB,0,0,0
+Ex. Season Week 2,2016,295,released,11,DE,0,0,0
+Ex. Season Week 3,2016,57,signed a renegotiated contract,27,RB,384,2,0
+Ex. Season Week 3,2016,57,has ended his contract holdout,27,RB,0,0,0
+Ex. Season Week 3,2016,1386,signed a renegotiated contract,29,S,1121,3,0
+Ex. Season Week 3,2016,1386,has ended his contract holdout,29,S,0,0,0
+Ex. Season Week 3,2016,1461,signed a renegotiated contract,10,QB,2989,5,0
+Ex. Season Week 3,2016,1461,has ended his contract holdout,10,QB,0,0,0
+Ex. Season Week 3,2016,61,released,29,S,0,0,0
+Ex. Season Week 3,2016,295,signed as a free agent,9,DE,92,1,0
+Ex. Season Week 3,2016,2004,released,9,FB,0,0,0
+Ex. Season Week 3,2016,1450,released,10,OLB,0,0,0
+Ex. Season Week 3,2016,2423,released,27,RB,0,0,0
+Ex. Season Week 5,2016,253,signed a renegotiated contract,22,OLB,1133,3,0
+Ex. Season Week 5,2016,253,has ended his contract holdout,22,OLB,0,0,0
+Ex. Season Week 5,2016,3483,signed as a free agent,25,C,53,1,0
+Ex. Season Week 5,2016,4612,released,25,ILB,0,0,0
+Ex. Season Week 5,2016,4728,signed as a free agent,19,CB,45,1,0
+Ex. Season Week 5,2016,854,released,19,DT,0,0,0
+Ex. Season Week 5,2016,506,released,22,DT,0,0,0
+Reg. Season Week 1,2016,943,released,26,C,0,0,0
+Reg. Season Week 1,2016,4584,released,26,DT,0,0,0
+Reg. Season Week 1,2016,559,released,26,QB,0,0,0
+Reg. Season Week 1,2016,4754,released,26,CB,0,0,0
+Reg. Season Week 1,2016,1731,released,26,WR,0,0,0
+Reg. Season Week 1,2016,1129,released,26,P,0,0,0
+Reg. Season Week 1,2016,727,released,26,RB,0,0,0
+Reg. Season Week 1,2016,2750,signed as a free agent,0,T,61,1,0
+Reg. Season Week 1,2016,535,released,0,CB,0,0,0
+Reg. Season Week 1,2016,1445,released,0,RB,0,0,0
+Reg. Season Week 1,2016,3746,released,0,DT,0,0,0
+Reg. Season Week 1,2016,3812,released,0,ILB,0,0,0
+Reg. Season Week 1,2016,3236,released,0,QB,0,0,0
+Reg. Season Week 1,2016,118,released,0,G,0,0,0
+Reg. Season Week 1,2016,4655,released,0,OLB,0,0,0
+Reg. Season Week 1,2016,3469,released,0,C,0,0,0
+Reg. Season Week 1,2016,1104,placed on injured reserve,27,WR,0,0,0
+Reg. Season Week 1,2016,2556,signed as a free agent,27,WR,61,1,0
+Reg. Season Week 1,2016,279,released,27,DE,0,0,0
+Reg. Season Week 1,2016,2660,released,27,C,0,0,0
+Reg. Season Week 1,2016,2438,released,27,RB,0,0,0
+Reg. Season Week 1,2016,1323,released,27,QB,0,0,0
+Reg. Season Week 1,2016,843,released,27,DT,0,0,0
+Reg. Season Week 1,2016,737,released,27,CB,0,0,0
+Reg. Season Week 1,2016,4518,released,27,DE,0,0,0
+Reg. Season Week 1,2016,4299,released,1,C,0,0,0
+Reg. Season Week 1,2016,2977,released,1,ILB,0,0,0
+Reg. Season Week 1,2016,2476,released,1,FB,0,0,0
+Reg. Season Week 1,2016,1360,released,1,DE,0,0,0
+Reg. Season Week 1,2016,1061,released,1,T,0,0,0
+Reg. Season Week 1,2016,3049,released,1,OLB,0,0,0
+Reg. Season Week 1,2016,1481,released,1,WR,0,0,0
+Reg. Season Week 1,2016,3894,released,30,CB,0,0,0
+Reg. Season Week 1,2016,1465,released,30,RB,0,0,0
+Reg. Season Week 1,2016,3702,released,30,DE,0,0,0
+Reg. Season Week 1,2016,1909,released,30,QB,0,0,0
+Reg. Season Week 1,2016,2072,released,30,C,0,0,0
+Reg. Season Week 1,2016,422,released,30,RB,0,0,0
+Reg. Season Week 1,2016,4344,released,30,G,0,0,0
+Reg. Season Week 1,2016,885,released,2,T,0,0,0
+Reg. Season Week 1,2016,3801,released,2,ILB,0,0,0
+Reg. Season Week 1,2016,1017,released,2,RB,0,0,0
+Reg. Season Week 1,2016,2377,released,2,QB,0,0,0
+Reg. Season Week 1,2016,3411,released,2,WR,0,0,0
+Reg. Season Week 1,2016,2080,released,2,C,0,0,0
+Reg. Season Week 1,2016,308,released,2,CB,0,0,0
+Reg. Season Week 1,2016,3476,released,19,C,0,0,0
+Reg. Season Week 1,2016,1148,released,19,ILB,0,0,0
+Reg. Season Week 1,2016,171,released,19,DE,0,0,0
+Reg. Season Week 1,2016,822,released,19,S,0,0,0
+Reg. Season Week 1,2016,123,released,19,QB,0,0,0
+Reg. Season Week 1,2016,4593,released,19,ILB,0,0,0
+Reg. Season Week 1,2016,4661,released,19,OLB,0,0,0
+Reg. Season Week 1,2016,4306,released,3,C,0,0,0
+Reg. Season Week 1,2016,976,released,3,RB,0,0,0
+Reg. Season Week 1,2016,873,released,3,DE,0,0,0
+Reg. Season Week 1,2016,96,released,3,T,0,0,0
+Reg. Season Week 1,2016,2396,released,3,QB,0,0,0
+Reg. Season Week 1,2016,2976,released,3,ILB,0,0,0
+Reg. Season Week 1,2016,2616,released,3,WR,0,0,0
+Reg. Season Week 1,2016,220,released,17,C,0,0,0
+Reg. Season Week 1,2016,3706,released,17,DE,0,0,0
+Reg. Season Week 1,2016,4789,released,17,S,0,0,0
+Reg. Season Week 1,2016,4099,released,17,RB,0,0,0
+Reg. Season Week 1,2016,1330,released,17,ILB,0,0,0
+Reg. Season Week 1,2016,995,released,17,OLB,0,0,0
+Reg. Season Week 1,2016,738,released,17,QB,0,0,0
+Reg. Season Week 1,2016,1157,released,4,C,0,0,0
+Reg. Season Week 1,2016,378,released,4,ILB,0,0,0
+Reg. Season Week 1,2016,2635,released,4,WR,0,0,0
+Reg. Season Week 1,2016,903,released,4,TE,0,0,0
+Reg. Season Week 1,2016,365,released,4,T,0,0,0
+Reg. Season Week 1,2016,3537,released,4,G,0,0,0
+Reg. Season Week 1,2016,3822,released,4,OLB,0,0,0
+Reg. Season Week 1,2016,4284,released,5,C,0,0,0
+Reg. Season Week 1,2016,1131,released,5,OLB,0,0,0
+Reg. Season Week 1,2016,564,released,5,FB,0,0,0
+Reg. Season Week 1,2016,692,released,5,WR,0,0,0
+Reg. Season Week 1,2016,3231,released,5,QB,0,0,0
+Reg. Season Week 1,2016,3773,released,5,ILB,0,0,0
+Reg. Season Week 1,2016,2303,released,5,OLB,0,0,0
+Reg. Season Week 1,2016,4296,released,15,C,0,0,0
+Reg. Season Week 1,2016,4517,released,15,DE,0,0,0
+Reg. Season Week 1,2016,2238,released,15,OLB,0,0,0
+Reg. Season Week 1,2016,4081,released,15,RB,0,0,0
+Reg. Season Week 1,2016,2380,released,15,QB,0,0,0
+Reg. Season Week 1,2016,3549,released,15,G,0,0,0
+Reg. Season Week 1,2016,1167,released,15,S,0,0,0
+Reg. Season Week 1,2016,91,released,23,DT,0,0,0
+Reg. Season Week 1,2016,3684,released,23,DE,0,0,0
+Reg. Season Week 1,2016,4653,released,23,OLB,0,0,0
+Reg. Season Week 1,2016,876,released,23,C,0,0,0
+Reg. Season Week 1,2016,140,released,23,QB,0,0,0
+Reg. Season Week 1,2016,3911,released,23,CB,0,0,0
+Reg. Season Week 1,2016,1952,released,23,RB,0,0,0
+Reg. Season Week 1,2016,199,released,8,OLB,0,0,0
+Reg. Season Week 1,2016,3691,released,8,DE,0,0,0
+Reg. Season Week 1,2016,717,released,8,QB,0,0,0
+Reg. Season Week 1,2016,449,released,8,CB,0,0,0
+Reg. Season Week 1,2016,631,released,8,T,0,0,0
+Reg. Season Week 1,2016,3505,released,8,G,0,0,0
+Reg. Season Week 1,2016,3988,released,8,S,0,0,0
+Reg. Season Week 1,2016,958,released,9,C,0,0,0
+Reg. Season Week 1,2016,3864,released,9,OLB,0,0,0
+Reg. Season Week 1,2016,534,released,9,CB,0,0,0
+Reg. Season Week 1,2016,4041,released,9,QB,0,0,0
+Reg. Season Week 1,2016,711,released,9,T,0,0,0
+Reg. Season Week 1,2016,3259,released,9,RB,0,0,0
+Reg. Season Week 1,2016,295,released,9,DE,0,0,0
+Reg. Season Week 1,2016,4283,released,10,C,0,0,0
+Reg. Season Week 1,2016,317,released,10,CB,0,0,0
+Reg. Season Week 1,2016,3680,released,10,DE,0,0,0
+Reg. Season Week 1,2016,4027,released,10,QB,0,0,0
+Reg. Season Week 1,2016,1497,released,10,ILB,0,0,0
+Reg. Season Week 1,2016,4044,released,10,QB,0,0,0
+Reg. Season Week 1,2016,3295,released,10,RB,0,0,0
+Reg. Season Week 1,2016,3384,signed as a free agent,31,TE,53,1,0
+Reg. Season Week 1,2016,3487,released,31,C,0,0,0
+Reg. Season Week 1,2016,87,released,31,DE,0,0,0
+Reg. Season Week 1,2016,239,released,31,CB,0,0,0
+Reg. Season Week 1,2016,1525,released,31,OLB,0,0,0
+Reg. Season Week 1,2016,1931,released,31,QB,0,0,0
+Reg. Season Week 1,2016,3460,released,31,WR,0,0,0
+Reg. Season Week 1,2016,2292,released,31,ILB,0,0,0
+Reg. Season Week 1,2016,2979,released,31,ILB,0,0,0
+Reg. Season Week 1,2016,4304,released,11,C,0,0,0
+Reg. Season Week 1,2016,2443,released,11,RB,0,0,0
+Reg. Season Week 1,2016,328,released,11,S,0,0,0
+Reg. Season Week 1,2016,4532,released,11,DE,0,0,0
+Reg. Season Week 1,2016,2356,released,11,QB,0,0,0
+Reg. Season Week 1,2016,3001,released,11,ILB,0,0,0
+Reg. Season Week 1,2016,3246,released,11,QB,0,0,0
+Reg. Season Week 1,2016,2007,signed as a free agent,20,TE,61,1,0
+Reg. Season Week 1,2016,791,released,20,S,0,0,0
+Reg. Season Week 1,2016,1307,released,20,DE,0,0,0
+Reg. Season Week 1,2016,4309,released,20,C,0,0,0
+Reg. Season Week 1,2016,2352,released,20,QB,0,0,0
+Reg. Season Week 1,2016,1795,released,20,OLB,0,0,0
+Reg. Season Week 1,2016,309,released,20,RB,0,0,0
+Reg. Season Week 1,2016,657,released,20,WR,0,0,0
+Reg. Season Week 1,2016,3747,released,20,DT,0,0,0
+Reg. Season Week 1,2016,845,placed on injured reserve,13,C,0,0,0
+Reg. Season Week 1,2016,538,released,13,RB,0,0,0
+Reg. Season Week 1,2016,2198,released,13,DT,0,0,0
+Reg. Season Week 1,2016,3007,released,13,ILB,0,0,0
+Reg. Season Week 1,2016,2361,released,13,QB,0,0,0
+Reg. Season Week 1,2016,267,released,13,ILB,0,0,0
+Reg. Season Week 1,2016,1241,released,13,RB,0,0,0
+Reg. Season Week 1,2016,2651,released,16,C,0,0,0
+Reg. Season Week 1,2016,2501,released,16,FB,0,0,0
+Reg. Season Week 1,2016,860,released,16,QB,0,0,0
+Reg. Season Week 1,2016,3522,released,16,G,0,0,0
+Reg. Season Week 1,2016,620,released,16,DT,0,0,0
+Reg. Season Week 1,2016,3462,released,16,WR,0,0,0
+Reg. Season Week 1,2016,3292,released,16,RB,0,0,0
+Reg. Season Week 1,2016,1281,released,14,CB,0,0,0
+Reg. Season Week 1,2016,1130,released,14,C,0,0,0
+Reg. Season Week 1,2016,51,released,14,TE,0,0,0
+Reg. Season Week 1,2016,3833,released,14,OLB,0,0,0
+Reg. Season Week 1,2016,2350,released,14,QB,0,0,0
+Reg. Season Week 1,2016,4201,released,14,WR,0,0,0
+Reg. Season Week 1,2016,4786,released,14,S,0,0,0
+Reg. Season Week 1,2016,2074,released,18,C,0,0,0
+Reg. Season Week 1,2016,180,released,18,CB,0,0,0
+Reg. Season Week 1,2016,799,released,18,OLB,0,0,0
+Reg. Season Week 1,2016,1937,released,18,RB,0,0,0
+Reg. Season Week 1,2016,191,released,18,DE,0,0,0
+Reg. Season Week 1,2016,4205,released,18,WR,0,0,0
+Reg. Season Week 1,2016,4023,released,18,QB,0,0,0
+Reg. Season Week 1,2016,1160,released,21,OLB,0,0,0
+Reg. Season Week 1,2016,495,released,21,C,0,0,0
+Reg. Season Week 1,2016,2889,released,21,DE,0,0,0
+Reg. Season Week 1,2016,4568,released,21,DT,0,0,0
+Reg. Season Week 1,2016,208,released,21,QB,0,0,0
+Reg. Season Week 1,2016,4239,released,21,WR,0,0,0
+Reg. Season Week 1,2016,1035,released,21,ILB,0,0,0
+Reg. Season Week 1,2016,932,released,6,T,0,0,0
+Reg. Season Week 1,2016,1962,released,6,FB,0,0,0
+Reg. Season Week 1,2016,4663,released,6,OLB,0,0,0
+Reg. Season Week 1,2016,269,released,6,QB,0,0,0
+Reg. Season Week 1,2016,4288,released,6,C,0,0,0
+Reg. Season Week 1,2016,2029,released,6,WR,0,0,0
+Reg. Season Week 1,2016,1811,released,6,RB,0,0,0
+Reg. Season Week 1,2016,3554,released,22,G,0,0,0
+Reg. Season Week 1,2016,3919,released,22,CB,0,0,0
+Reg. Season Week 1,2016,3724,released,22,DT,0,0,0
+Reg. Season Week 1,2016,2363,released,22,QB,0,0,0
+Reg. Season Week 1,2016,3491,released,22,C,0,0,0
+Reg. Season Week 1,2016,1638,released,22,OLB,0,0,0
+Reg. Season Week 1,2016,3862,released,22,OLB,0,0,0
+Reg. Season Week 1,2016,3483,released,25,C,0,0,0
+Reg. Season Week 1,2016,3932,released,25,CB,0,0,0
+Reg. Season Week 1,2016,1303,released,25,DE,0,0,0
+Reg. Season Week 1,2016,2386,released,25,QB,0,0,0
+Reg. Season Week 1,2016,4224,released,25,WR,0,0,0
+Reg. Season Week 1,2016,264,released,25,T,0,0,0
+Reg. Season Week 1,2016,172,released,25,ILB,0,0,0
+Reg. Season Week 1,2016,3555,released,24,G,0,0,0
+Reg. Season Week 1,2016,255,released,24,WR,0,0,0
+Reg. Season Week 1,2016,3858,released,12,OLB,0,0,0
+Reg. Season Week 1,2016,450,released,12,C,0,0,0
+Reg. Season Week 1,2016,349,released,12,CB,0,0,0
+Reg. Season Week 1,2016,497,released,12,DE,0,0,0
+Reg. Season Week 1,2016,4031,released,12,QB,0,0,0
+Reg. Season Week 1,2016,3168,released,12,S,0,0,0
+Reg. Season Week 1,2016,3732,released,12,DT,0,0,0
+Reg. Season Week 1,2016,368,released,28,ILB,0,0,0
+Reg. Season Week 1,2016,971,released,28,RB,0,0,0
+Reg. Season Week 1,2016,2843,released,28,DE,0,0,0
+Reg. Season Week 1,2016,3437,released,28,WR,0,0,0
+Reg. Season Week 1,2016,3584,released,28,T,0,0,0
+Reg. Season Week 1,2016,3250,released,28,QB,0,0,0
+Reg. Season Week 1,2016,1014,released,28,S,0,0,0
+Reg. Season Week 1,2016,2082,released,7,C,0,0,0
+Reg. Season Week 1,2016,4060,released,7,RB,0,0,0
+Reg. Season Week 1,2016,2817,released,7,P,0,0,0
+Reg. Season Week 1,2016,3533,released,7,G,0,0,0
+Reg. Season Week 1,2016,540,released,7,DE,0,0,0
+Reg. Season Week 1,2016,4686,released,7,OLB,0,0,0
+Reg. Season Week 1,2016,4790,released,7,S,0,0,0
+Reg. Season Week 1,2016,3910,released,29,CB,0,0,0
+Reg. Season Week 1,2016,3499,released,29,C,0,0,0
+Reg. Season Week 1,2016,3760,released,29,DT,0,0,0
+Reg. Season Week 1,2016,4256,released,29,WR,0,0,0
+Reg. Season Week 1,2016,2965,released,29,ILB,0,0,0
+Reg. Season Week 1,2016,3235,released,29,QB,0,0,0
+Reg. Season Week 1,2016,552,released,29,ILB,0,0,0
+Reg. Season Week 2,2016,1371,signed as a free agent,3,TE,69,1,0
+Reg. Season Week 2,2016,3851,released,3,OLB,0,0,0
+Reg. Season Week 2,2016,876,signed as a free agent,5,C,78,1,0
+Reg. Season Week 2,2016,368,signed as a free agent,5,ILB,92,1,0
+Reg. Season Week 2,2016,427,released,5,CB,0,0,0
+Reg. Season Week 2,2016,3590,released,5,T,0,0,0
+Reg. Season Week 2,2016,2023,signed as a free agent,31,TE,61,1,0
+Reg. Season Week 2,2016,4159,placed on injured reserve,31,TE,0,0,0
+Reg. Season Week 2,2016,308,signed as a free agent,8,CB,103,1,0
+Reg. Season Week 2,2016,844,released,8,WR,0,0,0
+Reg. Season Week 2,2016,2423,signed as a free agent,9,RB,61,1,0
+Reg. Season Week 2,2016,3759,released,9,DT,0,0,0
+Reg. Season Week 2,2016,3168,signed as a free agent,12,S,61,1,0
+Reg. Season Week 2,2016,3063,signed as a free agent,12,CB,61,1,0
+Reg. Season Week 2,2016,2554,released,12,WR,0,0,0
+Reg. Season Week 2,2016,3779,released,12,ILB,0,0,0
+Reg. Season Week 2,2016,534,signed as a free agent,26,CB,92,1,0
+Reg. Season Week 2,2016,2236,released,26,OLB,0,0,0
+Reg. Season Week 2,2016,2080,signed as a free agent,19,C,61,1,0
+Reg. Season Week 2,2016,4679,released,19,OLB,0,0,0
+Reg. Season Week 2,2016,495,signed as a free agent,13,C,92,1,0
+Reg. Season Week 2,2016,2236,signed as a free agent,13,OLB,61,1,0
+Reg. Season Week 2,2016,651,released,13,OLB,0,0,0
+Reg. Season Week 2,2016,1473,released,13,WR,0,0,0
+Reg. Season Week 2,2016,2889,signed as a free agent,29,DE,61,1,0
+Reg. Season Week 2,2016,721,released,29,ILB,0,0,0
+Reg. Season Week 3,2016,2660,signed as a free agent,7,C,61,1,0
+Reg. Season Week 3,2016,1903,released,7,QB,0,0,0
+Reg. Season Week 3,2016,3358,signed as a free agent,14,TE,53,1,0
+Reg. Season Week 3,2016,1102,released,14,DT,0,0,0
+Reg. Season Week 3,2016,1064,signed as a free agent,3,OLB,78,1,0
+Reg. Season Week 3,2016,2715,released,3,G,0,0,0
+Reg. Season Week 3,2016,3779,signed as a free agent,13,ILB,53,1,0
+Reg. Season Week 3,2016,4292,released,13,C,0,0,0
+Reg. Season Week 3,2016,51,signed as a free agent,16,TE,103,1,0
+Reg. Season Week 3,2016,3828,released,16,OLB,0,0,0
+Reg. Season Week 3,2016,3828,signed as a free agent,19,OLB,53,1,0
+Reg. Season Week 3,2016,633,released,19,G,0,0,0
+Reg. Season Week 3,2016,3988,signed as a free agent,27,S,53,1,0
+Reg. Season Week 3,2016,572,released,27,ILB,0,0,0
+Reg. Season Week 4,2016,1390,signed as a free agent,19,TE,78,1,0
+Reg. Season Week 4,2016,420,released,19,CB,0,0,0
+Reg. Season Week 4,2016,1903,signed as a free agent,29,QB,61,1,0
+Reg. Season Week 4,2016,4657,released,29,OLB,0,0,0
+Reg. Season Week 4,2016,1130,signed as a free agent,10,C,69,1,0
+Reg. Season Week 4,2016,4677,released,10,OLB,0,0,0
+Reg. Season Week 4,2016,631,signed as a free agent,8,T,78,1,0
+Reg. Season Week 4,2016,2656,released,8,C,0,0,0
+Reg. Season Week 4,2016,1481,signed as a free agent,14,WR,69,1,0
+Reg. Season Week 4,2016,3358,released,14,TE,0,0,0
+Reg. Season Week 4,2016,1360,signed as a free agent,21,DE,78,1,0
+Reg. Season Week 4,2016,4491,placed on injured reserve,21,DE,0,0,0
+Reg. Season Week 4,2016,572,signed as a free agent,20,ILB,92,1,0
+Reg. Season Week 4,2016,2007,released,20,TE,0,0,0
+Reg. Season Week 4,2016,2438,signed as a free agent,23,RB,61,1,0
+Reg. Season Week 4,2016,1346,released,23,OLB,0,0,0
+Reg. Season Week 4,2016,4791,signed as a free agent,24,S,45,1,0
+Reg. Season Week 4,2016,4494,released,24,DE,0,0,0
+Reg. Season Week 5,2016,3049,signed as a free agent,29,OLB,61,1,0
+Reg. Season Week 5,2016,351,released,29,DE,0,0,0
+Reg. Season Week 5,2016,3292,signed as a free agent,18,RB,53,1,0
+Reg. Season Week 5,2016,2295,released,18,ILB,0,0,0
+Reg. Season Week 5,2016,378,signed as a free agent,7,ILB,92,1,0
+Reg. Season Week 5,2016,3792,placed on injured reserve,7,ILB,0,0,0
+Reg. Season Week 5,2016,844,signed as a free agent,2,WR,92,1,0
+Reg. Season Week 5,2016,1873,released,2,DE,0,0,0
+Reg. Season Week 5,2016,1212,placed on injured reserve,23,DT,0,0,0
+Reg. Season Week 5,2016,2330,signed as a free agent,23,S,61,1,0
+Reg. Season Week 6,2016,4657,signed as a free agent,22,OLB,45,1,0
+Reg. Season Week 6,2016,2451,released,22,RB,0,0,0
+Reg. Season Week 6,2016,972,signed as a free agent,7,S,78,1,0
+Reg. Season Week 6,2016,4294,released,7,C,0,0,0
+Reg. Season Week 7,2016,118,signed as a free agent,19,G,103,1,0
+Reg. Season Week 7,2016,1390,released,19,TE,0,0,0
+Reg. Season Week 7,2016,2072,signed as a free agent,14,C,61,1,0
+Reg. Season Week 7,2016,1481,released,14,WR,0,0,0
+Reg. Season Week 7,2016,1481,signed as a free agent,24,WR,69,1,0
+Reg. Season Week 7,2016,1596,released,24,CB,0,0,0
+Reg. Season Week 8,2016,1873,signed as a free agent,9,DE,61,1,0
+Reg. Season Week 8,2016,2447,released,9,RB,0,0,0
+Reg. Season Week 8,2016,3411,signed as a free agent,20,WR,53,1,0
+Reg. Season Week 8,2016,2554,signed as a free agent,20,WR,61,1,0
+Reg. Season Week 8,2016,3132,released,20,CB,0,0,0
+Reg. Season Week 8,2016,1191,released,20,DE,0,0,0
+Reg. Season Week 8,2016,3462,signed as a free agent,12,WR,53,1,0
+Reg. Season Week 8,2016,1767,released,12,CB,0,0,0
+Reg. Season Week 8,2016,721,signed as a free agent,19,ILB,78,1,0
+Reg. Season Week 8,2016,118,released,19,G,0,0,0
+Reg. Season Week 8,2016,2501,signed as a free agent,4,FB,61,1,0
+Reg. Season Week 8,2016,2403,released,4,QB,0,0,0
+Reg. Season Week 8,2016,2977,signed as a free agent,28,ILB,61,1,0
+Reg. Season Week 8,2016,182,released,28,CB,0,0,0
+Reg. Season Week 8,2016,1346,signed as a free agent,29,OLB,69,1,0
+Reg. Season Week 8,2016,3049,released,29,OLB,0,0,0
+Reg. Season Week 9,2016,2007,signed as a free agent,3,TE,61,1,0
+Reg. Season Week 9,2016,335,released,3,CB,0,0,0
+Reg. Season Week 9,2016,3049,signed as a free agent,29,OLB,61,1,0
+Reg. Season Week 9,2016,1903,released,29,QB,0,0,0
+Reg. Season Week 9,2016,4612,signed as a free agent,14,ILB,45,1,0
+Reg. Season Week 9,2016,1781,released,14,RB,0,0,0
+Reg. Season Week 9,2016,118,signed as a free agent,19,G,103,1,0
+Reg. Season Week 9,2016,163,released,19,WR,0,0,0
+Reg. Season Week 9,2016,182,signed as a free agent,28,CB,103,1,0
+Reg. Season Week 9,2016,3502,released,28,C,0,0,0
+Reg. Season Week 10,2016,2004,signed as a free agent,16,FB,61,1,0
+Reg. Season Week 10,2016,113,released,16,TE,0,0,0
+Reg. Season Week 10,2016,631,placed on injured reserve,8,T,0,0,0
+Reg. Season Week 10,2016,1767,signed as a free agent,8,CB,69,1,0
+Reg. Season Week 10,2016,163,signed as a free agent,8,WR,103,1,0
+Reg. Season Week 10,2016,308,released,8,CB,0,0,0
+Reg. Season Week 10,2016,1175,placed on injured reserve,31,S,0,0,0
+Reg. Season Week 10,2016,308,signed as a free agent,31,CB,103,1,0
+Reg. Season Week 10,2016,4258,placed on injured reserve,5,WR,0,0,0
+Reg. Season Week 10,2016,1473,signed as a free agent,5,WR,69,1,0
+Reg. Season Week 10,2016,3864,signed as a free agent,5,OLB,53,1,0
+Reg. Season Week 10,2016,4301,released,5,C,0,0,0
+Reg. Season Week 10,2016,1731,signed as a free agent,28,WR,61,1,0
+Reg. Season Week 10,2016,2977,released,28,ILB,0,0,0
+Reg. Season Week 10,2016,3502,signed as a free agent,27,C,53,1,0
+Reg. Season Week 10,2016,3988,released,27,S,0,0,0
+Reg. Season Week 11,2016,2566,signed as a free agent,17,WR,61,1,0
+Reg. Season Week 11,2016,858,released,17,T,0,0,0
+Reg. Season Week 11,2016,4243,signed as a free agent,1,WR,45,1,0
+Reg. Season Week 11,2016,703,placed on injured reserve,1,WR,0,0,0
+Reg. Season Week 11,2016,727,signed as a free agent,6,RB,78,1,0
+Reg. Season Week 11,2016,2292,signed as a free agent,6,ILB,61,1,0
+Reg. Season Week 11,2016,2851,released,6,DE,0,0,0
+Reg. Season Week 11,2016,1350,released,6,CB,0,0,0
+Reg. Season Week 11,2016,3358,signed as a free agent,11,TE,53,1,0
+Reg. Season Week 11,2016,2517,placed on injured reserve,11,TE,0,0,0
+Reg. Season Week 11,2016,340,placed on injured reserve,31,S,0,0,0
+Reg. Season Week 11,2016,1014,signed as a free agent,31,S,78,1,0
+Reg. Season Week 11,2016,2681,signed as a free agent,23,G,61,1,0
+Reg. Season Week 11,2016,2330,released,23,S,0,0,0
+Reg. Season Week 11,2016,1080,placed on injured reserve,20,T,0,0,0
+Reg. Season Week 11,2016,1350,signed as a free agent,20,CB,69,1,0
+Reg. Season Week 11,2016,2977,signed as a free agent,29,ILB,61,1,0
+Reg. Season Week 11,2016,3049,released,29,OLB,0,0,0
+Reg. Season Week 12,2016,3049,signed as a free agent,29,OLB,61,1,0
+Reg. Season Week 12,2016,2098,released,29,G,0,0,0
+Reg. Season Week 12,2016,3381,signed as a free agent,10,TE,53,1,0
+Reg. Season Week 12,2016,54,released,10,C,0,0,0
+Reg. Season Week 12,2016,737,signed as a free agent,9,CB,78,1,0
+Reg. Season Week 12,2016,2628,released,9,WR,0,0,0
+Reg. Season Week 12,2016,1587,placed on injured reserve,25,C,0,0,0
+Reg. Season Week 12,2016,2979,signed as a free agent,25,ILB,61,1,0
+Reg. Season Week 12,2016,693,placed on injured reserve,27,S,0,0,0
+Reg. Season Week 12,2016,2198,signed as a free agent,27,DT,61,1,0
+Reg. Season Week 12,2016,2843,signed as a free agent,27,DE,61,1,0
+Reg. Season Week 12,2016,1878,released,27,WR,0,0,0
+Reg. Season Week 13,2016,536,placed on injured reserve,12,T,0,0,0
+Reg. Season Week 13,2016,3862,signed as a free agent,12,OLB,53,1,0
+Reg. Season Week 13,2016,54,signed as a free agent,12,C,103,1,0
+Reg. Season Week 13,2016,2434,released,12,RB,0,0,0
+Reg. Season Week 13,2016,858,signed as a free agent,3,T,78,1,0
+Reg. Season Week 13,2016,2007,released,3,TE,0,0,0
+Reg. Season Week 13,2016,2303,signed as a free agent,6,OLB,61,1,0
+Reg. Season Week 13,2016,2292,released,6,ILB,0,0,0
+Reg. Season Week 13,2016,2628,signed as a free agent,9,WR,61,1,0
+Reg. Season Week 13,2016,3067,released,9,CB,0,0,0
+Reg. Season Week 13,2016,3988,signed as a free agent,31,S,53,1,0
+Reg. Season Week 13,2016,3067,signed as a free agent,31,CB,61,1,0
+Reg. Season Week 13,2016,458,released,31,ILB,0,0,0
+Reg. Season Week 13,2016,1933,released,31,RB,0,0,0
+Reg. Season Week 13,2016,1801,signed as a free agent,18,WR,69,1,0
+Reg. Season Week 13,2016,1606,released,18,FB,0,0,0
+Reg. Season Week 13,2016,1032,placed on injured reserve,28,DE,0,0,0
+Reg. Season Week 13,2016,1303,signed as a free agent,28,DE,78,1,0
+Reg. Season Week 13,2016,4427,signed as a free agent,28,T,45,1,0
+Reg. Season Week 13,2016,182,released,28,CB,0,0,0
+Reg. Season Week 13,2016,711,signed as a free agent,4,T,78,1,0
+Reg. Season Week 13,2016,2501,released,4,FB,0,0,0
+Reg. Season Week 14,2016,418,placed on injured reserve,16,T,0,0,0
+Reg. Season Week 14,2016,2098,signed as a free agent,16,G,61,1,0
+Reg. Season Week 14,2016,633,signed as a free agent,16,G,92,1,0
+Reg. Season Week 14,2016,2004,released,16,FB,0,0,0
+Reg. Season Week 14,2016,182,signed as a free agent,2,CB,103,1,0
+Reg. Season Week 14,2016,844,released,2,WR,0,0,0
+Reg. Season Week 14,2016,515,placed on injured reserve,24,CB,0,0,0
+Reg. Season Week 14,2016,3079,signed as a free agent,24,CB,61,1,0
+Reg. Season Week 14,2016,2007,signed as a free agent,31,TE,61,1,0
+Reg. Season Week 14,2016,2292,signed as a free agent,31,ILB,61,1,0
+Reg. Season Week 14,2016,635,released,31,T,0,0,0
+Reg. Season Week 14,2016,1566,released,31,G,0,0,0
+Reg. Season Week 14,2016,3387,signed as a free agent,10,TE,53,1,0
+Reg. Season Week 14,2016,928,released,10,WR,0,0,0
+Reg. Season Week 14,2016,844,signed as a free agent,5,WR,92,1,0
+Reg. Season Week 14,2016,832,released,5,ILB,0,0,0
+Reg. Season Week 14,2016,981,placed on injured reserve,19,OLB,0,0,0
+Reg. Season Week 14,2016,3132,signed as a free agent,19,CB,61,1,0
+Reg. Season Week 14,2016,3374,signed as a free agent,19,TE,53,1,0
+Reg. Season Week 14,2016,118,released,19,G,0,0,0
+Reg. Season Week 14,2016,2330,signed as a free agent,28,S,61,1,0
+Reg. Season Week 14,2016,2299,released,28,OLB,0,0,0
+Reg. Season Week 15,2016,928,signed as a free agent,16,WR,78,1,0
+Reg. Season Week 15,2016,633,released,16,G,0,0,0
+Reg. Season Week 15,2016,4206,signed as a free agent,1,WR,45,1,0
+Reg. Season Week 15,2016,493,placed on injured reserve,1,WR,0,0,0
+Reg. Season Week 15,2016,1600,placed on injured reserve,13,OLB,0,0,0
+Reg. Season Week 15,2016,2447,signed as a free agent,13,RB,61,1,0
+Reg. Season Week 15,2016,2510,signed as a free agent,23,TE,61,1,0
+Reg. Season Week 15,2016,2795,signed as a free agent,23,P,61,1,0
+Reg. Season Week 15,2016,2681,released,23,G,0,0,0
+Reg. Season Week 15,2016,589,released,23,ILB,0,0,0
+Reg. Season Week 15,2016,589,signed as a free agent,27,ILB,78,1,0
+Reg. Season Week 15,2016,4559,released,27,DT,0,0,0
+Reg. Season Week 15,2016,3344,signed as a free agent,11,TE,53,1,0
+Reg. Season Week 15,2016,2559,released,11,WR,0,0,0
+Reg. Season Week 15,2016,94,placed on injured reserve,28,QB,0,0,0
+Reg. Season Week 15,2016,1903,signed as a free agent,28,QB,61,1,0
+Reg. Season Week 16,2016,3469,signed as a free agent,2,C,53,1,0
+Reg. Season Week 16,2016,182,released,2,CB,0,0,0
+Reg. Season Week 16,2016,2299,signed as a free agent,7,OLB,61,1,0
+Reg. Season Week 16,2016,972,released,7,S,0,0,0
+Reg. Season Week 16,2016,1781,signed as a free agent,30,RB,69,1,0
+Reg. Season Week 16,2016,1842,released,30,ILB,0,0,0
+Reg. Season Week 16,2016,972,signed as a free agent,15,S,78,1,0
+Reg. Season Week 16,2016,634,placed on injured reserve,15,S,0,0,0
+Reg. Season Week 16,2016,3628,signed as a free agent,5,P,53,1,0
+Reg. Season Week 16,2016,4436,placed on injured reserve,5,P,0,0,0
+Reg. Season Week 16,2016,1441,placed on injured reserve,6,QB,0,0,0
+Reg. Season Week 16,2016,2350,signed as a free agent,6,QB,61,1,0
+Reg. Season Week 16,2016,2797,signed as a free agent,18,P,61,1,0
+Reg. Season Week 16,2016,3969,released,18,S,0,0,0
+Reg. Season Week 16,2016,903,signed as a free agent,20,TE,78,1,0
+Reg. Season Week 16,2016,1350,released,20,CB,0,0,0
+Reg. Season Week 17,2016,1842,signed as a free agent,4,ILB,61,1,0
+Reg. Season Week 17,2016,1190,released,4,T,0,0,0
+Reg. Season Week 17,2016,1236,placed on injured reserve,2,S,0,0,0
+Reg. Season Week 17,2016,182,signed as a free agent,2,CB,103,1,0
+Reg. Season Week 17,2016,1350,signed as a free agent,2,CB,69,1,0
+Reg. Season Week 17,2016,3469,released,2,C,0,0,0
+Reg. Season Week 17,2016,1061,signed as a free agent,9,T,78,1,0
+Reg. Season Week 17,2016,3600,placed on injured reserve,9,T,0,0,0
+Reg. Season Week 17,2016,3469,signed as a free agent,3,C,53,1,0
+Reg. Season Week 17,2016,2761,released,3,T,0,0,0
+Reg. Season Week 17,2016,2501,signed as a free agent,10,FB,61,1,0
+Reg. Season Week 17,2016,3381,released,10,TE,0,0,0
+Reg. Season Week 17,2016,1155,placed on injured reserve,19,T,0,0,0
+Reg. Season Week 17,2016,2238,signed as a free agent,19,OLB,61,1,0
+Reg. Season Week 17,2016,2295,signed as a free agent,19,ILB,61,1,0
+Reg. Season Week 17,2016,3374,released,19,TE,0,0,0
+Reg. Season Week 17,2016,799,signed as a free agent,20,OLB,78,1,0
+Reg. Season Week 17,2016,903,released,20,TE,0,0,0
+Reg. Season Week 17,2016,2589,signed as a free agent,27,WR,61,1,0
+Reg. Season Week 17,2016,589,released,27,ILB,0,0,0
+Reg. Season Week 17,2016,2004,signed as a free agent,29,FB,61,1,0
+Reg. Season Week 17,2016,2977,released,29,ILB,0,0,0
+Wild Card Round,2016,1606,signed as a free agent,31,FB,69,1,0
+Wild Card Round,2016,635,signed as a free agent,31,T,92,1,0
+Wild Card Round,2016,3067,released,31,CB,0,0,0
+Wild Card Round,2016,2549,released,31,TE,0,0,0
+Wild Card Round,2016,589,signed as a free agent,27,ILB,78,1,0
+Wild Card Round,2016,2843,released,27,DE,0,0,0
+Divisional Round,2016,1765,placed on injured reserve,10,CB,0,0,0
+Divisional Round,2016,2977,signed as a free agent,10,ILB,61,1,0
+Divisional Round,2016,458,signed as a free agent,10,ILB,92,1,0
+Divisional Round,2016,3387,released,10,TE,0,0,0

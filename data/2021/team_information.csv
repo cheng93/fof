@@ -1,0 +1,33 @@
+Team,Wins,Losses,Ties,Playoff_Appearances,Bowl_Appearances,Bowl_Wins,Playoff_Wins,Playoff_Losses,Turf_Type,Year_Stadium_Opened,Stadium_Capacity,Luxury_Boxes,Club_Seats,Home_City,Upper_Deck_Tickets,End_Zone_Tickets,Mezzanine_Tickets,Sideline_Tickets,Club_Seat_Tickets,Luxury_Box_Tickets,Lost_Salary_Cap_This_Season,Lost_Salary_Cap_Next_Season
+0,54,57,1,3,1,0,3,3,Outdoor/Natural Grass,2020,65000,185,19700,Arizona,90,74,122,184,554,277000,2817,429
+1,42,70,0,2,0,0,1,2,Outdoor/Natural Grass,1999,70000,134,7400,Atlanta,41,48,84,84,198,77000,859,248
+2,61,51,0,3,0,0,1,3,Outdoor/Natural Grass,2020,59900,177,15200,Baltimore,53,53,98,92,263,131000,1144,157
+3,69,42,1,4,1,0,4,4,Outdoor/Natural Grass,1999,70000,134,7400,Buffalo,39,64,75,73,198,76000,1262,353
+4,67,45,0,4,1,0,5,4,Dome/Artificial Turf,2020,71800,138,8000,Carolina,65,92,101,143,417,208000,1359,306
+5,30,82,0,0,0,0,0,0,Outdoor/Natural Grass,1999,70000,134,7400,Chicago,37,49,77,80,179,69000,174,9
+6,62,50,0,4,0,0,3,4,Outdoor/Natural Grass,1999,76500,284,7400,Cincinnati,47,65,108,95,269,104000,2678,804
+7,39,73,0,1,0,0,0,1,Outdoor/Natural Grass,1999,77900,260,7400,Dallas,71,87,99,152,377,147000,1313,319
+8,56,56,0,1,0,0,0,1,Outdoor/Natural Grass,2020,67000,137,17900,Denver,69,81,105,158,443,221000,1485,1038
+9,55,57,0,3,0,0,0,3,Outdoor/Natural Grass,1999,89500,203,7400,Detroit,53,77,94,84,235,91000,1736,332
+10,83,29,0,5,3,2,10,3,Outdoor/Natural Grass,1999,78900,258,7400,Green Bay,53,70,131,159,443,172000,1590,169
+11,38,73,1,0,0,0,0,0,Outdoor/Natural Grass,1999,75800,263,7400,Indianapolis,41,48,92,87,202,78000,1130,252
+12,54,58,0,1,0,0,1,1,Outdoor/Natural Grass,1999,77500,250,7400,Jacksonville,52,69,101,118,301,117000,1064,573
+13,61,51,0,4,2,0,5,4,Outdoor/Natural Grass,1999,80400,278,7400,Kansas City,51,81,110,117,338,131000,1290,252
+14,58,53,1,1,0,0,0,1,Outdoor/Natural Grass,1999,82300,200,7400,Miami,54,99,136,190,542,211000,1580,615
+15,55,57,0,3,1,1,5,2,Outdoor/Natural Grass,1999,81100,197,7400,Minnesota,39,83,94,92,246,96000,821,132
+16,48,63,1,2,0,0,1,2,Outdoor/Natural Grass,1999,88400,227,7400,New England,55,72,119,150,392,153000,1202,261
+17,44,68,0,1,0,0,1,1,Outdoor/Natural Grass,1999,70000,134,7400,New Orleans,42,65,75,83,196,76000,1213,464
+18,61,51,0,3,0,0,2,3,Outdoor/Natural Grass,1999,81500,269,7400,New York,71,68,99,133,377,147000,2575,116
+19,81,30,1,6,3,3,12,3,Outdoor/Natural Grass,1999,79100,200,7400,New Jersey,72,83,115,143,418,163000,1735,3
+20,69,43,0,4,1,1,7,3,Outdoor/Natural Grass,1999,77800,252,7400,Oakland,80,107,115,170,504,196000,1797,711
+21,57,55,0,3,0,0,3,3,Outdoor/Natural Grass,1999,78200,185,7400,Philadelphia,54,86,106,127,340,132000,845,448
+22,52,60,0,2,0,0,0,2,Outdoor/Natural Grass,1999,78300,207,7400,Pittsburgh,53,75,124,168,420,163000,1706,746
+23,53,58,1,1,0,0,0,1,Outdoor/Natural Grass,1999,78300,210,7400,San Diego,76,86,108,171,429,166000,1017,105
+24,52,60,0,1,0,0,0,1,Outdoor/Natural Grass,2020,60200,182,17300,Seattle,39,71,94,90,256,127000,1135,198
+25,58,54,0,4,0,0,2,4,Outdoor/Natural Grass,1999,89300,219,7400,San Francisco,80,71,115,172,430,167000,1935,1008
+26,45,67,0,1,0,0,1,1,Outdoor/Natural Grass,1999,70000,134,7400,St. Louis,49,47,73,76,173,67000,459,58
+27,66,46,0,4,0,0,2,4,Outdoor/Natural Grass,1999,78500,248,7400,Tampa Bay,55,84,96,110,294,114000,757,155
+28,63,49,0,4,0,0,1,4,Outdoor/Natural Grass,1999,83800,199,7400,Tennessee,65,95,106,147,401,156000,1606,1074
+29,60,52,0,4,1,0,3,4,Outdoor/Natural Grass,1999,77800,216,7400,Washington,49,58,101,93,246,95000,1636,215
+30,31,81,0,1,0,0,0,1,Outdoor/Natural Grass,1999,85600,191,7400,Cleveland,53,60,85,106,257,100000,942,471
+31,64,47,1,4,0,0,4,4,Outdoor/Natural Grass,1999,70000,134,7400,Houston,66,57,96,137,360,140000,1776,1341

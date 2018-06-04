@@ -1,0 +1,2344 @@
+Stage,Year,Player_ID/Staff_ID/Round,Transaction,Team,Position_Group/Year,Money,Years/Original_Position/Destination_City,Original_Team/Destination_Position/Misc.
+Pre-Staff Draft,2021,142,retired,25,QB,0,0,0
+Pre-Staff Draft,2021,157,retired,24,C,0,0,0
+Pre-Staff Draft,2021,234,retired,15,C,0,0,0
+Pre-Staff Draft,2021,259,retired,7,T,0,0,0
+Pre-Staff Draft,2021,287,retired,3,WR,0,0,0
+Pre-Staff Draft,2021,297,retired,30,K,0,0,0
+Pre-Staff Draft,2021,321,retired,17,TE,0,0,0
+Pre-Staff Draft,2021,330,retired,19,G,0,0,0
+Pre-Staff Draft,2021,350,retired,21,C,0,0,0
+Pre-Staff Draft,2021,353,retired,2,WR,0,0,0
+Pre-Staff Draft,2021,405,retired,11,WR,0,0,0
+Pre-Staff Draft,2021,435,retired,5,DE,0,0,0
+Pre-Staff Draft,2021,464,retired,3,WR,0,0,0
+Pre-Staff Draft,2021,490,retired,29,G,0,0,0
+Pre-Staff Draft,2021,493,retired,1,WR,0,0,0
+Pre-Staff Draft,2021,543,retired,5,T,0,0,0
+Pre-Staff Draft,2021,548,retired,29,C,0,0,0
+Pre-Staff Draft,2021,571,retired,3,WR,0,0,0
+Pre-Staff Draft,2021,592,retired,20,T,0,0,0
+Pre-Staff Draft,2021,652,retired,14,CB,0,0,0
+Pre-Staff Draft,2021,690,retired,17,ILB,0,0,0
+Pre-Staff Draft,2021,722,retired,18,CB,0,0,0
+Pre-Staff Draft,2021,756,retired,9,CB,0,0,0
+Pre-Staff Draft,2021,771,retired,31,WR,0,0,0
+Pre-Staff Draft,2021,826,retired,18,CB,0,0,0
+Pre-Staff Draft,2021,849,retired,30,CB,0,0,0
+Pre-Staff Draft,2021,861,retired,17,S,0,0,0
+Pre-Staff Draft,2021,920,retired,12,CB,0,0,0
+Pre-Staff Draft,2021,951,retired,29,DT,0,0,0
+Pre-Staff Draft,2021,1004,retired,28,T,0,0,0
+Pre-Staff Draft,2021,1080,retired,21,T,0,0,0
+Pre-Staff Draft,2021,1251,retired,6,G,0,0,0
+Pre-Staff Draft,2021,1496,retired,2,RB,0,0,0
+Pre-Staff Draft,2021,2751,retired,5,T,0,0,0
+Pre-Staff Draft,2021,12,retired as head coach,2,0,0,0,0
+Pre-Staff Draft,2021,51,retired as offensive coordinator,10,0,0,0,0
+Pre-Staff Draft,2021,157,retired as head coach,15,0,0,0,0
+Pre-Staff Draft,2021,11,re-signed as offensive coordinator,2,0,0,0,0
+Pre-Staff Draft,2021,326,re-signed as strength coordinator,2,0,0,0,0
+Pre-Staff Draft,2021,17,re-signed as head coach,3,0,0,0,0
+Pre-Staff Draft,2021,153,re-signed as offensive coordinator,3,0,0,0,0
+Pre-Staff Draft,2021,18,re-signed as defensive coordinator,3,0,0,0,0
+Pre-Staff Draft,2021,303,re-signed as assistant coach,3,0,0,0,0
+Pre-Staff Draft,2021,94,re-signed as strength coordinator,3,0,0,0,0
+Pre-Staff Draft,2021,30,re-signed as head coach,6,0,0,0,0
+Pre-Staff Draft,2021,31,re-signed as offensive coordinator,6,0,0,0,0
+Pre-Staff Draft,2021,5,re-signed as assistant coach,6,0,0,0,0
+Pre-Staff Draft,2021,44,re-signed as strength coordinator,6,0,0,0,0
+Pre-Staff Draft,2021,229,re-signed as strength coordinator,8,0,0,0,0
+Pre-Staff Draft,2021,59,re-signed as strength coordinator,9,0,0,0,0
+Pre-Staff Draft,2021,56,fired as offensive coordinator,11,0,0,0,0
+Pre-Staff Draft,2021,57,fired as defensive coordinator,11,0,0,0,0
+Pre-Staff Draft,2021,85,fired as head coach,11,0,0,0,0
+Pre-Staff Draft,2021,228,fired as assistant coach,11,0,0,0,0
+Pre-Staff Draft,2021,332,fired as strength coordinator,11,0,0,0,0
+Pre-Staff Draft,2021,259,re-signed as defensive coordinator,12,0,0,0,0
+Pre-Staff Draft,2021,160,re-signed as strength coordinator,12,0,0,0,0
+Pre-Staff Draft,2021,132,re-signed as head coach,13,0,0,0,0
+Pre-Staff Draft,2021,98,re-signed as offensive coordinator,13,0,0,0,0
+Pre-Staff Draft,2021,167,re-signed as assistant coach,13,0,0,0,0
+Pre-Staff Draft,2021,96,re-signed as head coach,14,0,0,0,0
+Pre-Staff Draft,2021,38,re-signed as offensive coordinator,15,0,0,0,0
+Pre-Staff Draft,2021,247,re-signed as strength coordinator,15,0,0,0,0
+Pre-Staff Draft,2021,297,re-signed as head coach,17,0,0,0,0
+Pre-Staff Draft,2021,236,re-signed as strength coordinator,18,0,0,0,0
+Pre-Staff Draft,2021,171,re-signed as offensive coordinator,19,0,0,0,0
+Pre-Staff Draft,2021,248,re-signed as assistant coach,19,0,0,0,0
+Pre-Staff Draft,2021,256,re-signed as strength coordinator,19,0,0,0,0
+Pre-Staff Draft,2021,172,re-signed as head coach,20,0,0,0,0
+Pre-Staff Draft,2021,102,re-signed as defensive coordinator,20,0,0,0,0
+Pre-Staff Draft,2021,301,re-signed as offensive coordinator,21,0,0,0,0
+Pre-Staff Draft,2021,121,re-signed as offensive coordinator,24,0,0,0,0
+Pre-Staff Draft,2021,122,re-signed as defensive coordinator,24,0,0,0,0
+Pre-Staff Draft,2021,180,re-signed as strength coordinator,24,0,0,0,0
+Pre-Staff Draft,2021,131,re-signed as offensive coordinator,26,0,0,0,0
+Pre-Staff Draft,2021,146,re-signed as head coach,28,0,0,0,0
+Pre-Staff Draft,2021,106,re-signed as head coach,29,0,0,0,0
+Pre-Staff Draft,2021,147,re-signed as defensive coordinator,29,0,0,0,0
+Pre-Staff Draft,2021,68,re-signed as defensive coordinator,31,0,0,0,0
+Staff Draft,2021,81,hired as head coach,16,0,0,0,0
+Staff Draft,2021,80,fired as head coach,16,0,0,0,0
+Staff Draft,2021,35,hired as head coach,4,0,0,0,0
+Staff Draft,2021,82,fired as head coach,4,0,0,0,0
+Staff Draft,2021,82,hired as head coach,27,0,0,0,0
+Staff Draft,2021,219,fired as head coach,27,0,0,0,0
+Staff Draft,2021,219,hired as head coach,15,0,0,0,0
+Staff Draft,2021,198,hired as head coach,11,0,0,0,0
+Staff Draft,2021,250,hired as head coach,1,0,0,0,0
+Staff Draft,2021,28,fired as head coach,1,0,0,0,0
+Staff Draft,2021,28,hired as head coach,2,0,0,0,0
+Staff Draft,2021,116,hired as offensive coordinator,10,0,0,0,0
+Staff Draft,2021,386,hired as offensive coordinator,16,0,0,0,0
+Staff Draft,2021,357,hired as offensive coordinator,23,0,0,0,0
+Staff Draft,2021,227,hired as offensive coordinator,4,0,0,0,0
+Staff Draft,2021,370,hired as offensive coordinator,11,0,0,0,0
+Staff Draft,2021,383,hired as defensive coordinator,11,0,0,0,0
+Staff Draft,2021,57,hired as assistant coach,20,0,0,0,0
+Staff Draft,2021,381,hired as assistant coach,11,0,0,0,0
+Staff Draft,2021,384,hired as strength coordinator,11,0,0,0,0
+FA Stage 1,2021,1422,released,22,T,0,0,0
+FA Stage 1,2021,1484,released,22,T,0,0,0
+FA Stage 1,2021,1403,released,23,TE,0,0,0
+FA Stage 1,2021,1321,released,0,DE,0,0,0
+FA Stage 1,2021,6466,released,0,S,0,0,0
+FA Stage 1,2021,5439,released,0,ILB,0,0,0
+FA Stage 1,2021,5928,released,0,WR,0,0,0
+FA Stage 1,2021,6165,released,0,DE,0,0,0
+FA Stage 1,2021,7056,released,0,DE,0,0,0
+FA Stage 1,2021,7216,released,0,OLB,0,0,0
+FA Stage 1,2021,1079,released,2,P,0,0,0
+FA Stage 1,2021,2644,released,2,C,0,0,0
+FA Stage 1,2021,521,released,2,T,0,0,0
+FA Stage 1,2021,5602,released,2,S,0,0,0
+FA Stage 1,2021,5281,released,2,K,0,0,0
+FA Stage 1,2021,1412,released,2,ILB,0,0,0
+FA Stage 1,2021,4196,released,2,TE,0,0,0
+FA Stage 1,2021,4670,released,2,OLB,0,0,0
+FA Stage 1,2021,3286,released,2,RB,0,0,0
+FA Stage 1,2021,3864,released,3,OLB,0,0,0
+FA Stage 1,2021,1661,released,3,CB,0,0,0
+FA Stage 1,2021,1143,released,3,DT,0,0,0
+FA Stage 1,2021,601,released,3,DT,0,0,0
+FA Stage 1,2021,3145,released,3,S,0,0,0
+FA Stage 1,2021,452,released,3,WR,0,0,0
+FA Stage 1,2021,3267,released,3,RB,0,0,0
+FA Stage 1,2021,3236,released,3,QB,0,0,0
+FA Stage 1,2021,3478,released,3,C,0,0,0
+FA Stage 1,2021,4165,released,4,TE,0,0,0
+FA Stage 1,2021,1022,released,4,WR,0,0,0
+FA Stage 1,2021,4807,released,4,S,0,0,0
+FA Stage 1,2021,1090,released,4,T,0,0,0
+FA Stage 1,2021,1468,released,6,P,0,0,0
+FA Stage 1,2021,3541,released,6,G,0,0,0
+FA Stage 1,2021,4147,released,6,FB,0,0,0
+FA Stage 1,2021,5410,released,6,DT,0,0,0
+FA Stage 1,2021,5607,released,6,S,0,0,0
+FA Stage 1,2021,4664,released,6,OLB,0,0,0
+FA Stage 1,2021,965,released,6,DT,0,0,0
+FA Stage 1,2021,5860,released,6,WR,0,0,0
+FA Stage 1,2021,5116,released,6,C,0,0,0
+FA Stage 1,2021,840,released,8,G,0,0,0
+FA Stage 1,2021,5241,released,8,T,0,0,0
+FA Stage 1,2021,794,released,8,ILB,0,0,0
+FA Stage 1,2021,931,released,8,WR,0,0,0
+FA Stage 1,2021,3409,released,8,WR,0,0,0
+FA Stage 1,2021,4547,released,8,DT,0,0,0
+FA Stage 1,2021,3891,released,8,CB,0,0,0
+FA Stage 1,2021,4935,released,8,RB,0,0,0
+FA Stage 1,2021,3507,released,8,G,0,0,0
+FA Stage 1,2021,1691,released,9,S,0,0,0
+FA Stage 1,2021,712,released,9,WR,0,0,0
+FA Stage 1,2021,1109,released,9,RB,0,0,0
+FA Stage 1,2021,2302,released,9,OLB,0,0,0
+FA Stage 1,2021,5100,released,10,WR,0,0,0
+FA Stage 1,2021,1068,released,10,G,0,0,0
+FA Stage 1,2021,2411,released,10,RB,0,0,0
+FA Stage 1,2021,4908,released,10,RB,0,0,0
+FA Stage 1,2021,3816,released,10,OLB,0,0,0
+FA Stage 1,2021,6018,released,10,G,0,0,0
+FA Stage 1,2021,5254,released,10,T,0,0,0
+FA Stage 1,2021,884,released,10,ILB,0,0,0
+FA Stage 1,2021,3979,released,10,S,0,0,0
+FA Stage 1,2021,1482,released,11,DE,0,0,0
+FA Stage 1,2021,1674,released,11,RB,0,0,0
+FA Stage 1,2021,3883,released,11,CB,0,0,0
+FA Stage 1,2021,1517,released,12,WR,0,0,0
+FA Stage 1,2021,1333,released,12,S,0,0,0
+FA Stage 1,2021,4675,released,12,OLB,0,0,0
+FA Stage 1,2021,1015,released,12,G,0,0,0
+FA Stage 1,2021,4474,released,12,K,0,0,0
+FA Stage 1,2021,2059,released,12,T,0,0,0
+FA Stage 1,2021,1670,released,12,FB,0,0,0
+FA Stage 1,2021,1026,released,12,WR,0,0,0
+FA Stage 1,2021,4152,released,12,TE,0,0,0
+FA Stage 1,2021,1799,released,13,WR,0,0,0
+FA Stage 1,2021,3500,released,13,C,0,0,0
+FA Stage 1,2021,5475,released,13,OLB,0,0,0
+FA Stage 1,2021,2756,released,13,T,0,0,0
+FA Stage 1,2021,5428,released,13,ILB,0,0,0
+FA Stage 1,2021,2627,released,13,WR,0,0,0
+FA Stage 1,2021,1765,released,13,CB,0,0,0
+FA Stage 1,2021,1604,released,13,RB,0,0,0
+FA Stage 1,2021,606,released,13,TE,0,0,0
+FA Stage 1,2021,684,released,14,DE,0,0,0
+FA Stage 1,2021,1567,released,14,RB,0,0,0
+FA Stage 1,2021,4568,released,14,DT,0,0,0
+FA Stage 1,2021,1393,released,14,CB,0,0,0
+FA Stage 1,2021,4991,released,15,TE,0,0,0
+FA Stage 1,2021,3534,released,15,G,0,0,0
+FA Stage 1,2021,1225,released,16,OLB,0,0,0
+FA Stage 1,2021,992,released,16,T,0,0,0
+FA Stage 1,2021,1671,released,16,K,0,0,0
+FA Stage 1,2021,6310,released,16,ILB,0,0,0
+FA Stage 1,2021,5058,released,16,WR,0,0,0
+FA Stage 1,2021,6036,released,16,T,0,0,0
+FA Stage 1,2021,6169,released,16,DE,0,0,0
+FA Stage 1,2021,6661,released,16,FB,0,0,0
+FA Stage 1,2021,1341,released,17,CB,0,0,0
+FA Stage 1,2021,782,released,17,WR,0,0,0
+FA Stage 1,2021,2949,released,17,DT,0,0,0
+FA Stage 1,2021,1797,released,17,RB,0,0,0
+FA Stage 1,2021,2324,released,17,S,0,0,0
+FA Stage 1,2021,6067,released,17,T,0,0,0
+FA Stage 1,2021,1729,released,17,OLB,0,0,0
+FA Stage 1,2021,1046,released,17,C,0,0,0
+FA Stage 1,2021,5022,released,17,TE,0,0,0
+FA Stage 1,2021,1133,released,18,C,0,0,0
+FA Stage 1,2021,183,released,18,DT,0,0,0
+FA Stage 1,2021,1280,released,18,WR,0,0,0
+FA Stage 1,2021,3929,released,18,CB,0,0,0
+FA Stage 1,2021,6402,released,18,CB,0,0,0
+FA Stage 1,2021,1447,released,18,G,0,0,0
+FA Stage 1,2021,2071,released,18,G,0,0,0
+FA Stage 1,2021,5635,released,18,S,0,0,0
+FA Stage 1,2021,6456,released,18,S,0,0,0
+FA Stage 1,2021,6086,released,19,T,0,0,0
+FA Stage 1,2021,5920,released,19,WR,0,0,0
+FA Stage 1,2021,5947,released,19,C,0,0,0
+FA Stage 1,2021,7246,released,19,CB,0,0,0
+FA Stage 1,2021,7253,released,19,CB,0,0,0
+FA Stage 1,2021,1841,released,20,T,0,0,0
+FA Stage 1,2021,731,released,20,RB,0,0,0
+FA Stage 1,2021,5469,released,20,OLB,0,0,0
+FA Stage 1,2021,1258,released,20,G,0,0,0
+FA Stage 1,2021,3933,released,20,CB,0,0,0
+FA Stage 1,2021,1819,released,20,WR,0,0,0
+FA Stage 1,2021,2132,released,20,K,0,0,0
+FA Stage 1,2021,1758,released,20,DE,0,0,0
+FA Stage 1,2021,1270,released,20,DE,0,0,0
+FA Stage 1,2021,4017,released,21,QB,0,0,0
+FA Stage 1,2021,1509,released,21,S,0,0,0
+FA Stage 1,2021,4603,released,21,ILB,0,0,0
+FA Stage 1,2021,5046,released,21,WR,0,0,0
+FA Stage 1,2021,1507,released,21,OLB,0,0,0
+FA Stage 1,2021,443,released,21,T,0,0,0
+FA Stage 1,2021,4157,released,21,TE,0,0,0
+FA Stage 1,2021,3899,released,21,CB,0,0,0
+FA Stage 1,2021,2347,released,21,C,0,0,0
+FA Stage 1,2021,557,released,22,WR,0,0,0
+FA Stage 1,2021,1059,released,22,T,0,0,0
+FA Stage 1,2021,5716,released,22,RB,0,0,0
+FA Stage 1,2021,2841,released,22,K,0,0,0
+FA Stage 1,2021,5631,released,22,S,0,0,0
+FA Stage 1,2021,5277,released,22,P,0,0,0
+FA Stage 1,2021,1373,released,22,ILB,0,0,0
+FA Stage 1,2021,4907,released,22,RB,0,0,0
+FA Stage 1,2021,1856,released,22,QB,0,0,0
+FA Stage 1,2021,1437,released,23,CB,0,0,0
+FA Stage 1,2021,1248,released,23,WR,0,0,0
+FA Stage 1,2021,5407,released,24,DT,0,0,0
+FA Stage 1,2021,1420,released,24,WR,0,0,0
+FA Stage 1,2021,500,released,25,T,0,0,0
+FA Stage 1,2021,1627,released,25,S,0,0,0
+FA Stage 1,2021,1730,released,26,WR,0,0,0
+FA Stage 1,2021,3284,released,26,RB,0,0,0
+FA Stage 1,2021,1865,released,26,OLB,0,0,0
+FA Stage 1,2021,630,released,26,K,0,0,0
+FA Stage 1,2021,1439,released,26,FB,0,0,0
+FA Stage 1,2021,3762,released,26,DT,0,0,0
+FA Stage 1,2021,5886,released,26,WR,0,0,0
+FA Stage 1,2021,5369,released,26,DT,0,0,0
+FA Stage 1,2021,1506,released,26,DT,0,0,0
+FA Stage 1,2021,3510,released,27,G,0,0,0
+FA Stage 1,2021,1532,released,27,RB,0,0,0
+FA Stage 1,2021,1343,released,27,CB,0,0,0
+FA Stage 1,2021,1166,released,27,ILB,0,0,0
+FA Stage 1,2021,4641,released,27,OLB,0,0,0
+FA Stage 1,2021,3957,released,27,S,0,0,0
+FA Stage 1,2021,1739,released,28,RB,0,0,0
+FA Stage 1,2021,445,released,28,S,0,0,0
+FA Stage 1,2021,1793,released,28,OLB,0,0,0
+FA Stage 1,2021,1318,released,28,OLB,0,0,0
+FA Stage 1,2021,1626,released,29,CB,0,0,0
+FA Stage 1,2021,1335,released,29,OLB,0,0,0
+FA Stage 1,2021,536,released,29,T,0,0,0
+FA Stage 1,2021,4340,released,29,G,0,0,0
+FA Stage 1,2021,1530,released,30,G,0,0,0
+FA Stage 1,2021,3388,released,30,TE,0,0,0
+FA Stage 1,2021,4247,released,30,WR,0,0,0
+FA Stage 1,2021,2878,released,30,DE,0,0,0
+FA Stage 1,2021,3282,released,30,RB,0,0,0
+FA Stage 1,2021,4616,released,30,ILB,0,0,0
+FA Stage 1,2021,5002,released,31,TE,0,0,0
+FA Stage 1,2021,1352,released,31,CB,0,0,0
+FA Stage 1,2021,4598,released,31,ILB,0,0,0
+FA Stage 1,2021,1377,released,31,C,0,0,0
+FA Stage 1,2021,1199,released,31,S,0,0,0
+FA Stage 1,2021,637,released,31,S,0,0,0
+FA Stage 1,2021,3308,released,31,RB,0,0,0
+FA Stage 1,2021,4399,released,31,T,0,0,0
+FA Stage 1,2021,1394,released,31,DT,0,0,0
+FA Stage 1,2021,4424,designated as a franchise player,30,T,0,0,0
+FA Stage 1,2021,1515,signed a renegotiated contract,0,G,1620,4,0
+FA Stage 1,2021,1864,signed a renegotiated contract,0,RB,3263,3,0
+FA Stage 1,2021,593,signed a renegotiated contract,0,C,1902,3,0
+FA Stage 1,2021,5487,signed a renegotiated contract,0,OLB,3978,4,0
+FA Stage 1,2021,6489,signed a renegotiated contract,0,S,1243,3,0
+FA Stage 1,2021,842,signed a renegotiated contract,0,WR,1203,3,0
+FA Stage 1,2021,1073,signed a renegotiated contract,0,CB,749,3,0
+FA Stage 1,2021,5696,signed a renegotiated contract,0,QB,187,2,0
+FA Stage 1,2021,1536,signed a renegotiated contract,0,QB,2023,3,0
+FA Stage 1,2021,587,signed a renegotiated contract,0,CB,863,3,0
+FA Stage 1,2021,6361,signed a renegotiated contract,1,OLB,2270,5,0
+FA Stage 1,2021,1095,signed a renegotiated contract,1,T,1615,3,0
+FA Stage 1,2021,1529,signed a renegotiated contract,1,TE,965,2,0
+FA Stage 1,2021,5941,signed a renegotiated contract,1,C,324,3,0
+FA Stage 1,2021,6389,signed a renegotiated contract,1,CB,773,5,0
+FA Stage 1,2021,2239,signed a renegotiated contract,1,OLB,403,3,0
+FA Stage 1,2021,4055,signed a renegotiated contract,1,QB,194,2,0
+FA Stage 1,2021,2883,signed a renegotiated contract,1,DE,426,2,0
+FA Stage 1,2021,5748,signed a renegotiated contract,1,RB,189,2,0
+FA Stage 1,2021,1798,signed a renegotiated contract,2,CB,3453,4,0
+FA Stage 1,2021,5050,signed a renegotiated contract,2,WR,3302,3,0
+FA Stage 1,2021,3609,signed a renegotiated contract,2,T,3991,4,0
+FA Stage 1,2021,4676,signed a renegotiated contract,2,OLB,3701,3,0
+FA Stage 1,2021,1425,signed a renegotiated contract,2,DE,2090,4,0
+FA Stage 1,2021,1459,signed a renegotiated contract,2,ILB,2052,3,0
+FA Stage 1,2021,1833,signed a renegotiated contract,2,DT,640,4,0
+FA Stage 1,2021,1768,signed a renegotiated contract,2,G,1146,4,0
+FA Stage 1,2021,1375,signed a renegotiated contract,2,TE,1831,3,0
+FA Stage 1,2021,742,signed a renegotiated contract,2,WR,1204,3,0
+FA Stage 1,2021,1436,signed a renegotiated contract,2,DT,1411,4,0
+FA Stage 1,2021,1564,signed a renegotiated contract,2,S,362,2,0
+FA Stage 1,2021,6017,signed a renegotiated contract,2,G,346,3,0
+FA Stage 1,2021,4847,signed a renegotiated contract,2,QB,220,2,0
+FA Stage 1,2021,6439,signed a renegotiated contract,2,CB,187,2,0
+FA Stage 1,2021,4310,signed a renegotiated contract,2,C,206,2,0
+FA Stage 1,2021,1558,signed a renegotiated contract,3,T,2494,4,0
+FA Stage 1,2021,1488,signed a renegotiated contract,3,QB,3365,3,0
+FA Stage 1,2021,4511,signed a renegotiated contract,3,DE,3201,3,0
+FA Stage 1,2021,1688,signed a renegotiated contract,3,C,2575,3,0
+FA Stage 1,2021,1804,signed a renegotiated contract,3,G,2102,4,0
+FA Stage 1,2021,3854,signed a renegotiated contract,3,OLB,2953,4,0
+FA Stage 1,2021,729,signed a renegotiated contract,3,T,1357,3,0
+FA Stage 1,2021,3624,signed a renegotiated contract,3,P,619,4,0
+FA Stage 1,2021,1519,signed a renegotiated contract,3,CB,1306,3,0
+FA Stage 1,2021,708,signed a renegotiated contract,3,S,1306,3,0
+FA Stage 1,2021,1809,signed a renegotiated contract,3,S,1192,4,0
+FA Stage 1,2021,5780,signed a renegotiated contract,3,FB,313,3,0
+FA Stage 1,2021,5437,signed a renegotiated contract,3,ILB,409,3,0
+FA Stage 1,2021,6337,signed a renegotiated contract,3,OLB,199,2,0
+FA Stage 1,2021,1681,signed a renegotiated contract,4,CB,3530,4,0
+FA Stage 1,2021,6459,signed a renegotiated contract,4,S,1650,4,0
+FA Stage 1,2021,5995,signed a renegotiated contract,4,G,1251,5,0
+FA Stage 1,2021,1590,signed a renegotiated contract,4,OLB,1497,4,0
+FA Stage 1,2021,1823,signed a renegotiated contract,4,C,1387,4,0
+FA Stage 1,2021,6177,signed a renegotiated contract,4,DE,210,2,0
+FA Stage 1,2021,4366,signed a renegotiated contract,4,G,205,2,0
+FA Stage 1,2021,6234,signed a renegotiated contract,4,DT,347,2,0
+FA Stage 1,2021,1479,signed a renegotiated contract,4,TE,352,3,0
+FA Stage 1,2021,1520,signed a renegotiated contract,6,T,2326,4,0
+FA Stage 1,2021,1824,signed a renegotiated contract,6,S,3202,3,0
+FA Stage 1,2021,1591,signed a renegotiated contract,6,OLB,3117,4,0
+FA Stage 1,2021,1441,signed a renegotiated contract,6,QB,3481,5,0
+FA Stage 1,2021,5068,signed a renegotiated contract,6,WR,3005,3,0
+FA Stage 1,2021,278,signed a renegotiated contract,6,K,451,2,0
+FA Stage 1,2021,6275,signed a renegotiated contract,6,ILB,1434,4,0
+FA Stage 1,2021,6610,signed a renegotiated contract,6,RB,373,3,0
+FA Stage 1,2021,6197,signed a renegotiated contract,6,DE,665,4,0
+FA Stage 1,2021,6299,signed a renegotiated contract,6,ILB,184,2,0
+FA Stage 1,2021,5669,signed a renegotiated contract,6,QB,187,2,0
+FA Stage 1,2021,3352,signed a renegotiated contract,6,TE,218,2,0
+FA Stage 1,2021,4972,signed a renegotiated contract,7,FB,863,5,0
+FA Stage 1,2021,5655,signed a renegotiated contract,7,QB,3049,5,0
+FA Stage 1,2021,4439,signed a renegotiated contract,7,P,534,4,0
+FA Stage 1,2021,999,signed a renegotiated contract,7,S,993,2,0
+FA Stage 1,2021,1550,signed a renegotiated contract,7,RB,398,2,0
+FA Stage 1,2021,1054,signed a renegotiated contract,7,G,815,3,0
+FA Stage 1,2021,6368,signed a renegotiated contract,7,OLB,433,3,0
+FA Stage 1,2021,1706,signed a renegotiated contract,7,T,224,2,0
+FA Stage 1,2021,5591,signed a renegotiated contract,7,S,324,2,0
+FA Stage 1,2021,5735,signed a renegotiated contract,7,RB,373,3,0
+FA Stage 1,2021,3289,signed a renegotiated contract,7,RB,220,2,0
+FA Stage 1,2021,5867,signed a renegotiated contract,7,WR,498,2,0
+FA Stage 1,2021,1825,signed a renegotiated contract,7,TE,382,3,0
+FA Stage 1,2021,4312,signed a renegotiated contract,7,C,200,2,0
+FA Stage 1,2021,5279,signed a renegotiated contract,8,K,1190,4,0
+FA Stage 1,2021,1770,signed a renegotiated contract,8,TE,2362,3,0
+FA Stage 1,2021,1246,signed a renegotiated contract,8,DE,2725,3,0
+FA Stage 1,2021,1843,signed a renegotiated contract,8,DE,2308,3,0
+FA Stage 1,2021,3757,signed a renegotiated contract,8,DT,2113,4,0
+FA Stage 1,2021,4262,signed a renegotiated contract,8,WR,1789,4,0
+FA Stage 1,2021,1030,signed a renegotiated contract,8,S,1598,3,0
+FA Stage 1,2021,4442,signed a renegotiated contract,8,P,405,4,0
+FA Stage 1,2021,5893,signed a renegotiated contract,8,WR,1642,4,0
+FA Stage 1,2021,6048,signed a renegotiated contract,8,T,1225,5,0
+FA Stage 1,2021,864,signed a renegotiated contract,8,G,744,2,0
+FA Stage 1,2021,6199,signed a renegotiated contract,8,DE,409,3,0
+FA Stage 1,2021,1172,signed a renegotiated contract,9,DE,2460,3,0
+FA Stage 1,2021,5882,signed a renegotiated contract,9,WR,1332,4,0
+FA Stage 1,2021,5610,signed a renegotiated contract,9,S,350,3,0
+FA Stage 1,2021,5322,signed a renegotiated contract,9,DE,499,3,0
+FA Stage 1,2021,5968,signed a renegotiated contract,9,C,184,2,0
+FA Stage 1,2021,4030,signed a renegotiated contract,9,QB,206,2,0
+FA Stage 1,2021,4047,signed a renegotiated contract,9,QB,194,2,0
+FA Stage 1,2021,5755,signed a renegotiated contract,9,RB,199,2,0
+FA Stage 1,2021,6492,signed a renegotiated contract,9,S,304,2,0
+FA Stage 1,2021,1006,signed a renegotiated contract,10,QB,5141,4,0
+FA Stage 1,2021,1645,signed a renegotiated contract,10,S,1658,3,0
+FA Stage 1,2021,4275,signed a renegotiated contract,10,WR,3406,4,0
+FA Stage 1,2021,1849,signed a renegotiated contract,10,CB,2170,4,0
+FA Stage 1,2021,3467,signed a renegotiated contract,10,WR,1585,4,0
+FA Stage 1,2021,724,signed a renegotiated contract,10,T,1665,3,0
+FA Stage 1,2021,1667,signed a renegotiated contract,10,OLB,2605,3,0
+FA Stage 1,2021,1774,signed a renegotiated contract,10,S,1287,3,0
+FA Stage 1,2021,7001,signed a renegotiated contract,10,K,168,2,0
+FA Stage 1,2021,6221,signed a renegotiated contract,10,DT,199,2,0
+FA Stage 1,2021,4040,signed a renegotiated contract,10,QB,652,3,0
+FA Stage 1,2021,1329,signed a renegotiated contract,11,P,1048,5,0
+FA Stage 1,2021,1663,signed a renegotiated contract,11,T,2153,4,0
+FA Stage 1,2021,4115,signed a renegotiated contract,11,FB,652,4,0
+FA Stage 1,2021,5831,signed a renegotiated contract,11,TE,1882,4,0
+FA Stage 1,2021,1882,signed a renegotiated contract,11,C,1208,3,0
+FA Stage 1,2021,6315,signed a renegotiated contract,11,OLB,1397,4,0
+FA Stage 1,2021,2427,signed a renegotiated contract,11,RB,434,3,0
+FA Stage 1,2021,1518,signed a renegotiated contract,11,T,996,3,0
+FA Stage 1,2021,2948,signed a renegotiated contract,11,DT,487,3,0
+FA Stage 1,2021,5790,signed a renegotiated contract,11,FB,187,2,0
+FA Stage 1,2021,6055,signed a renegotiated contract,11,T,405,3,0
+FA Stage 1,2021,6023,signed a renegotiated contract,11,G,210,3,0
+FA Stage 1,2021,5677,signed a renegotiated contract,11,QB,187,2,0
+FA Stage 1,2021,4313,signed a renegotiated contract,11,C,200,2,0
+FA Stage 1,2021,1138,signed a renegotiated contract,12,QB,5767,3,0
+FA Stage 1,2021,5736,signed a renegotiated contract,12,RB,2503,5,0
+FA Stage 1,2021,4621,signed a renegotiated contract,12,ILB,2623,3,0
+FA Stage 1,2021,979,signed a renegotiated contract,12,C,1618,3,0
+FA Stage 1,2021,6174,signed a renegotiated contract,12,DE,1100,3,0
+FA Stage 1,2021,946,signed a renegotiated contract,12,P,752,3,0
+FA Stage 1,2021,790,signed a renegotiated contract,12,DT,1035,2,0
+FA Stage 1,2021,1773,signed a renegotiated contract,12,G,971,4,0
+FA Stage 1,2021,6495,signed a renegotiated contract,12,S,603,3,0
+FA Stage 1,2021,5826,signed a renegotiated contract,12,TE,978,3,0
+FA Stage 1,2021,4817,signed a renegotiated contract,12,S,324,2,0
+FA Stage 1,2021,6370,signed a renegotiated contract,12,OLB,420,3,0
+FA Stage 1,2021,6354,signed a renegotiated contract,12,OLB,187,3,0
+FA Stage 1,2021,5812,signed a renegotiated contract,12,TE,187,2,0
+FA Stage 1,2021,1161,signed a renegotiated contract,13,DE,2344,3,0
+FA Stage 1,2021,1327,signed a renegotiated contract,13,DE,4231,3,0
+FA Stage 1,2021,1814,signed a renegotiated contract,13,DT,1630,4,0
+FA Stage 1,2021,4407,signed a renegotiated contract,13,T,1996,4,0
+FA Stage 1,2021,5754,signed a renegotiated contract,13,RB,2182,5,0
+FA Stage 1,2021,991,signed a renegotiated contract,13,DT,1335,3,0
+FA Stage 1,2021,1183,signed a renegotiated contract,13,WR,1411,3,0
+FA Stage 1,2021,600,signed a renegotiated contract,13,S,1121,3,0
+FA Stage 1,2021,3665,signed a renegotiated contract,13,DE,669,4,0
+FA Stage 1,2021,6100,signed a renegotiated contract,13,P,189,2,0
+FA Stage 1,2021,6406,signed a renegotiated contract,13,CB,846,5,0
+FA Stage 1,2021,4962,signed a renegotiated contract,13,FB,235,3,0
+FA Stage 1,2021,4083,signed a renegotiated contract,13,RB,195,2,0
+FA Stage 1,2021,5850,signed a renegotiated contract,13,TE,324,3,0
+FA Stage 1,2021,5874,signed a renegotiated contract,14,WR,1974,4,0
+FA Stage 1,2021,6443,signed a renegotiated contract,14,CB,1818,3,0
+FA Stage 1,2021,1575,signed a renegotiated contract,14,DT,1883,4,0
+FA Stage 1,2021,6089,signed a renegotiated contract,14,T,527,3,0
+FA Stage 1,2021,4749,signed a renegotiated contract,15,CB,1717,4,0
+FA Stage 1,2021,177,signed a renegotiated contract,15,QB,2569,2,0
+FA Stage 1,2021,6141,signed a renegotiated contract,15,K,663,3,0
+FA Stage 1,2021,1868,signed a renegotiated contract,15,OLB,1371,3,0
+FA Stage 1,2021,6021,signed a renegotiated contract,15,G,1228,5,0
+FA Stage 1,2021,977,signed a renegotiated contract,15,CB,972,2,0
+FA Stage 1,2021,3621,signed a renegotiated contract,15,P,298,3,0
+FA Stage 1,2021,3810,signed a renegotiated contract,15,ILB,368,2,0
+FA Stage 1,2021,6429,signed a renegotiated contract,15,CB,474,4,0
+FA Stage 1,2021,4042,signed a renegotiated contract,15,QB,228,2,0
+FA Stage 1,2021,3351,signed a renegotiated contract,15,TE,218,2,0
+FA Stage 1,2021,1504,signed a renegotiated contract,16,DE,4715,3,0
+FA Stage 1,2021,3305,signed a renegotiated contract,16,RB,1695,3,0
+FA Stage 1,2021,1794,signed a renegotiated contract,16,DT,3311,3,0
+FA Stage 1,2021,1485,signed a renegotiated contract,16,S,1723,4,0
+FA Stage 1,2021,1586,signed a renegotiated contract,16,WR,2036,4,0
+FA Stage 1,2021,1660,signed a renegotiated contract,16,G,1662,4,0
+FA Stage 1,2021,599,signed a renegotiated contract,16,WR,2323,3,0
+FA Stage 1,2021,1037,signed a renegotiated contract,16,DE,1045,3,0
+FA Stage 1,2021,3448,signed a renegotiated contract,16,WR,766,3,0
+FA Stage 1,2021,4360,signed a renegotiated contract,17,G,3067,4,0
+FA Stage 1,2021,1011,signed a renegotiated contract,17,DT,1764,3,0
+FA Stage 1,2021,1127,signed a renegotiated contract,17,DE,2080,3,0
+FA Stage 1,2021,6080,signed a renegotiated contract,17,T,2555,5,0
+FA Stage 1,2021,1500,signed a renegotiated contract,17,DE,1822,3,0
+FA Stage 1,2021,3926,signed a renegotiated contract,17,CB,1227,4,0
+FA Stage 1,2021,1830,signed a renegotiated contract,17,WR,1527,4,0
+FA Stage 1,2021,634,signed a renegotiated contract,17,S,1130,3,0
+FA Stage 1,2021,5819,signed a renegotiated contract,17,TE,388,3,0
+FA Stage 1,2021,4008,signed a renegotiated contract,17,QB,439,3,0
+FA Stage 1,2021,6297,signed a renegotiated contract,17,ILB,187,2,0
+FA Stage 1,2021,1557,signed a renegotiated contract,18,QB,7887,4,0
+FA Stage 1,2021,811,signed a renegotiated contract,18,WR,3238,3,0
+FA Stage 1,2021,6095,signed a renegotiated contract,18,T,1937,3,0
+FA Stage 1,2021,4816,signed a renegotiated contract,18,S,1782,5,0
+FA Stage 1,2021,1762,signed a renegotiated contract,18,RB,1529,3,0
+FA Stage 1,2021,997,signed a renegotiated contract,18,ILB,1215,3,0
+FA Stage 1,2021,203,signed a renegotiated contract,18,DT,1168,3,0
+FA Stage 1,2021,953,signed a renegotiated contract,18,TE,1848,3,0
+FA Stage 1,2021,6183,signed a renegotiated contract,18,DE,210,2,0
+FA Stage 1,2021,5764,signed a renegotiated contract,18,RB,357,2,0
+FA Stage 1,2021,4010,signed a renegotiated contract,18,QB,194,2,0
+FA Stage 1,2021,1602,signed a renegotiated contract,19,WR,3265,3,0
+FA Stage 1,2021,1716,signed a renegotiated contract,19,WR,2901,3,0
+FA Stage 1,2021,1292,signed a renegotiated contract,19,DE,1964,4,0
+FA Stage 1,2021,1717,signed a renegotiated contract,19,G,1652,4,0
+FA Stage 1,2021,1740,signed a renegotiated contract,19,RB,1706,3,0
+FA Stage 1,2021,787,signed a renegotiated contract,19,DT,1312,3,0
+FA Stage 1,2021,1749,signed a renegotiated contract,19,S,1507,4,0
+FA Stage 1,2021,1338,signed a renegotiated contract,19,P,607,2,0
+FA Stage 1,2021,6258,signed a renegotiated contract,19,DT,384,3,0
+FA Stage 1,2021,1662,signed a renegotiated contract,20,QB,8631,4,0
+FA Stage 1,2021,1850,signed a renegotiated contract,20,WR,2995,3,0
+FA Stage 1,2021,1562,signed a renegotiated contract,20,WR,3573,3,0
+FA Stage 1,2021,3877,signed a renegotiated contract,20,CB,1490,4,0
+FA Stage 1,2021,1112,signed a renegotiated contract,20,G,1582,3,0
+FA Stage 1,2021,1331,signed a renegotiated contract,20,TE,1736,3,0
+FA Stage 1,2021,6175,signed a renegotiated contract,20,DE,1327,3,0
+FA Stage 1,2021,1571,signed a renegotiated contract,20,DT,1139,4,0
+FA Stage 1,2021,3974,signed a renegotiated contract,20,S,613,3,0
+FA Stage 1,2021,5054,signed a renegotiated contract,20,WR,647,2,0
+FA Stage 1,2021,5150,signed a renegotiated contract,20,G,430,3,0
+FA Stage 1,2021,5763,signed a renegotiated contract,20,RB,379,2,0
+FA Stage 1,2021,4158,signed a renegotiated contract,20,TE,354,3,0
+FA Stage 1,2021,2972,signed a renegotiated contract,20,ILB,239,2,0
+FA Stage 1,2021,5820,signed a renegotiated contract,20,TE,184,2,0
+FA Stage 1,2021,1092,signed a renegotiated contract,21,QB,5584,3,0
+FA Stage 1,2021,1752,signed a renegotiated contract,21,WR,2830,3,0
+FA Stage 1,2021,1317,signed a renegotiated contract,21,WR,2021,3,0
+FA Stage 1,2021,6501,signed a renegotiated contract,21,S,1401,3,0
+FA Stage 1,2021,4491,signed a renegotiated contract,21,DE,3600,4,0
+FA Stage 1,2021,5372,signed a renegotiated contract,21,DT,1230,5,0
+FA Stage 1,2021,1783,signed a renegotiated contract,21,CB,1380,4,0
+FA Stage 1,2021,1490,signed a renegotiated contract,21,T,1995,4,0
+FA Stage 1,2021,5778,signed a renegotiated contract,21,FB,559,3,0
+FA Stage 1,2021,624,signed a renegotiated contract,21,DE,1372,3,0
+FA Stage 1,2021,1342,signed a renegotiated contract,21,DT,1266,3,0
+FA Stage 1,2021,6276,signed a renegotiated contract,21,ILB,358,2,0
+FA Stage 1,2021,4545,signed a renegotiated contract,21,DT,419,3,0
+FA Stage 1,2021,2204,signed a renegotiated contract,21,DT,239,2,0
+FA Stage 1,2021,3245,signed a renegotiated contract,22,QB,5262,5,0
+FA Stage 1,2021,1369,signed a renegotiated contract,22,G,2077,3,0
+FA Stage 1,2021,1699,signed a renegotiated contract,22,CB,1056,3,0
+FA Stage 1,2021,1639,signed a renegotiated contract,22,WR,1611,4,0
+FA Stage 1,2021,1122,signed a renegotiated contract,22,DT,1136,4,0
+FA Stage 1,2021,4709,signed a renegotiated contract,22,CB,1085,4,0
+FA Stage 1,2021,4429,signed a renegotiated contract,22,T,194,2,0
+FA Stage 1,2021,5953,signed a renegotiated contract,22,C,189,2,0
+FA Stage 1,2021,6239,signed a renegotiated contract,22,DT,347,2,0
+FA Stage 1,2021,3427,signed a renegotiated contract,23,WR,2265,4,0
+FA Stage 1,2021,1212,signed a renegotiated contract,23,DT,1452,4,0
+FA Stage 1,2021,1556,signed a renegotiated contract,23,S,1329,3,0
+FA Stage 1,2021,653,signed a renegotiated contract,23,G,1222,2,0
+FA Stage 1,2021,1171,signed a renegotiated contract,23,OLB,1576,2,0
+FA Stage 1,2021,3481,signed a renegotiated contract,23,C,1606,4,0
+FA Stage 1,2021,6243,signed a renegotiated contract,23,DT,429,3,0
+FA Stage 1,2021,5639,signed a renegotiated contract,23,S,344,3,0
+FA Stage 1,2021,5113,signed a renegotiated contract,23,C,209,2,0
+FA Stage 1,2021,5976,signed a renegotiated contract,23,G,420,3,0
+FA Stage 1,2021,4378,signed a renegotiated contract,24,T,2356,4,0
+FA Stage 1,2021,1295,signed a renegotiated contract,24,WR,1451,4,0
+FA Stage 1,2021,1448,signed a renegotiated contract,24,OLB,1459,3,0
+FA Stage 1,2021,908,signed a renegotiated contract,24,ILB,1003,3,0
+FA Stage 1,2021,6190,signed a renegotiated contract,24,DE,567,3,0
+FA Stage 1,2021,2950,signed a renegotiated contract,24,DT,749,4,0
+FA Stage 1,2021,4833,signed a renegotiated contract,24,QB,200,2,0
+FA Stage 1,2021,5734,signed a renegotiated contract,24,RB,362,3,0
+FA Stage 1,2021,5834,signed a renegotiated contract,24,TE,388,3,0
+FA Stage 1,2021,1589,signed a renegotiated contract,24,C,225,2,0
+FA Stage 1,2021,6246,signed a renegotiated contract,24,DT,350,3,0
+FA Stage 1,2021,6160,signed a renegotiated contract,25,DE,2141,4,0
+FA Stage 1,2021,898,signed a renegotiated contract,25,QB,2704,3,0
+FA Stage 1,2021,6104,signed a renegotiated contract,25,P,218,2,0
+FA Stage 1,2021,2825,signed a renegotiated contract,25,K,658,3,0
+FA Stage 1,2021,6544,signed a renegotiated contract,25,QB,552,3,0
+FA Stage 1,2021,1815,signed a renegotiated contract,26,CB,2524,4,0
+FA Stage 1,2021,1621,signed a renegotiated contract,26,DE,2126,4,0
+FA Stage 1,2021,892,signed a renegotiated contract,26,T,1926,3,0
+FA Stage 1,2021,3459,signed a renegotiated contract,26,WR,1343,4,0
+FA Stage 1,2021,1694,signed a renegotiated contract,26,S,1106,3,0
+FA Stage 1,2021,6167,signed a renegotiated contract,26,DE,423,2,0
+FA Stage 1,2021,3619,signed a renegotiated contract,26,P,238,3,0
+FA Stage 1,2021,6262,signed a renegotiated contract,26,DT,384,3,0
+FA Stage 1,2021,5846,signed a renegotiated contract,26,TE,358,2,0
+FA Stage 1,2021,1806,signed a renegotiated contract,27,DT,3563,4,0
+FA Stage 1,2021,6013,signed a renegotiated contract,27,G,2286,5,0
+FA Stage 1,2021,5423,signed a renegotiated contract,27,ILB,429,4,0
+FA Stage 1,2021,6257,signed a renegotiated contract,27,DT,420,3,0
+FA Stage 1,2021,2536,signed a renegotiated contract,27,TE,235,2,0
+FA Stage 1,2021,1232,signed a renegotiated contract,28,DE,3575,3,0
+FA Stage 1,2021,1032,signed a renegotiated contract,28,DE,1831,3,0
+FA Stage 1,2021,5999,signed a renegotiated contract,28,G,2544,5,0
+FA Stage 1,2021,650,signed a renegotiated contract,28,DT,1196,3,0
+FA Stage 1,2021,1287,signed a renegotiated contract,28,P,416,3,0
+FA Stage 1,2021,1289,signed a renegotiated contract,28,CB,1810,3,0
+FA Stage 1,2021,1573,signed a renegotiated contract,28,FB,855,4,0
+FA Stage 1,2021,6395,signed a renegotiated contract,28,CB,1447,5,0
+FA Stage 1,2021,6455,signed a renegotiated contract,28,S,314,2,0
+FA Stage 1,2021,3967,signed a renegotiated contract,28,S,933,4,0
+FA Stage 1,2021,6151,signed a renegotiated contract,28,DE,422,2,0
+FA Stage 1,2021,4859,signed a renegotiated contract,28,QB,194,2,0
+FA Stage 1,2021,1560,signed a renegotiated contract,29,S,2254,3,0
+FA Stage 1,2021,6062,signed a renegotiated contract,29,T,550,5,0
+FA Stage 1,2021,6003,signed a renegotiated contract,29,G,187,2,0
+FA Stage 1,2021,2918,signed a renegotiated contract,29,DT,451,3,0
+FA Stage 1,2021,1701,signed a renegotiated contract,29,S,331,2,0
+FA Stage 1,2021,1925,signed a renegotiated contract,29,QB,229,2,0
+FA Stage 1,2021,618,signed a renegotiated contract,29,C,427,3,0
+FA Stage 1,2021,4560,signed a renegotiated contract,30,DT,1289,5,0
+FA Stage 1,2021,870,signed a renegotiated contract,30,S,1458,3,0
+FA Stage 1,2021,5498,signed a renegotiated contract,30,OLB,3282,4,0
+FA Stage 1,2021,3415,signed a renegotiated contract,30,WR,1286,3,0
+FA Stage 1,2021,815,signed a renegotiated contract,30,ILB,889,3,0
+FA Stage 1,2021,5432,signed a renegotiated contract,30,ILB,194,2,0
+FA Stage 1,2021,5945,signed a renegotiated contract,30,C,184,2,0
+FA Stage 1,2021,1215,signed a renegotiated contract,31,G,1911,3,0
+FA Stage 1,2021,3768,signed a renegotiated contract,31,DT,2925,4,0
+FA Stage 1,2021,1776,signed a renegotiated contract,31,CB,1707,4,0
+FA Stage 1,2021,1344,signed a renegotiated contract,31,QB,2882,4,0
+FA Stage 1,2021,4495,signed a renegotiated contract,31,DE,1671,4,0
+FA Stage 1,2021,1028,signed a renegotiated contract,31,DE,2066,3,0
+FA Stage 1,2021,1630,signed a renegotiated contract,31,OLB,2470,4,0
+FA Stage 1,2021,1872,signed a renegotiated contract,31,G,1314,3,0
+FA Stage 1,2021,6060,signed a renegotiated contract,31,T,1323,5,0
+FA Stage 1,2021,3447,signed a renegotiated contract,31,WR,1361,4,0
+FA Stage 1,2021,5949,signed a renegotiated contract,31,C,188,2,0
+FA Stage 1,2021,2263,signed a renegotiated contract,31,ILB,440,3,0
+FA Stage 1,2021,2797,signed a renegotiated contract,31,P,244,2,0
+FA Stage 1,2021,3782,signed a renegotiated contract,31,ILB,222,2,0
+FA Stage 1,2021,6209,signed a renegotiated contract,31,DT,187,2,0
+FA Stage 1,2021,4958,signed a renegotiated contract,31,FB,220,3,0
+FA Stage 1,2021,2773,signed a renegotiated contract,31,T,224,2,0
+FA Stage 1,2021,5647,signed a renegotiated contract,31,QB,187,2,0
+FA Stage 2,2021,1068,signed as a free agent,11,G,1547,3,99
+FA Stage 2,2021,1068,turned down a contract offer,18,G,1555,3,0
+FA Stage 2,2021,1068,turned down a contract offer,30,G,1310,3,0
+FA Stage 2,2021,3286,signed as a free agent,17,RB,524,2,99
+FA Stage 2,2021,3286,turned down a contract offer,11,RB,503,2,0
+FA Stage 2,2021,3286,turned down a contract offer,14,RB,401,2,0
+FA Stage 2,2021,3286,turned down a contract offer,22,RB,513,2,0
+FA Stage 2,2021,3286,turned down a contract offer,26,RB,489,2,0
+FA Stage 2,2021,4907,signed as a free agent,22,RB,2731,4,99
+FA Stage 2,2021,4907,turned down a contract offer,11,RB,2670,4,0
+FA Stage 2,2021,4907,turned down a contract offer,26,RB,2550,4,0
+FA Stage 2,2021,4907,turned down a contract offer,30,RB,2452,4,0
+FA Stage 2,2021,5228,signed as an unrestricted free agent,23,T,7608,5,16
+FA Stage 2,2021,5228,turned down a contract offer,12,T,6965,5,0
+FA Stage 3,2021,7816,signed to a new contract,0,P,137,2,0
+FA Stage 3,2021,7995,signed to a new contract,0,ILB,143,2,0
+FA Stage 3,2021,6226,signed to a new contract,5,DT,89,1,0
+FA Stage 3,2021,5572,re-signed as an unrestricted free agent,11,CB,663,3,0
+FA Stage 3,2021,4850,re-signed as an unrestricted free agent,12,QB,192,2,0
+FA Stage 3,2021,7830,signed to a new contract,24,P,281,3,0
+FA Stage 3,2021,5927,signed to a new contract,31,WR,204,2,0
+FA Stage 3,2021,7410,signed to a new contract,31,QB,136,2,0
+FA Stage 3,2021,836,signed as an unrestricted free agent,30,DE,478,2,18
+FA Stage 3,2021,836,turned down a contract offer,0,DE,459,2,0
+FA Stage 3,2021,836,turned down a contract offer,11,DE,448,2,0
+FA Stage 3,2021,836,turned down a contract offer,18,DE,406,2,0
+FA Stage 3,2021,836,turned down a contract offer,23,DE,417,2,0
+FA Stage 3,2021,1484,signed as a free agent,14,T,2559,4,99
+FA Stage 3,2021,1484,turned down a contract offer,0,T,2150,4,0
+FA Stage 3,2021,1484,turned down a contract offer,6,T,2092,4,0
+FA Stage 3,2021,1484,turned down a contract offer,17,T,2261,4,0
+FA Stage 3,2021,1484,turned down a contract offer,31,T,2086,4,0
+FA Stage 3,2021,1674,signed as a free agent,26,RB,773,3,99
+FA Stage 3,2021,1674,turned down a contract offer,11,RB,655,3,0
+FA Stage 3,2021,1674,turned down a contract offer,14,RB,575,3,0
+FA Stage 3,2021,1674,turned down a contract offer,17,RB,585,3,0
+FA Stage 3,2021,1674,turned down a contract offer,27,RB,662,3,0
+FA Stage 3,2021,1674,turned down a contract offer,30,RB,608,3,0
+FA Stage 3,2021,4874,signed as an unrestricted free agent,0,QB,10059,5,17
+FA Stage 3,2021,5390,signed as an unrestricted free agent,6,DT,3510,5,0
+FA Stage 3,2021,5390,turned down a contract offer,12,DT,3004,5,0
+FA Stage 3,2021,5390,turned down a contract offer,18,DT,3296,5,0
+FA Stage 3,2021,5403,signed as an unrestricted free agent,12,DT,10174,5,5
+FA Stage 3,2021,5403,turned down a contract offer,18,DT,8577,5,0
+FA Stage 3,2021,5447,signed as an unrestricted free agent,18,ILB,4308,4,5
+FA Stage 3,2021,5447,turned down a contract offer,11,ILB,2672,3,0
+FA Stage 4,2021,1280,signed as a free agent,11,WR,995,3,99
+FA Stage 4,2021,1280,turned down a contract offer,0,WR,884,3,0
+FA Stage 4,2021,1280,turned down a contract offer,6,WR,851,3,0
+FA Stage 4,2021,1280,turned down a contract offer,12,WR,841,3,0
+FA Stage 4,2021,1280,turned down a contract offer,13,WR,874,3,0
+FA Stage 4,2021,1422,signed as a free agent,22,T,3735,4,99
+FA Stage 4,2021,1616,signed as an unrestricted free agent,11,RB,700,3,26
+FA Stage 4,2021,1616,turned down a contract offer,14,RB,570,3,0
+FA Stage 4,2021,1616,turned down a contract offer,17,RB,636,3,0
+FA Stage 4,2021,1616,turned down a contract offer,26,RB,599,3,0
+FA Stage 4,2021,1616,turned down a contract offer,27,RB,588,3,0
+FA Stage 4,2021,1616,turned down a contract offer,30,RB,629,3,0
+FA Stage 4,2021,5241,signed as a free agent,31,T,990,4,99
+FA Stage 4,2021,5241,turned down a contract offer,0,T,975,4,0
+FA Stage 5,2021,183,signed as a free agent,18,DT,454,2,99
+FA Stage 5,2021,183,turned down a contract offer,14,DT,372,2,0
+FA Stage 5,2021,183,turned down a contract offer,24,DT,435,2,0
+FA Stage 5,2021,183,turned down a contract offer,26,DT,435,2,0
+FA Stage 5,2021,500,signed as a free agent,0,T,225,1,99
+FA Stage 5,2021,637,signed as a free agent,31,S,654,3,99
+FA Stage 5,2021,1447,signed as a free agent,18,G,1216,3,99
+FA Stage 5,2021,1447,turned down a contract offer,30,G,1171,3,0
+FA Stage 5,2021,1604,signed as a free agent,26,RB,584,3,99
+FA Stage 5,2021,1604,turned down a contract offer,3,RB,558,3,0
+FA Stage 5,2021,1604,turned down a contract offer,14,RB,546,3,0
+FA Stage 5,2021,1604,turned down a contract offer,27,RB,503,3,0
+FA Stage 5,2021,1739,signed as a free agent,3,RB,682,3,99
+FA Stage 5,2021,1739,turned down a contract offer,14,RB,675,3,0
+FA Stage 5,2021,3284,signed as a free agent,17,RB,408,2,99
+FA Stage 5,2021,3284,turned down a contract offer,14,RB,350,2,0
+FA Stage 5,2021,3284,turned down a contract offer,27,RB,388,2,0
+FA Stage 5,2021,3284,turned down a contract offer,30,RB,375,2,0
+FA Stage 5,2021,3891,signed as a free agent,18,CB,2759,4,99
+FA Stage 5,2021,4921,signed as an unrestricted free agent,27,RB,3036,4,5
+FA Stage 5,2021,4921,turned down a contract offer,30,RB,2590,4,0
+FA Stage 5,2021,5375,signed as an unrestricted free agent,6,DT,680,3,12
+FA Stage 5,2021,5375,turned down a contract offer,0,DT,660,3,0
+FA Stage 5,2021,5375,turned down a contract offer,14,DT,639,3,0
+FA Stage 5,2021,5375,turned down a contract offer,24,DT,583,3,0
+FA Stage 5,2021,5375,turned down a contract offer,26,DT,593,3,0
+FA Stage 5,2021,5475,signed as a free agent,26,OLB,1999,3,99
+FA Stage 5,2021,5475,turned down a contract offer,6,OLB,1924,3,0
+FA Stage 5,2021,5475,turned down a contract offer,17,OLB,1898,3,0
+FA Stage 5,2021,5475,turned down a contract offer,18,OLB,1886,3,0
+FA Stage 5,2021,5475,turned down a contract offer,27,OLB,1734,3,0
+FA Stage 5,2021,5886,signed as a free agent,6,WR,582,2,99
+FA Stage 5,2021,5886,turned down a contract offer,0,WR,513,2,0
+FA Stage 5,2021,5886,turned down a contract offer,3,WR,510,2,0
+FA Stage 5,2021,5886,turned down a contract offer,12,WR,537,2,0
+FA Stage 5,2021,5886,turned down a contract offer,18,WR,564,2,0
+FA Stage 6,2021,536,signed as a free agent,12,T,230,1,99
+FA Stage 6,2021,536,turned down a contract offer,0,T,220,1,0
+FA Stage 6,2021,536,turned down a contract offer,4,T,226,1,0
+FA Stage 6,2021,536,turned down a contract offer,7,T,209,1,0
+FA Stage 6,2021,536,turned down a contract offer,26,T,205,1,0
+FA Stage 6,2021,536,turned down a contract offer,27,T,203,1,0
+FA Stage 6,2021,536,turned down a contract offer,31,T,210,1,0
+FA Stage 6,2021,712,signed as a free agent,23,WR,308,1,99
+FA Stage 6,2021,712,turned down a contract offer,0,WR,277,1,0
+FA Stage 6,2021,712,turned down a contract offer,11,WR,306,1,0
+FA Stage 6,2021,712,turned down a contract offer,12,WR,290,1,0
+FA Stage 6,2021,712,turned down a contract offer,13,WR,293,1,0
+FA Stage 6,2021,712,turned down a contract offer,26,WR,284,1,0
+FA Stage 6,2021,1109,signed as a free agent,3,RB,222,1,99
+FA Stage 6,2021,1109,turned down a contract offer,7,RB,219,1,0
+FA Stage 6,2021,1109,turned down a contract offer,14,RB,208,1,0
+FA Stage 6,2021,1109,turned down a contract offer,30,RB,188,1,0
+FA Stage 6,2021,1335,signed as a free agent,17,OLB,209,1,99
+FA Stage 6,2021,1335,turned down a contract offer,4,OLB,205,1,0
+FA Stage 6,2021,1335,turned down a contract offer,6,OLB,204,1,0
+FA Stage 6,2021,1482,signed as a free agent,0,DE,583,3,99
+FA Stage 6,2021,1799,signed as a free agent,12,WR,1063,3,99
+FA Stage 6,2021,1799,turned down a contract offer,0,WR,910,3,0
+FA Stage 6,2021,1799,turned down a contract offer,13,WR,950,3,0
+FA Stage 6,2021,3209,signed as an unrestricted free agent,23,QB,949,3,16
+FA Stage 6,2021,3209,turned down a contract offer,29,QB,918,3,0
+FA Stage 6,2021,3510,signed as a free agent,31,G,644,3,99
+FA Stage 6,2021,3957,signed as a free agent,0,S,306,2,99
+FA Stage 6,2021,4935,signed as a free agent,30,RB,561,3,99
+FA Stage 6,2021,4935,turned down a contract offer,14,RB,511,3,0
+FA Stage 6,2021,5204,signed as an unrestricted free agent,6,T,624,3,1
+FA Stage 6,2021,5204,turned down a contract offer,17,T,559,3,0
+FA Stage 6,2021,6310,signed as a free agent,6,ILB,556,3,99
+FA Stage 7,2021,521,signed as a free agent,17,T,432,2,99
+FA Stage 7,2021,1108,signed as an unrestricted free agent,17,DE,373,2,14
+FA Stage 7,2021,1462,signed as an unrestricted free agent,17,ILB,520,3,5
+FA Stage 7,2021,1462,turned down a contract offer,0,ILB,480,3,0
+FA Stage 7,2021,1462,turned down a contract offer,27,ILB,492,3,0
+FA Stage 7,2021,1530,signed as a free agent,30,G,383,2,99
+FA Stage 7,2021,1793,signed as a free agent,17,OLB,1999,4,99
+FA Stage 7,2021,2411,signed as a free agent,0,RB,223,2,99
+FA Stage 7,2021,3728,signed as an unrestricted free agent,0,DT,219,2,7
+FA Stage 7,2021,4147,signed as a free agent,26,FB,636,4,99
+FA Stage 7,2021,4147,turned down a contract offer,6,FB,607,4,0
+FA Stage 8,2021,294,signed as an unrestricted free agent,3,C,119,1,28
+FA Stage 8,2021,294,turned down a contract offer,13,C,119,1,0
+FA Stage 8,2021,294,turned down a contract offer,17,C,119,1,0
+FA Stage 8,2021,294,turned down a contract offer,23,C,119,1,0
+FA Stage 8,2021,294,turned down a contract offer,30,C,119,1,0
+FA Stage 8,2021,445,signed as a free agent,30,S,447,1,99
+FA Stage 8,2021,445,turned down a contract offer,13,S,433,1,0
+FA Stage 8,2021,584,signed as an unrestricted free agent,3,DT,208,1,5
+FA Stage 8,2021,957,re-signed as an unrestricted free agent,29,DE,586,3,29
+FA Stage 8,2021,957,turned down a contract offer,0,DE,579,3,0
+FA Stage 8,2021,957,turned down a contract offer,11,DE,559,3,0
+FA Stage 8,2021,992,signed as a free agent,4,T,568,3,99
+FA Stage 8,2021,1079,signed as a free agent,6,P,937,3,99
+FA Stage 8,2021,1090,signed as a free agent,27,T,436,2,99
+FA Stage 8,2021,1090,turned down a contract offer,7,T,429,2,0
+FA Stage 8,2021,1133,signed as a free agent,31,C,1736,3,99
+FA Stage 8,2021,1133,turned down a contract offer,6,C,1638,3,0
+FA Stage 8,2021,1133,turned down a contract offer,13,C,1690,3,0
+FA Stage 8,2021,1143,signed as a free agent,26,DT,391,2,99
+FA Stage 8,2021,1143,turned down a contract offer,0,DT,379,2,0
+FA Stage 8,2021,1143,turned down a contract offer,7,DT,352,2,0
+FA Stage 8,2021,1143,turned down a contract offer,14,DT,350,2,0
+FA Stage 8,2021,1143,turned down a contract offer,24,DT,372,2,0
+FA Stage 8,2021,1318,signed as a free agent,11,OLB,1602,3,99
+FA Stage 8,2021,1318,turned down a contract offer,6,OLB,1504,3,0
+FA Stage 8,2021,1393,signed as a free agent,13,CB,1005,2,99
+FA Stage 8,2021,1393,turned down a contract offer,14,CB,938,2,0
+FA Stage 8,2021,1437,signed as a free agent,23,CB,763,3,99
+FA Stage 8,2021,1437,turned down a contract offer,12,CB,612,3,0
+FA Stage 8,2021,1437,turned down a contract offer,27,CB,639,3,0
+FA Stage 8,2021,1614,signed as an unrestricted free agent,17,G,555,3,13
+FA Stage 8,2021,1614,turned down a contract offer,27,G,544,3,0
+FA Stage 8,2021,1626,signed as a free agent,31,CB,740,3,99
+FA Stage 8,2021,1626,turned down a contract offer,12,CB,714,3,0
+FA Stage 8,2021,1626,turned down a contract offer,30,CB,590,3,0
+FA Stage 8,2021,1691,signed as a free agent,12,S,921,2,99
+FA Stage 8,2021,1691,turned down a contract offer,11,S,836,2,0
+FA Stage 8,2021,1691,turned down a contract offer,13,S,1514,3,0
+FA Stage 8,2021,1691,turned down a contract offer,24,S,827,2,0
+FA Stage 8,2021,1730,signed as a free agent,12,WR,601,2,99
+FA Stage 8,2021,1730,turned down a contract offer,0,WR,524,2,0
+FA Stage 8,2021,1730,turned down a contract offer,7,WR,499,2,0
+FA Stage 8,2021,1730,turned down a contract offer,11,WR,530,2,0
+FA Stage 8,2021,1730,turned down a contract offer,13,WR,493,2,0
+FA Stage 8,2021,1730,turned down a contract offer,26,WR,568,2,0
+FA Stage 8,2021,1751,signed as an unrestricted free agent,29,QB,535,2,6
+FA Stage 8,2021,1751,turned down a contract offer,4,QB,519,2,0
+FA Stage 8,2021,1751,turned down a contract offer,26,QB,509,2,0
+FA Stage 8,2021,1751,turned down a contract offer,30,QB,479,2,0
+FA Stage 8,2021,1758,signed as a free agent,0,DE,395,2,99
+FA Stage 8,2021,1758,turned down a contract offer,23,DE,377,2,0
+FA Stage 8,2021,1841,signed as a free agent,28,T,928,4,99
+FA Stage 8,2021,1841,turned down a contract offer,7,T,915,4,0
+FA Stage 8,2021,1841,turned down a contract offer,26,T,894,4,0
+FA Stage 8,2021,1841,turned down a contract offer,31,T,887,4,0
+FA Stage 8,2021,1905,signed as an unrestricted free agent,6,QB,131,1,4
+FA Stage 8,2021,1905,turned down a contract offer,3,QB,126,1,0
+FA Stage 8,2021,1905,turned down a contract offer,17,QB,128,1,0
+FA Stage 8,2021,1905,turned down a contract offer,22,QB,128,1,0
+FA Stage 8,2021,1905,turned down a contract offer,30,QB,126,1,0
+FA Stage 8,2021,2071,signed as a free agent,29,G,404,2,99
+FA Stage 8,2021,2071,turned down a contract offer,6,G,363,2,0
+FA Stage 8,2021,2071,turned down a contract offer,14,G,390,2,0
+FA Stage 8,2021,2071,turned down a contract offer,24,G,344,2,0
+FA Stage 8,2021,2071,turned down a contract offer,30,G,375,2,0
+FA Stage 8,2021,2343,signed as an unrestricted free agent,17,C,234,2,18
+FA Stage 8,2021,2343,turned down a contract offer,13,C,218,2,0
+FA Stage 8,2021,2423,signed as an unrestricted free agent,12,RB,521,3,14
+FA Stage 8,2021,2852,signed as an unrestricted free agent,23,DE,451,2,30
+FA Stage 8,2021,2852,turned down a contract offer,11,DE,423,2,0
+FA Stage 8,2021,2878,signed as a free agent,11,DE,362,2,99
+FA Stage 8,2021,3388,signed as a free agent,14,TE,1993,3,99
+FA Stage 8,2021,3500,signed as a free agent,6,C,2284,4,99
+FA Stage 8,2021,3500,turned down a contract offer,13,C,2025,4,0
+FA Stage 8,2021,3500,turned down a contract offer,24,C,2215,4,0
+FA Stage 8,2021,3507,signed as a free agent,14,G,558,3,99
+FA Stage 8,2021,3507,turned down a contract offer,0,G,553,3,0
+FA Stage 8,2021,3534,signed as a free agent,24,G,1228,3,99
+FA Stage 8,2021,4247,signed as a free agent,11,WR,585,2,99
+FA Stage 8,2021,4247,turned down a contract offer,0,WR,518,2,0
+FA Stage 8,2021,4247,turned down a contract offer,13,WR,515,2,0
+FA Stage 8,2021,4247,turned down a contract offer,26,WR,558,2,0
+FA Stage 8,2021,4247,turned down a contract offer,30,WR,527,2,0
+FA Stage 8,2021,4340,signed as a free agent,12,G,1485,4,99
+FA Stage 8,2021,4399,signed as a free agent,22,T,3927,5,99
+FA Stage 8,2021,4399,turned down a contract offer,0,T,3473,5,0
+FA Stage 8,2021,4399,turned down a contract offer,7,T,3446,5,0
+FA Stage 8,2021,4399,turned down a contract offer,19,T,3712,5,0
+FA Stage 8,2021,4399,turned down a contract offer,26,T,3124,5,0
+FA Stage 8,2021,4399,turned down a contract offer,31,T,3876,5,0
+FA Stage 8,2021,4568,signed as a free agent,24,DT,882,4,99
+FA Stage 8,2021,4568,turned down a contract offer,14,DT,765,4,0
+FA Stage 8,2021,4603,signed as a free agent,27,ILB,973,4,99
+FA Stage 8,2021,4664,signed as a free agent,6,OLB,424,2,99
+FA Stage 8,2021,4664,turned down a contract offer,4,OLB,414,2,0
+FA Stage 8,2021,4664,turned down a contract offer,28,OLB,337,2,0
+FA Stage 8,2021,4675,signed as a free agent,0,OLB,291,2,99
+FA Stage 8,2021,5071,signed as an unrestricted free agent,13,WR,457,2,21
+FA Stage 8,2021,5071,turned down a contract offer,14,WR,448,2,0
+FA Stage 8,2021,5254,signed as a free agent,26,T,599,3,99
+FA Stage 8,2021,5254,turned down a contract offer,7,T,549,3,0
+FA Stage 8,2021,5254,turned down a contract offer,31,T,546,3,0
+FA Stage 8,2021,5281,signed as a free agent,26,K,1103,4,99
+FA Stage 8,2021,5410,signed as a free agent,28,DT,570,3,99
+FA Stage 8,2021,5410,turned down a contract offer,7,DT,551,3,0
+FA Stage 8,2021,5410,turned down a contract offer,30,DT,509,3,0
+FA Stage 8,2021,5602,signed as a free agent,27,S,483,3,99
+FA Stage 8,2021,5602,turned down a contract offer,6,S,405,3,0
+FA Stage 8,2021,5602,turned down a contract offer,28,S,456,3,0
+FA Stage 8,2021,5624,re-signed as an unrestricted free agent,13,S,1928,4,13
+FA Stage 8,2021,5624,turned down a contract offer,6,S,1887,4,0
+FA Stage 8,2021,5624,turned down a contract offer,11,S,1832,4,0
+FA Stage 8,2021,6086,signed as a free agent,13,T,758,4,99
+FA Stage 8,2021,6086,turned down a contract offer,7,T,734,4,0
+FA Stage 8,2021,6086,turned down a contract offer,24,T,657,4,0
+FA Stage 9,2021,366,signed as an unrestricted free agent,4,WR,287,1,13
+FA Stage 9,2021,366,turned down a contract offer,11,WR,275,1,0
+FA Stage 9,2021,366,turned down a contract offer,26,WR,272,1,0
+FA Stage 9,2021,366,turned down a contract offer,30,WR,253,1,0
+FA Stage 9,2021,684,signed as a free agent,29,DE,205,1,99
+FA Stage 9,2021,684,turned down a contract offer,6,DE,186,1,0
+FA Stage 9,2021,684,turned down a contract offer,11,DE,205,1,0
+FA Stage 9,2021,684,turned down a contract offer,30,DE,200,1,0
+FA Stage 9,2021,731,signed as a free agent,11,RB,377,2,99
+FA Stage 9,2021,731,turned down a contract offer,4,RB,334,2,0
+FA Stage 9,2021,731,turned down a contract offer,6,RB,340,2,0
+FA Stage 9,2021,731,turned down a contract offer,7,RB,334,2,0
+FA Stage 9,2021,731,turned down a contract offer,30,RB,334,2,0
+FA Stage 9,2021,1377,signed as a free agent,26,C,364,2,99
+FA Stage 9,2021,1377,turned down a contract offer,0,C,338,2,0
+FA Stage 9,2021,1377,turned down a contract offer,4,C,349,2,0
+FA Stage 9,2021,1377,turned down a contract offer,11,C,332,2,0
+FA Stage 9,2021,1377,turned down a contract offer,12,C,344,2,0
+FA Stage 9,2021,1377,turned down a contract offer,24,C,335,2,0
+FA Stage 9,2021,1612,signed as an unrestricted free agent,4,RB,616,3,30
+FA Stage 9,2021,1612,turned down a contract offer,0,RB,484,3,0
+FA Stage 9,2021,1612,turned down a contract offer,6,RB,484,3,0
+FA Stage 9,2021,1612,turned down a contract offer,14,RB,569,3,0
+FA Stage 9,2021,1612,turned down a contract offer,31,RB,540,3,0
+FA Stage 9,2021,1836,signed as an unrestricted free agent,30,FB,1093,4,2
+FA Stage 9,2021,1836,turned down a contract offer,6,FB,955,4,0
+FA Stage 9,2021,1836,turned down a contract offer,26,FB,1051,4,0
+FA Stage 9,2021,2059,signed as a free agent,26,T,415,2,99
+FA Stage 9,2021,2059,turned down a contract offer,7,T,395,2,0
+FA Stage 9,2021,2644,signed as a free agent,12,C,406,2,99
+FA Stage 9,2021,2644,turned down a contract offer,0,C,347,2,0
+FA Stage 9,2021,2644,turned down a contract offer,11,C,377,2,0
+FA Stage 9,2021,2658,signed as an unrestricted free agent,0,C,339,2,14
+FA Stage 9,2021,3021,signed as an unrestricted free agent,3,OLB,247,2,23
+FA Stage 9,2021,3021,turned down a contract offer,4,OLB,234,2,0
+FA Stage 9,2021,3021,turned down a contract offer,6,OLB,232,2,0
+FA Stage 9,2021,3021,turned down a contract offer,26,OLB,233,2,0
+FA Stage 9,2021,3021,turned down a contract offer,27,OLB,232,2,0
+FA Stage 9,2021,3021,turned down a contract offer,29,OLB,232,2,0
+FA Stage 9,2021,3541,signed as a free agent,30,G,500,3,99
+FA Stage 9,2021,3882,signed as an unrestricted free agent,17,CB,404,2,2
+FA Stage 9,2021,3882,turned down a contract offer,14,CB,385,2,0
+FA Stage 9,2021,3882,turned down a contract offer,18,CB,342,2,0
+FA Stage 9,2021,3933,signed as a free agent,29,CB,767,3,99
+FA Stage 9,2021,3933,turned down a contract offer,11,CB,643,3,0
+FA Stage 9,2021,3933,turned down a contract offer,30,CB,647,3,0
+FA Stage 9,2021,4021,signed as an unrestricted free agent,14,QB,805,3,5
+FA Stage 9,2021,4474,signed as a free agent,12,K,1355,4,99
+FA Stage 9,2021,4474,turned down a contract offer,13,K,1158,4,0
+FA Stage 9,2021,5022,signed as a free agent,18,TE,96,1,99
+FA Stage 9,2021,5022,turned down a contract offer,0,TE,90,1,0
+FA Stage 9,2021,5022,turned down a contract offer,14,TE,90,1,0
+FA Stage 9,2021,5022,turned down a contract offer,29,TE,90,1,0
+FA Stage 9,2021,5022,turned down a contract offer,30,TE,90,1,0
+FA Stage 9,2021,5428,signed as a free agent,26,ILB,572,3,99
+FA Stage 9,2021,5428,turned down a contract offer,7,ILB,575,3,0
+FA Stage 9,2021,5428,turned down a contract offer,11,ILB,488,3,0
+FA Stage 9,2021,5428,turned down a contract offer,28,ILB,508,3,0
+FA Stage 9,2021,5428,turned down a contract offer,29,ILB,468,3,0
+FA Stage 9,2021,5428,turned down a contract offer,30,ILB,569,3,0
+FA Stage 10,2021,209,signed as an unrestricted free agent,7,S,195,1,27
+FA Stage 10,2021,209,turned down a contract offer,4,S,179,1,0
+FA Stage 10,2021,209,turned down a contract offer,22,S,182,1,0
+FA Stage 10,2021,1013,signed as an unrestricted free agent,12,DT,646,3,20
+FA Stage 10,2021,1013,turned down a contract offer,7,DT,530,3,0
+FA Stage 10,2021,1013,turned down a contract offer,14,DT,494,3,0
+FA Stage 10,2021,1026,signed as a free agent,3,WR,878,3,99
+FA Stage 10,2021,1026,turned down a contract offer,6,WR,750,3,0
+FA Stage 10,2021,1026,turned down a contract offer,26,WR,849,3,0
+FA Stage 10,2021,1026,turned down a contract offer,30,WR,780,3,0
+FA Stage 10,2021,1495,signed as an unrestricted free agent,0,ILB,584,3,18
+FA Stage 10,2021,1661,signed as a free agent,12,CB,712,3,99
+FA Stage 10,2021,1661,turned down a contract offer,14,CB,632,3,0
+FA Stage 10,2021,1670,signed as a free agent,6,FB,1012,4,99
+FA Stage 10,2021,1670,turned down a contract offer,26,FB,953,4,0
+FA Stage 10,2021,1729,signed as a free agent,6,OLB,318,2,99
+FA Stage 10,2021,1777,signed as an unrestricted free agent,11,DE,618,3,14
+FA Stage 10,2021,1777,turned down a contract offer,6,DE,578,3,0
+FA Stage 10,2021,1777,turned down a contract offer,30,DE,596,3,0
+FA Stage 10,2021,1797,signed as a free agent,30,RB,534,3,99
+FA Stage 10,2021,1797,turned down a contract offer,1,RB,526,3,0
+FA Stage 10,2021,1797,turned down a contract offer,6,RB,526,3,0
+FA Stage 10,2021,1797,turned down a contract offer,7,RB,449,3,0
+FA Stage 10,2021,1797,turned down a contract offer,26,RB,459,3,0
+FA Stage 10,2021,2341,signed as an unrestricted free agent,30,C,218,2,25
+FA Stage 10,2021,3267,signed as a free agent,23,RB,454,3,99
+FA Stage 10,2021,3382,signed as an unrestricted free agent,29,TE,90,1,31
+FA Stage 10,2021,3382,turned down a contract offer,0,TE,90,1,0
+FA Stage 10,2021,3423,signed as an unrestricted free agent,11,WR,700,3,4
+FA Stage 10,2021,3423,turned down a contract offer,6,WR,651,3,0
+FA Stage 10,2021,3423,turned down a contract offer,7,WR,596,3,0
+FA Stage 10,2021,3423,turned down a contract offer,23,WR,596,3,0
+FA Stage 10,2021,3423,turned down a contract offer,26,WR,669,3,0
+FA Stage 10,2021,3528,signed as an unrestricted free agent,3,G,519,3,31
+FA Stage 10,2021,3816,signed as a free agent,26,OLB,379,2,99
+FA Stage 10,2021,4157,signed as a free agent,12,TE,821,4,99
+FA Stage 10,2021,4157,turned down a contract offer,6,TE,778,4,0
+FA Stage 10,2021,4157,turned down a contract offer,14,TE,643,4,0
+FA Stage 10,2021,4157,turned down a contract offer,29,TE,760,4,0
+FA Stage 10,2021,4157,turned down a contract offer,30,TE,755,4,0
+FA Stage 10,2021,4157,turned down a contract offer,31,TE,703,4,0
+FA Stage 10,2021,4372,signed as an unrestricted free agent,0,G,297,2,5
+FA Stage 10,2021,4954,signed as an unrestricted free agent,0,FB,322,3,8
+FA Stage 10,2021,4991,signed as a free agent,31,TE,3498,5,99
+FA Stage 10,2021,4991,turned down a contract offer,6,TE,2851,5,0
+FA Stage 10,2021,4991,turned down a contract offer,11,TE,3503,5,0
+FA Stage 10,2021,4991,turned down a contract offer,24,TE,3052,5,0
+FA Stage 10,2021,4991,turned down a contract offer,30,TE,3462,5,0
+FA Stage 10,2021,5124,signed as an unrestricted free agent,11,C,281,2,18
+FA Stage 10,2021,5407,signed as a free agent,30,DT,574,3,99
+FA Stage 10,2021,5407,turned down a contract offer,6,DT,554,3,0
+FA Stage 10,2021,5407,turned down a contract offer,7,DT,511,3,0
+FA Stage 10,2021,5407,turned down a contract offer,26,DT,534,3,0
+FA Stage 10,2021,6018,signed as a free agent,18,G,174,2,99
+FA Stage 11,2021,452,signed as a free agent,6,WR,485,2,99
+FA Stage 11,2021,1509,signed as a free agent,18,S,729,4,99
+FA Stage 11,2021,1509,turned down a contract offer,25,S,641,4,0
+FA Stage 11,2021,3308,signed as a free agent,28,RB,330,2,99
+FA Stage 11,2021,3759,signed as an unrestricted free agent,7,DT,335,2,15
+FA Stage 11,2021,4641,signed as a free agent,28,OLB,346,2,99
+FA Stage 11,2021,5107,signed as an unrestricted free agent,18,C,273,2,22
+FA Stage 11,2021,5137,signed as an unrestricted free agent,1,C,184,2,12
+FA Stage 12,2021,782,signed as a free agent,26,WR,211,1,99
+FA Stage 12,2021,1059,signed as a free agent,25,T,542,3,99
+FA Stage 12,2021,1219,signed as an unrestricted free agent,23,CB,533,3,4
+FA Stage 12,2021,2347,signed as a free agent,19,C,219,2,99
+FA Stage 12,2021,4331,signed as an unrestricted free agent,27,G,281,2,5
+FA Stage 12,2021,5116,signed as a free agent,14,C,286,2,99
+FA Stage 12,2021,5947,signed as a free agent,27,C,602,3,99
+FA Stage 12,2021,5947,turned down a contract offer,25,C,480,3,0
+Pre-Late FA Period,2021,8852,suspended for off-field conduct,11,OLB,0,0,0
+Pre-Late FA Period,2021,-1,Renovation vote,6,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,7,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Construction vote,9,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,10,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,11,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,12,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Construction vote,13,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,14,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,18,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,19,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,20,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,21,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,22,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,23,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,25,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,26,0,0,0,Succeeded
+Pre-Late FA Period,2021,-1,Renovation vote,28,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,29,0,0,0,Failed
+Pre-Late FA Period,2021,-1,Renovation vote,30,0,0,0,Failed
+Late FA Stage 1,2021,3692,released,12,DE,0,0,0
+Late FA Stage 1,2021,1812,released,23,T,0,0,0
+Late FA Stage 1,2021,1100,released,23,T,0,0,0
+Late FA Stage 1,2021,6644,released,23,FB,0,0,0
+Late FA Stage 1,2021,8116,released,7,CB,0,0,0
+Late FA Stage 1,2021,7051,released,7,DE,0,0,0
+Late FA Stage 1,2021,1825,released,7,TE,0,0,0
+Late FA Stage 1,2021,4430,released,26,T,0,0,0
+Late FA Stage 1,2021,7298,released,26,CB,0,0,0
+Late FA Stage 1,2021,7700,released,0,G,0,0,0
+Late FA Stage 1,2021,7501,released,0,FB,0,0,0
+Late FA Stage 1,2021,7750,released,0,G,0,0,0
+Late FA Stage 1,2021,7486,released,0,RB,0,0,0
+Late FA Stage 1,2021,7484,released,0,RB,0,0,0
+Late FA Stage 1,2021,7778,released,6,T,0,0,0
+Late FA Stage 1,2021,7458,released,6,RB,0,0,0
+Late FA Stage 1,2021,3278,released,11,RB,0,0,0
+Late FA Stage 1,2021,8586,released,11,T,0,0,0
+Late FA Stage 1,2021,6023,released,11,G,0,0,0
+Late FA Stage 1,2021,2878,released,11,DE,0,0,0
+Late FA Stage 1,2021,7981,released,11,ILB,0,0,0
+Late FA Stage 1,2021,7636,released,11,WR,0,0,0
+Late FA Stage 1,2021,988,has begun a contract holdout,1,S,0,0,0
+Late FA Stage 1,2021,1221,has begun a contract holdout,14,QB,0,0,0
+Late FA Stage 1,2021,1430,has begun a contract holdout,18,CB,0,0,0
+Late FA Stage 1,2021,1593,has begun a contract holdout,22,WR,0,0,0
+Late FA Stage 1,2021,4217,has begun a contract holdout,7,WR,0,0,0
+Late FA Stage 1,2021,4481,has begun a contract holdout,1,DE,0,0,0
+Late FA Stage 1,2021,4623,has begun a contract holdout,3,ILB,0,0,0
+Late FA Stage 1,2021,5330,has begun a contract holdout,14,DE,0,0,0
+Late FA Stage 1,2021,6204,has begun a contract holdout,5,DE,0,0,0
+Late FA Stage 1,2021,6304,has begun a contract holdout,25,ILB,0,0,0
+Late FA Stage 1,2021,1394,signed as a free agent,14,DT,434,3,99
+Late FA Stage 1,2021,1865,signed as a free agent,27,OLB,1095,3,99
+Late FA Stage 1,2021,2878,signed as a free agent,26,DE,285,2,99
+Late FA Stage 1,2021,4868,signed as a free agent,17,QB,187,2,99
+Late FA Stage 1,2021,6570,signed as a free agent,22,RB,154,2,99
+Late FA Stage 1,2021,6570,turned down a contract offer,14,RB,154,2,0
+Late FA Stage 1,2021,8212,signed as a free agent,11,QB,52,1,99
+Late FA Stage 1,2021,8375,signed as a free agent,4,TE,52,1,99
+Late FA Stage 1,2021,8375,turned down a contract offer,0,TE,52,1,0
+Late FA Stage 1,2021,8375,turned down a contract offer,21,TE,52,1,0
+Late FA Stage 1,2021,8375,turned down a contract offer,25,TE,52,1,0
+Late FA Stage 1,2021,8375,turned down a contract offer,28,TE,52,1,0
+Late FA Stage 1,2021,8647,signed as a free agent,0,K,52,1,99
+Late FA Stage 2,2021,110,signed as an unrestricted free agent,2,P,156,1,27
+Late FA Stage 2,2021,557,signed as a free agent,30,WR,419,2,99
+Late FA Stage 2,2021,557,turned down a contract offer,0,WR,384,2,0
+Late FA Stage 2,2021,557,turned down a contract offer,1,WR,406,2,0
+Late FA Stage 2,2021,1022,signed as a free agent,0,WR,586,3,99
+Late FA Stage 2,2021,1022,turned down a contract offer,17,WR,576,3,0
+Late FA Stage 2,2021,1199,signed as a free agent,22,S,437,3,99
+Late FA Stage 2,2021,1199,turned down a contract offer,6,S,430,3,0
+Late FA Stage 2,2021,1248,signed as a free agent,18,WR,550,3,99
+Late FA Stage 2,2021,1248,turned down a contract offer,1,WR,547,3,0
+Late FA Stage 2,2021,1248,turned down a contract offer,23,WR,577,3,0
+Late FA Stage 2,2021,1248,turned down a contract offer,26,WR,583,3,0
+Late FA Stage 2,2021,1270,signed as a free agent,6,DE,450,3,99
+Late FA Stage 2,2021,1270,turned down a contract offer,30,DE,441,3,0
+Late FA Stage 2,2021,1373,signed as a free agent,11,ILB,282,2,99
+Late FA Stage 2,2021,1412,signed as a free agent,7,ILB,285,2,99
+Late FA Stage 2,2021,1420,signed as a free agent,26,WR,407,2,99
+Late FA Stage 2,2021,1420,turned down a contract offer,23,WR,378,2,0
+Late FA Stage 2,2021,1506,signed as a free agent,6,DT,459,3,99
+Late FA Stage 2,2021,1506,turned down a contract offer,7,DT,448,3,0
+Late FA Stage 2,2021,1506,turned down a contract offer,29,DT,444,3,0
+Late FA Stage 2,2021,1555,signed as an unrestricted free agent,4,RB,275,2,14
+Late FA Stage 2,2021,1555,turned down a contract offer,28,RB,272,2,0
+Late FA Stage 2,2021,1765,signed as a free agent,11,CB,435,3,99
+Late FA Stage 2,2021,2627,signed as a free agent,19,WR,392,2,99
+Late FA Stage 2,2021,2877,signed as an unrestricted free agent,30,DE,280,2,9
+Late FA Stage 2,2021,3282,signed as a free agent,18,RB,541,4,99
+Late FA Stage 2,2021,3282,turned down a contract offer,1,RB,572,4,0
+Late FA Stage 2,2021,3282,turned down a contract offer,2,RB,541,4,0
+Late FA Stage 2,2021,3282,turned down a contract offer,14,RB,543,4,0
+Late FA Stage 2,2021,3282,turned down a contract offer,19,RB,542,4,0
+Late FA Stage 2,2021,3282,turned down a contract offer,28,RB,542,4,0
+Late FA Stage 2,2021,3409,signed as a free agent,17,WR,357,2,99
+Late FA Stage 2,2021,3417,signed as an unrestricted free agent,1,WR,352,2,30
+Late FA Stage 2,2021,3417,turned down a contract offer,23,WR,316,2,0
+Late FA Stage 2,2021,3561,signed as an unrestricted free agent,2,T,428,3,14
+Late FA Stage 2,2021,3561,turned down a contract offer,7,T,404,3,0
+Late FA Stage 2,2021,3561,turned down a contract offer,24,T,408,3,0
+Late FA Stage 2,2021,3561,turned down a contract offer,29,T,408,3,0
+Late FA Stage 2,2021,3740,re-signed as an unrestricted free agent,7,DT,523,4,7
+Late FA Stage 2,2021,3740,turned down a contract offer,3,DT,527,4,0
+Late FA Stage 2,2021,3740,turned down a contract offer,29,DT,564,4,0
+Late FA Stage 2,2021,3944,signed as an unrestricted free agent,19,S,250,2,5
+Late FA Stage 2,2021,3944,turned down a contract offer,17,S,246,2,0
+Late FA Stage 2,2021,4020,signed as an unrestricted free agent,4,QB,184,2,7
+Late FA Stage 2,2021,4020,turned down a contract offer,8,QB,184,2,0
+Late FA Stage 2,2021,4020,turned down a contract offer,25,QB,184,2,0
+Late FA Stage 2,2021,4020,turned down a contract offer,26,QB,184,2,0
+Late FA Stage 2,2021,4075,signed as an unrestricted free agent,28,RB,374,3,15
+Late FA Stage 2,2021,4075,turned down a contract offer,2,RB,370,3,0
+Late FA Stage 2,2021,4075,turned down a contract offer,14,RB,365,3,0
+Late FA Stage 2,2021,4541,signed as an unrestricted free agent,3,DT,372,3,7
+Late FA Stage 2,2021,4582,signed as an unrestricted free agent,29,DT,361,3,27
+Late FA Stage 2,2021,4670,signed as a free agent,19,OLB,287,2,99
+Late FA Stage 2,2021,4807,signed as a free agent,4,S,1396,4,99
+Late FA Stage 2,2021,5046,signed as a free agent,23,WR,424,2,99
+Late FA Stage 2,2021,5633,signed as an unrestricted free agent,23,S,424,3,16
+Late FA Stage 2,2021,5633,turned down a contract offer,2,S,415,3,0
+Late FA Stage 2,2021,5633,turned down a contract offer,3,S,415,3,0
+Late FA Stage 2,2021,5633,turned down a contract offer,17,S,365,3,0
+Late FA Stage 2,2021,5633,turned down a contract offer,25,S,397,3,0
+Late FA Stage 2,2021,5716,signed as a free agent,1,RB,397,3,99
+Late FA Stage 2,2021,5716,turned down a contract offer,2,RB,341,3,0
+Late FA Stage 2,2021,5716,turned down a contract offer,14,RB,352,3,0
+Late FA Stage 2,2021,5716,turned down a contract offer,19,RB,341,3,0
+Late FA Stage 2,2021,5818,signed as an unrestricted free agent,13,TE,80,1,16
+Late FA Stage 2,2021,5818,turned down a contract offer,28,TE,80,1,0
+Late FA Stage 2,2021,6831,signed as an unrestricted free agent,13,C,154,2,25
+Late FA Stage 2,2021,6831,turned down a contract offer,17,C,155,2,0
+Late FA Stage 2,2021,7466,signed as an unrestricted free agent,14,RB,328,3,16
+Late FA Stage 2,2021,7613,signed as an unrestricted free agent,2,WR,233,2,19
+Late FA Stage 2,2021,7743,signed as an unrestricted free agent,8,G,205,2,16
+Late FA Stage 2,2021,7743,turned down a contract offer,0,G,179,2,0
+Late FA Stage 2,2021,8245,signed as a free agent,3,QB,52,1,99
+Late FA Stage 2,2021,8357,signed as a free agent,3,TE,52,1,99
+Late FA Stage 2,2021,8655,signed as a free agent,13,K,52,1,99
+Late FA Stage 2,2021,8802,signed as a free agent,8,ILB,52,1,99
+Late FA Stage 3,2021,601,signed as a free agent,1,DT,152,1,99
+Late FA Stage 3,2021,840,signed as a free agent,10,G,329,2,99
+Late FA Stage 3,2021,840,turned down a contract offer,1,G,335,2,0
+Late FA Stage 3,2021,840,turned down a contract offer,7,G,323,2,0
+Late FA Stage 3,2021,840,turned down a contract offer,13,G,328,2,0
+Late FA Stage 3,2021,840,turned down a contract offer,18,G,332,2,0
+Late FA Stage 3,2021,840,turned down a contract offer,24,G,335,2,0
+Late FA Stage 3,2021,840,turned down a contract offer,25,G,327,2,0
+Late FA Stage 3,2021,1015,signed as a free agent,1,G,458,3,99
+Late FA Stage 3,2021,1015,turned down a contract offer,7,G,438,3,0
+Late FA Stage 3,2021,1015,turned down a contract offer,13,G,445,3,0
+Late FA Stage 3,2021,1015,turned down a contract offer,24,G,438,3,0
+Late FA Stage 3,2021,1015,turned down a contract offer,25,G,442,3,0
+Late FA Stage 3,2021,1166,signed as a free agent,16,ILB,283,2,99
+Late FA Stage 3,2021,1258,signed as a free agent,19,G,472,3,99
+Late FA Stage 3,2021,1258,turned down a contract offer,0,G,466,3,0
+Late FA Stage 3,2021,1258,turned down a contract offer,7,G,455,3,0
+Late FA Stage 3,2021,1258,turned down a contract offer,17,G,467,3,0
+Late FA Stage 3,2021,1258,turned down a contract offer,24,G,490,3,0
+Late FA Stage 3,2021,1439,signed as a free agent,29,FB,409,3,99
+Late FA Stage 3,2021,1439,turned down a contract offer,24,FB,408,3,0
+Late FA Stage 3,2021,1443,signed as an unrestricted free agent,19,CB,459,3,5
+Late FA Stage 3,2021,1458,signed as an unrestricted free agent,7,QB,647,3,18
+Late FA Stage 3,2021,1458,turned down a contract offer,25,QB,633,3,0
+Late FA Stage 3,2021,1458,turned down a contract offer,30,QB,565,3,0
+Late FA Stage 3,2021,1532,signed as a free agent,19,RB,280,2,99
+Late FA Stage 3,2021,2856,signed as an unrestricted free agent,19,DE,294,2,23
+Late FA Stage 3,2021,3600,signed as an unrestricted free agent,7,T,403,3,31
+Late FA Stage 3,2021,3600,turned down a contract offer,0,T,396,3,0
+Late FA Stage 3,2021,3600,turned down a contract offer,8,T,399,3,0
+Late FA Stage 3,2021,4165,signed as a free agent,19,TE,1728,4,99
+Late FA Stage 3,2021,4922,signed as an unrestricted free agent,26,RB,401,3,17
+Late FA Stage 3,2021,4922,turned down a contract offer,2,RB,370,3,0
+Late FA Stage 3,2021,4922,turned down a contract offer,3,RB,380,3,0
+Late FA Stage 3,2021,4922,turned down a contract offer,8,RB,371,3,0
+Late FA Stage 3,2021,4922,turned down a contract offer,14,RB,350,3,0
+Late FA Stage 3,2021,4922,turned down a contract offer,21,RB,374,3,0
+Late FA Stage 3,2021,4938,signed as an unrestricted free agent,8,RB,355,3,25
+Late FA Stage 3,2021,4938,turned down a contract offer,2,RB,354,3,0
+Late FA Stage 3,2021,4938,turned down a contract offer,3,RB,354,3,0
+Late FA Stage 3,2021,4938,turned down a contract offer,14,RB,345,3,0
+Late FA Stage 3,2021,4938,turned down a contract offer,21,RB,346,3,0
+Late FA Stage 3,2021,5002,signed as a free agent,11,TE,2203,5,99
+Late FA Stage 3,2021,5002,turned down a contract offer,30,TE,1981,5,0
+Late FA Stage 3,2021,5100,signed as a free agent,30,WR,349,2,99
+Late FA Stage 3,2021,5100,turned down a contract offer,0,WR,337,2,0
+Late FA Stage 3,2021,5307,signed as an unrestricted free agent,14,DE,385,3,12
+Late FA Stage 3,2021,5485,signed as an unrestricted free agent,21,OLB,245,2,5
+Late FA Stage 3,2021,5485,turned down a contract offer,20,OLB,247,2,0
+Late FA Stage 3,2021,5606,signed as an unrestricted free agent,17,S,362,3,23
+Late FA Stage 3,2021,5606,turned down a contract offer,0,S,342,3,0
+Late FA Stage 3,2021,5606,turned down a contract offer,1,S,340,3,0
+Late FA Stage 3,2021,5606,turned down a contract offer,2,S,345,3,0
+Late FA Stage 3,2021,5606,turned down a contract offer,13,S,348,3,0
+Late FA Stage 3,2021,5606,turned down a contract offer,18,S,341,3,0
+Late FA Stage 3,2021,5606,turned down a contract offer,25,S,346,3,0
+Late FA Stage 3,2021,5631,signed as a free agent,19,S,350,3,99
+Late FA Stage 3,2021,5635,signed as a free agent,25,S,1227,4,99
+Late FA Stage 3,2021,8198,signed as a free agent,25,QB,52,1,99
+Late FA Stage 3,2021,8198,turned down a contract offer,21,QB,52,1,0
+Late FA Stage 3,2021,8282,signed as a free agent,31,RB,52,1,99
+Late FA Stage 3,2021,8349,signed as a free agent,8,TE,52,1,99
+Late FA Stage 3,2021,8360,signed as a free agent,28,TE,52,1,99
+Late FA Stage 3,2021,8360,turned down a contract offer,0,TE,52,1,0
+Late FA Stage 3,2021,8360,turned down a contract offer,8,TE,52,1,0
+Late FA Stage 3,2021,8360,turned down a contract offer,14,TE,52,1,0
+Late FA Stage 3,2021,8400,signed as a free agent,14,WR,52,1,99
+Late FA Stage 3,2021,8432,signed as a free agent,20,WR,52,1,99
+Late FA Stage 3,2021,8432,turned down a contract offer,0,WR,52,1,0
+Late FA Stage 3,2021,8432,turned down a contract offer,17,WR,54,1,0
+Late FA Stage 3,2021,8432,turned down a contract offer,18,WR,52,1,0
+Late FA Stage 3,2021,8485,signed as a free agent,3,C,54,1,99
+Late FA Stage 3,2021,8485,turned down a contract offer,17,C,52,1,0
+Late FA Stage 3,2021,8497,signed as a free agent,25,C,52,1,99
+Late FA Stage 3,2021,8497,turned down a contract offer,17,C,52,1,0
+Late FA Stage 3,2021,8497,turned down a contract offer,22,C,52,1,0
+Late FA Stage 3,2021,8586,signed as a free agent,21,T,52,1,99
+Late FA Stage 4,2021,1517,signed as a free agent,18,WR,581,3,99
+Late FA Stage 4,2021,1517,turned down a contract offer,28,WR,566,3,0
+Late FA Stage 4,2021,4152,signed as a free agent,0,TE,497,4,99
+Late FA Stage 4,2021,4152,turned down a contract offer,6,TE,486,4,0
+Late FA Stage 4,2021,4152,turned down a contract offer,11,TE,494,4,0
+Late FA Stage 4,2021,4152,turned down a contract offer,13,TE,489,4,0
+Late FA Stage 4,2021,4152,turned down a contract offer,17,TE,481,4,0
+Late FA Stage 4,2021,4152,turned down a contract offer,31,TE,485,4,0
+Late FA Stage 4,2021,5008,signed as an unrestricted free agent,13,TE,351,3,29
+Late FA Stage 4,2021,6813,signed as an unrestricted free agent,8,C,154,2,14
+Late FA Stage 4,2021,7556,re-signed as an unrestricted free agent,22,TE,137,2,22
+Late FA Stage 4,2021,7556,turned down a contract offer,14,TE,136,2,0
+Late FA Stage 4,2021,8207,signed as a free agent,22,QB,52,1,99
+Late FA Stage 4,2021,8442,signed as a free agent,21,WR,55,1,99
+Late FA Stage 4,2021,8547,signed as a free agent,0,G,52,1,99
+Late FA Stage 4,2021,8904,signed as a free agent,20,CB,52,1,99
+Late FA Stage 4,2021,8977,signed as a free agent,3,S,52,1,99
+Late FA Stage 5,2021,2324,signed as a free agent,6,S,379,3,99
+Late FA Stage 5,2021,5019,signed as an unrestricted free agent,18,TE,220,2,16
+Late FA Stage 5,2021,5439,signed as a free agent,22,ILB,121,1,99
+Late FA Stage 5,2021,6801,signed as an unrestricted free agent,3,WR,75,1,2
+Late FA Stage 5,2021,7559,signed as an unrestricted free agent,25,TE,136,2,4
+Late FA Stage 5,2021,7559,turned down a contract offer,0,TE,137,2,0
+Late FA Stage 5,2021,7559,turned down a contract offer,21,TE,136,2,0
+Late FA Stage 5,2021,8200,signed as a free agent,8,QB,52,1,99
+Late FA Stage 5,2021,8441,signed as a free agent,0,WR,52,1,99
+Late FA Stage 5,2021,8441,turned down a contract offer,17,WR,52,1,0
+Late FA Stage 5,2021,8475,signed as a free agent,14,C,52,1,99
+Late FA Stage 5,2021,8499,signed as a free agent,17,C,53,1,99
+Late FA Stage 5,2021,8507,signed as a free agent,2,C,52,1,99
+Late FA Stage 5,2021,8524,signed as a free agent,20,G,52,1,99
+Pre-Training Camp,2021,4017,signed as a free agent,16,QB,184,2,0
+Pre-Training Camp,2021,8853,signed as a free agent,16,OLB,52,1,0
+Pre-Training Camp,2021,8363,signed as a free agent,16,TE,52,1,0
+Pre-Training Camp,2021,8379,signed as a free agent,16,TE,52,1,0
+Pre-Training Camp,2021,8393,signed as a free agent,16,TE,52,1,0
+Pre-Training Camp,2021,8491,signed as a free agent,16,C,52,1,0
+Pre-Training Camp,2021,8661,signed as a free agent,16,K,52,1,0
+Pre-Training Camp,2021,8199,signed as a free agent,16,QB,52,1,0
+Pre-Training Camp,2021,8489,signed as a free agent,16,C,52,1,0
+Pre-Training Camp,2021,8884,signed as a free agent,16,CB,52,1,0
+Pre-Training Camp,2021,8403,signed as a free agent,16,WR,52,1,0
+Pre-Training Camp,2021,8512,signed as a free agent,16,G,52,1,0
+Pre-Training Camp,2021,8568,signed as a free agent,16,T,52,1,0
+Pre-Training Camp,2021,8260,signed as a free agent,16,RB,52,1,0
+Pre-Training Camp,2021,8741,signed as a free agent,16,DT,52,1,0
+Pre-Training Camp,2021,8778,signed as a free agent,16,ILB,52,1,0
+Pre-Training Camp,2021,8919,signed as a free agent,16,CB,52,1,0
+Pre-Training Camp,2021,794,signed as a free agent,28,ILB,119,1,0
+Pre-Training Camp,2021,5469,signed as a free agent,28,OLB,90,1,0
+Pre-Training Camp,2021,883,signed as a free agent,28,TE,119,1,0
+Pre-Training Camp,2021,5119,signed as a free agent,28,C,90,1,0
+Pre-Training Camp,2021,1352,signed as a free agent,28,CB,107,1,0
+Pre-Training Camp,2021,915,signed as a free agent,28,WR,119,1,0
+Pre-Training Camp,2021,5856,signed as a free agent,28,WR,80,1,0
+Pre-Training Camp,2021,3204,signed as a free agent,28,QB,90,1,0
+Pre-Training Camp,2021,6654,signed as a free agent,28,FB,70,1,0
+Pre-Training Camp,2021,4598,signed as a free agent,28,ILB,90,1,0
+Pre-Training Camp,2021,3775,signed as a free agent,28,ILB,90,1,0
+Pre-Training Camp,2021,7932,released,28,DT,0,0,0
+Pre-Training Camp,2021,6232,signed as a free agent,12,DT,80,1,0
+Pre-Training Camp,2021,7385,signed as a free agent,12,QB,62,1,0
+Pre-Training Camp,2021,5714,signed as a free agent,12,RB,80,1,0
+Pre-Training Camp,2021,4287,signed as a free agent,12,C,90,1,0
+Pre-Training Camp,2021,4616,signed as a free agent,12,ILB,90,1,0
+Pre-Training Camp,2021,6169,signed as a free agent,12,DE,80,1,0
+Pre-Training Camp,2021,7046,signed as a free agent,12,DE,70,1,0
+Pre-Training Camp,2021,7667,signed as a free agent,12,C,62,1,0
+Pre-Training Camp,2021,7598,signed as a free agent,12,WR,62,1,0
+Pre-Training Camp,2021,4996,signed as a free agent,27,TE,90,1,0
+Pre-Training Camp,2021,4731,signed as a free agent,27,CB,90,1,0
+Pre-Training Camp,2021,3411,signed as a free agent,27,WR,90,1,0
+Pre-Training Camp,2021,4547,signed as a free agent,27,DT,90,1,0
+Pre-Training Camp,2021,6853,signed as a free agent,27,G,70,1,0
+Pre-Training Camp,2021,475,signed as a free agent,27,C,119,1,0
+Pre-Training Camp,2021,1507,signed as a free agent,27,OLB,107,1,0
+Pre-Training Camp,2021,1333,signed as a free agent,27,S,107,1,0
+Pre-Training Camp,2021,4880,signed as a free agent,27,QB,90,1,0
+Pre-Training Camp,2021,3004,signed as a free agent,27,ILB,107,1,0
+Pre-Training Camp,2021,4934,signed as a free agent,27,RB,90,1,0
+Pre-Training Camp,2021,3692,signed as a free agent,27,DE,90,1,0
+Pre-Training Camp,2021,2368,signed as a free agent,3,QB,107,1,0
+Pre-Training Camp,2021,960,signed as a free agent,3,RB,107,1,0
+Pre-Training Camp,2021,1321,signed as a free agent,3,DE,107,1,0
+Pre-Training Camp,2021,2250,signed as a free agent,3,ILB,107,1,0
+Pre-Training Camp,2021,4764,signed as a free agent,3,CB,90,1,0
+Pre-Training Camp,2021,5048,signed as a free agent,3,WR,90,1,0
+Pre-Training Camp,2021,5514,signed as a free agent,3,OLB,90,1,0
+Pre-Training Camp,2021,3145,signed as a free agent,3,S,107,1,0
+Pre-Training Camp,2021,2642,signed as a free agent,3,C,107,1,0
+Pre-Training Camp,2021,1453,signed as a free agent,3,ILB,107,1,0
+Pre-Training Camp,2021,1063,signed as a free agent,3,OLB,107,1,0
+Pre-Training Camp,2021,1627,signed as a free agent,31,S,107,1,0
+Pre-Training Camp,2021,4305,signed as a free agent,31,C,90,1,0
+Pre-Training Camp,2021,1225,signed as a free agent,31,OLB,107,1,0
+Pre-Training Camp,2021,6671,signed as a free agent,31,TE,70,1,0
+Pre-Training Camp,2021,606,signed as a free agent,31,TE,119,1,0
+Pre-Training Camp,2021,6929,signed as a free agent,31,T,70,1,0
+Pre-Training Camp,2021,2407,signed as a free agent,31,QB,107,1,0
+Pre-Training Camp,2021,828,signed as a free agent,31,CB,119,1,0
+Pre-Training Camp,2021,4100,signed as a free agent,31,RB,90,1,0
+Pre-Training Camp,2021,1632,signed as a free agent,31,WR,107,1,0
+Pre-Training Camp,2021,884,signed as a free agent,31,ILB,119,1,0
+Pre-Training Camp,2021,462,signed as a free agent,31,C,119,1,0
+Pre-Training Camp,2021,3864,signed as a free agent,31,OLB,90,1,0
+Pre-Training Camp,2021,1595,signed as a free agent,31,OLB,107,1,0
+Pre-Training Camp,2021,4696,released,31,OLB,0,0,0
+Pre-Training Camp,2021,1757,signed as a free agent,6,WR,107,1,0
+Pre-Training Camp,2021,2026,signed as a free agent,6,TE,107,1,0
+Pre-Training Camp,2021,5741,signed as a free agent,6,RB,80,1,0
+Pre-Training Camp,2021,5608,signed as a free agent,6,S,90,1,0
+Pre-Training Camp,2021,1046,signed as a free agent,6,C,119,1,0
+Pre-Training Camp,2021,2079,signed as a free agent,6,C,107,1,0
+Pre-Training Camp,2021,4649,signed as a free agent,6,OLB,90,1,0
+Pre-Training Camp,2021,3883,signed as a free agent,6,CB,90,1,0
+Pre-Training Camp,2021,3847,signed as a free agent,6,OLB,90,1,0
+Pre-Training Camp,2021,2949,signed as a free agent,6,DT,107,1,0
+Pre-Training Camp,2021,965,signed as a free agent,6,DT,107,1,0
+Pre-Training Camp,2021,4069,signed as a free agent,0,RB,90,1,0
+Pre-Training Camp,2021,7789,signed as a free agent,0,T,62,1,0
+Pre-Training Camp,2021,6466,signed as a free agent,0,S,80,1,0
+Pre-Training Camp,2021,1761,signed as a free agent,0,ILB,107,1,0
+Pre-Training Camp,2021,2545,signed as a free agent,0,TE,107,1,0
+Pre-Training Camp,2021,5984,signed as a free agent,0,G,80,1,0
+Pre-Training Camp,2021,1679,signed as a free agent,0,CB,107,1,0
+Pre-Training Camp,2021,1771,signed as a free agent,0,WR,107,1,0
+Pre-Training Camp,2021,4246,signed as a free agent,0,WR,90,1,0
+Pre-Training Camp,2021,6825,signed as a free agent,0,C,70,1,0
+Pre-Training Camp,2021,5457,signed as a free agent,0,OLB,90,1,0
+Pre-Training Camp,2021,4173,signed as a free agent,0,TE,90,1,0
+Pre-Training Camp,2021,3380,signed as a free agent,0,TE,90,1,0
+Pre-Training Camp,2021,2249,signed as a free agent,0,ILB,107,1,0
+Pre-Training Camp,2021,8067,signed as a free agent,0,OLB,62,1,0
+Pre-Training Camp,2021,5724,signed as a free agent,10,RB,80,1,0
+Pre-Training Camp,2021,6601,signed as a free agent,10,RB,70,1,0
+Pre-Training Camp,2021,6067,signed as a free agent,10,T,80,1,0
+Pre-Training Camp,2021,5849,signed as a free agent,10,TE,80,1,0
+Pre-Training Camp,2021,7739,signed as a free agent,10,G,62,1,0
+Pre-Training Camp,2021,6274,signed as a free agent,10,ILB,80,1,0
+Pre-Training Camp,2021,6298,signed as a free agent,10,ILB,80,1,0
+Pre-Training Camp,2021,6305,signed as a free agent,10,ILB,80,1,0
+Pre-Training Camp,2021,6826,signed as a free agent,10,C,70,1,0
+Pre-Training Camp,2021,7541,signed as a free agent,10,TE,62,1,0
+Pre-Training Camp,2021,4189,signed as a free agent,10,TE,90,1,0
+Pre-Training Camp,2021,5860,signed as a free agent,10,WR,80,1,0
+Pre-Training Camp,2021,7596,signed as a free agent,10,WR,62,1,0
+Pre-Training Camp,2021,7627,signed as a free agent,10,WR,62,1,0
+Pre-Training Camp,2021,503,signed as a free agent,2,C,119,1,0
+Pre-Training Camp,2021,2987,signed as a free agent,2,ILB,107,1,0
+Pre-Training Camp,2021,4632,signed as a free agent,2,ILB,90,1,0
+Pre-Training Camp,2021,5001,signed as a free agent,2,TE,90,1,0
+Pre-Training Camp,2021,5015,signed as a free agent,2,TE,90,1,0
+Pre-Training Camp,2021,5928,signed as a free agent,2,WR,80,1,0
+Pre-Training Camp,2021,4908,signed as a free agent,2,RB,90,1,0
+Pre-Training Camp,2021,4920,signed as a free agent,2,RB,90,1,0
+Pre-Training Camp,2021,7445,signed as a free agent,2,RB,62,1,0
+Pre-Training Camp,2021,7216,signed as a free agent,2,OLB,70,1,0
+Pre-Training Camp,2021,4659,signed as a free agent,2,OLB,90,1,0
+Pre-Training Camp,2021,6358,signed as a free agent,2,OLB,80,1,0
+Pre-Training Camp,2021,3964,signed as a free agent,2,S,90,1,0
+Pre-Training Camp,2021,1000,signed as a free agent,2,ILB,119,1,0
+Pre-Training Camp,2021,1348,signed as a free agent,2,OLB,107,1,0
+Pre-Training Camp,2021,7127,released,2,DT,0,0,0
+Pre-Training Camp,2021,2647,signed as a free agent,23,C,107,1,0
+Pre-Training Camp,2021,6830,signed as a free agent,23,C,70,1,0
+Pre-Training Camp,2021,1505,signed as a free agent,23,DE,107,1,0
+Pre-Training Camp,2021,6165,signed as a free agent,23,DE,80,1,0
+Pre-Training Camp,2021,5887,signed as a free agent,23,WR,80,1,0
+Pre-Training Camp,2021,4164,signed as a free agent,23,TE,90,1,0
+Pre-Training Camp,2021,4196,signed as a free agent,23,TE,90,1,0
+Pre-Training Camp,2021,6655,signed as a free agent,23,FB,70,1,0
+Pre-Training Camp,2021,7246,signed as a free agent,26,CB,70,1,0
+Pre-Training Camp,2021,7400,signed as a free agent,26,QB,62,1,0
+Pre-Training Camp,2021,2509,signed as a free agent,26,TE,107,1,0
+Pre-Training Camp,2021,750,signed as a free agent,26,TE,119,1,0
+Pre-Training Camp,2021,6834,signed as a free agent,26,C,70,1,0
+Pre-Training Camp,2021,2072,signed as a free agent,26,C,107,1,0
+Pre-Training Camp,2021,1819,signed as a free agent,26,WR,107,1,0
+Pre-Training Camp,2021,2508,signed as a free agent,24,TE,107,1,0
+Pre-Training Camp,2021,1832,signed as a free agent,24,WR,107,1,0
+Pre-Training Camp,2021,2301,signed as a free agent,24,OLB,107,1,0
+Pre-Training Camp,2021,7675,signed as a free agent,24,C,62,1,0
+Pre-Training Camp,2021,5191,signed as a free agent,24,G,90,1,0
+Pre-Training Camp,2021,1492,signed as a free agent,24,T,107,1,0
+Pre-Training Camp,2021,6644,signed as a free agent,24,FB,70,1,0
+Pre-Training Camp,2021,3787,signed as a free agent,24,ILB,90,1,0
+Pre-Training Camp,2021,3762,signed as a free agent,24,DT,90,1,0
+Pre-Training Camp,2021,1531,signed as a free agent,24,DE,107,1,0
+Pre-Training Camp,2021,6246,released,24,DT,0,0,0
+Pre-Training Camp,2021,1468,signed as a free agent,22,P,107,1,0
+Pre-Training Camp,2021,4248,signed as a free agent,22,WR,90,1,0
+Pre-Training Camp,2021,5878,signed as a free agent,22,WR,80,1,0
+Pre-Training Camp,2021,5920,signed as a free agent,22,WR,80,1,0
+Pre-Training Camp,2021,7388,signed as a free agent,22,QB,62,1,0
+Pre-Training Camp,2021,4896,signed as a free agent,22,RB,90,1,0
+Pre-Training Camp,2021,1343,signed as a free agent,22,CB,107,1,0
+Pre-Training Camp,2021,3966,signed as a free agent,22,S,90,1,0
+Pre-Training Camp,2021,4696,signed as a free agent,22,OLB,90,1,0
+Pre-Training Camp,2021,4290,signed as a free agent,22,C,90,1,0
+Pre-Training Camp,2021,8505,signed as a free agent,22,C,52,1,0
+Pre-Training Camp,2021,1005,signed as a free agent,22,ILB,107,1,0
+Pre-Training Camp,2021,6706,signed as a free agent,22,TE,70,1,0
+Pre-Training Camp,2021,2521,signed as a free agent,22,TE,107,1,0
+Pre-Training Camp,2021,6651,signed as a free agent,22,FB,70,1,0
+Pre-Training Camp,2021,4768,signed as a free agent,22,S,90,1,0
+Pre-Training Camp,2021,871,signed as a free agent,22,OLB,119,1,0
+Pre-Training Camp,2021,1091,signed as a free agent,22,ILB,107,1,0
+Pre-Training Camp,2021,8837,released,22,OLB,0,0,0
+Pre-Training Camp,2021,5005,signed as a free agent,4,TE,90,1,0
+Pre-Training Camp,2021,4843,signed as a free agent,4,QB,90,1,0
+Pre-Training Camp,2021,2302,signed as a free agent,4,OLB,107,1,0
+Pre-Training Camp,2021,3017,signed as a free agent,4,OLB,107,1,0
+Pre-Training Camp,2021,4300,signed as a free agent,4,C,90,1,0
+Pre-Training Camp,2021,7681,signed as a free agent,4,C,62,1,0
+Pre-Training Camp,2021,4734,signed as a free agent,4,CB,90,1,0
+Pre-Training Camp,2021,443,signed as a free agent,8,T,119,1,0
+Pre-Training Camp,2021,3296,signed as a free agent,8,RB,90,1,0
+Pre-Training Camp,2021,4557,signed as a free agent,8,DT,90,1,0
+Pre-Training Camp,2021,8498,signed as a free agent,8,C,52,1,0
+Pre-Training Camp,2021,3886,signed as a free agent,8,CB,90,1,0
+Pre-Training Camp,2021,6541,signed as a free agent,8,QB,70,1,0
+Pre-Training Camp,2021,2094,signed as a free agent,8,G,107,1,0
+Pre-Training Camp,2021,2042,signed as a free agent,8,WR,107,1,0
+Pre-Training Camp,2021,4241,signed as a free agent,8,WR,90,1,0
+Pre-Training Camp,2021,6661,signed as a free agent,8,FB,70,1,0
+Pre-Training Camp,2021,2991,signed as a free agent,8,ILB,107,1,0
+Pre-Training Camp,2021,7678,signed as a free agent,7,C,62,1,0
+Pre-Training Camp,2021,6781,signed as a free agent,7,WR,70,1,0
+Pre-Training Camp,2021,3506,signed as a free agent,7,G,90,1,0
+Pre-Training Camp,2021,5607,signed as a free agent,7,S,90,1,0
+Pre-Training Camp,2021,5555,signed as a free agent,7,CB,90,1,0
+Pre-Training Camp,2021,3819,signed as a free agent,7,OLB,90,1,0
+Pre-Training Camp,2021,8230,signed as a free agent,7,QB,52,1,0
+Pre-Training Camp,2021,1279,signed as a free agent,7,ILB,107,1,0
+Pre-Training Camp,2021,5389,signed as a free agent,7,DT,90,1,0
+Pre-Training Camp,2021,4255,signed as a free agent,20,WR,90,1,0
+Pre-Training Camp,2021,7898,signed as a free agent,20,DE,62,1,0
+Pre-Training Camp,2021,704,signed as a free agent,20,DE,119,1,0
+Pre-Training Camp,2021,5369,signed as a free agent,20,DT,90,1,0
+Pre-Training Camp,2021,1588,signed as a free agent,20,OLB,107,1,0
+Pre-Training Camp,2021,2241,signed as a free agent,20,OLB,107,1,0
+Pre-Training Camp,2021,6838,signed as a free agent,20,C,70,1,0
+Pre-Training Camp,2021,2683,signed as a free agent,20,G,107,1,0
+Pre-Training Camp,2021,3920,signed as a free agent,20,CB,90,1,0
+Pre-Training Camp,2021,2756,signed as a free agent,20,T,107,1,0
+Pre-Training Camp,2021,8241,signed as a free agent,20,QB,52,1,0
+Pre-Training Camp,2021,1567,signed as a free agent,20,RB,107,1,0
+Pre-Training Camp,2021,1601,signed as a free agent,20,RB,107,1,0
+Pre-Training Camp,2021,542,signed as a free agent,20,S,119,1,0
+Pre-Training Camp,2021,4964,signed as a free agent,20,FB,90,1,0
+Pre-Training Camp,2021,2846,signed as a free agent,20,DE,107,1,0
+Pre-Training Camp,2021,3666,signed as a free agent,20,DE,90,1,0
+Pre-Training Camp,2021,8143,released,20,S,0,0,0
+Pre-Training Camp,2021,6832,signed as a free agent,13,C,70,1,0
+Pre-Training Camp,2021,2981,signed as a free agent,13,ILB,107,1,0
+Pre-Training Camp,2021,5078,signed as a free agent,13,WR,90,1,0
+Pre-Training Camp,2021,3979,signed as a free agent,13,S,90,1,0
+Pre-Training Camp,2021,6510,signed as a free agent,13,QB,70,1,0
+Pre-Training Camp,2021,7452,signed as a free agent,13,RB,62,1,0
+Pre-Training Camp,2021,940,signed as a free agent,13,CB,107,1,0
+Pre-Training Camp,2021,7784,signed as a free agent,13,T,62,1,0
+Pre-Training Camp,2021,7740,signed as a free agent,13,G,62,1,0
+Pre-Training Camp,2021,3798,signed as a free agent,13,ILB,90,1,0
+Pre-Training Camp,2021,3824,signed as a free agent,13,OLB,90,1,0
+Pre-Training Camp,2021,8341,signed as a free agent,13,FB,52,1,0
+Pre-Training Camp,2021,8811,signed as a free agent,19,ILB,52,1,0
+Pre-Training Camp,2021,8819,signed as a free agent,19,ILB,52,1,0
+Pre-Training Camp,2021,8476,signed as a free agent,19,C,52,1,0
+Pre-Training Camp,2021,8920,signed as a free agent,19,CB,52,1,0
+Pre-Training Camp,2021,8411,signed as a free agent,19,WR,52,1,0
+Pre-Training Camp,2021,8457,signed as a free agent,19,WR,52,1,0
+Pre-Training Camp,2021,8570,signed as a free agent,19,T,52,1,0
+Pre-Training Camp,2021,8391,signed as a free agent,19,TE,52,1,0
+Pre-Training Camp,2021,8371,signed as a free agent,19,TE,52,1,0
+Pre-Training Camp,2021,8924,signed as a free agent,19,CB,52,1,0
+Pre-Training Camp,2021,8829,signed as a free agent,19,OLB,52,1,0
+Pre-Training Camp,2021,5016,signed as a free agent,5,TE,90,1,0
+Pre-Training Camp,2021,7537,signed as a free agent,5,TE,62,1,0
+Pre-Training Camp,2021,7544,signed as a free agent,5,TE,62,1,0
+Pre-Training Camp,2021,3523,signed as a free agent,5,G,90,1,0
+Pre-Training Camp,2021,2989,signed as a free agent,5,ILB,107,1,0
+Pre-Training Camp,2021,605,signed as a free agent,5,WR,119,1,0
+Pre-Training Camp,2021,931,signed as a free agent,5,WR,119,1,0
+Pre-Training Camp,2021,2628,signed as a free agent,5,WR,107,1,0
+Pre-Training Camp,2021,3278,signed as a free agent,5,RB,90,1,0
+Pre-Training Camp,2021,4889,signed as a free agent,5,RB,90,1,0
+Pre-Training Camp,2021,803,signed as a free agent,5,DT,119,1,0
+Pre-Training Camp,2021,2154,signed as a free agent,5,DT,107,1,0
+Pre-Training Camp,2021,7671,signed as a free agent,5,C,62,1,0
+Pre-Training Camp,2021,4291,signed as a free agent,5,C,90,1,0
+Pre-Training Camp,2021,454,signed as a free agent,5,P,119,1,0
+Pre-Training Camp,2021,6319,signed as a free agent,5,OLB,80,1,0
+Pre-Training Camp,2021,3036,signed as a free agent,5,OLB,107,1,0
+Pre-Training Camp,2021,7896,signed as a free agent,5,DE,62,1,0
+Pre-Training Camp,2021,866,signed as a free agent,5,DE,119,1,0
+Pre-Training Camp,2021,1856,signed as a free agent,5,QB,107,1,0
+Pre-Training Camp,2021,5611,signed as a free agent,5,S,90,1,0
+Pre-Training Camp,2021,4775,signed as a free agent,5,S,90,1,0
+Pre-Training Camp,2021,7355,signed as a free agent,5,S,70,1,0
+Pre-Training Camp,2021,6402,signed as a free agent,5,CB,80,1,0
+Pre-Training Camp,2021,5239,signed as a free agent,5,T,90,1,0
+Pre-Training Camp,2021,7791,signed as a free agent,5,T,62,1,0
+Pre-Training Camp,2021,379,signed as a free agent,5,TE,107,1,0
+Pre-Training Camp,2021,1552,signed as a free agent,5,DE,107,1,0
+Pre-Training Camp,2021,6244,signed as a free agent,5,DT,80,1,0
+Pre-Training Camp,2021,1535,signed as a free agent,5,CB,107,1,0
+Pre-Training Camp,2021,3779,signed as a free agent,5,ILB,90,1,0
+Pre-Training Camp,2021,3207,signed as a free agent,17,QB,90,1,0
+Pre-Training Camp,2021,3431,signed as a free agent,17,WR,90,1,0
+Pre-Training Camp,2021,3462,signed as a free agent,17,WR,90,1,0
+Pre-Training Camp,2021,5104,signed as a free agent,17,WR,90,1,0
+Pre-Training Camp,2021,839,signed as a free agent,17,T,107,1,0
+Pre-Training Camp,2021,5503,signed as a free agent,17,OLB,90,1,0
+Pre-Training Camp,2021,4367,signed as a free agent,17,G,90,1,0
+Pre-Training Camp,2021,5942,signed as a free agent,17,C,80,1,0
+Pre-Training Camp,2021,1825,signed as a free agent,17,TE,107,1,0
+Pre-Training Camp,2021,7949,signed as a free agent,17,DT,62,1,0
+Pre-Training Camp,2021,4947,signed as a free agent,17,FB,90,1,0
+Pre-Training Camp,2021,3345,signed as a free agent,25,TE,90,1,0
+Pre-Training Camp,2021,763,signed as a free agent,25,G,119,1,0
+Pre-Training Camp,2021,8270,signed as a free agent,25,RB,52,1,0
+Pre-Training Camp,2021,5960,signed as a free agent,25,C,80,1,0
+Pre-Training Camp,2021,566,signed as a free agent,25,WR,119,1,0
+Pre-Training Camp,2021,5304,signed as a free agent,25,DE,90,1,0
+Pre-Training Camp,2021,4594,signed as a free agent,25,ILB,90,1,0
+Pre-Training Camp,2021,2276,signed as a free agent,25,ILB,107,1,0
+Pre-Training Camp,2021,8201,signed as a free agent,25,QB,52,1,0
+Pre-Training Camp,2021,5478,signed as a free agent,25,OLB,90,1,0
+Pre-Training Camp,2021,5481,signed as a free agent,25,OLB,90,1,0
+Pre-Training Camp,2021,8935,released,25,CB,0,0,0
+Pre-Training Camp,2021,3899,signed as a free agent,30,CB,90,1,0
+Pre-Training Camp,2021,2261,signed as a free agent,30,ILB,107,1,0
+Pre-Training Camp,2021,2234,signed as a free agent,30,OLB,107,1,0
+Pre-Training Camp,2021,5017,signed as a free agent,30,TE,90,1,0
+Pre-Training Camp,2021,8236,signed as a free agent,30,QB,52,1,0
+Pre-Training Camp,2021,3236,signed as a free agent,30,QB,90,1,0
+Pre-Training Camp,2021,5058,signed as a free agent,30,WR,90,1,0
+Pre-Training Camp,2021,6904,signed as a free agent,30,T,70,1,0
+Pre-Training Camp,2021,1125,signed as a free agent,30,C,119,1,0
+Pre-Training Camp,2021,7165,signed as a free agent,9,ILB,70,1,0
+Pre-Training Camp,2021,7672,signed as a free agent,9,C,62,1,0
+Pre-Training Camp,2021,3521,signed as a free agent,9,G,90,1,0
+Pre-Training Camp,2021,6036,signed as a free agent,9,T,80,1,0
+Pre-Training Camp,2021,7456,signed as a free agent,9,RB,62,1,0
+Pre-Training Camp,2021,8050,signed as a free agent,9,OLB,62,1,0
+Pre-Training Camp,2021,8143,signed as a free agent,9,S,62,1,0
+Pre-Training Camp,2021,6743,signed as a free agent,9,WR,70,1,0
+Pre-Training Camp,2021,4307,signed as a free agent,21,C,90,1,0
+Pre-Training Camp,2021,2056,signed as a free agent,21,T,107,1,0
+Pre-Training Camp,2021,5605,signed as a free agent,21,S,90,1,0
+Pre-Training Camp,2021,3152,signed as a free agent,21,S,107,1,0
+Pre-Training Camp,2021,8042,signed as a free agent,21,OLB,62,1,0
+Pre-Training Camp,2021,2720,signed as a free agent,21,G,107,1,0
+Pre-Training Camp,2021,6292,signed as a free agent,21,ILB,80,1,0
+Pre-Training Camp,2021,1040,signed as a free agent,21,ILB,107,1,0
+Pre-Training Camp,2021,2517,signed as a free agent,21,TE,107,1,0
+Pre-Training Camp,2021,5848,signed as a free agent,21,TE,80,1,0
+Pre-Training Camp,2021,7470,signed as a free agent,21,RB,62,1,0
+Pre-Training Camp,2021,8494,signed as a free agent,21,C,52,1,0
+Pre-Training Camp,2021,8496,signed as a free agent,21,C,52,1,0
+Pre-Training Camp,2021,1168,signed as a free agent,21,WR,119,1,0
+Pre-Training Camp,2021,714,signed as a free agent,21,WR,107,1,0
+Pre-Training Camp,2021,7406,signed as a free agent,21,QB,62,1,0
+Pre-Training Camp,2021,8218,signed as a free agent,21,QB,52,1,0
+Pre-Training Camp,2021,8110,signed as a free agent,21,CB,62,1,0
+Pre-Training Camp,2021,8320,signed as a free agent,21,FB,52,1,0
+Pre-Training Camp,2021,6341,signed as a free agent,21,OLB,80,1,0
+Pre-Training Camp,2021,1346,signed as a free agent,21,OLB,107,1,0
+Pre-Training Camp,2021,8053,released,21,OLB,0,0,0
+Pre-Training Camp,2021,1216,signed as a free agent,18,WR,107,1,0
+Pre-Training Camp,2021,1481,signed as a free agent,18,WR,107,1,0
+Pre-Training Camp,2021,1847,signed as a free agent,18,DE,107,1,0
+Pre-Training Camp,2021,455,signed as a free agent,18,CB,119,1,0
+Pre-Training Camp,2021,3929,signed as a free agent,18,CB,90,1,0
+Pre-Training Camp,2021,4691,signed as a free agent,18,OLB,90,1,0
+Pre-Training Camp,2021,1100,signed as a free agent,18,T,107,1,0
+Pre-Training Camp,2021,5598,signed as a free agent,18,S,90,1,0
+Pre-Training Camp,2021,7396,signed as a free agent,18,QB,62,1,0
+Pre-Training Camp,2021,1619,signed as a free agent,18,ILB,107,1,0
+Pre-Training Camp,2021,2722,signed as a free agent,18,G,107,1,0
+Pre-Training Camp,2021,7658,signed as a free agent,18,C,62,1,0
+Pre-Training Camp,2021,6640,signed as a free agent,18,FB,70,1,0
+Pre-Training Camp,2021,4744,signed as a free agent,18,CB,90,1,0
+Pre-Training Camp,2021,2256,signed as a free agent,18,ILB,107,1,0
+Pre-Training Camp,2021,7973,signed as a free agent,18,ILB,62,1,0
+Pre-Training Camp,2021,8929,released,18,CB,0,0,0
+Pre-Training Camp,2021,7915,signed as a free agent,15,DT,62,1,0
+Pre-Training Camp,2021,726,signed as a free agent,15,DT,119,1,0
+Pre-Training Camp,2021,6704,signed as a free agent,15,TE,70,1,0
+Pre-Training Camp,2021,7570,signed as a free agent,15,TE,62,1,0
+Pre-Training Camp,2021,8361,signed as a free agent,15,TE,52,1,0
+Pre-Training Camp,2021,5148,signed as a free agent,15,G,90,1,0
+Pre-Training Camp,2021,7670,signed as a free agent,15,C,62,1,0
+Pre-Training Camp,2021,7687,signed as a free agent,15,C,62,1,0
+Pre-Training Camp,2021,8281,signed as a free agent,15,RB,52,1,0
+Pre-Training Camp,2021,1470,signed as a free agent,15,DT,107,1,0
+Pre-Training Camp,2021,6345,signed as a free agent,29,OLB,80,1,0
+Pre-Training Camp,2021,5201,signed as a free agent,29,T,90,1,0
+Pre-Training Camp,2021,603,signed as a free agent,29,ILB,119,1,0
+Pre-Training Camp,2021,7668,signed as a free agent,29,C,62,1,0
+Pre-Training Camp,2021,8299,signed as a free agent,29,RB,52,1,0
+Pre-Training Camp,2021,7533,signed as a free agent,29,TE,62,1,0
+Pre-Training Camp,2021,6712,signed as a free agent,29,TE,70,1,0
+Pre-Training Camp,2021,5817,signed as a free agent,29,TE,80,1,0
+Pre-Training Camp,2021,1816,signed as a free agent,29,WR,107,1,0
+Pre-Training Camp,2021,1546,signed as a free agent,11,WR,107,1,0
+Pre-Training Camp,2021,2534,signed as a free agent,11,TE,107,1,0
+Pre-Training Camp,2021,8869,signed as a free agent,11,OLB,52,1,0
+Pre-Training Camp,2021,7970,signed as a free agent,11,ILB,62,1,0
+Pre-Training Camp,2021,7997,signed as a free agent,11,ILB,62,1,0
+Pre-Training Camp,2021,8479,signed as a free agent,11,C,52,1,0
+Pre-Training Camp,2021,7414,signed as a free agent,11,QB,62,1,0
+Pre-Training Camp,2021,1341,signed as a free agent,11,CB,107,1,0
+Pre-Training Camp,2021,3946,signed as a free agent,11,S,90,1,0
+Pre-Training Camp,2021,1526,signed as a free agent,11,OLB,107,1,0
+Pre-Training Camp,2021,3049,signed as a free agent,11,OLB,107,1,0
+Pre-Training Camp,2021,5790,released,11,FB,0,0,0
+Pre-Training Camp,2021,607,signed as a free agent,1,OLB,119,1,0
+Pre-Training Camp,2021,8478,signed as a free agent,1,C,52,1,0
+Pre-Training Camp,2021,7661,signed as a free agent,1,C,62,1,0
+Pre-Training Camp,2021,8249,signed as a free agent,1,QB,52,1,0
+Pre-Training Camp,2021,5072,signed as a free agent,1,WR,90,1,0
+Pre-Training Camp,2021,3154,signed as a free agent,1,S,107,1,0
+Pre-Training Camp,2021,4794,signed as a free agent,1,S,90,1,0
+Pre-Training Camp,2021,7148,signed as a free agent,1,ILB,70,1,0
+Pre-Training Camp,2021,1685,signed as a free agent,14,CB,107,1,0
+Pre-Training Camp,2021,6689,signed as a free agent,14,TE,70,1,0
+Pre-Training Camp,2021,4483,signed as a free agent,14,DE,90,1,0
+Pre-Training Camp,2021,1718,signed as a free agent,14,S,107,1,0
+Pre-Training Camp,2021,7688,signed as a free agent,14,C,62,1,0
+Pre-Training Camp,2021,6557,signed as a free agent,14,QB,70,1,0
+Pre-Training Camp,2021,3252,signed as a free agent,14,QB,90,1,0
+Pre-Training Camp,2021,3428,signed as a free agent,14,WR,90,1,0
+Pre-Training Camp,2021,3026,signed as a free agent,14,OLB,107,1,0
+Pre-Training Camp,2021,8266,signed as a free agent,14,RB,52,1,0
+Pre-Training Camp,2021,2161,signed as a free agent,14,DT,107,1,0
+Pre-Training Camp,2021,5343,signed as a free agent,14,DE,90,1,0
+Pre-Training Camp,2021,3728,changed primary position,0,DT,0,RDT,0,DT,0,RDT,
+Pre-Training Camp,2021,8755,changed primary position,0,DT,0,LDT,0,DT,0,LDT,
+Pre-Training Camp,2021,8719,changed primary position,0,DE,0,RDE,0,DE,0,RDE,
+Pre-Training Camp,2021,1495,changed primary position,0,ILB,0,WILB,0,ILB,0,WILB,
+Pre-Training Camp,2021,601,changed primary position,1,DT,0,NT,1,DT,0,NT,
+Pre-Training Camp,2021,8419,changed primary position,1,WR,0,SE,1,WR,0,SE,
+Pre-Training Camp,2021,7872,changed primary position,1,DE,0,LDE,1,DE,0,LDE,
+Pre-Training Camp,2021,6389,changed primary position,1,CB,0,LCB,1,CB,0,LCB,
+Pre-Training Camp,2021,7351,changed primary position,1,S,0,FS,1,S,0,FS,
+Pre-Training Camp,2021,8892,changed primary position,2,CB,0,LCB,2,CB,0,LCB,
+Pre-Training Camp,2021,584,changed primary position,3,DT,0,LDT,3,DT,0,LDT,
+Pre-Training Camp,2021,1453,changed primary position,3,ILB,0,MLB,3,ILB,0,MLB,
+Pre-Training Camp,2021,4541,changed primary position,3,DT,0,RDT,3,DT,0,RDT,
+Pre-Training Camp,2021,8782,changed primary position,3,ILB,0,MLB,3,ILB,0,MLB,
+Pre-Training Camp,2021,3617,changed primary position,4,T,0,RT,4,T,0,RT,
+Pre-Training Camp,2021,2989,changed primary position,5,ILB,0,WILB,5,ILB,0,WILB,
+Pre-Training Camp,2021,6244,changed primary position,5,DT,0,NT,5,DT,0,NT,
+Pre-Training Camp,2021,8781,changed primary position,5,ILB,0,WILB,5,ILB,0,WILB,
+Pre-Training Camp,2021,3036,changed primary position,5,OLB,0,SLB,5,OLB,0,SLB,
+Pre-Training Camp,2021,5390,changed primary position,6,DT,0,NT,6,DT,0,NT,
+Pre-Training Camp,2021,8727,changed primary position,6,DT,0,NT,6,DT,0,NT,
+Pre-Training Camp,2021,7063,changed primary position,6,DE,0,LDE,6,DE,0,LDE,
+Pre-Training Camp,2021,1279,changed primary position,7,ILB,0,WILB,7,ILB,0,WILB,
+Pre-Training Camp,2021,1412,changed primary position,7,ILB,0,WILB,7,ILB,0,WILB,
+Pre-Training Camp,2021,5389,changed primary position,7,DT,0,NT,7,DT,0,NT,
+Pre-Training Camp,2021,2909,changed primary position,7,DT,0,RDT,7,DT,0,RDT,
+Pre-Training Camp,2021,8814,changed primary position,8,ILB,0,SILB,8,ILB,0,SILB,
+Pre-Training Camp,2021,1634,changed primary position,9,T,0,LT,9,T,0,LT,
+Pre-Training Camp,2021,7194,changed primary position,9,OLB,0,SLB,9,OLB,0,SLB,
+Pre-Training Camp,2021,678,changed primary position,9,S,0,FS,9,S,0,FS,
+Pre-Training Camp,2021,6274,changed primary position,10,ILB,0,MLB,10,ILB,0,MLB,
+Pre-Training Camp,2021,6305,changed primary position,10,ILB,0,MLB,10,ILB,0,MLB,
+Pre-Training Camp,2021,1373,changed primary position,11,ILB,0,WILB,11,ILB,0,WILB,
+Pre-Training Camp,2021,1617,changed primary position,11,DT,0,NT,11,DT,0,NT,
+Pre-Training Camp,2021,2948,changed primary position,11,DT,0,NT,11,DT,0,NT,
+Pre-Training Camp,2021,3788,changed primary position,11,ILB,0,SILB,11,ILB,0,SILB,
+Pre-Training Camp,2021,5378,changed primary position,11,DT,0,NT,11,DT,0,NT,
+Pre-Training Camp,2021,7111,changed primary position,11,DT,0,NT,11,DT,0,NT,
+Pre-Training Camp,2021,7970,changed primary position,11,ILB,0,WILB,11,ILB,0,WILB,
+Pre-Training Camp,2021,7997,changed primary position,11,ILB,0,SILB,11,ILB,0,SILB,
+Pre-Training Camp,2021,8694,changed primary position,11,DE,0,RDE,11,DE,0,RDE,
+Pre-Training Camp,2021,6315,changed primary position,11,OLB,0,WLB,11,OLB,0,WLB,
+Pre-Training Camp,2021,5378,changed primary position,11,DT,0,LDT,11,DT,0,LDT,
+Pre-Training Camp,2021,4616,changed primary position,12,ILB,0,WILB,12,ILB,0,WILB,
+Pre-Training Camp,2021,6174,changed primary position,12,DE,0,RDE,12,DE,0,RDE,
+Pre-Training Camp,2021,1661,changed primary position,12,CB,0,LCB,12,CB,0,LCB,
+Pre-Training Camp,2021,1691,changed primary position,12,S,0,SS,12,S,0,SS,
+Pre-Training Camp,2021,790,changed primary position,12,DT,0,LDT,12,DT,0,LDT,
+Pre-Training Camp,2021,8729,changed primary position,13,DT,0,LDT,13,DT,0,LDT,
+Pre-Training Camp,2021,8779,changed primary position,13,ILB,0,MLB,13,ILB,0,MLB,
+Pre-Training Camp,2021,5071,changed primary position,13,WR,0,FL,13,WR,0,FL,
+Pre-Training Camp,2021,1394,changed primary position,14,DT,0,NT,14,DT,0,NT,
+Pre-Training Camp,2021,1484,changed primary position,14,T,0,RT,14,T,0,RT,
+Pre-Training Camp,2021,3507,changed primary position,14,G,0,RG,14,G,0,RG,
+Pre-Training Camp,2021,7862,changed primary position,14,DE,0,RDE,14,DE,0,RDE,
+Pre-Training Camp,2021,6443,changed primary position,14,CB,0,RCB,14,CB,0,RCB,
+Pre-Training Camp,2021,726,changed primary position,15,DT,0,NT,15,DT,0,NT,
+Pre-Training Camp,2021,7915,changed primary position,15,DT,0,NT,15,DT,0,NT,
+Pre-Training Camp,2021,8793,changed primary position,15,ILB,0,SILB,15,ILB,0,SILB,
+Pre-Training Camp,2021,6033,changed primary position,15,G,0,LG,15,G,0,LG,
+Pre-Training Camp,2021,4400,changed primary position,15,T,0,LT,15,T,0,LT,
+Pre-Training Camp,2021,6346,changed primary position,16,OLB,0,SLB,16,OLB,0,SLB,
+Pre-Training Camp,2021,5447,changed primary position,18,ILB,0,MLB,18,ILB,0,MLB,
+Pre-Training Camp,2021,7973,changed primary position,18,ILB,0,MLB,18,ILB,0,MLB,
+Pre-Training Camp,2021,8724,changed primary position,18,DT,0,LDT,18,DT,0,LDT,
+Pre-Training Camp,2021,8774,changed primary position,18,DT,0,LDT,18,DT,0,LDT,
+Pre-Training Camp,2021,3891,changed primary position,18,CB,0,RCB,18,CB,0,RCB,
+Pre-Training Camp,2021,1509,changed primary position,18,S,0,SS,18,S,0,SS,
+Pre-Training Camp,2021,8819,changed primary position,19,ILB,0,MLB,19,ILB,0,MLB,
+Pre-Training Camp,2021,1155,changed primary position,19,T,0,LT,19,T,0,LT,
+Pre-Training Camp,2021,4670,changed primary position,19,OLB,0,WLB,19,OLB,0,WLB,
+Pre-Training Camp,2021,1342,changed primary position,21,DT,0,NT,21,DT,0,NT,
+Pre-Training Camp,2021,2204,changed primary position,21,DT,0,NT,21,DT,0,NT,
+Pre-Training Camp,2021,4545,changed primary position,21,DT,0,NT,21,DT,0,NT,
+Pre-Training Camp,2021,5372,changed primary position,21,DT,0,NT,21,DT,0,NT,
+Pre-Training Camp,2021,6276,changed primary position,21,ILB,0,WILB,21,ILB,0,WILB,
+Pre-Training Camp,2021,6292,changed primary position,21,ILB,0,SILB,21,ILB,0,SILB,
+Pre-Training Camp,2021,8001,changed primary position,21,ILB,0,SILB,21,ILB,0,SILB,
+Pre-Training Camp,2021,6501,changed primary position,21,S,0,FS,21,S,0,FS,
+Pre-Training Camp,2021,1342,changed primary position,21,DT,0,LDT,21,DT,0,LDT,
+Pre-Training Camp,2021,8772,changed primary position,22,DT,0,RDT,22,DT,0,RDT,
+Pre-Training Camp,2021,8777,changed primary position,22,ILB,0,MLB,22,ILB,0,MLB,
+Pre-Training Camp,2021,6735,changed primary position,22,WR,0,FL,22,WR,0,FL,
+Pre-Training Camp,2021,1422,changed primary position,22,T,0,LT,22,T,0,LT,
+Pre-Training Camp,2021,1437,changed primary position,23,CB,0,LCB,23,CB,0,LCB,
+Pre-Training Camp,2021,1703,changed primary position,25,T,0,RT,25,T,0,RT,
+Pre-Training Camp,2021,5635,changed primary position,25,S,0,FS,25,S,0,FS,
+Pre-Training Camp,2021,1834,changed primary position,26,ILB,0,MLB,26,ILB,0,MLB,
+Pre-Training Camp,2021,6262,changed primary position,26,DT,0,RDT,26,DT,0,RDT,
+Pre-Training Camp,2021,7134,changed primary position,26,ILB,0,MLB,26,ILB,0,MLB,
+Pre-Training Camp,2021,7958,changed primary position,26,DT,0,LDT,26,DT,0,LDT,
+Pre-Training Camp,2021,5475,changed primary position,26,OLB,0,WLB,26,OLB,0,WLB,
+Pre-Training Camp,2021,3004,changed primary position,27,ILB,0,WILB,27,ILB,0,WILB,
+Pre-Training Camp,2021,4603,changed primary position,27,ILB,0,SILB,27,ILB,0,SILB,
+Pre-Training Camp,2021,3692,changed primary position,27,DE,0,LDE,27,DE,0,LDE,
+Pre-Training Camp,2021,1865,changed primary position,27,OLB,0,SLB,27,OLB,0,SLB,
+Pre-Training Camp,2021,794,changed primary position,28,ILB,0,MLB,28,ILB,0,MLB,
+Pre-Training Camp,2021,3775,changed primary position,28,ILB,0,MLB,28,ILB,0,MLB,
+Pre-Training Camp,2021,5410,changed primary position,28,DT,0,LDT,28,DT,0,LDT,
+Pre-Training Camp,2021,8743,changed primary position,28,DT,0,RDT,28,DT,0,RDT,
+Pre-Training Camp,2021,8806,changed primary position,28,ILB,0,MLB,28,ILB,0,MLB,
+Pre-Training Camp,2021,8834,changed primary position,28,OLB,0,WLB,28,OLB,0,WLB,
+Pre-Training Camp,2021,3967,changed primary position,28,S,0,FS,28,S,0,FS,
+Pre-Training Camp,2021,4582,changed primary position,29,DT,0,RDT,29,DT,0,RDT,
+Pre-Training Camp,2021,8799,changed primary position,29,ILB,0,MLB,29,ILB,0,MLB,
+Pre-Training Camp,2021,957,changed primary position,29,DE,0,LDE,29,DE,0,LDE,
+Pre-Training Camp,2021,8897,changed primary position,29,CB,0,LCB,29,CB,0,LCB,
+Pre-Training Camp,2021,5407,changed primary position,30,DT,0,RDT,30,DT,0,RDT,
+Pre-Training Camp,2021,8812,changed primary position,30,ILB,0,MLB,30,ILB,0,MLB,
+Pre-Training Camp,2021,8750,changed primary position,31,DT,0,RDT,31,DT,0,RDT,
+Pre-Training Camp,2021,8798,changed primary position,31,ILB,0,MLB,31,ILB,0,MLB,
+Pre-Training Camp,2021,3447,changed primary position,31,WR,0,FL,31,WR,0,FL,
+Pre-Training Camp,2021,637,changed primary position,31,S,0,SS,31,S,0,SS,
+Ex. Season Week 1,2021,1221,signed a renegotiated contract,14,QB,9206,5,0
+Ex. Season Week 1,2021,1221,has ended his contract holdout,14,QB,0,0,0
+Ex. Season Week 1,2021,1593,signed a renegotiated contract,22,WR,1947,4,0
+Ex. Season Week 1,2021,1593,has ended his contract holdout,22,WR,0,0,0
+Ex. Season Week 1,2021,6304,has ended his contract holdout,25,ILB,0,0,0
+Ex. Season Week 1,2021,3,lost draft pick for cap violation,19,2022,0,0,0
+Ex. Season Week 2,2021,5481,released,25,OLB,0,0,0
+Ex. Season Week 2,2021,6925,released,14,T,0,0,0
+Ex. Season Week 2,2021,5645,released,19,QB,0,0,0
+Ex. Season Week 2,2021,8204,signed as a free agent,19,QB,52,1,0
+Ex. Season Week 2,2021,1091,released,22,ILB,0,0,0
+Ex. Season Week 3,2021,988,signed a renegotiated contract,1,S,1673,3,0
+Ex. Season Week 3,2021,988,has ended his contract holdout,1,S,0,0,0
+Ex. Season Week 3,2021,4623,has ended his contract holdout,3,ILB,0,0,0
+Ex. Season Week 3,2021,1063,released,3,OLB,0,0,0
+Ex. Season Week 3,2021,8941,released,1,CB,0,0,0
+Ex. Season Week 3,2021,7552,signed as a free agent,23,TE,62,1,0
+Ex. Season Week 3,2021,8516,released,23,G,0,0,0
+Ex. Season Week 3,2021,7535,signed as a free agent,8,TE,62,1,0
+Ex. Season Week 3,2021,8802,released,8,ILB,0,0,0
+Ex. Season Week 3,2021,2347,released,19,C,0,0,0
+Ex. Season Week 3,2021,8500,signed as a free agent,19,C,52,1,0
+Ex. Season Week 3,2021,8611,signed as a free agent,19,T,52,1,0
+Ex. Season Week 3,2021,7560,signed as a free agent,14,TE,62,1,0
+Ex. Season Week 3,2021,3544,released,14,G,0,0,0
+Ex. Season Week 4,2021,4156,signed as a free agent,6,TE,90,1,0
+Ex. Season Week 4,2021,1506,released,6,DT,0,0,0
+Ex. Season Week 4,2021,2627,released,19,WR,0,0,0
+Ex. Season Week 4,2021,8422,signed as a free agent,19,WR,52,1,0
+Ex. Season Week 5,2021,4217,signed a renegotiated contract,7,WR,2014,3,0
+Ex. Season Week 5,2021,4217,has ended his contract holdout,7,WR,0,0,0
+Ex. Season Week 5,2021,6204,has ended his contract holdout,5,DE,0,0,0
+Ex. Season Week 5,2021,8370,signed as a free agent,1,TE,52,1,0
+Ex. Season Week 5,2021,7148,released,1,ILB,0,0,0
+Ex. Season Week 5,2021,1552,released,5,DE,0,0,0
+Ex. Season Week 5,2021,614,released,7,WR,0,0,0
+Reg. Season Week 1,2021,8066,released,24,OLB,0,0,0
+Reg. Season Week 1,2021,7493,released,24,FB,0,0,0
+Reg. Season Week 1,2021,7675,released,24,C,0,0,0
+Reg. Season Week 1,2021,3762,released,24,DT,0,0,0
+Reg. Season Week 1,2021,8083,released,24,CB,0,0,0
+Reg. Season Week 1,2021,1531,released,24,DE,0,0,0
+Reg. Season Week 1,2021,3787,released,24,ILB,0,0,0
+Reg. Season Week 1,2021,5828,signed as a free agent,0,TE,80,1,0
+Reg. Season Week 1,2021,5457,released,0,OLB,0,0,0
+Reg. Season Week 1,2021,4069,released,0,RB,0,0,0
+Reg. Season Week 1,2021,6908,released,0,T,0,0,0
+Reg. Season Week 1,2021,7939,released,0,DT,0,0,0
+Reg. Season Week 1,2021,8114,released,0,CB,0,0,0
+Reg. Season Week 1,2021,1771,released,0,WR,0,0,0
+Reg. Season Week 1,2021,1495,released,0,ILB,0,0,0
+Reg. Season Week 1,2021,1761,released,0,ILB,0,0,0
+Reg. Season Week 1,2021,4366,placed on injured reserve,4,G,0,0,0
+Reg. Season Week 1,2021,4300,released,4,C,0,0,0
+Reg. Season Week 1,2021,835,released,4,DE,0,0,0
+Reg. Season Week 1,2021,6234,released,4,DT,0,0,0
+Reg. Season Week 1,2021,8041,released,4,OLB,0,0,0
+Reg. Season Week 1,2021,1555,released,4,RB,0,0,0
+Reg. Season Week 1,2021,6539,released,4,QB,0,0,0
+Reg. Season Week 1,2021,7287,released,1,CB,0,0,0
+Reg. Season Week 1,2021,8478,released,1,C,0,0,0
+Reg. Season Week 1,2021,8249,released,1,QB,0,0,0
+Reg. Season Week 1,2021,607,released,1,OLB,0,0,0
+Reg. Season Week 1,2021,1135,released,1,WR,0,0,0
+Reg. Season Week 1,2021,601,released,1,DT,0,0,0
+Reg. Season Week 1,2021,7133,released,1,ILB,0,0,0
+Reg. Season Week 1,2021,1046,released,6,C,0,0,0
+Reg. Season Week 1,2021,3847,released,6,OLB,0,0,0
+Reg. Season Week 1,2021,5741,released,6,RB,0,0,0
+Reg. Season Week 1,2021,5669,released,6,QB,0,0,0
+Reg. Season Week 1,2021,8131,released,6,CB,0,0,0
+Reg. Season Week 1,2021,2949,released,6,DT,0,0,0
+Reg. Season Week 1,2021,1757,released,6,WR,0,0,0
+Reg. Season Week 1,2021,7989,released,2,ILB,0,0,0
+Reg. Season Week 1,2021,1361,released,2,DE,0,0,0
+Reg. Season Week 1,2021,8686,released,2,DE,0,0,0
+Reg. Season Week 1,2021,7796,released,2,T,0,0,0
+Reg. Season Week 1,2021,6518,released,2,QB,0,0,0
+Reg. Season Week 1,2021,503,released,2,C,0,0,0
+Reg. Season Week 1,2021,8447,released,2,WR,0,0,0
+Reg. Season Week 1,2021,7688,released,14,C,0,0,0
+Reg. Season Week 1,2021,2161,released,14,DT,0,0,0
+Reg. Season Week 1,2021,3252,released,14,QB,0,0,0
+Reg. Season Week 1,2021,6557,released,14,QB,0,0,0
+Reg. Season Week 1,2021,2984,released,14,ILB,0,0,0
+Reg. Season Week 1,2021,754,released,14,RB,0,0,0
+Reg. Season Week 1,2021,7637,released,14,WR,0,0,0
+Reg. Season Week 1,2021,584,released,3,DT,0,0,0
+Reg. Season Week 1,2021,8561,released,3,G,0,0,0
+Reg. Season Week 1,2021,7792,released,3,T,0,0,0
+Reg. Season Week 1,2021,5437,released,3,ILB,0,0,0
+Reg. Season Week 1,2021,2368,released,3,QB,0,0,0
+Reg. Season Week 1,2021,8485,released,3,C,0,0,0
+Reg. Season Week 1,2021,4623,released,3,ILB,0,0,0
+Reg. Season Week 1,2021,8376,signed as a free agent,5,TE,52,1,0
+Reg. Season Week 1,2021,4291,released,5,C,0,0,0
+Reg. Season Week 1,2021,803,released,5,DT,0,0,0
+Reg. Season Week 1,2021,2989,released,5,ILB,0,0,0
+Reg. Season Week 1,2021,1535,released,5,CB,0,0,0
+Reg. Season Week 1,2021,1856,released,5,QB,0,0,0
+Reg. Season Week 1,2021,931,released,5,WR,0,0,0
+Reg. Season Week 1,2021,866,released,5,DE,0,0,0
+Reg. Season Week 1,2021,2154,released,5,DT,0,0,0
+Reg. Season Week 1,2021,7672,released,9,C,0,0,0
+Reg. Season Week 1,2021,7456,released,9,RB,0,0,0
+Reg. Season Week 1,2021,7165,released,9,ILB,0,0,0
+Reg. Season Week 1,2021,8691,released,9,DE,0,0,0
+Reg. Season Week 1,2021,4290,released,22,C,0,0,0
+Reg. Season Week 1,2021,1343,released,22,CB,0,0,0
+Reg. Season Week 1,2021,7902,released,22,DE,0,0,0
+Reg. Season Week 1,2021,6570,released,22,RB,0,0,0
+Reg. Season Week 1,2021,871,released,22,OLB,0,0,0
+Reg. Season Week 1,2021,1005,released,22,ILB,0,0,0
+Reg. Season Week 1,2021,8207,released,22,QB,0,0,0
+Reg. Season Week 1,2021,1125,released,30,C,0,0,0
+Reg. Season Week 1,2021,6604,released,30,RB,0,0,0
+Reg. Season Week 1,2021,836,released,30,DE,0,0,0
+Reg. Season Week 1,2021,4927,released,30,RB,0,0,0
+Reg. Season Week 1,2021,2234,released,30,OLB,0,0,0
+Reg. Season Week 1,2021,3236,released,30,QB,0,0,0
+Reg. Season Week 1,2021,3899,released,30,CB,0,0,0
+Reg. Season Week 1,2021,7658,released,18,C,0,0,0
+Reg. Season Week 1,2021,7455,released,18,RB,0,0,0
+Reg. Season Week 1,2021,1847,released,18,DE,0,0,0
+Reg. Season Week 1,2021,1619,released,18,ILB,0,0,0
+Reg. Season Week 1,2021,3929,released,18,CB,0,0,0
+Reg. Season Week 1,2021,4691,released,18,OLB,0,0,0
+Reg. Season Week 1,2021,7973,released,18,ILB,0,0,0
+Reg. Season Week 1,2021,466,released,7,DE,0,0,0
+Reg. Season Week 1,2021,7678,released,7,C,0,0,0
+Reg. Season Week 1,2021,3819,released,7,OLB,0,0,0
+Reg. Season Week 1,2021,8448,released,7,WR,0,0,0
+Reg. Season Week 1,2021,1458,released,7,QB,0,0,0
+Reg. Season Week 1,2021,1149,released,7,DE,0,0,0
+Reg. Season Week 1,2021,1706,released,7,T,0,0,0
+Reg. Season Week 1,2021,6832,released,13,C,0,0,0
+Reg. Season Week 1,2021,7452,released,13,RB,0,0,0
+Reg. Season Week 1,2021,2981,released,13,ILB,0,0,0
+Reg. Season Week 1,2021,8711,released,13,DE,0,0,0
+Reg. Season Week 1,2021,6510,released,13,QB,0,0,0
+Reg. Season Week 1,2021,3798,released,13,ILB,0,0,0
+Reg. Season Week 1,2021,3824,released,13,OLB,0,0,0
+Reg. Season Week 1,2021,6199,released,8,DE,0,0,0
+Reg. Season Week 1,2021,3296,released,8,RB,0,0,0
+Reg. Season Week 1,2021,7751,released,8,T,0,0,0
+Reg. Season Week 1,2021,2991,released,8,ILB,0,0,0
+Reg. Season Week 1,2021,7535,released,8,TE,0,0,0
+Reg. Season Week 1,2021,6541,released,8,QB,0,0,0
+Reg. Season Week 1,2021,7313,released,8,CB,0,0,0
+Reg. Season Week 1,2021,8069,released,15,OLB,0,0,0
+Reg. Season Week 1,2021,2198,released,15,DT,0,0,0
+Reg. Season Week 1,2021,7687,released,15,C,0,0,0
+Reg. Season Week 1,2021,7446,released,15,RB,0,0,0
+Reg. Season Week 1,2021,611,released,15,WR,0,0,0
+Reg. Season Week 1,2021,6158,released,15,DE,0,0,0
+Reg. Season Week 1,2021,6512,released,15,QB,0,0,0
+Reg. Season Week 1,2021,6826,released,10,C,0,0,0
+Reg. Season Week 1,2021,6274,released,10,ILB,0,0,0
+Reg. Season Week 1,2021,4287,released,12,C,0,0,0
+Reg. Season Week 1,2021,8590,released,12,T,0,0,0
+Reg. Season Week 1,2021,6354,released,12,OLB,0,0,0
+Reg. Season Week 1,2021,1526,released,11,OLB,0,0,0
+Reg. Season Week 1,2021,3049,released,11,OLB,0,0,0
+Reg. Season Week 1,2021,8479,released,11,C,0,0,0
+Reg. Season Week 1,2021,8869,released,11,OLB,0,0,0
+Reg. Season Week 1,2021,1386,released,11,S,0,0,0
+Reg. Season Week 1,2021,8212,released,11,QB,0,0,0
+Reg. Season Week 1,2021,7997,released,11,ILB,0,0,0
+Reg. Season Week 1,2021,1220,released,27,RB,0,0,0
+Reg. Season Week 1,2021,7071,released,27,DE,0,0,0
+Reg. Season Week 1,2021,475,released,27,C,0,0,0
+Reg. Season Week 1,2021,1090,released,27,T,0,0,0
+Reg. Season Week 1,2021,4934,released,27,RB,0,0,0
+Reg. Season Week 1,2021,3004,released,27,ILB,0,0,0
+Reg. Season Week 1,2021,8144,released,27,S,0,0,0
+Reg. Season Week 1,2021,8734,released,17,DT,0,0,0
+Reg. Season Week 1,2021,4367,released,17,G,0,0,0
+Reg. Season Week 1,2021,3207,released,17,QB,0,0,0
+Reg. Season Week 1,2021,8195,released,17,S,0,0,0
+Reg. Season Week 1,2021,8039,released,17,OLB,0,0,0
+Reg. Season Week 1,2021,8886,released,17,CB,0,0,0
+Reg. Season Week 1,2021,4947,released,17,FB,0,0,0
+Reg. Season Week 1,2021,3267,released,23,RB,0,0,0
+Reg. Season Week 1,2021,6830,released,23,C,0,0,0
+Reg. Season Week 1,2021,154,released,23,QB,0,0,0
+Reg. Season Week 1,2021,7552,released,23,TE,0,0,0
+Reg. Season Week 1,2021,1219,released,23,CB,0,0,0
+Reg. Season Week 1,2021,8873,released,23,OLB,0,0,0
+Reg. Season Week 1,2021,6566,released,23,QB,0,0,0
+Reg. Season Week 1,2021,1601,released,20,RB,0,0,0
+Reg. Season Week 1,2021,2846,released,20,DE,0,0,0
+Reg. Season Week 1,2021,2241,released,20,OLB,0,0,0
+Reg. Season Week 1,2021,6807,released,20,C,0,0,0
+Reg. Season Week 1,2021,704,released,20,DE,0,0,0
+Reg. Season Week 1,2021,8904,released,20,CB,0,0,0
+Reg. Season Week 1,2021,2683,released,20,G,0,0,0
+Reg. Season Week 1,2021,1069,released,29,RB,0,0,0
+Reg. Season Week 1,2021,618,released,29,C,0,0,0
+Reg. Season Week 1,2021,7895,released,29,DE,0,0,0
+Reg. Season Week 1,2021,7092,released,29,DT,0,0,0
+Reg. Season Week 1,2021,1925,released,29,QB,0,0,0
+Reg. Season Week 1,2021,7510,released,29,FB,0,0,0
+Reg. Season Week 1,2021,603,released,29,ILB,0,0,0
+Reg. Season Week 1,2021,1040,released,21,ILB,0,0,0
+Reg. Season Week 1,2021,2720,released,21,G,0,0,0
+Reg. Season Week 1,2021,6292,released,21,ILB,0,0,0
+Reg. Season Week 1,2021,8320,released,21,FB,0,0,0
+Reg. Season Week 1,2021,3152,released,21,S,0,0,0
+Reg. Season Week 1,2021,2204,released,21,DT,0,0,0
+Reg. Season Week 1,2021,8494,released,21,C,0,0,0
+Reg. Season Week 1,2021,2072,released,26,C,0,0,0
+Reg. Season Week 1,2021,7958,released,26,DT,0,0,0
+Reg. Season Week 1,2021,7726,released,26,G,0,0,0
+Reg. Season Week 1,2021,2059,released,26,T,0,0,0
+Reg. Season Week 1,2021,782,released,26,WR,0,0,0
+Reg. Season Week 1,2021,648,released,26,QB,0,0,0
+Reg. Season Week 1,2021,5254,released,26,T,0,0,0
+Reg. Season Week 1,2021,5960,released,25,C,0,0,0
+Reg. Season Week 1,2021,1449,released,25,RB,0,0,0
+Reg. Season Week 1,2021,2276,released,25,ILB,0,0,0
+Reg. Season Week 1,2021,763,released,25,G,0,0,0
+Reg. Season Week 1,2021,566,released,25,WR,0,0,0
+Reg. Season Week 1,2021,8198,released,25,QB,0,0,0
+Reg. Season Week 1,2021,7261,released,25,CB,0,0,0
+Reg. Season Week 1,2021,2773,released,31,T,0,0,0
+Reg. Season Week 1,2021,8282,released,31,RB,0,0,0
+Reg. Season Week 1,2021,8685,released,31,DE,0,0,0
+Reg. Season Week 1,2021,8079,released,31,CB,0,0,0
+Reg. Season Week 1,2021,462,released,31,C,0,0,0
+Reg. Season Week 1,2021,8973,released,31,S,0,0,0
+Reg. Season Week 1,2021,3782,released,31,ILB,0,0,0
+Reg. Season Week 1,2021,1854,released,28,RB,0,0,0
+Reg. Season Week 1,2021,8743,released,28,DT,0,0,0
+Reg. Season Week 1,2021,1841,released,28,T,0,0,0
+Reg. Season Week 1,2021,8867,released,28,OLB,0,0,0
+Reg. Season Week 1,2021,3211,released,28,QB,0,0,0
+Reg. Season Week 1,2021,8901,released,28,CB,0,0,0
+Reg. Season Week 1,2021,915,released,28,WR,0,0,0
+Reg. Season Week 2,2021,1430,signed a renegotiated contract,18,CB,787,3,0
+Reg. Season Week 2,2021,1430,has ended his contract holdout,18,CB,0,0,0
+Reg. Season Week 2,2021,4481,signed a renegotiated contract,1,DE,1154,4,0
+Reg. Season Week 2,2021,4481,has ended his contract holdout,1,DE,0,0,0
+Reg. Season Week 2,2021,3824,signed as a free agent,1,OLB,90,1,0
+Reg. Season Week 2,2021,8579,released,1,T,0,0,0
+Reg. Season Week 2,2021,2239,released,1,OLB,0,0,0
+Reg. Season Week 2,2021,1535,signed as a free agent,7,CB,107,1,0
+Reg. Season Week 2,2021,1195,released,7,CB,0,0,0
+Reg. Season Week 2,2021,4927,signed as a free agent,18,RB,90,1,0
+Reg. Season Week 2,2021,1481,released,18,WR,0,0,0
+Reg. Season Week 2,2021,2256,released,18,ILB,0,0,0
+Reg. Season Week 2,2021,4623,signed as a free agent,30,ILB,90,1,0
+Reg. Season Week 2,2021,557,released,30,WR,0,0,0
+Reg. Season Week 2,2021,1343,signed as a free agent,17,CB,107,1,0
+Reg. Season Week 2,2021,5942,released,17,C,0,0,0
+Reg. Season Week 2,2021,8412,signed as a free agent,9,WR,52,1,0
+Reg. Season Week 2,2021,3521,released,9,G,0,0,0
+Reg. Season Week 2,2021,2981,signed as a free agent,22,ILB,107,1,0
+Reg. Season Week 2,2021,4429,released,22,T,0,0,0
+Reg. Season Week 2,2021,6830,signed as a free agent,31,C,70,1,0
+Reg. Season Week 2,2021,1386,signed as a free agent,31,S,107,1,0
+Reg. Season Week 2,2021,1627,released,31,S,0,0,0
+Reg. Season Week 2,2021,5927,released,31,WR,0,0,0
+Reg. Season Week 3,2021,1627,signed as a free agent,31,S,107,1,0
+Reg. Season Week 3,2021,6830,released,31,C,0,0,0
+Reg. Season Week 3,2021,5645,signed as a free agent,6,QB,80,1,0
+Reg. Season Week 3,2021,6456,signed as a free agent,6,S,80,1,0
+Reg. Season Week 3,2021,4156,released,6,TE,0,0,0
+Reg. Season Week 3,2021,5194,released,6,G,0,0,0
+Reg. Season Week 3,2021,915,signed as a free agent,5,WR,119,1,0
+Reg. Season Week 3,2021,3779,released,5,ILB,0,0,0
+Reg. Season Week 3,2021,5927,signed as a free agent,7,WR,80,1,0
+Reg. Season Week 3,2021,3289,released,7,RB,0,0,0
+Reg. Season Week 3,2021,5437,signed as a free agent,1,ILB,90,1,0
+Reg. Season Week 3,2021,3332,released,1,FB,0,0,0
+Reg. Season Week 3,2021,8790,signed as a free agent,19,ILB,52,1,0
+Reg. Season Week 3,2021,8819,placed on injured reserve,19,ILB,0,0,0
+Reg. Season Week 3,2021,6830,signed as a free agent,17,C,70,1,0
+Reg. Season Week 3,2021,839,released,17,T,0,0,0
+Reg. Season Week 3,2021,1091,signed as a free agent,18,ILB,107,1,0
+Reg. Season Week 3,2021,3282,released,18,RB,0,0,0
+Reg. Season Week 3,2021,1757,signed as a free agent,29,WR,107,1,0
+Reg. Season Week 3,2021,5201,released,29,T,0,0,0
+Reg. Season Week 4,2021,7261,signed as a free agent,0,CB,70,1,0
+Reg. Season Week 4,2021,8045,released,0,OLB,0,0,0
+Reg. Season Week 4,2021,7552,signed as a free agent,28,TE,62,1,0
+Reg. Season Week 4,2021,5119,released,28,C,0,0,0
+Reg. Season Week 4,2021,1823,placed on injured reserve,4,C,0,0,0
+Reg. Season Week 4,2021,5119,signed as a free agent,4,C,90,1,0
+Reg. Season Week 4,2021,1193,signed as a free agent,31,S,107,1,0
+Reg. Season Week 4,2021,1627,released,31,S,0,0,0
+Reg. Season Week 4,2021,3798,signed as a free agent,13,ILB,90,1,0
+Reg. Season Week 4,2021,8779,released,13,ILB,0,0,0
+Reg. Season Week 4,2021,1627,signed as a free agent,20,S,107,1,0
+Reg. Season Week 4,2021,3666,released,20,DE,0,0,0
+Reg. Season Week 4,2021,3084,signed as a free agent,22,CB,107,1,0
+Reg. Season Week 4,2021,5878,released,22,WR,0,0,0
+Reg. Season Week 4,2021,6566,signed as a free agent,23,QB,70,1,0
+Reg. Season Week 4,2021,6762,released,23,WR,0,0,0
+Reg. Season Week 4,2021,8779,signed as a free agent,5,ILB,52,1,0
+Reg. Season Week 4,2021,8376,released,5,TE,0,0,0
+Reg. Season Week 4,2021,4705,signed as a free agent,27,CB,90,1,0
+Reg. Season Week 4,2021,4880,released,27,QB,0,0,0
+Reg. Season Week 5,2021,2239,signed as a free agent,0,OLB,107,1,0
+Reg. Season Week 5,2021,6825,released,0,C,0,0,0
+Reg. Season Week 5,2021,5878,signed as a free agent,12,WR,80,1,0
+Reg. Season Week 5,2021,4850,released,12,QB,0,0,0
+Reg. Season Week 5,2021,3163,signed as a free agent,31,S,107,1,0
+Reg. Season Week 5,2021,1193,released,31,S,0,0,0
+Reg. Season Week 5,2021,6453,signed as a free agent,21,S,80,1,0
+Reg. Season Week 5,2021,6341,released,21,OLB,0,0,0
+Reg. Season Week 5,2021,6825,signed as a free agent,7,C,70,1,0
+Reg. Season Week 5,2021,1412,released,7,ILB,0,0,0
+Reg. Season Week 5,2021,4880,signed as a free agent,27,QB,90,1,0
+Reg. Season Week 5,2021,7877,released,27,DE,0,0,0
+Reg. Season Week 5,2021,1193,signed as a free agent,28,S,107,1,0
+Reg. Season Week 5,2021,3361,released,28,TE,0,0,0
+Reg. Season Week 5,2021,1440,signed as a free agent,29,S,107,1,0
+Reg. Season Week 5,2021,6345,released,29,OLB,0,0,0
+Reg. Season Week 6,2021,1803,placed on injured reserve,29,OLB,0,0,0
+Reg. Season Week 6,2021,8867,signed as a free agent,29,OLB,52,1,0
+Reg. Season Week 6,2021,5481,signed as a free agent,29,OLB,90,1,0
+Reg. Season Week 6,2021,5544,released,29,CB,0,0,0
+Reg. Season Week 6,2021,7092,signed as a free agent,31,DT,70,1,0
+Reg. Season Week 6,2021,5647,released,31,QB,0,0,0
+Reg. Season Week 6,2021,8686,signed as a free agent,12,DE,52,1,0
+Reg. Season Week 6,2021,6961,released,12,T,0,0,0
+Reg. Season Week 6,2021,836,signed as a free agent,20,DE,107,1,0
+Reg. Season Week 6,2021,7878,placed on injured reserve,20,DE,0,0,0
+Reg. Season Week 6,2021,5647,signed as a free agent,28,QB,80,1,0
+Reg. Season Week 6,2021,1193,released,28,S,0,0,0
+Reg. Season Week 7,2021,7287,signed as a free agent,8,CB,70,1,0
+Reg. Season Week 7,2021,8498,released,8,C,0,0,0
+Reg. Season Week 7,2021,3544,signed as a free agent,1,G,90,1,0
+Reg. Season Week 7,2021,3362,released,1,TE,0,0,0
+Reg. Season Week 7,2021,6570,signed as a free agent,4,RB,70,1,0
+Reg. Season Week 7,2021,7801,released,4,T,0,0,0
+Reg. Season Week 7,2021,1193,signed as a free agent,28,S,107,1,0
+Reg. Season Week 7,2021,3967,released,28,S,0,0,0
+Reg. Season Week 7,2021,7133,signed as a free agent,12,ILB,70,1,0
+Reg. Season Week 7,2021,4621,placed on injured reserve,12,ILB,0,0,0
+Reg. Season Week 7,2021,3967,signed as a free agent,31,S,90,1,0
+Reg. Season Week 7,2021,3163,released,31,S,0,0,0
+Reg. Season Week 7,2021,7535,signed as a free agent,29,TE,62,1,0
+Reg. Season Week 7,2021,6719,released,29,WR,0,0,0
+Reg. Season Week 7,2021,1361,signed as a free agent,20,DE,107,1,0
+Reg. Season Week 7,2021,542,released,20,S,0,0,0
+Reg. Season Week 7,2021,3282,signed as a free agent,27,RB,90,1,0
+Reg. Season Week 7,2021,4880,released,27,QB,0,0,0
+Reg. Season Week 8,2021,5330,signed a renegotiated contract,14,DE,2369,4,0
+Reg. Season Week 8,2021,5330,has ended his contract holdout,14,DE,0,0,0
+Reg. Season Week 8,2021,2307,signed as a free agent,29,CB,107,1,0
+Reg. Season Week 8,2021,6712,released,29,TE,0,0,0
+Reg. Season Week 8,2021,1090,signed as a free agent,2,T,107,1,0
+Reg. Season Week 8,2021,7445,released,2,RB,0,0,0
+Reg. Season Week 8,2021,5194,signed as a free agent,7,G,90,1,0
+Reg. Season Week 8,2021,5867,released,7,WR,0,0,0
+Reg. Season Week 8,2021,3163,signed as a free agent,28,S,107,1,0
+Reg. Season Week 8,2021,1193,released,28,S,0,0,0
+Reg. Season Week 8,2021,3423,placed on injured reserve,11,WR,0,0,0
+Reg. Season Week 8,2021,6234,signed as a free agent,11,DT,80,1,0
+Reg. Season Week 8,2021,4483,released,14,DE,0,0,0
+Reg. Season Week 8,2021,8198,signed as a free agent,19,QB,52,1,0
+Reg. Season Week 8,2021,1342,placed on injured reserve,21,DT,0,0,0
+Reg. Season Week 8,2021,584,signed as a free agent,21,DT,119,1,0
+Reg. Season Week 8,2021,2627,signed as a free agent,25,WR,107,1,0
+Reg. Season Week 8,2021,1193,signed as a free agent,25,S,107,1,0
+Reg. Season Week 8,2021,7907,released,25,DE,0,0,0
+Reg. Season Week 8,2021,8588,released,25,T,0,0,0
+Reg. Season Week 9,2021,4156,signed as a free agent,7,TE,90,1,0
+Reg. Season Week 9,2021,6825,released,7,C,0,0,0
+Reg. Season Week 9,2021,5254,signed as a free agent,2,T,90,1,0
+Reg. Season Week 9,2021,7216,released,2,OLB,0,0,0
+Reg. Season Week 9,2021,6825,signed as a free agent,8,C,70,1,0
+Reg. Season Week 9,2021,8836,released,8,OLB,0,0,0
+Reg. Season Week 9,2021,5790,signed as a free agent,11,FB,80,1,0
+Reg. Season Week 9,2021,7970,released,11,ILB,0,0,0
+Reg. Season Week 9,2021,7907,signed as a free agent,13,DE,62,1,0
+Reg. Season Week 9,2021,5078,released,13,WR,0,0,0
+Reg. Season Week 9,2021,6826,signed as a free agent,15,C,70,1,0
+Reg. Season Week 9,2021,5148,released,15,G,0,0,0
+Reg. Season Week 9,2021,8631,signed as a free agent,19,P,52,1,0
+Reg. Season Week 9,2021,7861,released,19,DE,0,0,0
+Reg. Season Week 9,2021,8376,signed as a free agent,4,TE,52,1,0
+Reg. Season Week 9,2021,8954,released,4,S,0,0,0
+Reg. Season Week 9,2021,7726,signed as a free agent,20,G,62,1,0
+Reg. Season Week 9,2021,8432,released,20,WR,0,0,0
+Reg. Season Week 9,2021,1437,placed on injured reserve,23,CB,0,0,0
+Reg. Season Week 9,2021,5538,signed as a free agent,23,CB,90,1,0
+Reg. Season Week 9,2021,5078,signed as a free agent,18,WR,90,1,0
+Reg. Season Week 9,2021,455,released,18,CB,0,0,0
+Reg. Season Week 10,2021,8901,signed as a free agent,19,CB,52,1,0
+Reg. Season Week 10,2021,1532,released,19,RB,0,0,0
+Reg. Season Week 10,2021,6434,placed on injured reserve,23,CB,0,0,0
+Reg. Season Week 10,2021,7298,signed as a free agent,23,CB,70,1,0
+Reg. Season Week 10,2021,7216,signed as a free agent,8,OLB,70,1,0
+Reg. Season Week 10,2021,2042,released,8,WR,0,0,0
+Reg. Season Week 10,2021,3992,signed as a free agent,25,S,90,1,0
+Reg. Season Week 10,2021,5051,released,25,WR,0,0,0
+Reg. Season Week 10,2021,2059,signed as a free agent,26,T,107,1,0
+Reg. Season Week 10,2021,7436,released,26,RB,0,0,0
+Reg. Season Week 10,2021,1841,signed as a free agent,17,T,107,1,0
+Reg. Season Week 10,2021,3462,released,17,WR,0,0,0
+Reg. Season Week 10,2021,1412,signed as a free agent,11,ILB,107,1,0
+Reg. Season Week 10,2021,2427,released,11,RB,0,0,0
+Reg. Season Week 11,2021,5600,signed as a free agent,30,S,90,1,0
+Reg. Season Week 11,2021,6981,released,30,P,0,0,0
+Reg. Season Week 11,2021,7568,signed as a free agent,15,TE,62,1,0
+Reg. Season Week 11,2021,7670,released,15,C,0,0,0
+Reg. Season Week 11,2021,8344,signed as a free agent,16,FB,52,1,0
+Reg. Season Week 11,2021,8836,signed as a free agent,16,OLB,52,1,0
+Reg. Season Week 11,2021,7939,signed as a free agent,1,DT,62,1,0
+Reg. Season Week 11,2021,2795,released,1,P,0,0,0
+Reg. Season Week 11,2021,3462,signed as a free agent,0,WR,90,1,0
+Reg. Season Week 11,2021,5828,released,0,TE,0,0,0
+Reg. Season Week 11,2021,5828,signed as a free agent,24,TE,80,1,0
+Reg. Season Week 11,2021,1784,released,24,DE,0,0,0
+Reg. Season Week 11,2021,6961,signed as a free agent,4,T,70,1,0
+Reg. Season Week 11,2021,6570,released,4,RB,0,0,0
+Reg. Season Week 12,2021,2799,released,16,P,0,0,0
+Reg. Season Week 12,2021,8628,signed as a free agent,16,P,52,1,0
+Reg. Season Week 12,2021,8691,signed as a free agent,16,DE,52,1,0
+Reg. Season Week 12,2021,6570,signed as a free agent,15,RB,70,1,0
+Reg. Season Week 12,2021,7161,released,15,ILB,0,0,0
+Reg. Season Week 12,2021,7446,signed as a free agent,7,RB,62,1,0
+Reg. Season Week 12,2021,4156,released,7,TE,0,0,0
+Reg. Season Week 12,2021,7161,signed as a free agent,9,ILB,70,1,0
+Reg. Season Week 12,2021,8412,released,9,WR,0,0,0
+Reg. Season Week 12,2021,3289,signed as a free agent,14,RB,90,1,0
+Reg. Season Week 12,2021,3026,released,14,OLB,0,0,0
+Reg. Season Week 12,2021,7675,signed as a free agent,27,C,62,1,0
+Reg. Season Week 12,2021,8485,signed as a free agent,27,C,52,1,0
+Reg. Season Week 12,2021,6611,released,27,RB,0,0,0
+Reg. Season Week 12,2021,3411,released,27,WR,0,0,0
+Reg. Season Week 12,2021,8684,signed as a free agent,19,DE,52,1,0
+Reg. Season Week 12,2021,8820,signed as a free agent,19,ILB,52,1,0
+Reg. Season Week 12,2021,8204,released,19,QB,0,0,0
+Reg. Season Week 12,2021,8829,released,19,OLB,0,0,0
+Reg. Season Week 12,2021,6003,placed on injured reserve,29,G,0,0,0
+Reg. Season Week 12,2021,6925,signed as a free agent,29,T,70,1,0
+Reg. Season Week 12,2021,8558,signed as a free agent,29,G,52,1,0
+Reg. Season Week 12,2021,4880,signed as a free agent,29,QB,90,1,0
+Reg. Season Week 12,2021,684,released,29,DE,0,0,0
+Reg. Season Week 12,2021,1835,released,29,S,0,0,0
+Reg. Season Week 12,2021,4483,signed as a free agent,24,DE,90,1,0
+Reg. Season Week 12,2021,5734,released,24,RB,0,0,0
+Reg. Season Week 13,2021,5597,signed as a free agent,29,S,90,1,0
+Reg. Season Week 13,2021,7724,released,29,G,0,0,0
+Reg. Season Week 13,2021,3782,signed as a free agent,8,ILB,90,1,0
+Reg. Season Week 13,2021,7334,released,8,S,0,0,0
+Reg. Season Week 13,2021,2276,signed as a free agent,14,ILB,107,1,0
+Reg. Season Week 13,2021,7560,released,14,TE,0,0,0
+Reg. Season Week 13,2021,8829,signed as a free agent,19,OLB,52,1,0
+Reg. Season Week 13,2021,8920,released,19,CB,0,0,0
+Reg. Season Week 13,2021,8432,signed as a free agent,23,WR,52,1,0
+Reg. Season Week 13,2021,6566,released,23,QB,0,0,0
+Reg. Season Week 13,2021,542,signed as a free agent,24,S,119,1,0
+Reg. Season Week 13,2021,5102,released,24,WR,0,0,0
+Reg. Season Week 14,2021,1812,signed as a free agent,0,T,107,1,0
+Reg. Season Week 14,2021,3026,signed as a free agent,0,OLB,107,1,0
+Reg. Season Week 14,2021,2239,released,0,OLB,0,0,0
+Reg. Season Week 14,2021,8441,released,0,WR,0,0,0
+Reg. Season Week 14,2021,1425,placed on injured reserve,2,DE,0,0,0
+Reg. Season Week 14,2021,7072,signed as a free agent,2,DE,70,1,0
+Reg. Season Week 14,2021,2256,signed as a free agent,2,ILB,107,1,0
+Reg. Season Week 14,2021,6439,released,2,CB,0,0,0
+Reg. Season Week 14,2021,8204,signed as a free agent,16,QB,52,1,0
+Reg. Season Week 14,2021,7982,released,16,ILB,0,0,0
+Reg. Season Week 14,2021,6439,signed as a free agent,6,CB,80,1,0
+Reg. Season Week 14,2021,8255,released,6,QB,0,0,0
+Reg. Season Week 14,2021,8873,signed as a free agent,9,OLB,52,1,0
+Reg. Season Week 14,2021,8906,released,9,CB,0,0,0
+Reg. Season Week 14,2021,2042,signed as a free agent,30,WR,107,1,0
+Reg. Season Week 14,2021,4278,placed on injured reserve,30,WR,0,0,0
+Reg. Season Week 14,2021,4429,signed as a free agent,7,T,90,1,0
+Reg. Season Week 14,2021,5735,released,7,RB,0,0,0
+Reg. Season Week 14,2021,3411,signed as a free agent,14,WR,90,1,0
+Reg. Season Week 14,2021,5343,released,14,DE,0,0,0
+Reg. Season Week 14,2021,6566,signed as a free agent,23,QB,70,1,0
+Reg. Season Week 14,2021,7560,signed as a free agent,23,TE,62,1,0
+Reg. Season Week 14,2021,1505,released,23,DE,0,0,0
+Reg. Season Week 14,2021,8432,released,23,WR,0,0,0
+Reg. Season Week 14,2021,1505,signed as a free agent,29,DE,107,1,0
+Reg. Season Week 14,2021,2239,signed as a free agent,29,OLB,107,1,0
+Reg. Season Week 14,2021,1757,released,29,WR,0,0,0
+Reg. Season Week 14,2021,1440,released,29,S,0,0,0
+Reg. Season Week 15,2021,7334,signed as a free agent,10,S,70,1,0
+Reg. Season Week 15,2021,6067,released,10,T,0,0,0
+Reg. Season Week 15,2021,1757,signed as a free agent,11,WR,107,1,0
+Reg. Season Week 15,2021,4247,placed on injured reserve,11,WR,0,0,0
+Reg. Season Week 15,2021,5734,signed as a free agent,18,RB,80,1,0
+Reg. Season Week 15,2021,7253,signed as a free agent,18,CB,70,1,0
+Reg. Season Week 15,2021,2722,released,18,G,0,0,0
+Reg. Season Week 15,2021,7396,released,18,QB,0,0,0
+Reg. Season Week 15,2021,7895,signed as a free agent,21,DE,62,1,0
+Reg. Season Week 15,2021,1168,released,21,WR,0,0,0
+Reg. Season Week 15,2021,3521,signed as a free agent,8,G,90,1,0
+Reg. Season Week 15,2021,6825,released,8,C,0,0,0
+Reg. Season Week 15,2021,4156,signed as a free agent,23,TE,90,1,0
+Reg. Season Week 15,2021,7692,released,23,G,0,0,0
+Reg. Season Week 15,2021,3004,signed as a free agent,0,ILB,107,1,0
+Reg. Season Week 15,2021,2249,released,0,ILB,0,0,0
+Reg. Season Week 15,2021,2249,signed as a free agent,27,ILB,107,1,0
+Reg. Season Week 15,2021,8485,released,27,C,0,0,0
+Reg. Season Week 16,2021,1440,signed as a free agent,31,S,107,1,0
+Reg. Season Week 16,2021,7092,released,31,DT,0,0,0
+Reg. Season Week 16,2021,3819,signed as a free agent,0,OLB,90,1,0
+Reg. Season Week 16,2021,8235,released,0,QB,0,0,0
+Reg. Season Week 16,2021,5051,signed as a free agent,7,WR,90,1,0
+Reg. Season Week 16,2021,5102,signed as a free agent,7,WR,90,1,0
+Reg. Season Week 16,2021,3506,released,7,G,0,0,0
+Reg. Season Week 16,2021,1279,released,7,ILB,0,0,0
+Reg. Season Week 16,2021,8828,signed as a free agent,10,OLB,52,1,0
+Reg. Season Week 16,2021,8992,released,10,S,0,0,0
+Reg. Season Week 16,2021,4698,placed on injured reserve,14,CB,0,0,0
+Reg. Season Week 16,2021,1835,signed as a free agent,14,S,107,1,0
+Reg. Season Week 16,2021,4248,placed on injured reserve,22,WR,0,0,0
+Reg. Season Week 16,2021,7692,signed as a free agent,22,G,62,1,0
+Reg. Season Week 16,2021,1458,signed as a free agent,22,QB,107,1,0
+Reg. Season Week 16,2021,3084,released,22,CB,0,0,0
+Reg. Season Week 16,2021,7973,signed as a free agent,12,ILB,62,1,0
+Reg. Season Week 16,2021,7133,released,12,ILB,0,0,0
+Reg. Season Week 16,2021,1671,signed as a free agent,26,K,107,1,0
+Reg. Season Week 16,2021,2059,released,26,T,0,0,0
+Reg. Season Week 16,2021,6825,signed as a free agent,13,C,70,1,0
+Reg. Season Week 16,2021,8729,released,13,DT,0,0,0
+Reg. Season Week 16,2021,7092,signed as a free agent,29,DT,70,1,0
+Reg. Season Week 16,2021,2239,released,29,OLB,0,0,0
+Reg. Season Week 17,2021,4151,signed as a free agent,2,TE,90,1,0
+Reg. Season Week 17,2021,7793,released,2,T,0,0,0
+Reg. Season Week 17,2021,8860,signed as a free agent,10,OLB,52,1,0
+Reg. Season Week 17,2021,8929,signed as a free agent,10,CB,52,1,0
+Reg. Season Week 17,2021,8828,released,10,OLB,0,0,0
+Reg. Season Week 17,2021,8105,released,10,CB,0,0,0
+Reg. Season Week 17,2021,7542,signed as a free agent,30,TE,62,1,0
+Reg. Season Week 17,2021,2261,released,30,ILB,0,0,0
+Reg. Season Week 17,2021,1279,signed as a free agent,7,ILB,107,1,0
+Reg. Season Week 17,2021,5051,released,7,WR,0,0,0
+Reg. Season Week 17,2021,7597,placed on injured reserve,15,WR,0,0,0
+Reg. Season Week 17,2021,8432,signed as a free agent,15,WR,52,1,0
+Reg. Season Week 17,2021,8828,signed as a free agent,12,OLB,52,1,0
+Reg. Season Week 17,2021,5878,released,12,WR,0,0,0
+Reg. Season Week 17,2021,5999,placed on injured reserve,28,G,0,0,0
+Reg. Season Week 17,2021,3084,signed as a free agent,28,CB,107,1,0
+Reg. Season Week 17,2021,2239,signed as a free agent,28,OLB,107,1,0
+Reg. Season Week 17,2021,3204,released,28,QB,0,0,0
+Reg. Season Week 17,2021,8711,signed as a free agent,19,DE,52,1,0
+Reg. Season Week 17,2021,8971,signed as a free agent,19,S,52,1,0
+Reg. Season Week 17,2021,8790,released,19,ILB,0,0,0
+Reg. Season Week 17,2021,8829,released,19,OLB,0,0,0
+Wild Card Round,2021,5830,signed as a free agent,30,TE,80,1,0
+Wild Card Round,2021,5600,released,30,S,0,0,0
+Wild Card Round,2021,7051,signed as a free agent,7,DE,70,1,0
+Wild Card Round,2021,5102,released,7,WR,0,0,0
+Wild Card Round,2021,3506,signed as a free agent,25,G,90,1,0
+Wild Card Round,2021,3540,placed on injured reserve,25,G,0,0,0
+Wild Card Round,2021,5878,signed as a free agent,25,WR,80,1,0
+Wild Card Round,2021,3992,released,25,S,0,0,0
+Divisional Round,2021,4303,placed on injured reserve,14,C,0,0,0
+Divisional Round,2021,4287,signed as a free agent,14,C,90,1,0
+Divisional Round,2021,5102,signed as a free agent,23,WR,90,1,0
+Divisional Round,2021,4156,released,23,TE,0,0,0
+Front Office Bowl,2021,1667,placed on injured reserve,10,OLB,0,0,0

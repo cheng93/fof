@@ -1,0 +1,301 @@
+Staff_ID,Last_Name,First_Name,Current_Team,Role,Primary_Group,Salary,Player_Development,Young_Player_Development,Motivation,Discipline,Play_Calling,Strength_Training,Conditioning,Intelligence,Scouting_Ability,Interviewing,Age,Retired,Years_on_Contract,Suitable_Head_Coach,Suitable_Offensive_Coordinator,Suitable_Defensive_Coordinator,Suitable_Assistant_Coach,Suitable_Strength_Coordinator
+0,Arians,Bruce,22,Offensive Coordinator,Quarterbacks,300,59,68,37,38,58,0,0,85,72,54,64,0,4,46,61,0,61,0
+1,Goodwin,Harold,0,Offensive Coordinator,Offensive Linemen,167,21,40,46,27,69,0,0,68,64,54,43,0,1,37,47,0,38,0
+2,Bowles,Todd,0,Defensive Coordinator,Secondary,236,81,70,33,38,61,0,0,28,20,47,53,0,4,45,0,54,56,0
+3,Jones,Amos,0,Assistant Coach,Linebackers,124,73,27,47,41,67,0,0,14,28,8,57,0,1,38,0,42,31,0
+4,Morris,Buddy,0,Strength Coordinator,Strength,96,0,0,0,0,0,75,61,71,0,0,59,0,3,0,0,0,0,66
+5,Smith,Mike,6,Assistant Coach,Defensive Linemen,291,59,49,45,48,41,0,0,83,82,90,57,0,3,54,0,58,57,0
+6,Koetter,Dirk,1,Offensive Coordinator,Quarterbacks,150,47,23,39,47,88,0,0,35,17,28,57,0,4,35,39,0,28,0
+7,Nolan,Mike,99,None,Secondary,0,62,37,78,86,31,0,0,52,27,35,57,0,0,61,0,36,42,0
+8,Armstrong,Keith,1,Assistant Coach,Secondary,117,55,89,42,41,18,0,0,17,44,26,53,0,2,44,0,47,61,0
+9,Neibel,A.J.,99,None,Strength,0,0,0,0,0,0,29,45,57,0,0,44,0,0,0,0,0,0,37
+10,Harbaugh,John,99,None,Secondary,0,68,41,77,43,18,0,0,56,64,31,54,0,0,56,0,44,47,0
+11,Kubiak,Gary,2,Offensive Coordinator,Quarterbacks,204,58,73,31,38,16,0,0,81,25,77,55,0,2,47,44,0,60,0
+12,Pees,Dean,2,Head Coach,Linebackers,620,88,68,80,78,81,0,0,52,69,33,67,0,3,69,0,71,64,0
+13,Rosburg,Jerry,2,Assistant Coach,Linebackers,117,63,43,41,66,45,0,0,43,43,33,61,0,4,43,0,44,42,0
+14,Rogucki,Bob,2,Strength Coordinator,Strength,125,0,0,0,0,0,55,54,90,0,0,63,0,2,0,0,0,0,56
+15,Marrone,Doug,99,None,Offensive Linemen,0,38,8,20,14,25,0,0,36,59,63,52,0,0,25,31,0,25,0
+16,Hackett,Nathaniel,3,Offensive Coordinator,Tight Ends,154,20,53,45,29,56,0,0,39,12,27,37,0,2,32,33,0,34,0
+17,Schwartz,Jim,3,Defensive Coordinator,Linebackers,223,53,55,59,52,37,0,0,58,58,69,50,0,4,55,0,49,53,0
+18,Crossman,Danny,3,Assistant Coach,Secondary,115,32,46,53,65,75,0,0,60,41,54,49,0,2,47,0,46,42,0
+19,Ciano,Eric,99,None,Strength,0,0,0,0,0,0,35,28,47,0,0,40,0,0,0,0,0,0,31
+20,Rivera,Ron,99,None,Linebackers,0,31,48,40,20,64,0,0,70,44,81,54,0,0,39,0,48,45,0
+21,Shula,Mike,99,None,Quarterbacks,0,29,27,58,28,52,0,0,29,66,46,51,0,0,38,39,0,30,0
+22,McDermott,Sean,4,Defensive Coordinator,Secondary,211,57,72,71,40,32,0,0,12,38,51,42,0,1,55,0,48,55,0
+23,Rodgers,Richard,4,Assistant Coach,Secondary,157,81,26,62,43,16,0,0,89,27,59,54,0,2,56,0,36,44,0
+24,Kenn,Joe,99,None,Strength,0,0,0,0,0,0,55,21,70,0,0,50,0,0,0,0,0,0,38
+25,Trestman,Marc,99,None,Quarterbacks,0,21,60,44,87,10,0,0,34,84,63,60,0,0,48,43,0,50,0
+26,Kromer,Aaron,5,Offensive Coordinator,Offensive Linemen,315,41,59,56,15,58,0,0,11,46,61,49,0,2,43,48,0,46,0
+27,Tucker,Mel,9,Head Coach,Secondary,350,82,74,53,58,61,0,0,41,76,74,44,0,4,62,0,69,69,0
+28,DeCamillis,Joe,5,Assistant Coach,Wide Receivers,235,54,62,44,86,38,0,0,71,61,71,51,0,2,54,53,0,59,0
+29,Clark,Mike,5,Strength Coordinator,Strength,162,0,0,0,0,0,80,36,81,0,0,62,0,4,0,0,0,0,57
+30,Lewis,Marvin,6,Head Coach,Linebackers,417,34,34,81,63,96,0,0,60,13,33,58,0,2,50,0,40,31,0
+31,Jackson,Hue,6,Offensive Coordinator,Running Backs,183,27,34,25,58,28,0,0,51,72,67,51,0,2,36,39,0,38,0
+32,Alexander,Paul,28,Offensive Coordinator,Offensive Linemen,369,71,61,32,42,90,0,0,75,85,27,56,0,4,45,71,0,57,0
+33,Guenther,Paul,6,Defensive Coordinator,Linebackers,152,65,59,58,4,59,0,0,19,44,66,45,0,4,46,0,52,52,0
+34,Morton,Chip,99,None,Strength,0,0,0,0,0,0,53,17,13,0,0,54,0,0,0,0,0,0,31
+35,Garrett,Jason,4,Offensive Coordinator,Quarterbacks,188,73,74,17,66,49,0,0,63,62,70,50,0,4,48,61,0,66,0
+36,Callahan,Bill,7,Offensive Coordinator,Offensive Linemen,415,43,33,51,59,68,0,0,59,29,80,60,0,1,48,42,0,39,0
+37,Kiffin,Monte,3,Head Coach,Linebackers,1004,85,85,87,67,72,0,0,94,41,62,76,0,3,76,0,69,75,0
+38,Bisaccia,Rich,15,Offensive Coordinator,Running Backs,330,38,75,61,68,82,0,0,76,40,80,56,0,3,58,58,0,61,0
+39,Woicik,Mike,17,Strength Coordinator,Strength,131,0,0,0,0,0,66,73,75,0,0,60,0,4,0,0,0,0,69
+40,Fox,John,5,Defensive Coordinator,Secondary,261,12,81,72,42,64,0,0,56,96,41,61,0,3,49,0,60,56,0
+41,Gase,Adam,30,Head Coach,Wide Receivers,407,74,67,77,38,39,0,0,22,52,78,38,0,4,63,55,0,63,0
+42,Del Rio,Jack,8,Defensive Coordinator,Linebackers,248,44,40,60,40,33,0,0,34,29,49,53,0,2,45,0,36,37,0
+43,Rodgers,Jeff,8,Assistant Coach,Linebackers,121,17,31,69,63,24,0,0,61,42,78,38,0,4,50,0,28,35,0
+44,Richesson,Luke,6,Strength Coordinator,Strength,179,0,0,0,0,0,79,76,44,0,0,40,0,3,0,0,0,0,74
+45,Caldwell,Jim,30,Offensive Coordinator,Wide Receivers,179,65,51,33,16,80,0,0,84,30,87,61,0,4,45,55,0,54,0
+46,Lombardi,Joe,99,None,Quarterbacks,0,71,58,14,42,38,0,0,7,32,21,45,0,0,33,46,0,46,0
+47,Austin,Teryl,99,None,Secondary,0,73,35,37,23,15,0,0,5,5,69,51,0,0,40,0,31,40,0
+48,Bonamego,John,9,Offensive Coordinator,Quarterbacks,154,61,74,14,55,57,0,0,13,66,33,53,0,4,37,59,0,55,0
+49,Arapoff,Jason,99,None,Strength,0,0,0,0,0,0,37,19,58,0,0,51,0,0,0,0,0,0,29
+50,McCarthy,Mike,10,Head Coach,Quarterbacks,649,62,95,58,33,48,0,0,42,46,39,53,0,4,51,59,0,65,0
+51,Clements,Tom,10,Offensive Coordinator,Quarterbacks,286,57,68,40,42,39,0,0,49,66,49,63,0,2,45,55,0,56,0
+52,Capers,Dom,10,Defensive Coordinator,Secondary,286,83,19,45,45,31,0,0,37,85,24,66,0,2,45,0,49,40,0
+53,Moss,Winston,26,Defensive Coordinator,Linebackers,183,26,88,61,65,74,0,0,70,71,14,51,0,4,48,0,60,57,0
+54,Lovat,Mark,10,Strength Coordinator,Strength,150,0,0,0,0,0,75,65,67,0,0,47,0,4,0,0,0,0,68
+55,Pagano,Chuck,99,None,Secondary,0,51,56,52,25,75,0,0,75,44,50,56,0,0,46,0,54,50,0
+56,Hamilton,Pep,11,Offensive Coordinator,Quarterbacks,261,56,68,9,44,15,0,0,59,19,32,42,0,2,32,38,0,49,0
+57,Manusky,Greg,11,Defensive Coordinator,Linebackers,261,74,84,32,36,39,0,0,36,37,35,50,0,2,44,0,56,62,0
+58,McMahon,Tom,11,Assistant Coach,Linebackers,226,18,77,58,78,62,0,0,78,86,11,47,0,4,48,0,56,52,0
+59,Marandino,Roger,9,Strength Coordinator,Strength,155,0,0,0,0,0,81,76,17,0,0,45,0,3,0,0,0,0,73
+60,Bradley,Gus,99,None,Linebackers,0,36,43,33,19,72,0,0,31,36,47,50,0,0,31,0,42,34,0
+61,Fisch,Jedd,12,Offensive Coordinator,Quarterbacks,146,74,68,12,25,23,0,0,54,30,56,40,0,1,37,48,0,57,0
+62,Babich,Bob,12,Defensive Coordinator,Linebackers,146,21,46,11,31,48,0,0,9,56,34,55,0,2,22,0,38,33,0
+63,Mallory,Mike,12,Assistant Coach,Secondary,109,57,35,68,70,49,0,0,39,16,65,54,0,1,55,0,38,41,0
+64,Myslinski,Tom,99,None,Strength,0,0,0,0,0,0,22,30,47,0,0,48,0,0,0,0,0,0,26
+65,Reid,Andy,99,None,Quarterbacks,0,34,65,66,30,34,0,0,34,38,63,58,0,0,48,42,0,48,0
+66,Pederson,Doug,13,Offensive Coordinator,Quarterbacks,188,8,20,29,49,63,0,0,70,41,71,48,0,2,30,33,0,26,0
+67,Sutton,Bob,13,Defensive Coordinator,Linebackers,188,42,51,18,79,27,0,0,19,81,41,65,0,2,37,0,45,46,0
+68,Toub,Dave,31,Defensive Coordinator,Secondary,369,91,55,61,24,94,0,0,52,79,23,54,0,3,54,0,72,57,0
+69,Rubin,Barry,13,Strength Coordinator,Strength,86,0,0,0,0,0,22,51,69,0,0,59,0,1,0,0,0,0,37
+70,Philbin,Joe,99,None,Tight Ends,0,54,40,8,65,53,0,0,21,54,19,55,0,0,29,44,0,37,0
+71,Lazor,Bill,99,None,Quarterbacks,0,29,30,35,57,24,0,0,58,69,45,44,0,0,36,36,0,35,0
+72,Coyle,Kevin,14,Defensive Coordinator,Secondary,265,96,49,18,53,40,0,0,95,29,34,60,0,4,45,0,51,54,0
+73,Rizzi,Darren,28,Assistant Coach,Linebackers,276,63,69,14,58,39,0,0,57,58,58,46,0,4,41,0,54,58,0
+74,Krein,Darren,14,Strength Coordinator,Strength,121,0,0,0,0,0,40,70,65,0,0,45,0,4,0,0,0,0,55
+75,Zimmer,Mike,99,None,Linebackers,0,13,35,27,75,29,0,0,31,38,32,60,0,0,30,0,25,26,0
+76,Turner,Norv,99,None,Wide Receivers,0,40,19,46,39,22,0,0,16,53,68,64,1,0,40,31,0,31,0
+77,Edwards,George,15,Defensive Coordinator,Linebackers,165,45,37,12,16,46,0,0,11,47,60,49,0,1,27,0,42,36,0
+78,Priefer,Mike,15,Assistant Coach,Linebackers,123,34,35,42,79,49,0,0,53,53,60,50,0,2,45,0,40,40,0
+79,Marcus,Evan,99,None,Strength,0,0,0,0,0,0,58,19,4,0,0,48,0,0,0,0,0,0,34
+80,Belichick,Bill,16,Head Coach,Secondary,592,52,74,71,41,62,0,0,51,64,38,64,0,4,56,0,58,59,0
+81,McDaniels,Josh,16,Offensive Coordinator,Quarterbacks,449,64,73,83,19,85,0,0,68,80,20,40,0,3,57,70,0,62,0
+82,Patricia,Matt,4,Head Coach,Linebackers,426,45,91,90,22,54,0,0,66,87,74,42,0,4,65,0,66,70,0
+83,O'Brien,Scott,16,Defensive Coordinator,Linebackers,261,44,46,50,49,80,0,0,64,57,96,59,0,4,52,0,55,50,0
+84,Nash,Harold,99,None,Strength,0,0,0,0,0,0,32,38,41,0,0,60,0,0,0,0,0,0,34
+85,Payton,Sean,17,Head Coach,Quarterbacks,388,81,67,55,44,55,0,0,49,37,66,53,0,3,56,58,0,60,0
+86,Carmichael,Pete,17,Offensive Coordinator,Quarterbacks,175,39,60,9,14,43,0,0,36,47,59,45,0,1,27,45,0,47,0
+87,Ryan,Rob,17,Defensive Coordinator,Linebackers,175,59,86,12,71,37,0,0,69,35,8,54,0,2,37,0,51,58,0
+88,McMahon,Greg,17,Assistant Coach,Tight Ends,162,52,79,44,39,38,0,0,88,11,62,56,0,4,47,45,0,60,0
+89,Dalrymple,Dan,99,None,Strength,0,0,0,0,0,0,45,54,9,0,0,51,0,0,0,0,0,0,45
+90,Coughlin,Tom,18,Head Coach,Wide Receivers,649,46,42,30,67,91,0,0,64,33,75,70,0,2,45,51,0,45,0
+91,McAdoo,Ben,18,Offensive Coordinator,Wide Receivers,328,35,62,56,35,79,0,0,65,70,21,39,0,4,43,57,0,48,0
+92,Fewell,Perry,18,Defensive Coordinator,Secondary,330,88,69,28,79,45,0,0,46,43,50,54,0,4,52,0,58,63,0
+93,Quinn,Tom,18,Assistant Coach,Linebackers,307,44,65,35,95,72,0,0,88,55,76,48,0,4,54,0,58,59,0
+94,Palmieri,Jerry,3,Strength Coordinator,Strength,203,0,0,0,0,0,74,80,83,0,0,58,0,3,0,0,0,0,76
+95,Ryan,Rex,19,Head Coach,Linebackers,564,27,71,44,67,69,0,0,23,25,43,54,0,4,42,0,45,47,0
+96,Mornhinweg,Marty,14,Head Coach,Quarterbacks,478,99,96,47,81,43,0,0,94,99,49,54,0,3,67,80,0,85,0
+97,Thurman,Dennis,19,Defensive Coordinator,Secondary,380,61,30,89,33,52,0,0,66,90,28,60,0,4,57,0,53,43,0
+98,Lynn,Anthony,19,Assistant Coach,Running Backs,185,38,82,21,14,65,0,0,47,51,34,48,0,4,32,55,0,55,0
+99,Galac,Justus,99,None,Strength,0,0,0,0,0,0,63,31,66,0,0,36,0,0,0,0,0,0,46
+100,Sparano,Tony,99,None,Offensive Linemen,0,20,43,8,49,24,0,0,47,44,80,55,0,0,28,33,0,38,0
+101,Olson,Greg,20,Offensive Coordinator,Quarterbacks,194,49,97,22,31,85,0,0,20,81,44,53,0,4,38,72,0,66,0
+102,Tarver,Jason,20,Defensive Coordinator,Linebackers,152,49,34,47,29,48,0,0,43,47,11,42,0,2,34,0,40,32,0
+103,April,Bobby,20,Assistant Coach,Wide Receivers,113,38,43,60,71,26,0,0,84,46,11,63,0,1,46,35,0,39,0
+104,Grieco,John,20,Strength Coordinator,Strength,70,0,0,0,0,0,70,66,61,0,0,43,0,2,0,0,0,0,66
+105,Kelly,Chip,21,Head Coach,Running Backs,478,56,41,55,37,41,0,0,58,53,39,53,0,4,46,44,0,44,0
+106,Shurmur,Pat,21,Offensive Coordinator,Quarterbacks,372,74,76,43,89,90,0,0,86,85,41,51,0,4,59,77,0,69,0
+107,Davis,Billy,21,Defensive Coordinator,Linebackers,372,71,68,11,35,65,0,0,10,38,50,51,0,4,36,0,57,54,0
+108,Azzinaro,Jerry,2,Defensive Coordinator,Secondary,273,55,99,70,57,59,0,0,53,68,54,58,0,3,62,0,65,73,0
+109,Hingst,Josh,21,Strength Coordinator,Strength,96,0,0,0,0,0,46,67,11,0,0,37,0,4,0,0,0,0,52
+110,Tomlin,Mike,22,Head Coach,Secondary,649,23,83,66,6,59,0,0,77,82,55,44,0,4,47,0,59,60,0
+111,Haley,Todd,99,None,Wide Receivers,0,41,39,55,40,69,0,0,34,25,56,49,0,0,44,41,0,38,0
+112,LeBeau,Dick,22,Defensive Coordinator,Secondary,236,96,53,44,47,43,0,0,38,45,57,79,0,2,53,0,56,58,0
+113,Mitchell,John,22,Assistant Coach,Defensive Linemen,124,24,66,47,39,34,0,0,47,82,68,65,0,3,43,0,50,54,0
+114,Giemont,Garrett,99,None,Strength,0,0,0,0,0,0,27,29,90,0,0,60,0,0,0,0,0,0,31
+115,McCoy,Mike,99,None,Quarterbacks,0,28,58,8,52,51,0,0,68,67,27,44,0,0,27,48,0,45,0
+116,Reich,Frank,23,Offensive Coordinator,Quarterbacks,165,49,67,32,17,67,0,0,83,70,24,55,0,2,35,59,0,52,0
+117,Pagano,John,99,None,Linebackers,0,52,78,62,25,58,0,0,59,3,24,49,0,0,46,0,44,51,0
+118,Spencer,Kevin,23,Assistant Coach,Linebackers,330,23,52,33,60,49,0,0,81,66,59,63,0,4,41,0,46,45,0
+119,Johnson,Kent,99,None,Strength,0,0,0,0,0,0,27,16,34,0,0,60,1,0,0,0,0,0,20
+120,Carroll,Pete,24,Head Coach,Secondary,331,43,39,47,75,47,0,0,86,31,87,65,0,4,52,0,40,47,0
+121,Bevell,Darrell,24,Offensive Coordinator,Quarterbacks,204,17,64,62,40,46,0,0,64,48,56,46,0,2,46,42,0,46,0
+122,Quinn,Dan,24,Defensive Coordinator,Defensive Linemen,204,73,18,40,57,44,0,0,36,29,71,46,0,2,46,0,39,37,0
+123,Cable,Tom,24,Assistant Coach,Offensive Linemen,152,27,33,32,12,57,0,0,46,70,67,52,0,1,30,45,0,36,0
+124,Carlisle,Chris,24,Strength Coordinator,Strength,94,0,0,0,0,0,70,32,72,0,0,54,0,2,0,0,0,0,50
+125,Harbaugh,Jim,25,Head Coach,Quarterbacks,620,60,43,48,61,47,0,0,49,40,81,53,0,4,52,46,0,48,0
+126,Roman,Greg,25,Offensive Coordinator,Tight Ends,273,44,64,45,29,34,0,0,30,64,62,44,0,4,44,50,0,52,0
+127,Fangio,Vic,7,Head Coach,Linebackers,388,37,96,75,94,64,0,0,40,45,26,58,0,4,61,0,57,63,0
+128,Seely,Brad,25,Assistant Coach,Offensive Linemen,204,30,41,45,78,28,0,0,76,28,25,60,0,4,43,31,0,36,0
+129,Uyeyama,Mark,25,Strength Coordinator,Strength,138,0,0,0,0,0,28,51,49,0,0,41,0,1,0,0,0,0,39
+130,Fisher,Jeff,99,None,Secondary,0,50,36,74,40,26,0,0,38,36,23,58,0,0,48,0,34,36,0
+131,Schottenheimer,Brian,26,Offensive Coordinator,Quarterbacks,150,67,68,32,65,43,0,0,28,43,47,43,0,2,46,52,0,54,0
+132,Williams,Gregg,13,Head Coach,Linebackers,417,79,27,83,86,90,0,0,23,62,41,58,0,3,63,0,58,43,0
+133,Fassel,John,26,Assistant Coach,Tight Ends,112,69,7,44,57,41,0,0,71,47,47,42,0,2,43,39,0,33,0
+134,Gullickson,Rock,99,None,Strength,0,0,0,0,0,0,66,21,24,0,0,61,0,0,0,0,0,0,40
+135,Smith,Lovie,27,Head Coach,Linebackers,464,41,27,24,32,22,0,0,79,26,37,58,0,2,30,0,27,30,0
+136,Tedford,Jeff,27,Offensive Coordinator,Quarterbacks,204,31,99,78,26,68,0,0,38,38,38,55,0,1,51,55,0,60,0
+137,Frazier,Leslie,27,Defensive Coordinator,Secondary,246,45,54,64,73,69,0,0,46,95,65,57,0,3,56,0,62,53,0
+138,O'Dea,Kevin,27,Assistant Coach,Offensive Linemen,152,32,11,70,45,37,0,0,22,47,49,56,0,1,42,29,0,24,0
+139,Kennedy,Dave,27,Strength Coordinator,Strength,113,0,0,0,0,0,23,64,97,0,0,56,0,4,0,0,0,0,47
+140,Whisenhunt,Ken,99,None,Tight Ends,0,30,39,27,24,41,0,0,45,23,39,54,0,0,27,31,0,31,0
+141,Michael,Jason,99,None,Tight Ends,0,60,36,58,74,62,0,0,33,72,16,38,0,0,49,50,0,40,0
+142,Horton,Ray,28,Defensive Coordinator,Secondary,206,42,85,19,34,76,0,0,16,77,65,56,0,4,38,0,65,61,0
+143,Kaczor,Nate,99,None,Offensive Linemen,0,17,31,39,40,72,0,0,50,60,30,49,0,0,32,40,0,30,0
+144,Watterson,Steve,28,Strength Coordinator,Strength,107,0,0,0,0,0,72,53,41,0,0,60,0,4,0,0,0,0,58
+145,Gruden,Jay,29,Head Coach,Quarterbacks,464,28,63,51,14,50,0,0,31,29,25,49,0,2,35,39,0,40,0
+146,McVay,Sean,28,Head Coach,Wide Receivers,350,60,42,77,57,57,0,0,52,81,75,30,0,3,64,56,0,54,0
+147,Haslett,Jim,29,Defensive Coordinator,Linebackers,432,85,38,75,39,61,0,0,39,86,91,61,0,3,65,0,64,57,0
+148,Kotwica,Ben,29,Assistant Coach,Linebackers,152,55,21,7,34,39,0,0,61,60,72,42,0,2,32,0,42,39,0
+149,Wright,Ray,29,Strength Coordinator,Strength,94,0,0,0,0,0,91,38,55,0,0,45,0,4,0,0,0,0,61
+150,Pettine,Mike,99,None,Linebackers,0,20,35,57,10,45,0,0,60,67,71,50,0,0,39,0,39,37,0
+151,Shanahan,Kyle,99,None,Quarterbacks,0,63,46,17,67,34,0,0,40,44,77,37,0,0,43,45,0,50,0
+152,O'Neil,Jim,99,None,Secondary,0,52,18,40,33,35,0,0,19,13,36,38,0,0,32,0,25,25,0
+153,Tabor,Chris,99,None,Running Backs,0,73,59,25,57,67,0,0,47,43,15,45,0,0,39,54,0,49,0
+154,Roll,Brad,31,Strength Coordinator,Strength,80,0,0,0,0,0,82,47,22,0,0,58,0,4,0,0,0,0,60
+155,O'Brien,Bill,31,Head Coach,Quarterbacks,559,51,13,64,61,76,0,0,71,49,21,47,0,4,46,43,0,28,0
+156,Godsey,George,31,Offensive Coordinator,Quarterbacks,246,30,85,9,49,59,0,0,1,77,76,37,0,4,37,58,0,60,0
+157,Crennel,Romeo,15,Head Coach,Defensive Linemen,748,62,95,85,77,56,0,0,82,34,54,69,0,3,71,0,60,71,0
+158,Ligashesky,Bob,31,Assistant Coach,Tight Ends,276,79,45,44,36,42,0,0,26,98,34,54,0,3,46,60,0,52,0
+159,Fitzgerald,Craig,26,Strength Coordinator,Strength,84,0,0,0,0,0,49,69,56,0,0,41,0,4,0,0,0,0,57
+160,Ashton,Leo,12,Strength Coordinator,Strength,102,0,0,0,0,0,55,69,78,0,0,48,0,3,0,0,0,0,62
+161,Ford,Harvey,99,None,Tight Ends,0,15,36,39,18,27,0,0,53,45,73,58,0,0,32,30,0,34,0
+162,Legband,Ezra,30,Assistant Coach,Defensive Linemen,134,44,68,37,62,20,0,0,66,46,51,54,0,4,45,0,44,53,0
+163,Brady,Larry,14,Assistant Coach,Running Backs,235,68,81,26,50,46,0,0,60,15,49,46,0,4,43,51,0,59,0
+164,Roffmann,Max,99,None,Strength,0,0,0,0,0,0,36,26,17,0,0,56,0,0,0,0,0,0,28
+165,Bollinger,Eddie,99,None,Offensive Linemen,0,52,14,72,69,40,0,0,53,59,11,40,0,0,50,35,0,30,0
+166,Maness,Lewis,4,Strength Coordinator,Strength,144,0,0,0,0,0,61,79,32,0,0,34,0,3,0,0,0,0,66
+167,Winters,Conner,99,None,Quarterbacks,0,85,40,37,44,14,0,0,74,50,63,57,0,0,50,48,0,53,0
+168,Lassiter,Dixon,99,None,Quarterbacks,0,43,47,75,37,80,0,0,53,23,69,52,0,0,53,46,0,45,0
+169,Ellison,Howard,99,None,Strength,0,0,0,0,0,0,6,56,13,0,0,34,0,0,0,0,0,0,29
+170,Wolfe,Gustavo,22,Strength Coordinator,Strength,76,0,0,0,0,0,41,83,15,0,0,57,0,3,0,0,0,0,59
+171,Houghton,Bryson,19,Offensive Coordinator,Running Backs,415,70,80,64,51,78,0,0,4,75,16,49,0,3,54,69,0,60,0
+172,Wiggin,Louis,20,Head Coach,Offensive Linemen,649,76,69,73,70,63,0,0,93,78,66,59,0,3,69,69,0,69,0
+173,Matthew,Luke,99,None,Offensive Linemen,0,26,48,71,26,21,0,0,58,1,72,36,0,0,47,25,0,39,0
+174,Norton,Steven,99,None,Strength,0,0,0,0,0,0,27,26,70,0,0,43,0,0,0,0,0,0,27
+175,Eckberg,J.J.,99,None,Tight Ends,0,12,66,41,0,66,0,0,29,32,29,50,0,0,27,40,0,39,0
+176,Alexander,Carlton,99,None,Strength,0,0,0,0,0,0,38,65,54,0,0,46,0,0,0,0,0,0,50
+177,Masiona,Derrick,99,None,Strength,0,0,0,0,0,0,14,59,18,0,0,40,0,0,0,0,0,0,35
+178,Tracy,Jared,9,Assistant Coach,Tight Ends,115,40,71,61,57,10,0,0,77,21,51,42,0,4,52,36,0,53,0
+179,Woods,Damon,99,None,Tight Ends,0,44,56,48,50,79,0,0,26,42,47,53,0,0,44,52,0,45,0
+180,Eckard,Dennis,11,Strength Coordinator,Strength,88,0,0,0,0,0,33,91,29,0,0,52,0,3,0,0,0,0,60
+181,Edwards,Mercury,99,None,Running Backs,0,59,64,21,73,10,0,0,72,53,27,46,0,0,42,45,0,54,0
+182,Wooden,Wally,16,Strength Coordinator,Strength,72,0,0,0,0,0,60,53,54,0,0,35,0,3,0,0,0,0,54
+183,Walker,Wendell,99,None,Tight Ends,0,44,65,78,40,75,0,0,36,34,48,52,0,0,54,52,0,50,0
+184,Sunderland,Jeremy,7,Defensive Coordinator,Defensive Linemen,171,92,60,18,48,38,0,0,58,74,32,60,0,4,44,0,62,60,0
+185,Falcon,Chad,29,Offensive Coordinator,Tight Ends,179,68,62,53,43,67,0,0,74,40,67,43,0,3,54,57,0,59,0
+186,Jiminez,Anthony,99,None,Strength,0,0,0,0,0,0,46,23,44,0,0,60,0,0,0,0,0,0,34
+187,Olin,Quentin,99,None,Defensive Linemen,0,28,60,48,0,67,0,0,16,74,42,45,0,0,34,0,53,45,0
+188,Reid,Ezekiel,99,None,Linebackers,0,14,50,64,56,55,0,0,54,39,17,47,0,0,41,0,36,35,0
+189,Barrett,Oliver,12,Head Coach,Defensive Linemen,436,69,57,74,44,71,0,0,76,65,69,49,0,4,63,0,63,61,0
+190,Kyl,Alfredo,99,None,Linebackers,0,67,45,21,29,37,0,0,57,85,19,59,0,0,35,0,53,46,0
+191,Hill,Tucker,10,Assistant Coach,Offensive Linemen,252,73,66,61,10,24,0,0,76,31,60,40,0,4,53,48,0,60,0
+192,Edwards,Jonathan,99,None,Linebackers,0,24,25,34,24,52,0,0,59,45,73,35,0,0,31,0,35,32,0
+193,Komrska,Donovan,7,Assistant Coach,Defensive Linemen,224,34,72,58,28,34,0,0,96,26,94,60,0,3,51,0,43,57,0
+194,Barber,Ted,99,None,Tight Ends,0,56,43,85,20,29,0,0,43,35,24,57,0,0,50,37,0,39,0
+195,Craig,Edgar,99,None,Strength,0,0,0,0,0,0,51,38,40,0,0,34,0,0,0,0,0,0,42
+196,Monroe,Trenton,99,None,Strength,0,0,0,0,0,0,26,33,2,0,0,47,0,0,0,0,0,0,27
+197,Holleran,Sean,99,None,Tight Ends,0,71,17,11,54,71,0,0,59,57,42,36,0,0,35,50,0,36,0
+198,Mahoney,Jorge,99,None,Offensive Linemen,0,48,68,79,64,46,0,0,42,42,21,39,0,0,55,49,0,50,0
+199,Dunn,Matt,99,None,Strength,0,0,0,0,0,0,53,34,18,0,0,59,0,0,0,0,0,0,40
+200,Rivers,Paul,99,None,Secondary,0,57,56,14,44,30,0,0,6,28,82,36,0,0,37,0,43,48,0
+201,Foreman,Jerry,99,None,Wide Receivers,0,68,29,57,12,80,0,0,43,19,78,47,0,0,46,47,0,39,0
+202,Clark,Wyatt,99,None,Secondary,0,5,37,52,3,30,0,0,56,75,67,40,0,0,35,0,36,36,0
+203,Knight,Alonzo,99,None,Secondary,0,33,12,20,40,51,0,0,74,25,68,40,0,0,30,0,31,27,0
+204,Turnbull,Don,99,None,Tight Ends,0,16,8,66,21,29,0,0,55,41,70,44,0,0,39,24,0,22,0
+205,Buckner,Norbert,99,None,Running Backs,0,9,29,61,52,73,0,0,41,78,64,48,0,0,42,46,0,31,0
+206,Ward,D.J.,99,None,Offensive Linemen,0,45,17,39,21,60,0,0,30,64,79,54,0,0,38,44,0,33,0
+207,Emerson,T.J.,99,None,Running Backs,0,28,58,62,61,38,0,0,45,56,43,40,0,0,49,43,0,45,0
+208,Perez,Raymond,99,None,Defensive Linemen,0,47,12,6,9,4,0,0,43,76,40,42,0,0,21,0,32,28,0
+209,Williams,Harris,99,None,Wide Receivers,0,69,59,16,59,70,0,0,71,18,60,37,0,0,41,52,0,53,0
+210,Shannon,Andres,99,None,Strength,0,0,0,0,0,0,72,35,61,0,0,42,0,0,0,0,0,0,52
+211,Drake,Freddie,21,Assistant Coach,Secondary,157,59,36,57,74,17,0,0,87,55,79,58,0,4,58,0,42,49,0
+212,Lincoln,Rondell,99,None,Quarterbacks,0,26,63,19,46,51,0,0,69,69,2,42,0,0,27,48,0,43,0
+213,Benton,Maxwell,99,None,Defensive Linemen,0,48,63,53,29,32,0,0,23,59,51,34,0,0,45,0,47,50,0
+214,Middleton,Mario,99,None,Defensive Linemen,0,10,45,22,20,19,0,0,45,68,55,60,0,0,25,0,34,35,0
+215,Norton,Junior,99,None,Tight Ends,0,72,55,32,67,49,0,0,47,61,42,35,0,0,48,55,0,54,0
+216,Kaplan,K.C.,99,None,Defensive Linemen,0,57,40,76,60,76,0,0,28,61,11,36,0,0,53,0,52,40,0
+217,Poole,D.J.,99,None,Secondary,0,70,33,35,47,14,0,0,28,42,9,35,0,0,38,0,36,37,0
+218,Waldron,Chris,99,None,Wide Receivers,0,1,20,70,21,52,0,0,52,5,54,43,0,0,36,20,0,19,0
+219,Brothwell,David,1,Head Coach,Defensive Linemen,564,72,33,99,20,86,0,0,99,87,79,53,0,3,68,0,66,53,0
+220,Bauer,Antonio,7,Strength Coordinator,Strength,78,0,0,0,0,0,61,55,31,0,0,48,0,4,0,0,0,0,54
+221,Villanueva,Austin,99,None,Defensive Linemen,0,65,10,44,14,53,0,0,77,25,59,47,0,0,41,0,36,32,0
+222,Ligon,Andre,0,Head Coach,Secondary,535,63,67,66,65,73,0,0,54,65,72,36,0,4,62,0,64,61,0
+223,Duffy,Arnie,99,None,Tight Ends,0,65,79,60,22,10,0,0,62,12,21,48,0,0,48,39,0,55,0
+224,Reade,Bubba,99,None,Linebackers,0,9,68,12,19,52,0,0,71,68,66,37,0,0,25,0,49,47,0
+225,Tierney,Marco,99,None,Running Backs,0,37,13,44,35,53,0,0,19,29,18,58,0,0,30,28,0,20,0
+226,McCants,Cornelius,99,None,Running Backs,0,67,2,17,13,13,0,0,62,62,48,35,0,0,28,33,0,28,0
+227,Crane,Peyton,99,None,Tight Ends,0,37,37,32,45,62,0,0,48,71,72,35,0,0,38,49,0,42,0
+228,Scott,Orlando,99,None,Linebackers,0,67,73,49,40,36,0,0,58,33,23,44,0,0,48,0,49,56,0
+229,Gilmore,Conner,8,Strength Coordinator,Strength,91,0,0,0,0,0,71,65,34,0,0,41,0,3,0,0,0,0,64
+230,Masters,Samuel,5,Head Coach,Linebackers,592,44,41,96,81,80,0,0,57,85,88,54,0,3,71,0,60,52,0
+231,Williford,Corbin,99,None,Offensive Linemen,0,5,55,59,26,24,0,0,65,13,18,41,0,0,34,22,0,32,0
+232,Glover,Vincent,99,None,Offensive Linemen,0,62,52,49,27,78,0,0,34,10,43,59,0,0,43,49,0,44,0
+233,Carr,Aidan,99,None,Offensive Linemen,0,13,67,23,66,53,0,0,30,41,39,60,0,0,31,39,0,41,0
+234,Jewett,Myles,8,Head Coach,Linebackers,450,69,50,80,68,34,0,0,59,69,64,56,0,3,66,0,53,57,0
+235,Ackerman,Bob,99,None,Offensive Linemen,0,55,43,16,29,3,0,0,62,78,24,34,0,0,31,41,0,42,0
+236,Oliver,Joe,18,Strength Coordinator,Strength,80,0,0,0,0,0,68,52,73,0,0,38,0,3,0,0,0,0,59
+237,Fairfield,Raul,99,None,Tight Ends,0,33,22,29,85,39,0,0,15,17,72,56,0,0,37,26,0,27,0
+238,Bonnette,Alexander,99,None,Wide Receivers,0,52,47,77,63,69,0,0,21,53,70,36,0,0,60,51,0,48,0
+239,Corbett,Owen,99,None,Tight Ends,0,6,66,67,52,24,0,0,69,33,63,37,0,0,47,34,0,47,0
+240,Roesler,Damien,99,None,Defensive Linemen,0,54,12,57,69,42,0,0,77,2,36,35,0,0,47,0,27,27,0
+241,Consulo,Frederick,30,Defensive Coordinator,Defensive Linemen,179,74,76,39,40,64,0,0,28,50,61,37,0,4,51,0,64,64,0
+242,Brown,Christopher,99,None,Running Backs,0,30,40,40,40,28,0,0,29,31,71,54,0,0,39,31,0,37,0
+243,Howe,Brenden,99,None,Linebackers,0,16,18,57,62,28,0,0,24,45,12,41,0,0,34,0,22,18,0
+244,Shields,Wayne,99,None,Strength,0,0,0,0,0,0,64,42,64,0,0,60,1,0,0,0,0,0,52
+245,Borders,Dave,99,None,Offensive Linemen,0,78,23,20,24,11,0,0,53,25,59,57,0,0,36,32,0,39,0
+246,Boyer,Noah,99,None,Quarterbacks,0,56,3,59,30,63,0,0,37,56,29,51,0,0,41,39,0,24,0
+247,Holliday,Santiago,15,Strength Coordinator,Strength,151,0,0,0,0,0,58,77,58,0,0,44,0,3,0,0,0,0,66
+248,Lyons,Dan,99,None,Wide Receivers,0,25,81,79,38,42,0,0,35,28,72,51,0,0,54,44,0,55,0
+249,Flockhart,Tucker,26,Head Coach,Running Backs,331,40,75,78,59,48,0,0,78,77,50,42,0,3,62,57,0,61,0
+250,Tyler,Burt,99,None,Running Backs,0,65,43,74,34,22,0,0,62,23,33,42,0,0,52,35,0,43,0
+251,O'Neill,Earl,99,None,Strength,0,0,0,0,0,0,48,25,98,0,0,52,0,0,0,0,0,0,39
+252,Rivers,Michael,99,None,Strength,0,0,0,0,0,0,32,48,62,0,0,47,0,0,0,0,0,0,41
+253,Dolfinger,Artie,99,None,Tight Ends,0,8,61,30,13,25,0,0,54,13,61,48,0,0,27,27,0,38,0
+254,Hodges,Roosevelt,99,None,Tight Ends,0,65,49,39,18,61,0,0,35,41,50,47,0,0,41,51,0,48,0
+255,Alston,Roosevelt,30,Strength Coordinator,Strength,82,0,0,0,0,0,39,65,70,0,0,58,0,4,0,0,0,0,52
+256,Bonk,Isaac,19,Strength Coordinator,Strength,191,0,0,0,0,0,55,86,57,0,0,53,0,3,0,0,0,0,69
+257,Chatterley,Colin,99,None,Strength,0,0,0,0,0,0,48,44,22,0,0,46,0,0,0,0,0,0,43
+258,Donovan,Edward,99,None,Strength,0,0,0,0,0,0,61,57,2,0,0,36,0,0,0,0,0,0,53
+259,Clark,J.B.,99,None,Secondary,0,46,59,28,55,65,0,0,63,61,32,36,0,0,39,0,53,48,0
+260,Paukschus,Ryan,1,Defensive Coordinator,Defensive Linemen,150,72,65,18,67,45,0,0,62,64,41,46,0,4,45,0,58,58,0
+261,Castanie,Alvin,23,Defensive Coordinator,Linebackers,443,75,77,0,35,65,0,0,40,57,60,35,0,4,38,0,66,64,0
+262,Dodds,Zachery,23,Strength Coordinator,Strength,72,0,0,0,0,0,62,44,89,0,0,52,0,3,0,0,0,0,54
+263,Hudson,Cole,23,Head Coach,Wide Receivers,355,74,36,91,64,19,0,0,73,19,20,58,0,3,60,37,0,41,0
+264,Hoskins,Buddy,99,None,Strength,0,0,0,0,0,0,45,56,63,0,0,47,0,0,0,0,0,0,50
+265,Hammond,Frank,99,None,Wide Receivers,0,44,61,58,48,22,0,0,10,60,66,36,0,0,49,45,0,50,0
+266,Guersch,Devante,99,None,Linebackers,0,62,68,52,55,23,0,0,12,68,27,33,0,0,49,0,51,53,0
+267,Berkebile,Derek,1,Strength Coordinator,Strength,114,0,0,0,0,0,78,65,40,0,0,38,0,3,0,0,0,0,67
+268,Heath,Les,11,Head Coach,Wide Receivers,436,39,89,84,99,81,0,0,71,51,38,51,0,3,66,61,0,64,0
+269,Stone,Jorge,99,None,Quarterbacks,0,43,58,75,28,25,0,0,22,36,30,41,0,0,47,36,0,43,0
+270,Brown,Marcus,99,None,Quarterbacks,0,48,13,56,25,55,0,0,53,67,76,56,0,0,45,44,0,34,0
+271,Prescott,Dwight,8,Offensive Coordinator,Wide Receivers,163,79,61,3,44,62,0,0,46,45,50,49,0,4,36,58,0,56,0
+272,Gillespie,Derrick,99,None,Tight Ends,0,41,39,60,60,76,0,0,61,33,75,49,0,0,53,45,0,43,0
+273,Welch,Jake,99,None,Tight Ends,0,92,49,31,52,33,0,0,70,30,36,58,0,0,47,49,0,53,0
+274,Russell,Dwight,99,None,Strength,0,0,0,0,0,0,17,42,32,0,0,55,0,0,0,0,0,0,29
+275,Bailie,Rob,99,None,Linebackers,0,59,14,53,17,66,0,0,7,41,43,50,0,0,38,0,41,28,0
+276,Ramsey,Buddy,99,None,Linebackers,0,55,43,63,71,46,0,0,33,53,60,54,0,0,56,0,46,46,0
+277,Marceau,Jermaine,99,None,Offensive Linemen,0,31,31,58,39,44,0,0,32,67,42,54,0,0,41,39,0,33,0
+278,Dodge,Willie,99,None,Offensive Linemen,0,48,36,61,82,41,0,0,67,89,32,51,0,0,52,51,0,43,0
+279,Quinn,Frederick,9,Defensive Coordinator,Secondary,154,70,45,37,55,61,0,0,17,87,61,54,0,4,48,0,62,52,0
+280,Kerley,Russell,99,None,Running Backs,0,16,2,56,41,30,0,0,76,17,32,39,0,0,34,15,0,13,0
+281,Prince,Levi,99,None,Secondary,0,67,53,37,1,79,0,0,7,44,42,36,0,0,36,0,56,47,0
+282,Palmer,Abraham,99,None,Offensive Linemen,0,6,59,40,30,41,0,0,13,74,55,38,0,0,32,42,0,40,0
+283,Whitfield,Manuel,99,None,Secondary,0,49,21,54,65,60,0,0,72,61,53,37,0,0,48,0,46,37,0
+284,Osborne,Tony,99,None,Wide Receivers,0,39,10,23,38,24,0,0,35,10,65,44,0,0,28,21,0,23,0
+285,Haggerty,Bill,99,None,Strength,0,0,0,0,0,0,54,18,50,0,0,33,0,0,0,0,0,0,34
+286,Goldsberry,Dakota,99,None,Defensive Linemen,0,24,37,6,42,64,0,0,73,39,11,36,0,0,20,0,38,30,0
+287,Roybal,Nathaniel,99,None,Linebackers,0,45,27,13,78,17,0,0,70,74,45,35,0,0,35,0,39,38,0
+288,Welker,Darius,99,None,Wide Receivers,0,63,27,67,56,35,0,0,26,34,56,34,0,0,52,36,0,37,0
+289,Price,Vinny,25,Defensive Coordinator,Defensive Linemen,273,56,74,29,39,62,0,0,59,69,71,34,0,4,45,0,62,62,0
+290,Reese,Josh,16,Assistant Coach,Quarterbacks,195,69,72,34,5,6,0,0,66,24,63,39,0,4,40,43,0,59,0
+291,Craver,Angel,99,None,Quarterbacks,0,27,52,17,87,81,0,0,45,15,61,56,0,0,36,43,0,39,0
+292,Ingram,Ramon,99,None,Wide Receivers,0,48,38,67,16,39,0,0,62,54,57,49,0,0,47,42,0,42,0
+293,Franz,Kenny,99,None,Wide Receivers,0,25,51,68,44,24,0,0,9,20,55,39,0,0,45,28,0,38,0
+294,Pham,Conrad,99,None,Strength,0,0,0,0,0,0,20,32,19,0,0,42,0,0,0,0,0,0,24
+295,Owens,Billy,99,None,Wide Receivers,0,60,43,23,25,74,0,0,51,21,59,36,0,0,35,46,0,43,0
+296,Reynolds,Dashawn,14,Offensive Coordinator,Wide Receivers,315,78,88,16,19,53,0,0,45,81,20,55,0,4,37,69,0,67,0
+297,Sgroi,Curtis,13,Assistant Coach,Quarterbacks,148,51,79,77,45,14,0,0,22,63,29,42,0,4,55,47,0,58,0
+298,Farr,Geoff,99,None,Strength,0,0,0,0,0,0,46,46,67,0,0,57,0,0,0,0,0,0,46
+299,McClendon,J.C.,99,None,Linebackers,0,46,50,55,70,76,0,0,24,45,75,34,0,0,52,0,50,49,0

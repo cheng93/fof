@@ -1,0 +1,3881 @@
+Category,Team/All_Teams,Place,Record,Year,Team
+Points Scored,0,0,253,2017,0
+Points Scored,0,1,251,2021,0
+Points Scored,0,2,245,2022,0
+Points Scored,0,3,208,2016,0
+Points Scored,0,4,207,2015,0
+Points Scored,0,5,202,2014,0
+Points Scored,0,6,200,2018,0
+Points Scored,0,7,193,2020,0
+Points Scored,0,8,163,2019,0
+Points Allowed,0,0,157,2018,0
+Points Allowed,0,1,192,2017,0
+Points Allowed,0,2,200,2020,0
+Points Allowed,0,3,201,2022,0
+Points Allowed,0,4,209,2016,0
+Points Allowed,0,5,216,2015,0
+Points Allowed,0,6,221,2019,0
+Points Allowed,0,7,223,2014,0
+Points Allowed,0,8,231,2021,0
+Passing Yards,0,0,2503,2022,0
+Passing Yards,0,1,2436,2021,0
+Passing Yards,0,2,2364,2014,0
+Passing Yards,0,3,2305,2017,0
+Passing Yards,0,4,2144,2020,0
+Passing Yards,0,5,2055,2019,0
+Passing Yards,0,6,2038,2018,0
+Passing Yards,0,7,1928,2015,0
+Passing Yards,0,8,1736,2016,0
+Passing Yards Allowed,0,0,2085,2019,0
+Passing Yards Allowed,0,1,2105,2016,0
+Passing Yards Allowed,0,2,2181,2018,0
+Passing Yards Allowed,0,3,2256,2017,0
+Passing Yards Allowed,0,4,2279,2015,0
+Passing Yards Allowed,0,5,2333,2014,0
+Passing Yards Allowed,0,6,2384,2020,0
+Passing Yards Allowed,0,7,2409,2022,0
+Passing Yards Allowed,0,8,2588,2021,0
+Rushing Yards,0,0,1641,2017,0
+Rushing Yards,0,1,1506,2016,0
+Rushing Yards,0,2,1442,2015,0
+Rushing Yards,0,3,1404,2018,0
+Rushing Yards,0,4,1359,2019,0
+Rushing Yards,0,5,1325,2022,0
+Rushing Yards,0,6,1323,2021,0
+Rushing Yards,0,7,1201,2020,0
+Rushing Yards,0,8,1098,2014,0
+Rushing Yards Allowed,0,0,1166,2017,0
+Rushing Yards Allowed,0,1,1176,2018,0
+Rushing Yards Allowed,0,2,1202,2019,0
+Rushing Yards Allowed,0,3,1208,2021,0
+Rushing Yards Allowed,0,4,1221,2014,0
+Rushing Yards Allowed,0,5,1265,2016,0
+Rushing Yards Allowed,0,6,1280,2020,0
+Rushing Yards Allowed,0,7,1289,2022,0
+Rushing Yards Allowed,0,8,1336,2015,0
+Total Yards,0,0,3946,2017,0
+Total Yards,0,1,3828,2022,0
+Total Yards,0,2,3759,2021,0
+Total Yards,0,3,3463,2014,0
+Total Yards,0,4,3443,2018,0
+Total Yards,0,5,3414,2019,0
+Total Yards,0,6,3371,2015,0
+Total Yards,0,7,3345,2020,0
+Total Yards,0,8,3242,2016,0
+Total Yards Allowed,0,0,3287,2019,0
+Total Yards Allowed,0,1,3357,2018,0
+Total Yards Allowed,0,2,3371,2016,0
+Total Yards Allowed,0,3,3423,2017,0
+Total Yards Allowed,0,4,3554,2014,0
+Total Yards Allowed,0,5,3616,2015,0
+Total Yards Allowed,0,6,3664,2020,0
+Total Yards Allowed,0,7,3698,2022,0
+Total Yards Allowed,0,8,3797,2021,0
+Pass Attempts,0,0,373,2019,0
+Pass Attempts,0,1,362,2022,0
+Pass Attempts,0,2,356,2014,0
+Pass Attempts,0,3,348,2021,0
+Pass Attempts,0,4,344,2020,0
+Pass Attempts,0,5,305,2016,0
+Pass Attempts,0,6,298,2018,0
+Pass Attempts,0,7,293,2015,0
+Pass Attempts,0,8,293,2017,0
+Rush Attempts,0,0,331,2017,0
+Rush Attempts,0,1,315,2016,0
+Rush Attempts,0,2,313,2018,0
+Rush Attempts,0,3,305,2015,0
+Rush Attempts,0,4,305,2022,0
+Rush Attempts,0,5,291,2021,0
+Rush Attempts,0,6,285,2020,0
+Rush Attempts,0,7,282,2014,0
+Rush Attempts,0,8,277,2019,0
+Points Scored,1,0,218,2018,1
+Points Scored,1,1,207,2021,1
+Points Scored,1,2,200,2020,1
+Points Scored,1,3,198,2017,1
+Points Scored,1,4,186,2015,1
+Points Scored,1,5,184,2022,1
+Points Scored,1,6,168,2016,1
+Points Scored,1,7,158,2019,1
+Points Scored,1,8,150,2014,1
+Points Allowed,1,0,184,2018,1
+Points Allowed,1,1,217,2015,1
+Points Allowed,1,2,225,2020,1
+Points Allowed,1,3,229,2016,1
+Points Allowed,1,4,238,2019,1
+Points Allowed,1,5,247,2017,1
+Points Allowed,1,6,250,2021,1
+Points Allowed,1,7,253,2014,1
+Points Allowed,1,8,258,2022,1
+Passing Yards,1,0,2578,2017,1
+Passing Yards,1,1,2567,2022,1
+Passing Yards,1,2,2510,2020,1
+Passing Yards,1,3,2501,2015,1
+Passing Yards,1,4,2493,2019,1
+Passing Yards,1,5,2411,2021,1
+Passing Yards,1,6,2365,2014,1
+Passing Yards,1,7,2197,2016,1
+Passing Yards,1,8,2136,2018,1
+Passing Yards Allowed,1,0,2186,2020,1
+Passing Yards Allowed,1,1,2237,2019,1
+Passing Yards Allowed,1,2,2271,2016,1
+Passing Yards Allowed,1,3,2272,2015,1
+Passing Yards Allowed,1,4,2390,2018,1
+Passing Yards Allowed,1,5,2420,2014,1
+Passing Yards Allowed,1,6,2435,2017,1
+Passing Yards Allowed,1,7,2651,2021,1
+Passing Yards Allowed,1,8,2723,2022,1
+Rushing Yards,1,0,1373,2018,1
+Rushing Yards,1,1,1086,2017,1
+Rushing Yards,1,2,930,2016,1
+Rushing Yards,1,3,846,2021,1
+Rushing Yards,1,4,810,2020,1
+Rushing Yards,1,5,773,2019,1
+Rushing Yards,1,6,705,2022,1
+Rushing Yards,1,7,701,2015,1
+Rushing Yards,1,8,613,2014,1
+Rushing Yards Allowed,1,0,891,2018,1
+Rushing Yards Allowed,1,1,1021,2021,1
+Rushing Yards Allowed,1,2,1025,2017,1
+Rushing Yards Allowed,1,3,1080,2015,1
+Rushing Yards Allowed,1,4,1243,2020,1
+Rushing Yards Allowed,1,5,1251,2022,1
+Rushing Yards Allowed,1,6,1416,2016,1
+Rushing Yards Allowed,1,7,1428,2019,1
+Rushing Yards Allowed,1,8,1556,2014,1
+Total Yards,1,0,3665,2017,1
+Total Yards,1,1,3510,2018,1
+Total Yards,1,2,3320,2020,1
+Total Yards,1,3,3273,2022,1
+Total Yards,1,4,3266,2019,1
+Total Yards,1,5,3258,2021,1
+Total Yards,1,6,3203,2015,1
+Total Yards,1,7,3128,2016,1
+Total Yards,1,8,2978,2014,1
+Total Yards Allowed,1,0,3281,2018,1
+Total Yards Allowed,1,1,3353,2015,1
+Total Yards Allowed,1,2,3430,2020,1
+Total Yards Allowed,1,3,3460,2017,1
+Total Yards Allowed,1,4,3665,2019,1
+Total Yards Allowed,1,5,3673,2021,1
+Total Yards Allowed,1,6,3687,2016,1
+Total Yards Allowed,1,7,3975,2022,1
+Total Yards Allowed,1,8,3976,2014,1
+Pass Attempts,1,0,428,2014,1
+Pass Attempts,1,1,413,2021,1
+Pass Attempts,1,2,411,2022,1
+Pass Attempts,1,3,390,2015,1
+Pass Attempts,1,4,389,2019,1
+Pass Attempts,1,5,371,2020,1
+Pass Attempts,1,6,366,2016,1
+Pass Attempts,1,7,360,2017,1
+Pass Attempts,1,8,334,2018,1
+Rush Attempts,1,0,268,2018,1
+Rush Attempts,1,1,243,2017,1
+Rush Attempts,1,2,227,2016,1
+Rush Attempts,1,3,223,2015,1
+Rush Attempts,1,4,220,2021,1
+Rush Attempts,1,5,219,2020,1
+Rush Attempts,1,6,199,2019,1
+Rush Attempts,1,7,183,2022,1
+Rush Attempts,1,8,174,2014,1
+Points Scored,2,0,276,2017,2
+Points Scored,2,1,263,2015,2
+Points Scored,2,2,259,2016,2
+Points Scored,2,3,251,2020,2
+Points Scored,2,4,243,2022,2
+Points Scored,2,5,231,2021,2
+Points Scored,2,6,201,2019,2
+Points Scored,2,7,188,2018,2
+Points Scored,2,8,181,2014,2
+Points Allowed,2,0,180,2022,2
+Points Allowed,2,1,184,2018,2
+Points Allowed,2,2,189,2017,2
+Points Allowed,2,3,190,2015,2
+Points Allowed,2,4,191,2016,2
+Points Allowed,2,5,191,2021,2
+Points Allowed,2,6,206,2019,2
+Points Allowed,2,7,218,2020,2
+Points Allowed,2,8,250,2014,2
+Passing Yards,2,0,2615,2021,2
+Passing Yards,2,1,2521,2020,2
+Passing Yards,2,2,2495,2022,2
+Passing Yards,2,3,2442,2018,2
+Passing Yards,2,4,2433,2019,2
+Passing Yards,2,5,2370,2014,2
+Passing Yards,2,6,2125,2015,2
+Passing Yards,2,7,2056,2016,2
+Passing Yards,2,8,1942,2017,2
+Passing Yards Allowed,2,0,1961,2021,2
+Passing Yards Allowed,2,1,2084,2014,2
+Passing Yards Allowed,2,2,2218,2016,2
+Passing Yards Allowed,2,3,2219,2020,2
+Passing Yards Allowed,2,4,2243,2018,2
+Passing Yards Allowed,2,5,2254,2015,2
+Passing Yards Allowed,2,6,2256,2019,2
+Passing Yards Allowed,2,7,2347,2022,2
+Passing Yards Allowed,2,8,2699,2017,2
+Rushing Yards,2,0,1476,2017,2
+Rushing Yards,2,1,1418,2015,2
+Rushing Yards,2,2,1228,2016,2
+Rushing Yards,2,3,1068,2021,2
+Rushing Yards,2,4,1037,2020,2
+Rushing Yards,2,5,980,2022,2
+Rushing Yards,2,6,960,2018,2
+Rushing Yards,2,7,957,2014,2
+Rushing Yards,2,8,879,2019,2
+Rushing Yards Allowed,2,0,735,2017,2
+Rushing Yards Allowed,2,1,791,2022,2
+Rushing Yards Allowed,2,2,901,2020,2
+Rushing Yards Allowed,2,3,965,2021,2
+Rushing Yards Allowed,2,4,1010,2018,2
+Rushing Yards Allowed,2,5,1045,2015,2
+Rushing Yards Allowed,2,6,1057,2014,2
+Rushing Yards Allowed,2,7,1066,2019,2
+Rushing Yards Allowed,2,8,1076,2016,2
+Total Yards,2,0,3684,2021,2
+Total Yards,2,1,3559,2020,2
+Total Yards,2,2,3543,2015,2
+Total Yards,2,3,3475,2022,2
+Total Yards,2,4,3419,2017,2
+Total Yards,2,5,3403,2018,2
+Total Yards,2,6,3328,2014,2
+Total Yards,2,7,3313,2019,2
+Total Yards,2,8,3284,2016,2
+Total Yards Allowed,2,0,2926,2021,2
+Total Yards Allowed,2,1,3121,2020,2
+Total Yards Allowed,2,2,3139,2022,2
+Total Yards Allowed,2,3,3141,2014,2
+Total Yards Allowed,2,4,3253,2018,2
+Total Yards Allowed,2,5,3295,2016,2
+Total Yards Allowed,2,6,3300,2015,2
+Total Yards Allowed,2,7,3322,2019,2
+Total Yards Allowed,2,8,3435,2017,2
+Pass Attempts,2,0,415,2014,2
+Pass Attempts,2,1,388,2021,2
+Pass Attempts,2,2,368,2020,2
+Pass Attempts,2,3,365,2018,2
+Pass Attempts,2,4,358,2022,2
+Pass Attempts,2,5,354,2019,2
+Pass Attempts,2,6,330,2015,2
+Pass Attempts,2,7,328,2017,2
+Pass Attempts,2,8,326,2016,2
+Rush Attempts,2,0,338,2017,2
+Rush Attempts,2,1,323,2015,2
+Rush Attempts,2,2,302,2016,2
+Rush Attempts,2,3,290,2022,2
+Rush Attempts,2,4,275,2018,2
+Rush Attempts,2,5,270,2021,2
+Rush Attempts,2,6,263,2020,2
+Rush Attempts,2,7,262,2019,2
+Rush Attempts,2,8,253,2014,2
+Points Scored,3,0,295,2018,3
+Points Scored,3,1,280,2017,3
+Points Scored,3,2,269,2022,3
+Points Scored,3,3,266,2016,3
+Points Scored,3,4,256,2020,3
+Points Scored,3,5,255,2019,3
+Points Scored,3,6,231,2021,3
+Points Scored,3,7,220,2015,3
+Points Scored,3,8,193,2014,3
+Points Allowed,3,0,170,2019,3
+Points Allowed,3,1,200,2018,3
+Points Allowed,3,2,203,2014,3
+Points Allowed,3,3,212,2017,3
+Points Allowed,3,4,213,2022,3
+Points Allowed,3,5,215,2020,3
+Points Allowed,3,6,221,2016,3
+Points Allowed,3,7,231,2015,3
+Points Allowed,3,8,236,2021,3
+Passing Yards,3,0,2516,2017,3
+Passing Yards,3,1,2444,2016,3
+Passing Yards,3,2,2319,2022,3
+Passing Yards,3,3,2252,2020,3
+Passing Yards,3,4,2186,2021,3
+Passing Yards,3,5,2181,2019,3
+Passing Yards,3,6,2028,2015,3
+Passing Yards,3,7,1866,2014,3
+Passing Yards,3,8,1815,2018,3
+Passing Yards Allowed,3,0,2216,2014,3
+Passing Yards Allowed,3,1,2327,2019,3
+Passing Yards Allowed,3,2,2339,2015,3
+Passing Yards Allowed,3,3,2616,2022,3
+Passing Yards Allowed,3,4,2661,2021,3
+Passing Yards Allowed,3,5,2682,2020,3
+Passing Yards Allowed,3,6,2719,2016,3
+Passing Yards Allowed,3,7,2730,2018,3
+Passing Yards Allowed,3,8,2836,2017,3
+Rushing Yards,3,0,1721,2018,3
+Rushing Yards,3,1,1655,2016,3
+Rushing Yards,3,2,1624,2015,3
+Rushing Yards,3,3,1605,2019,3
+Rushing Yards,3,4,1600,2022,3
+Rushing Yards,3,5,1480,2021,3
+Rushing Yards,3,6,1470,2017,3
+Rushing Yards,3,7,1453,2020,3
+Rushing Yards,3,8,1420,2014,3
+Rushing Yards Allowed,3,0,965,2018,3
+Rushing Yards Allowed,3,1,972,2017,3
+Rushing Yards Allowed,3,2,1011,2022,3
+Rushing Yards Allowed,3,3,1013,2021,3
+Rushing Yards Allowed,3,4,1094,2019,3
+Rushing Yards Allowed,3,5,1122,2014,3
+Rushing Yards Allowed,3,6,1206,2015,3
+Rushing Yards Allowed,3,7,1240,2020,3
+Rushing Yards Allowed,3,8,1276,2016,3
+Total Yards,3,0,4099,2016,3
+Total Yards,3,1,3986,2017,3
+Total Yards,3,2,3919,2022,3
+Total Yards,3,3,3786,2019,3
+Total Yards,3,4,3706,2020,3
+Total Yards,3,5,3666,2021,3
+Total Yards,3,6,3653,2015,3
+Total Yards,3,7,3537,2018,3
+Total Yards,3,8,3286,2014,3
+Total Yards Allowed,3,0,3338,2014,3
+Total Yards Allowed,3,1,3421,2019,3
+Total Yards Allowed,3,2,3545,2015,3
+Total Yards Allowed,3,3,3628,2022,3
+Total Yards Allowed,3,4,3675,2021,3
+Total Yards Allowed,3,5,3695,2018,3
+Total Yards Allowed,3,6,3809,2017,3
+Total Yards Allowed,3,7,3922,2020,3
+Total Yards Allowed,3,8,3995,2016,3
+Pass Attempts,3,0,343,2021,3
+Pass Attempts,3,1,328,2017,3
+Pass Attempts,3,2,310,2020,3
+Pass Attempts,3,3,301,2016,3
+Pass Attempts,3,4,299,2022,3
+Pass Attempts,3,5,298,2019,3
+Pass Attempts,3,6,295,2015,3
+Pass Attempts,3,7,277,2014,3
+Pass Attempts,3,8,258,2018,3
+Rush Attempts,3,0,376,2018,3
+Rush Attempts,3,1,346,2016,3
+Rush Attempts,3,2,336,2015,3
+Rush Attempts,3,3,335,2014,3
+Rush Attempts,3,4,333,2021,3
+Rush Attempts,3,5,330,2019,3
+Rush Attempts,3,6,329,2017,3
+Rush Attempts,3,7,319,2022,3
+Rush Attempts,3,8,316,2020,3
+Points Scored,4,0,270,2021,4
+Points Scored,4,1,266,2018,4
+Points Scored,4,2,254,2022,4
+Points Scored,4,3,241,2016,4
+Points Scored,4,4,240,2014,4
+Points Scored,4,5,231,2020,4
+Points Scored,4,6,225,2017,4
+Points Scored,4,7,221,2015,4
+Points Scored,4,8,190,2019,4
+Points Allowed,4,0,133,2016,4
+Points Allowed,4,1,175,2015,4
+Points Allowed,4,2,175,2019,4
+Points Allowed,4,3,175,2021,4
+Points Allowed,4,4,181,2018,4
+Points Allowed,4,5,188,2014,4
+Points Allowed,4,6,198,2022,4
+Points Allowed,4,7,238,2017,4
+Points Allowed,4,8,241,2020,4
+Passing Yards,4,0,2531,2018,4
+Passing Yards,4,1,2526,2022,4
+Passing Yards,4,2,2450,2017,4
+Passing Yards,4,3,2298,2020,4
+Passing Yards,4,4,2098,2015,4
+Passing Yards,4,5,2089,2021,4
+Passing Yards,4,6,1997,2019,4
+Passing Yards,4,7,1908,2016,4
+Passing Yards,4,8,1828,2014,4
+Passing Yards Allowed,4,0,2185,2019,4
+Passing Yards Allowed,4,1,2203,2014,4
+Passing Yards Allowed,4,2,2233,2016,4
+Passing Yards Allowed,4,3,2308,2017,4
+Passing Yards Allowed,4,4,2446,2020,4
+Passing Yards Allowed,4,5,2476,2018,4
+Passing Yards Allowed,4,6,2502,2015,4
+Passing Yards Allowed,4,7,2515,2021,4
+Passing Yards Allowed,4,8,2580,2022,4
+Rushing Yards,4,0,1555,2016,4
+Rushing Yards,4,1,1416,2022,4
+Rushing Yards,4,2,1377,2021,4
+Rushing Yards,4,3,1300,2015,4
+Rushing Yards,4,4,1297,2014,4
+Rushing Yards,4,5,1253,2020,4
+Rushing Yards,4,6,1211,2018,4
+Rushing Yards,4,7,1203,2019,4
+Rushing Yards,4,8,815,2017,4
+Rushing Yards Allowed,4,0,871,2020,4
+Rushing Yards Allowed,4,1,898,2015,4
+Rushing Yards Allowed,4,2,907,2021,4
+Rushing Yards Allowed,4,3,980,2016,4
+Rushing Yards Allowed,4,4,1003,2018,4
+Rushing Yards Allowed,4,5,1039,2017,4
+Rushing Yards Allowed,4,6,1078,2022,4
+Rushing Yards Allowed,4,7,1122,2019,4
+Rushing Yards Allowed,4,8,1159,2014,4
+Total Yards,4,0,3942,2022,4
+Total Yards,4,1,3743,2018,4
+Total Yards,4,2,3551,2020,4
+Total Yards,4,3,3466,2021,4
+Total Yards,4,4,3464,2016,4
+Total Yards,4,5,3398,2015,4
+Total Yards,4,6,3265,2017,4
+Total Yards,4,7,3200,2019,4
+Total Yards,4,8,3125,2014,4
+Total Yards Allowed,4,0,3213,2016,4
+Total Yards Allowed,4,1,3308,2019,4
+Total Yards Allowed,4,2,3318,2020,4
+Total Yards Allowed,4,3,3348,2017,4
+Total Yards Allowed,4,4,3362,2014,4
+Total Yards Allowed,4,5,3400,2015,4
+Total Yards Allowed,4,6,3422,2021,4
+Total Yards Allowed,4,7,3480,2018,4
+Total Yards Allowed,4,8,3658,2022,4
+Pass Attempts,4,0,341,2017,4
+Pass Attempts,4,1,324,2020,4
+Pass Attempts,4,2,323,2022,4
+Pass Attempts,4,3,315,2019,4
+Pass Attempts,4,4,304,2015,4
+Pass Attempts,4,5,304,2018,4
+Pass Attempts,4,6,287,2021,4
+Pass Attempts,4,7,283,2016,4
+Pass Attempts,4,8,280,2014,4
+Rush Attempts,4,0,351,2016,4
+Rush Attempts,4,1,339,2022,4
+Rush Attempts,4,2,338,2014,4
+Rush Attempts,4,3,338,2021,4
+Rush Attempts,4,4,332,2020,4
+Rush Attempts,4,5,327,2018,4
+Rush Attempts,4,6,306,2015,4
+Rush Attempts,4,7,295,2019,4
+Rush Attempts,4,8,255,2017,4
+Points Scored,5,0,171,2015,5
+Points Scored,5,1,169,2017,5
+Points Scored,5,2,165,2022,5
+Points Scored,5,3,158,2014,5
+Points Scored,5,4,158,2018,5
+Points Scored,5,5,155,2019,5
+Points Scored,5,6,134,2016,5
+Points Scored,5,7,126,2020,5
+Points Scored,5,8,106,2021,5
+Points Allowed,5,0,196,2015,5
+Points Allowed,5,1,200,2018,5
+Points Allowed,5,2,224,2016,5
+Points Allowed,5,3,231,2017,5
+Points Allowed,5,4,236,2014,5
+Points Allowed,5,5,246,2019,5
+Points Allowed,5,6,269,2020,5
+Points Allowed,5,7,275,2021,5
+Points Allowed,5,8,297,2022,5
+Passing Yards,5,0,2290,2015,5
+Passing Yards,5,1,2215,2014,5
+Passing Yards,5,2,2188,2022,5
+Passing Yards,5,3,2172,2016,5
+Passing Yards,5,4,2126,2019,5
+Passing Yards,5,5,1959,2018,5
+Passing Yards,5,6,1885,2021,5
+Passing Yards,5,7,1848,2020,5
+Passing Yards,5,8,1634,2017,5
+Passing Yards Allowed,5,0,2081,2014,5
+Passing Yards Allowed,5,1,2132,2016,5
+Passing Yards Allowed,5,2,2185,2015,5
+Passing Yards Allowed,5,3,2247,2018,5
+Passing Yards Allowed,5,4,2365,2017,5
+Passing Yards Allowed,5,5,2376,2019,5
+Passing Yards Allowed,5,6,2503,2020,5
+Passing Yards Allowed,5,7,2595,2021,5
+Passing Yards Allowed,5,8,2656,2022,5
+Rushing Yards,5,0,1160,2018,5
+Rushing Yards,5,1,1120,2016,5
+Rushing Yards,5,2,1073,2020,5
+Rushing Yards,5,3,1056,2015,5
+Rushing Yards,5,4,1045,2014,5
+Rushing Yards,5,5,1003,2021,5
+Rushing Yards,5,6,951,2022,5
+Rushing Yards,5,7,901,2017,5
+Rushing Yards,5,8,898,2019,5
+Rushing Yards Allowed,5,0,902,2016,5
+Rushing Yards Allowed,5,1,925,2020,5
+Rushing Yards Allowed,5,2,953,2019,5
+Rushing Yards Allowed,5,3,1060,2017,5
+Rushing Yards Allowed,5,4,1121,2022,5
+Rushing Yards Allowed,5,5,1132,2018,5
+Rushing Yards Allowed,5,6,1185,2015,5
+Rushing Yards Allowed,5,7,1301,2021,5
+Rushing Yards Allowed,5,8,1373,2014,5
+Total Yards,5,0,3347,2015,5
+Total Yards,5,1,3292,2016,5
+Total Yards,5,2,3260,2014,5
+Total Yards,5,3,3140,2022,5
+Total Yards,5,4,3119,2018,5
+Total Yards,5,5,3025,2019,5
+Total Yards,5,6,2921,2020,5
+Total Yards,5,7,2888,2021,5
+Total Yards,5,8,2535,2017,5
+Total Yards Allowed,5,0,3035,2016,5
+Total Yards Allowed,5,1,3329,2019,5
+Total Yards Allowed,5,2,3370,2015,5
+Total Yards Allowed,5,3,3380,2018,5
+Total Yards Allowed,5,4,3425,2017,5
+Total Yards Allowed,5,5,3428,2020,5
+Total Yards Allowed,5,6,3454,2014,5
+Total Yards Allowed,5,7,3778,2022,5
+Total Yards Allowed,5,8,3896,2021,5
+Pass Attempts,5,0,379,2019,5
+Pass Attempts,5,1,378,2014,5
+Pass Attempts,5,2,376,2022,5
+Pass Attempts,5,3,368,2015,5
+Pass Attempts,5,4,368,2021,5
+Pass Attempts,5,5,365,2016,5
+Pass Attempts,5,6,344,2018,5
+Pass Attempts,5,7,341,2020,5
+Pass Attempts,5,8,339,2017,5
+Rush Attempts,5,0,281,2018,5
+Rush Attempts,5,1,265,2014,5
+Rush Attempts,5,2,260,2015,5
+Rush Attempts,5,3,258,2016,5
+Rush Attempts,5,4,251,2017,5
+Rush Attempts,5,5,233,2020,5
+Rush Attempts,5,6,233,2022,5
+Rush Attempts,5,7,227,2021,5
+Rush Attempts,5,8,210,2019,5
+Points Scored,6,0,247,2015,6
+Points Scored,6,1,238,2014,6
+Points Scored,6,2,235,2021,6
+Points Scored,6,3,230,2017,6
+Points Scored,6,4,223,2019,6
+Points Scored,6,5,223,2020,6
+Points Scored,6,6,184,2016,6
+Points Scored,6,7,177,2022,6
+Points Scored,6,8,175,2018,6
+Points Allowed,6,0,180,2015,6
+Points Allowed,6,1,190,2020,6
+Points Allowed,6,2,201,2014,6
+Points Allowed,6,3,205,2021,6
+Points Allowed,6,4,206,2017,6
+Points Allowed,6,5,225,2016,6
+Points Allowed,6,6,228,2018,6
+Points Allowed,6,7,233,2019,6
+Points Allowed,6,8,238,2022,6
+Passing Yards,6,0,2712,2020,6
+Passing Yards,6,1,2649,2018,6
+Passing Yards,6,2,2603,2017,6
+Passing Yards,6,3,2507,2014,6
+Passing Yards,6,4,2463,2022,6
+Passing Yards,6,5,2386,2021,6
+Passing Yards,6,6,2351,2019,6
+Passing Yards,6,7,2278,2016,6
+Passing Yards,6,8,2145,2015,6
+Passing Yards Allowed,6,0,2090,2020,6
+Passing Yards Allowed,6,1,2312,2017,6
+Passing Yards Allowed,6,2,2315,2014,6
+Passing Yards Allowed,6,3,2349,2018,6
+Passing Yards Allowed,6,4,2461,2016,6
+Passing Yards Allowed,6,5,2469,2015,6
+Passing Yards Allowed,6,6,2576,2022,6
+Passing Yards Allowed,6,7,2671,2019,6
+Passing Yards Allowed,6,8,2688,2021,6
+Rushing Yards,6,0,1463,2015,6
+Rushing Yards,6,1,1249,2014,6
+Rushing Yards,6,2,1210,2021,6
+Rushing Yards,6,3,1152,2016,6
+Rushing Yards,6,4,958,2019,6
+Rushing Yards,6,5,940,2020,6
+Rushing Yards,6,6,935,2017,6
+Rushing Yards,6,7,836,2022,6
+Rushing Yards,6,8,732,2018,6
+Rushing Yards Allowed,6,0,1020,2020,6
+Rushing Yards Allowed,6,1,1028,2019,6
+Rushing Yards Allowed,6,2,1035,2021,6
+Rushing Yards Allowed,6,3,1041,2022,6
+Rushing Yards Allowed,6,4,1049,2017,6
+Rushing Yards Allowed,6,5,1051,2018,6
+Rushing Yards Allowed,6,6,1063,2014,6
+Rushing Yards Allowed,6,7,1072,2016,6
+Rushing Yards Allowed,6,8,1327,2015,6
+Total Yards,6,0,3756,2014,6
+Total Yards,6,1,3652,2020,6
+Total Yards,6,2,3608,2015,6
+Total Yards,6,3,3597,2021,6
+Total Yards,6,4,3538,2017,6
+Total Yards,6,5,3430,2016,6
+Total Yards,6,6,3381,2018,6
+Total Yards,6,7,3310,2019,6
+Total Yards,6,8,3300,2022,6
+Total Yards Allowed,6,0,3110,2020,6
+Total Yards Allowed,6,1,3361,2017,6
+Total Yards Allowed,6,2,3379,2014,6
+Total Yards Allowed,6,3,3400,2018,6
+Total Yards Allowed,6,4,3533,2016,6
+Total Yards Allowed,6,5,3617,2022,6
+Total Yards Allowed,6,6,3700,2019,6
+Total Yards Allowed,6,7,3723,2021,6
+Total Yards Allowed,6,8,3796,2015,6
+Pass Attempts,6,0,385,2020,6
+Pass Attempts,6,1,384,2022,6
+Pass Attempts,6,2,380,2017,6
+Pass Attempts,6,3,375,2018,6
+Pass Attempts,6,4,362,2019,6
+Pass Attempts,6,5,356,2014,6
+Pass Attempts,6,6,350,2016,6
+Pass Attempts,6,7,336,2021,6
+Pass Attempts,6,8,313,2015,6
+Rush Attempts,6,0,302,2015,6
+Rush Attempts,6,1,290,2014,6
+Rush Attempts,6,2,273,2016,6
+Rush Attempts,6,3,266,2017,6
+Rush Attempts,6,4,264,2021,6
+Rush Attempts,6,5,261,2020,6
+Rush Attempts,6,6,260,2019,6
+Rush Attempts,6,7,242,2018,6
+Rush Attempts,6,8,241,2022,6
+Points Scored,7,0,261,2021,7
+Points Scored,7,1,231,2022,7
+Points Scored,7,2,207,2020,7
+Points Scored,7,3,178,2016,7
+Points Scored,7,4,177,2014,7
+Points Scored,7,5,160,2019,7
+Points Scored,7,6,154,2017,7
+Points Scored,7,7,152,2015,7
+Points Scored,7,8,128,2018,7
+Points Allowed,7,0,185,2014,7
+Points Allowed,7,1,201,2016,7
+Points Allowed,7,2,230,2020,7
+Points Allowed,7,3,236,2017,7
+Points Allowed,7,4,243,2021,7
+Points Allowed,7,5,246,2019,7
+Points Allowed,7,6,250,2018,7
+Points Allowed,7,7,272,2022,7
+Points Allowed,7,8,280,2015,7
+Passing Yards,7,0,2973,2022,7
+Passing Yards,7,1,2596,2020,7
+Passing Yards,7,2,2366,2021,7
+Passing Yards,7,3,2281,2018,7
+Passing Yards,7,4,2188,2016,7
+Passing Yards,7,5,2102,2017,7
+Passing Yards,7,6,2093,2019,7
+Passing Yards,7,7,2030,2014,7
+Passing Yards,7,8,1813,2015,7
+Passing Yards Allowed,7,0,2259,2018,7
+Passing Yards Allowed,7,1,2351,2014,7
+Passing Yards Allowed,7,2,2387,2021,7
+Passing Yards Allowed,7,3,2458,2019,7
+Passing Yards Allowed,7,4,2551,2015,7
+Passing Yards Allowed,7,5,2575,2016,7
+Passing Yards Allowed,7,6,2581,2020,7
+Passing Yards Allowed,7,7,2673,2022,7
+Passing Yards Allowed,7,8,2778,2017,7
+Rushing Yards,7,0,1138,2014,7
+Rushing Yards,7,1,1096,2015,7
+Rushing Yards,7,2,1050,2021,7
+Rushing Yards,7,3,983,2020,7
+Rushing Yards,7,4,971,2016,7
+Rushing Yards,7,5,941,2017,7
+Rushing Yards,7,6,926,2022,7
+Rushing Yards,7,7,725,2019,7
+Rushing Yards,7,8,655,2018,7
+Rushing Yards Allowed,7,0,1091,2022,7
+Rushing Yards Allowed,7,1,1097,2016,7
+Rushing Yards Allowed,7,2,1115,2021,7
+Rushing Yards Allowed,7,3,1216,2018,7
+Rushing Yards Allowed,7,4,1223,2020,7
+Rushing Yards Allowed,7,5,1285,2014,7
+Rushing Yards Allowed,7,6,1321,2017,7
+Rushing Yards Allowed,7,7,1334,2019,7
+Rushing Yards Allowed,7,8,1422,2015,7
+Total Yards,7,0,3900,2022,7
+Total Yards,7,1,3580,2020,7
+Total Yards,7,2,3416,2021,7
+Total Yards,7,3,3168,2014,7
+Total Yards,7,4,3159,2016,7
+Total Yards,7,5,3043,2017,7
+Total Yards,7,6,2937,2018,7
+Total Yards,7,7,2910,2015,7
+Total Yards,7,8,2818,2019,7
+Total Yards Allowed,7,0,3476,2018,7
+Total Yards Allowed,7,1,3502,2021,7
+Total Yards Allowed,7,2,3637,2014,7
+Total Yards Allowed,7,3,3673,2016,7
+Total Yards Allowed,7,4,3765,2022,7
+Total Yards Allowed,7,5,3793,2019,7
+Total Yards Allowed,7,6,3805,2020,7
+Total Yards Allowed,7,7,3974,2015,7
+Total Yards Allowed,7,8,4100,2017,7
+Pass Attempts,7,0,412,2022,7
+Pass Attempts,7,1,401,2018,7
+Pass Attempts,7,2,373,2019,7
+Pass Attempts,7,3,366,2016,7
+Pass Attempts,7,4,366,2021,7
+Pass Attempts,7,5,361,2017,7
+Pass Attempts,7,6,356,2020,7
+Pass Attempts,7,7,352,2014,7
+Pass Attempts,7,8,332,2015,7
+Rush Attempts,7,0,265,2014,7
+Rush Attempts,7,1,264,2021,7
+Rush Attempts,7,2,246,2015,7
+Rush Attempts,7,3,243,2020,7
+Rush Attempts,7,4,236,2016,7
+Rush Attempts,7,5,210,2019,7
+Rush Attempts,7,6,208,2017,7
+Rush Attempts,7,7,208,2022,7
+Rush Attempts,7,8,194,2018,7
+Points Scored,8,0,262,2022,8
+Points Scored,8,1,246,2020,8
+Points Scored,8,2,243,2021,8
+Points Scored,8,3,227,2018,8
+Points Scored,8,4,221,2015,8
+Points Scored,8,5,215,2017,8
+Points Scored,8,6,210,2016,8
+Points Scored,8,7,193,2019,8
+Points Scored,8,8,166,2014,8
+Points Allowed,8,0,198,2015,8
+Points Allowed,8,1,205,2018,8
+Points Allowed,8,2,211,2020,8
+Points Allowed,8,3,212,2022,8
+Points Allowed,8,4,213,2016,8
+Points Allowed,8,5,214,2017,8
+Points Allowed,8,6,220,2014,8
+Points Allowed,8,7,240,2019,8
+Points Allowed,8,8,256,2021,8
+Passing Yards,8,0,3313,2020,8
+Passing Yards,8,1,2884,2021,8
+Passing Yards,8,2,2826,2022,8
+Passing Yards,8,3,2772,2017,8
+Passing Yards,8,4,2570,2015,8
+Passing Yards,8,5,2528,2016,8
+Passing Yards,8,6,2517,2018,8
+Passing Yards,8,7,2311,2019,8
+Passing Yards,8,8,2048,2014,8
+Passing Yards Allowed,8,0,2238,2019,8
+Passing Yards Allowed,8,1,2310,2022,8
+Passing Yards Allowed,8,2,2360,2020,8
+Passing Yards Allowed,8,3,2483,2015,8
+Passing Yards Allowed,8,4,2507,2017,8
+Passing Yards Allowed,8,5,2548,2016,8
+Passing Yards Allowed,8,6,2551,2014,8
+Passing Yards Allowed,8,7,2718,2018,8
+Passing Yards Allowed,8,8,2721,2021,8
+Rushing Yards,8,0,1158,2018,8
+Rushing Yards,8,1,1132,2014,8
+Rushing Yards,8,2,1073,2016,8
+Rushing Yards,8,3,1066,2017,8
+Rushing Yards,8,4,1038,2022,8
+Rushing Yards,8,5,949,2015,8
+Rushing Yards,8,6,912,2019,8
+Rushing Yards,8,7,893,2021,8
+Rushing Yards,8,8,637,2020,8
+Rushing Yards Allowed,8,0,956,2015,8
+Rushing Yards Allowed,8,1,1015,2017,8
+Rushing Yards Allowed,8,2,1020,2018,8
+Rushing Yards Allowed,8,3,1028,2016,8
+Rushing Yards Allowed,8,4,1133,2020,8
+Rushing Yards Allowed,8,5,1153,2014,8
+Rushing Yards Allowed,8,6,1164,2022,8
+Rushing Yards Allowed,8,7,1176,2021,8
+Rushing Yards Allowed,8,8,1423,2019,8
+Total Yards,8,0,3951,2020,8
+Total Yards,8,1,3864,2022,8
+Total Yards,8,2,3838,2017,8
+Total Yards,8,3,3778,2021,8
+Total Yards,8,4,3676,2018,8
+Total Yards,8,5,3602,2016,8
+Total Yards,8,6,3520,2015,8
+Total Yards,8,7,3224,2019,8
+Total Yards,8,8,3181,2014,8
+Total Yards Allowed,8,0,3440,2015,8
+Total Yards Allowed,8,1,3474,2022,8
+Total Yards Allowed,8,2,3493,2020,8
+Total Yards Allowed,8,3,3523,2017,8
+Total Yards Allowed,8,4,3577,2016,8
+Total Yards Allowed,8,5,3661,2019,8
+Total Yards Allowed,8,6,3705,2014,8
+Total Yards Allowed,8,7,3738,2018,8
+Total Yards Allowed,8,8,3897,2021,8
+Pass Attempts,8,0,381,2020,8
+Pass Attempts,8,1,380,2021,8
+Pass Attempts,8,2,379,2022,8
+Pass Attempts,8,3,373,2017,8
+Pass Attempts,8,4,364,2016,8
+Pass Attempts,8,5,344,2019,8
+Pass Attempts,8,6,343,2018,8
+Pass Attempts,8,7,342,2014,8
+Pass Attempts,8,8,341,2015,8
+Rush Attempts,8,0,292,2015,8
+Rush Attempts,8,1,280,2017,8
+Rush Attempts,8,2,272,2018,8
+Rush Attempts,8,3,270,2014,8
+Rush Attempts,8,4,256,2022,8
+Rush Attempts,8,5,246,2016,8
+Rush Attempts,8,6,242,2020,8
+Rush Attempts,8,7,240,2021,8
+Rush Attempts,8,8,226,2019,8
+Points Scored,9,0,246,2022,9
+Points Scored,9,1,245,2021,9
+Points Scored,9,2,232,2019,9
+Points Scored,9,3,221,2020,9
+Points Scored,9,4,215,2018,9
+Points Scored,9,5,203,2017,9
+Points Scored,9,6,185,2016,9
+Points Scored,9,7,143,2014,9
+Points Scored,9,8,131,2015,9
+Points Allowed,9,0,148,2021,9
+Points Allowed,9,1,165,2016,9
+Points Allowed,9,2,165,2017,9
+Points Allowed,9,3,179,2018,9
+Points Allowed,9,4,187,2015,9
+Points Allowed,9,5,188,2019,9
+Points Allowed,9,6,190,2020,9
+Points Allowed,9,7,195,2022,9
+Points Allowed,9,8,240,2014,9
+Passing Yards,9,0,2745,2022,9
+Passing Yards,9,1,2667,2021,9
+Passing Yards,9,2,2511,2017,9
+Passing Yards,9,3,2311,2016,9
+Passing Yards,9,4,2238,2018,9
+Passing Yards,9,5,2212,2020,9
+Passing Yards,9,6,2191,2019,9
+Passing Yards,9,7,1849,2015,9
+Passing Yards,9,8,1779,2014,9
+Passing Yards Allowed,9,0,2099,2015,9
+Passing Yards Allowed,9,1,2115,2018,9
+Passing Yards Allowed,9,2,2163,2021,9
+Passing Yards Allowed,9,3,2261,2020,9
+Passing Yards Allowed,9,4,2265,2017,9
+Passing Yards Allowed,9,5,2278,2014,9
+Passing Yards Allowed,9,6,2364,2016,9
+Passing Yards Allowed,9,7,2430,2022,9
+Passing Yards Allowed,9,8,2653,2019,9
+Rushing Yards,9,0,1229,2018,9
+Rushing Yards,9,1,1066,2014,9
+Rushing Yards,9,2,1015,2016,9
+Rushing Yards,9,3,961,2022,9
+Rushing Yards,9,4,952,2021,9
+Rushing Yards,9,5,950,2020,9
+Rushing Yards,9,6,910,2015,9
+Rushing Yards,9,7,909,2017,9
+Rushing Yards,9,8,738,2019,9
+Rushing Yards Allowed,9,0,809,2019,9
+Rushing Yards Allowed,9,1,825,2021,9
+Rushing Yards Allowed,9,2,882,2016,9
+Rushing Yards Allowed,9,3,908,2017,9
+Rushing Yards Allowed,9,4,917,2015,9
+Rushing Yards Allowed,9,5,958,2018,9
+Rushing Yards Allowed,9,6,998,2022,9
+Rushing Yards Allowed,9,7,1124,2020,9
+Rushing Yards Allowed,9,8,1150,2014,9
+Total Yards,9,0,3707,2022,9
+Total Yards,9,1,3620,2021,9
+Total Yards,9,2,3468,2018,9
+Total Yards,9,3,3420,2017,9
+Total Yards,9,4,3326,2016,9
+Total Yards,9,5,3162,2020,9
+Total Yards,9,6,2930,2019,9
+Total Yards,9,7,2846,2014,9
+Total Yards,9,8,2760,2015,9
+Total Yards Allowed,9,0,2988,2021,9
+Total Yards Allowed,9,1,3016,2015,9
+Total Yards Allowed,9,2,3073,2018,9
+Total Yards Allowed,9,3,3173,2017,9
+Total Yards Allowed,9,4,3246,2016,9
+Total Yards Allowed,9,5,3385,2020,9
+Total Yards Allowed,9,6,3428,2022,9
+Total Yards Allowed,9,7,3429,2014,9
+Total Yards Allowed,9,8,3463,2019,9
+Pass Attempts,9,0,390,2017,9
+Pass Attempts,9,1,372,2019,9
+Pass Attempts,9,2,368,2022,9
+Pass Attempts,9,3,367,2016,9
+Pass Attempts,9,4,350,2021,9
+Pass Attempts,9,5,343,2020,9
+Pass Attempts,9,6,339,2015,9
+Pass Attempts,9,7,331,2018,9
+Pass Attempts,9,8,330,2014,9
+Rush Attempts,9,0,286,2021,9
+Rush Attempts,9,1,278,2014,9
+Rush Attempts,9,2,276,2018,9
+Rush Attempts,9,3,262,2017,9
+Rush Attempts,9,4,260,2015,9
+Rush Attempts,9,5,256,2022,9
+Rush Attempts,9,6,248,2016,9
+Rush Attempts,9,7,243,2019,9
+Rush Attempts,9,8,242,2020,9
+Points Scored,10,0,308,2019,10
+Points Scored,10,1,297,2020,10
+Points Scored,10,2,293,2021,10
+Points Scored,10,3,283,2017,10
+Points Scored,10,4,246,2015,10
+Points Scored,10,5,235,2016,10
+Points Scored,10,6,227,2014,10
+Points Scored,10,7,218,2018,10
+Points Scored,10,8,216,2022,10
+Points Allowed,10,0,147,2019,10
+Points Allowed,10,1,159,2016,10
+Points Allowed,10,2,166,2014,10
+Points Allowed,10,3,177,2015,10
+Points Allowed,10,4,194,2017,10
+Points Allowed,10,5,196,2020,10
+Points Allowed,10,6,199,2021,10
+Points Allowed,10,7,209,2018,10
+Points Allowed,10,8,255,2022,10
+Passing Yards,10,0,3233,2020,10
+Passing Yards,10,1,3021,2022,10
+Passing Yards,10,2,2965,2017,10
+Passing Yards,10,3,2716,2019,10
+Passing Yards,10,4,2715,2021,10
+Passing Yards,10,5,2548,2018,10
+Passing Yards,10,6,2530,2016,10
+Passing Yards,10,7,2382,2015,10
+Passing Yards,10,8,2263,2014,10
+Passing Yards Allowed,10,0,2014,2018,10
+Passing Yards Allowed,10,1,2055,2015,10
+Passing Yards Allowed,10,2,2140,2014,10
+Passing Yards Allowed,10,3,2238,2019,10
+Passing Yards Allowed,10,4,2257,2020,10
+Passing Yards Allowed,10,5,2260,2021,10
+Passing Yards Allowed,10,6,2322,2017,10
+Passing Yards Allowed,10,7,2345,2016,10
+Passing Yards Allowed,10,8,2353,2022,10
+Rushing Yards,10,0,1381,2021,10
+Rushing Yards,10,1,1361,2014,10
+Rushing Yards,10,2,1304,2019,10
+Rushing Yards,10,3,1285,2017,10
+Rushing Yards,10,4,1173,2015,10
+Rushing Yards,10,5,1157,2016,10
+Rushing Yards,10,6,1123,2020,10
+Rushing Yards,10,7,1001,2022,10
+Rushing Yards,10,8,953,2018,10
+Rushing Yards Allowed,10,0,824,2019,10
+Rushing Yards Allowed,10,1,851,2017,10
+Rushing Yards Allowed,10,2,855,2014,10
+Rushing Yards Allowed,10,3,974,2015,10
+Rushing Yards Allowed,10,4,1003,2021,10
+Rushing Yards Allowed,10,5,1026,2016,10
+Rushing Yards Allowed,10,6,1113,2020,10
+Rushing Yards Allowed,10,7,1161,2022,10
+Rushing Yards Allowed,10,8,1312,2018,10
+Total Yards,10,0,4356,2020,10
+Total Yards,10,1,4251,2017,10
+Total Yards,10,2,4096,2021,10
+Total Yards,10,3,4023,2022,10
+Total Yards,10,4,4021,2019,10
+Total Yards,10,5,3687,2016,10
+Total Yards,10,6,3624,2014,10
+Total Yards,10,7,3555,2015,10
+Total Yards,10,8,3501,2018,10
+Total Yards Allowed,10,0,2995,2014,10
+Total Yards Allowed,10,1,3029,2015,10
+Total Yards Allowed,10,2,3063,2019,10
+Total Yards Allowed,10,3,3173,2017,10
+Total Yards Allowed,10,4,3263,2021,10
+Total Yards Allowed,10,5,3326,2018,10
+Total Yards Allowed,10,6,3370,2020,10
+Total Yards Allowed,10,7,3371,2016,10
+Total Yards Allowed,10,8,3514,2022,10
+Pass Attempts,10,0,400,2022,10
+Pass Attempts,10,1,380,2018,10
+Pass Attempts,10,2,379,2017,10
+Pass Attempts,10,3,351,2020,10
+Pass Attempts,10,4,347,2021,10
+Pass Attempts,10,5,346,2016,10
+Pass Attempts,10,6,343,2019,10
+Pass Attempts,10,7,341,2015,10
+Pass Attempts,10,8,335,2014,10
+Rush Attempts,10,0,330,2019,10
+Rush Attempts,10,1,318,2014,10
+Rush Attempts,10,2,305,2016,10
+Rush Attempts,10,3,298,2015,10
+Rush Attempts,10,4,296,2017,10
+Rush Attempts,10,5,293,2020,10
+Rush Attempts,10,6,293,2021,10
+Rush Attempts,10,7,249,2018,10
+Rush Attempts,10,8,237,2022,10
+Points Scored,11,0,221,2022,11
+Points Scored,11,1,206,2018,11
+Points Scored,11,2,202,2021,11
+Points Scored,11,3,201,2014,11
+Points Scored,11,4,196,2015,11
+Points Scored,11,5,190,2016,11
+Points Scored,11,6,178,2017,11
+Points Scored,11,7,176,2020,11
+Points Scored,11,8,157,2019,11
+Points Allowed,11,0,203,2016,11
+Points Allowed,11,1,205,2015,11
+Points Allowed,11,2,213,2021,11
+Points Allowed,11,3,223,2019,11
+Points Allowed,11,4,230,2018,11
+Points Allowed,11,5,231,2017,11
+Points Allowed,11,6,245,2022,11
+Points Allowed,11,7,250,2014,11
+Points Allowed,11,8,264,2020,11
+Passing Yards,11,0,2643,2016,11
+Passing Yards,11,1,2560,2014,11
+Passing Yards,11,2,2245,2015,11
+Passing Yards,11,3,2211,2018,11
+Passing Yards,11,4,2166,2021,11
+Passing Yards,11,5,2136,2017,11
+Passing Yards,11,6,1995,2022,11
+Passing Yards,11,7,1667,2020,11
+Passing Yards,11,8,1607,2019,11
+Passing Yards Allowed,11,0,2093,2018,11
+Passing Yards Allowed,11,1,2155,2015,11
+Passing Yards Allowed,11,2,2298,2017,11
+Passing Yards Allowed,11,3,2392,2019,11
+Passing Yards Allowed,11,4,2438,2016,11
+Passing Yards Allowed,11,5,2462,2021,11
+Passing Yards Allowed,11,6,2541,2020,11
+Passing Yards Allowed,11,7,2566,2014,11
+Passing Yards Allowed,11,8,2938,2022,11
+Rushing Yards,11,0,1340,2022,11
+Rushing Yards,11,1,1257,2019,11
+Rushing Yards,11,2,1246,2020,11
+Rushing Yards,11,3,1155,2018,11
+Rushing Yards,11,4,1148,2015,11
+Rushing Yards,11,5,1113,2017,11
+Rushing Yards,11,6,1031,2021,11
+Rushing Yards,11,7,1005,2014,11
+Rushing Yards,11,8,892,2016,11
+Rushing Yards Allowed,11,0,974,2022,11
+Rushing Yards Allowed,11,1,1066,2021,11
+Rushing Yards Allowed,11,2,1100,2020,11
+Rushing Yards Allowed,11,3,1125,2017,11
+Rushing Yards Allowed,11,4,1141,2018,11
+Rushing Yards Allowed,11,5,1164,2019,11
+Rushing Yards Allowed,11,6,1191,2016,11
+Rushing Yards Allowed,11,7,1286,2014,11
+Rushing Yards Allowed,11,8,1344,2015,11
+Total Yards,11,0,3565,2014,11
+Total Yards,11,1,3535,2016,11
+Total Yards,11,2,3394,2015,11
+Total Yards,11,3,3366,2018,11
+Total Yards,11,4,3335,2022,11
+Total Yards,11,5,3250,2017,11
+Total Yards,11,6,3198,2021,11
+Total Yards,11,7,2914,2020,11
+Total Yards,11,8,2865,2019,11
+Total Yards Allowed,11,0,3235,2018,11
+Total Yards Allowed,11,1,3423,2017,11
+Total Yards Allowed,11,2,3500,2015,11
+Total Yards Allowed,11,3,3529,2021,11
+Total Yards Allowed,11,4,3556,2019,11
+Total Yards Allowed,11,5,3630,2016,11
+Total Yards Allowed,11,6,3642,2020,11
+Total Yards Allowed,11,7,3853,2014,11
+Total Yards Allowed,11,8,3912,2022,11
+Pass Attempts,11,0,371,2016,11
+Pass Attempts,11,1,363,2018,11
+Pass Attempts,11,2,356,2014,11
+Pass Attempts,11,3,352,2021,11
+Pass Attempts,11,4,346,2017,11
+Pass Attempts,11,5,333,2022,11
+Pass Attempts,11,6,321,2015,11
+Pass Attempts,11,7,310,2020,11
+Pass Attempts,11,8,292,2019,11
+Rush Attempts,11,0,317,2019,11
+Rush Attempts,11,1,298,2020,11
+Rush Attempts,11,2,288,2022,11
+Rush Attempts,11,3,281,2015,11
+Rush Attempts,11,4,281,2021,11
+Rush Attempts,11,5,270,2014,11
+Rush Attempts,11,6,266,2018,11
+Rush Attempts,11,7,263,2017,11
+Rush Attempts,11,8,258,2016,11
+Points Scored,12,0,276,2020,12
+Points Scored,12,1,261,2018,12
+Points Scored,12,2,258,2014,12
+Points Scored,12,3,247,2017,12
+Points Scored,12,4,236,2021,12
+Points Scored,12,5,235,2019,12
+Points Scored,12,6,215,2016,12
+Points Scored,12,7,210,2022,12
+Points Scored,12,8,166,2015,12
+Points Allowed,12,0,216,2017,12
+Points Allowed,12,1,216,2020,12
+Points Allowed,12,2,226,2018,12
+Points Allowed,12,3,230,2019,12
+Points Allowed,12,4,236,2014,12
+Points Allowed,12,5,241,2021,12
+Points Allowed,12,6,251,2015,12
+Points Allowed,12,7,253,2022,12
+Points Allowed,12,8,255,2016,12
+Passing Yards,12,0,2968,2019,12
+Passing Yards,12,1,2830,2021,12
+Passing Yards,12,2,2758,2020,12
+Passing Yards,12,3,2715,2014,12
+Passing Yards,12,4,2662,2018,12
+Passing Yards,12,5,2639,2022,12
+Passing Yards,12,6,2609,2016,12
+Passing Yards,12,7,2476,2017,12
+Passing Yards,12,8,2242,2015,12
+Passing Yards Allowed,12,0,1993,2015,12
+Passing Yards Allowed,12,1,2207,2016,12
+Passing Yards Allowed,12,2,2233,2019,12
+Passing Yards Allowed,12,3,2449,2020,12
+Passing Yards Allowed,12,4,2519,2017,12
+Passing Yards Allowed,12,5,2575,2021,12
+Passing Yards Allowed,12,6,2588,2022,12
+Passing Yards Allowed,12,7,2629,2018,12
+Passing Yards Allowed,12,8,2646,2014,12
+Rushing Yards,12,0,1143,2020,12
+Rushing Yards,12,1,1091,2015,12
+Rushing Yards,12,2,1035,2018,12
+Rushing Yards,12,3,1005,2022,12
+Rushing Yards,12,4,974,2021,12
+Rushing Yards,12,5,953,2014,12
+Rushing Yards,12,6,861,2017,12
+Rushing Yards,12,7,836,2019,12
+Rushing Yards,12,8,819,2016,12
+Rushing Yards Allowed,12,0,861,2014,12
+Rushing Yards Allowed,12,1,1111,2018,12
+Rushing Yards Allowed,12,2,1188,2020,12
+Rushing Yards Allowed,12,3,1211,2021,12
+Rushing Yards Allowed,12,4,1269,2022,12
+Rushing Yards Allowed,12,5,1338,2017,12
+Rushing Yards Allowed,12,6,1340,2019,12
+Rushing Yards Allowed,12,7,1373,2016,12
+Rushing Yards Allowed,12,8,1525,2015,12
+Total Yards,12,0,3902,2020,12
+Total Yards,12,1,3804,2019,12
+Total Yards,12,2,3804,2021,12
+Total Yards,12,3,3698,2018,12
+Total Yards,12,4,3669,2014,12
+Total Yards,12,5,3645,2022,12
+Total Yards,12,6,3428,2016,12
+Total Yards,12,7,3338,2017,12
+Total Yards,12,8,3333,2015,12
+Total Yards Allowed,12,0,3508,2014,12
+Total Yards Allowed,12,1,3518,2015,12
+Total Yards Allowed,12,2,3574,2019,12
+Total Yards Allowed,12,3,3580,2016,12
+Total Yards Allowed,12,4,3637,2020,12
+Total Yards Allowed,12,5,3740,2018,12
+Total Yards Allowed,12,6,3787,2021,12
+Total Yards Allowed,12,7,3857,2022,12
+Total Yards Allowed,12,8,3858,2017,12
+Pass Attempts,12,0,437,2015,12
+Pass Attempts,12,1,418,2014,12
+Pass Attempts,12,2,408,2016,12
+Pass Attempts,12,3,408,2021,12
+Pass Attempts,12,4,407,2019,12
+Pass Attempts,12,5,396,2018,12
+Pass Attempts,12,6,396,2022,12
+Pass Attempts,12,7,392,2020,12
+Pass Attempts,12,8,380,2017,12
+Rush Attempts,12,0,253,2018,12
+Rush Attempts,12,1,246,2020,12
+Rush Attempts,12,2,230,2014,12
+Rush Attempts,12,3,220,2021,12
+Rush Attempts,12,4,218,2019,12
+Rush Attempts,12,5,217,2017,12
+Rush Attempts,12,6,215,2015,12
+Rush Attempts,12,7,214,2022,12
+Rush Attempts,12,8,208,2016,12
+Points Scored,13,0,314,2020,13
+Points Scored,13,1,230,2018,13
+Points Scored,13,2,225,2017,13
+Points Scored,13,3,211,2016,13
+Points Scored,13,4,203,2019,13
+Points Scored,13,5,192,2015,13
+Points Scored,13,6,170,2021,13
+Points Scored,13,7,168,2022,13
+Points Scored,13,8,152,2014,13
+Points Allowed,13,0,171,2020,13
+Points Allowed,13,1,190,2018,13
+Points Allowed,13,2,199,2015,13
+Points Allowed,13,3,204,2016,13
+Points Allowed,13,4,205,2019,13
+Points Allowed,13,5,238,2017,13
+Points Allowed,13,6,238,2021,13
+Points Allowed,13,7,239,2014,13
+Points Allowed,13,8,273,2022,13
+Passing Yards,13,0,2688,2020,13
+Passing Yards,13,1,2642,2017,13
+Passing Yards,13,2,2550,2021,13
+Passing Yards,13,3,2322,2022,13
+Passing Yards,13,4,2277,2015,13
+Passing Yards,13,5,2237,2018,13
+Passing Yards,13,6,2189,2019,13
+Passing Yards,13,7,2084,2016,13
+Passing Yards,13,8,1821,2014,13
+Passing Yards Allowed,13,0,2041,2015,13
+Passing Yards Allowed,13,1,2096,2019,13
+Passing Yards Allowed,13,2,2253,2018,13
+Passing Yards Allowed,13,3,2255,2014,13
+Passing Yards Allowed,13,4,2380,2021,13
+Passing Yards Allowed,13,5,2468,2016,13
+Passing Yards Allowed,13,6,2543,2017,13
+Passing Yards Allowed,13,7,2581,2022,13
+Passing Yards Allowed,13,8,2651,2020,13
+Rushing Yards,13,0,1343,2020,13
+Rushing Yards,13,1,1310,2019,13
+Rushing Yards,13,2,1200,2018,13
+Rushing Yards,13,3,1138,2016,13
+Rushing Yards,13,4,1117,2015,13
+Rushing Yards,13,5,1061,2014,13
+Rushing Yards,13,6,1043,2017,13
+Rushing Yards,13,7,885,2021,13
+Rushing Yards,13,8,783,2022,13
+Rushing Yards Allowed,13,0,669,2020,13
+Rushing Yards Allowed,13,1,831,2016,13
+Rushing Yards Allowed,13,2,858,2015,13
+Rushing Yards Allowed,13,3,913,2019,13
+Rushing Yards Allowed,13,4,921,2021,13
+Rushing Yards Allowed,13,5,935,2017,13
+Rushing Yards Allowed,13,6,1066,2014,13
+Rushing Yards Allowed,13,7,1132,2018,13
+Rushing Yards Allowed,13,8,1389,2022,13
+Total Yards,13,0,4031,2020,13
+Total Yards,13,1,3685,2017,13
+Total Yards,13,2,3500,2019,13
+Total Yards,13,3,3437,2018,13
+Total Yards,13,4,3435,2021,13
+Total Yards,13,5,3395,2015,13
+Total Yards,13,6,3223,2016,13
+Total Yards,13,7,3106,2022,13
+Total Yards,13,8,2883,2014,13
+Total Yards Allowed,13,0,2900,2015,13
+Total Yards Allowed,13,1,3010,2019,13
+Total Yards Allowed,13,2,3300,2016,13
+Total Yards Allowed,13,3,3301,2021,13
+Total Yards Allowed,13,4,3320,2020,13
+Total Yards Allowed,13,5,3321,2014,13
+Total Yards Allowed,13,6,3385,2018,13
+Total Yards Allowed,13,7,3478,2017,13
+Total Yards Allowed,13,8,3970,2022,13
+Pass Attempts,13,0,428,2022,13
+Pass Attempts,13,1,408,2021,13
+Pass Attempts,13,2,350,2017,13
+Pass Attempts,13,3,346,2015,13
+Pass Attempts,13,4,338,2014,13
+Pass Attempts,13,5,338,2019,13
+Pass Attempts,13,6,330,2018,13
+Pass Attempts,13,7,315,2020,13
+Pass Attempts,13,8,300,2016,13
+Rush Attempts,13,0,337,2020,13
+Rush Attempts,13,1,314,2019,13
+Rush Attempts,13,2,300,2018,13
+Rush Attempts,13,3,281,2015,13
+Rush Attempts,13,4,281,2016,13
+Rush Attempts,13,5,261,2017,13
+Rush Attempts,13,6,236,2014,13
+Rush Attempts,13,7,229,2021,13
+Rush Attempts,13,8,211,2022,13
+Points Scored,14,0,278,2022,14
+Points Scored,14,1,276,2021,14
+Points Scored,14,2,253,2017,14
+Points Scored,14,3,231,2019,14
+Points Scored,14,4,230,2018,14
+Points Scored,14,5,225,2020,14
+Points Scored,14,6,211,2015,14
+Points Scored,14,7,204,2016,14
+Points Scored,14,8,165,2014,14
+Points Allowed,14,0,181,2022,14
+Points Allowed,14,1,206,2016,14
+Points Allowed,14,2,208,2015,14
+Points Allowed,14,3,211,2018,14
+Points Allowed,14,4,215,2019,14
+Points Allowed,14,5,215,2020,14
+Points Allowed,14,6,216,2021,14
+Points Allowed,14,7,220,2014,14
+Points Allowed,14,8,236,2017,14
+Passing Yards,14,0,3046,2017,14
+Passing Yards,14,1,2893,2022,14
+Passing Yards,14,2,2888,2021,14
+Passing Yards,14,3,2785,2020,14
+Passing Yards,14,4,2692,2019,14
+Passing Yards,14,5,2686,2016,14
+Passing Yards,14,6,2558,2018,14
+Passing Yards,14,7,2493,2015,14
+Passing Yards,14,8,2285,2014,14
+Passing Yards Allowed,14,0,2195,2014,14
+Passing Yards Allowed,14,1,2390,2022,14
+Passing Yards Allowed,14,2,2506,2015,14
+Passing Yards Allowed,14,3,2542,2021,14
+Passing Yards Allowed,14,4,2575,2019,14
+Passing Yards Allowed,14,5,2591,2016,14
+Passing Yards Allowed,14,6,2610,2017,14
+Passing Yards Allowed,14,7,2703,2020,14
+Passing Yards Allowed,14,8,2753,2018,14
+Rushing Yards,14,0,1259,2019,14
+Rushing Yards,14,1,1100,2018,14
+Rushing Yards,14,2,1098,2021,14
+Rushing Yards,14,3,956,2016,14
+Rushing Yards,14,4,908,2017,14
+Rushing Yards,14,5,900,2020,14
+Rushing Yards,14,6,895,2022,14
+Rushing Yards,14,7,891,2015,14
+Rushing Yards,14,8,870,2014,14
+Rushing Yards Allowed,14,0,823,2019,14
+Rushing Yards Allowed,14,1,981,2022,14
+Rushing Yards Allowed,14,2,986,2017,14
+Rushing Yards Allowed,14,3,990,2021,14
+Rushing Yards Allowed,14,4,999,2018,14
+Rushing Yards Allowed,14,5,1065,2015,14
+Rushing Yards Allowed,14,6,1073,2014,14
+Rushing Yards Allowed,14,7,1187,2016,14
+Rushing Yards Allowed,14,8,1231,2020,14
+Total Yards,14,0,3987,2021,14
+Total Yards,14,1,3955,2017,14
+Total Yards,14,2,3951,2019,14
+Total Yards,14,3,3789,2022,14
+Total Yards,14,4,3685,2020,14
+Total Yards,14,5,3659,2018,14
+Total Yards,14,6,3642,2016,14
+Total Yards,14,7,3385,2015,14
+Total Yards,14,8,3155,2014,14
+Total Yards Allowed,14,0,3268,2014,14
+Total Yards Allowed,14,1,3372,2022,14
+Total Yards Allowed,14,2,3399,2019,14
+Total Yards Allowed,14,3,3532,2021,14
+Total Yards Allowed,14,4,3571,2015,14
+Total Yards Allowed,14,5,3596,2017,14
+Total Yards Allowed,14,6,3753,2018,14
+Total Yards Allowed,14,7,3778,2016,14
+Total Yards Allowed,14,8,3935,2020,14
+Pass Attempts,14,0,428,2017,14
+Pass Attempts,14,1,425,2014,14
+Pass Attempts,14,2,395,2015,14
+Pass Attempts,14,3,395,2020,14
+Pass Attempts,14,4,389,2016,14
+Pass Attempts,14,5,386,2021,14
+Pass Attempts,14,6,378,2018,14
+Pass Attempts,14,7,375,2019,14
+Pass Attempts,14,8,375,2022,14
+Rush Attempts,14,0,273,2019,14
+Rush Attempts,14,1,264,2021,14
+Rush Attempts,14,2,259,2022,14
+Rush Attempts,14,3,240,2018,14
+Rush Attempts,14,4,236,2015,14
+Rush Attempts,14,5,233,2017,14
+Rush Attempts,14,6,232,2020,14
+Rush Attempts,14,7,228,2014,14
+Rush Attempts,14,8,225,2016,14
+Points Scored,15,0,263,2014,15
+Points Scored,15,1,217,2016,15
+Points Scored,15,2,215,2017,15
+Points Scored,15,3,211,2022,15
+Points Scored,15,4,208,2018,15
+Points Scored,15,5,202,2020,15
+Points Scored,15,6,189,2019,15
+Points Scored,15,7,165,2021,15
+Points Scored,15,8,155,2015,15
+Points Allowed,15,0,188,2015,15
+Points Allowed,15,1,189,2017,15
+Points Allowed,15,2,191,2014,15
+Points Allowed,15,3,199,2020,15
+Points Allowed,15,4,211,2018,15
+Points Allowed,15,5,214,2019,15
+Points Allowed,15,6,220,2016,15
+Points Allowed,15,7,232,2021,15
+Points Allowed,15,8,248,2022,15
+Passing Yards,15,0,2603,2014,15
+Passing Yards,15,1,2238,2018,15
+Passing Yards,15,2,2226,2022,15
+Passing Yards,15,3,2199,2019,15
+Passing Yards,15,4,2195,2021,15
+Passing Yards,15,5,2133,2020,15
+Passing Yards,15,6,2105,2015,15
+Passing Yards,15,7,2021,2016,15
+Passing Yards,15,8,1990,2017,15
+Passing Yards Allowed,15,0,2081,2015,15
+Passing Yards Allowed,15,1,2166,2020,15
+Passing Yards Allowed,15,2,2249,2018,15
+Passing Yards Allowed,15,3,2253,2014,15
+Passing Yards Allowed,15,4,2393,2017,15
+Passing Yards Allowed,15,5,2416,2019,15
+Passing Yards Allowed,15,6,2566,2016,15
+Passing Yards Allowed,15,7,2632,2021,15
+Passing Yards Allowed,15,8,2680,2022,15
+Rushing Yards,15,0,1461,2016,15
+Rushing Yards,15,1,1222,2020,15
+Rushing Yards,15,2,1207,2014,15
+Rushing Yards,15,3,1135,2019,15
+Rushing Yards,15,4,1133,2018,15
+Rushing Yards,15,5,1035,2022,15
+Rushing Yards,15,6,1027,2017,15
+Rushing Yards,15,7,900,2021,15
+Rushing Yards,15,8,831,2015,15
+Rushing Yards Allowed,15,0,980,2022,15
+Rushing Yards Allowed,15,1,1005,2017,15
+Rushing Yards Allowed,15,2,1109,2019,15
+Rushing Yards Allowed,15,3,1158,2015,15
+Rushing Yards Allowed,15,4,1167,2020,15
+Rushing Yards Allowed,15,5,1178,2021,15
+Rushing Yards Allowed,15,6,1208,2018,15
+Rushing Yards Allowed,15,7,1256,2014,15
+Rushing Yards Allowed,15,8,1305,2016,15
+Total Yards,15,0,3810,2014,15
+Total Yards,15,1,3483,2016,15
+Total Yards,15,2,3371,2018,15
+Total Yards,15,3,3355,2020,15
+Total Yards,15,4,3334,2019,15
+Total Yards,15,5,3261,2022,15
+Total Yards,15,6,3095,2021,15
+Total Yards,15,7,3017,2017,15
+Total Yards,15,8,2936,2015,15
+Total Yards Allowed,15,0,3240,2015,15
+Total Yards Allowed,15,1,3334,2020,15
+Total Yards Allowed,15,2,3398,2017,15
+Total Yards Allowed,15,3,3458,2018,15
+Total Yards Allowed,15,4,3510,2014,15
+Total Yards Allowed,15,5,3526,2019,15
+Total Yards Allowed,15,6,3660,2022,15
+Total Yards Allowed,15,7,3810,2021,15
+Total Yards Allowed,15,8,3872,2016,15
+Pass Attempts,15,0,381,2020,15
+Pass Attempts,15,1,375,2015,15
+Pass Attempts,15,2,368,2022,15
+Pass Attempts,15,3,363,2018,15
+Pass Attempts,15,4,363,2019,15
+Pass Attempts,15,5,344,2016,15
+Pass Attempts,15,6,344,2017,15
+Pass Attempts,15,7,343,2021,15
+Pass Attempts,15,8,329,2014,15
+Rush Attempts,15,0,291,2016,15
+Rush Attempts,15,1,280,2019,15
+Rush Attempts,15,2,276,2017,15
+Rush Attempts,15,3,276,2018,15
+Rush Attempts,15,4,275,2014,15
+Rush Attempts,15,5,273,2020,15
+Rush Attempts,15,6,262,2022,15
+Rush Attempts,15,7,231,2015,15
+Rush Attempts,15,8,230,2021,15
+Points Scored,16,0,251,2019,16
+Points Scored,16,1,247,2014,16
+Points Scored,16,2,245,2018,16
+Points Scored,16,3,212,2022,16
+Points Scored,16,4,198,2016,16
+Points Scored,16,5,197,2021,16
+Points Scored,16,6,194,2015,16
+Points Scored,16,7,160,2017,16
+Points Scored,16,8,158,2020,16
+Points Allowed,16,0,170,2014,16
+Points Allowed,16,1,191,2019,16
+Points Allowed,16,2,192,2018,16
+Points Allowed,16,3,205,2016,16
+Points Allowed,16,4,206,2015,16
+Points Allowed,16,5,232,2021,16
+Points Allowed,16,6,268,2022,16
+Points Allowed,16,7,273,2020,16
+Points Allowed,16,8,285,2017,16
+Passing Yards,16,0,2661,2020,16
+Passing Yards,16,1,2476,2022,16
+Passing Yards,16,2,2429,2014,16
+Passing Yards,16,3,2363,2019,16
+Passing Yards,16,4,2363,2021,16
+Passing Yards,16,5,2321,2016,16
+Passing Yards,16,6,2305,2015,16
+Passing Yards,16,7,2247,2017,16
+Passing Yards,16,8,2152,2018,16
+Passing Yards Allowed,16,0,2035,2014,16
+Passing Yards Allowed,16,1,2168,2015,16
+Passing Yards Allowed,16,2,2426,2022,16
+Passing Yards Allowed,16,3,2526,2018,16
+Passing Yards Allowed,16,4,2540,2017,16
+Passing Yards Allowed,16,5,2593,2021,16
+Passing Yards Allowed,16,6,2640,2016,16
+Passing Yards Allowed,16,7,2658,2020,16
+Passing Yards Allowed,16,8,2688,2019,16
+Rushing Yards,16,0,1561,2018,16
+Rushing Yards,16,1,1391,2019,16
+Rushing Yards,16,2,1361,2016,16
+Rushing Yards,16,3,1166,2015,16
+Rushing Yards,16,4,1140,2022,16
+Rushing Yards,16,5,1077,2020,16
+Rushing Yards,16,6,1018,2014,16
+Rushing Yards,16,7,964,2021,16
+Rushing Yards,16,8,886,2017,16
+Rushing Yards Allowed,16,0,837,2019,16
+Rushing Yards Allowed,16,1,963,2018,16
+Rushing Yards Allowed,16,2,1008,2021,16
+Rushing Yards Allowed,16,3,1017,2022,16
+Rushing Yards Allowed,16,4,1065,2020,16
+Rushing Yards Allowed,16,5,1203,2014,16
+Rushing Yards Allowed,16,6,1242,2017,16
+Rushing Yards Allowed,16,7,1259,2015,16
+Rushing Yards Allowed,16,8,1263,2016,16
+Total Yards,16,0,3755,2019,16
+Total Yards,16,1,3739,2020,16
+Total Yards,16,2,3713,2018,16
+Total Yards,16,3,3683,2016,16
+Total Yards,16,4,3617,2022,16
+Total Yards,16,5,3471,2015,16
+Total Yards,16,6,3448,2014,16
+Total Yards,16,7,3328,2021,16
+Total Yards,16,8,3133,2017,16
+Total Yards Allowed,16,0,3238,2014,16
+Total Yards Allowed,16,1,3428,2015,16
+Total Yards Allowed,16,2,3443,2022,16
+Total Yards Allowed,16,3,3490,2018,16
+Total Yards Allowed,16,4,3526,2019,16
+Total Yards Allowed,16,5,3601,2021,16
+Total Yards Allowed,16,6,3723,2020,16
+Total Yards Allowed,16,7,3782,2017,16
+Total Yards Allowed,16,8,3904,2016,16
+Pass Attempts,16,0,381,2020,16
+Pass Attempts,16,1,360,2021,16
+Pass Attempts,16,2,351,2022,16
+Pass Attempts,16,3,350,2014,16
+Pass Attempts,16,4,346,2015,16
+Pass Attempts,16,5,346,2016,16
+Pass Attempts,16,6,346,2017,16
+Pass Attempts,16,7,313,2019,16
+Pass Attempts,16,8,275,2018,16
+Rush Attempts,16,0,319,2019,16
+Rush Attempts,16,1,311,2018,16
+Rush Attempts,16,2,284,2016,16
+Rush Attempts,16,3,277,2015,16
+Rush Attempts,16,4,260,2022,16
+Rush Attempts,16,5,258,2014,16
+Rush Attempts,16,6,249,2021,16
+Rush Attempts,16,7,240,2020,16
+Rush Attempts,16,8,220,2017,16
+Points Scored,17,0,265,2019,17
+Points Scored,17,1,261,2020,17
+Points Scored,17,2,233,2017,17
+Points Scored,17,3,217,2015,17
+Points Scored,17,4,215,2022,17
+Points Scored,17,5,180,2014,17
+Points Scored,17,6,178,2018,17
+Points Scored,17,7,174,2021,17
+Points Scored,17,8,145,2016,17
+Points Allowed,17,0,205,2014,17
+Points Allowed,17,1,238,2018,17
+Points Allowed,17,2,243,2015,17
+Points Allowed,17,3,261,2019,17
+Points Allowed,17,4,261,2021,17
+Points Allowed,17,5,264,2017,17
+Points Allowed,17,6,273,2020,17
+Points Allowed,17,7,276,2022,17
+Points Allowed,17,8,281,2016,17
+Passing Yards,17,0,2826,2019,17
+Passing Yards,17,1,2823,2022,17
+Passing Yards,17,2,2719,2015,17
+Passing Yards,17,3,2693,2017,17
+Passing Yards,17,4,2681,2020,17
+Passing Yards,17,5,2644,2021,17
+Passing Yards,17,6,2467,2016,17
+Passing Yards,17,7,2335,2018,17
+Passing Yards,17,8,2247,2014,17
+Passing Yards Allowed,17,0,2242,2015,17
+Passing Yards Allowed,17,1,2306,2016,17
+Passing Yards Allowed,17,2,2321,2017,17
+Passing Yards Allowed,17,3,2329,2014,17
+Passing Yards Allowed,17,4,2447,2021,17
+Passing Yards Allowed,17,5,2499,2019,17
+Passing Yards Allowed,17,6,2503,2022,17
+Passing Yards Allowed,17,7,2595,2018,17
+Passing Yards Allowed,17,8,2732,2020,17
+Rushing Yards,17,0,1251,2019,17
+Rushing Yards,17,1,1130,2020,17
+Rushing Yards,17,2,1128,2022,17
+Rushing Yards,17,3,981,2017,17
+Rushing Yards,17,4,972,2014,17
+Rushing Yards,17,5,966,2015,17
+Rushing Yards,17,6,914,2018,17
+Rushing Yards,17,7,732,2021,17
+Rushing Yards,17,8,511,2016,17
+Rushing Yards Allowed,17,0,1118,2021,17
+Rushing Yards Allowed,17,1,1122,2017,17
+Rushing Yards Allowed,17,2,1126,2020,17
+Rushing Yards Allowed,17,3,1168,2014,17
+Rushing Yards Allowed,17,4,1208,2018,17
+Rushing Yards Allowed,17,5,1231,2022,17
+Rushing Yards Allowed,17,6,1253,2019,17
+Rushing Yards Allowed,17,7,1285,2015,17
+Rushing Yards Allowed,17,8,1624,2016,17
+Total Yards,17,0,4078,2019,17
+Total Yards,17,1,3951,2022,17
+Total Yards,17,2,3811,2020,17
+Total Yards,17,3,3685,2015,17
+Total Yards,17,4,3675,2017,17
+Total Yards,17,5,3376,2021,17
+Total Yards,17,6,3250,2018,17
+Total Yards,17,7,3220,2014,17
+Total Yards,17,8,2979,2016,17
+Total Yards Allowed,17,0,3444,2017,17
+Total Yards Allowed,17,1,3498,2014,17
+Total Yards Allowed,17,2,3527,2015,17
+Total Yards Allowed,17,3,3565,2021,17
+Total Yards Allowed,17,4,3735,2022,17
+Total Yards Allowed,17,5,3752,2019,17
+Total Yards Allowed,17,6,3803,2018,17
+Total Yards Allowed,17,7,3858,2020,17
+Total Yards Allowed,17,8,3930,2016,17
+Pass Attempts,17,0,428,2021,17
+Pass Attempts,17,1,390,2014,17
+Pass Attempts,17,2,383,2016,17
+Pass Attempts,17,3,380,2018,17
+Pass Attempts,17,4,379,2020,17
+Pass Attempts,17,5,379,2022,17
+Pass Attempts,17,6,378,2017,17
+Pass Attempts,17,7,376,2015,17
+Pass Attempts,17,8,358,2019,17
+Rush Attempts,17,0,263,2019,17
+Rush Attempts,17,1,235,2022,17
+Rush Attempts,17,2,233,2015,17
+Rush Attempts,17,3,233,2020,17
+Rush Attempts,17,4,229,2014,17
+Rush Attempts,17,5,226,2017,17
+Rush Attempts,17,6,216,2018,17
+Rush Attempts,17,7,195,2021,17
+Rush Attempts,17,8,162,2016,17
+Points Scored,18,0,296,2017,18
+Points Scored,18,1,292,2016,18
+Points Scored,18,2,283,2015,18
+Points Scored,18,3,269,2018,18
+Points Scored,18,4,266,2021,18
+Points Scored,18,5,264,2022,18
+Points Scored,18,6,259,2019,18
+Points Scored,18,7,259,2020,18
+Points Scored,18,8,235,2014,18
+Points Allowed,18,0,233,2016,18
+Points Allowed,18,1,235,2018,18
+Points Allowed,18,2,255,2022,18
+Points Allowed,18,3,260,2015,18
+Points Allowed,18,4,264,2020,18
+Points Allowed,18,5,265,2021,18
+Points Allowed,18,6,268,2014,18
+Points Allowed,18,7,292,2019,18
+Points Allowed,18,8,301,2017,18
+Passing Yards,18,0,3500,2017,18
+Passing Yards,18,1,3310,2021,18
+Passing Yards,18,2,3118,2022,18
+Passing Yards,18,3,3098,2018,18
+Passing Yards,18,4,3098,2019,18
+Passing Yards,18,5,3046,2020,18
+Passing Yards,18,6,2968,2016,18
+Passing Yards,18,7,2844,2015,18
+Passing Yards,18,8,2763,2014,18
+Passing Yards Allowed,18,0,2443,2020,18
+Passing Yards Allowed,18,1,2548,2018,18
+Passing Yards Allowed,18,2,2615,2014,18
+Passing Yards Allowed,18,3,2785,2016,18
+Passing Yards Allowed,18,4,2808,2021,18
+Passing Yards Allowed,18,5,2871,2022,18
+Passing Yards Allowed,18,6,2930,2015,18
+Passing Yards Allowed,18,7,2935,2017,18
+Passing Yards Allowed,18,8,2940,2019,18
+Rushing Yards,18,0,1091,2015,18
+Rushing Yards,18,1,1034,2016,18
+Rushing Yards,18,2,1003,2018,18
+Rushing Yards,18,3,960,2019,18
+Rushing Yards,18,4,953,2017,18
+Rushing Yards,18,5,926,2014,18
+Rushing Yards,18,6,746,2020,18
+Rushing Yards,18,7,723,2022,18
+Rushing Yards,18,8,712,2021,18
+Rushing Yards Allowed,18,0,883,2018,18
+Rushing Yards Allowed,18,1,945,2022,18
+Rushing Yards Allowed,18,2,1010,2016,18
+Rushing Yards Allowed,18,3,1040,2014,18
+Rushing Yards Allowed,18,4,1043,2021,18
+Rushing Yards Allowed,18,5,1046,2019,18
+Rushing Yards Allowed,18,6,1262,2015,18
+Rushing Yards Allowed,18,7,1276,2017,18
+Rushing Yards Allowed,18,8,1418,2020,18
+Total Yards,18,0,4453,2017,18
+Total Yards,18,1,4101,2018,18
+Total Yards,18,2,4058,2019,18
+Total Yards,18,3,4023,2021,18
+Total Yards,18,4,4002,2016,18
+Total Yards,18,5,3936,2015,18
+Total Yards,18,6,3841,2022,18
+Total Yards,18,7,3793,2020,18
+Total Yards,18,8,3690,2014,18
+Total Yards Allowed,18,0,3431,2018,18
+Total Yards Allowed,18,1,3655,2014,18
+Total Yards Allowed,18,2,3796,2016,18
+Total Yards Allowed,18,3,3817,2022,18
+Total Yards Allowed,18,4,3852,2021,18
+Total Yards Allowed,18,5,3861,2020,18
+Total Yards Allowed,18,6,3987,2019,18
+Total Yards Allowed,18,7,4193,2015,18
+Total Yards Allowed,18,8,4211,2017,18
+Pass Attempts,18,0,416,2018,18
+Pass Attempts,18,1,408,2022,18
+Pass Attempts,18,2,401,2017,18
+Pass Attempts,18,3,400,2014,18
+Pass Attempts,18,4,396,2020,18
+Pass Attempts,18,5,391,2019,18
+Pass Attempts,18,6,391,2021,18
+Pass Attempts,18,7,381,2015,18
+Pass Attempts,18,8,363,2016,18
+Rush Attempts,18,0,268,2016,18
+Rush Attempts,18,1,255,2015,18
+Rush Attempts,18,2,240,2022,18
+Rush Attempts,18,3,236,2018,18
+Rush Attempts,18,4,224,2017,18
+Rush Attempts,18,5,223,2019,18
+Rush Attempts,18,6,221,2014,18
+Rush Attempts,18,7,221,2021,18
+Rush Attempts,18,8,215,2020,18
+Points Scored,19,0,316,2016,19
+Points Scored,19,1,309,2019,19
+Points Scored,19,2,308,2014,19
+Points Scored,19,3,296,2015,19
+Points Scored,19,4,293,2017,19
+Points Scored,19,5,263,2020,19
+Points Scored,19,6,225,2018,19
+Points Scored,19,7,203,2022,19
+Points Scored,19,8,195,2021,19
+Points Allowed,19,0,163,2014,19
+Points Allowed,19,1,180,2016,19
+Points Allowed,19,2,186,2015,19
+Points Allowed,19,3,203,2022,19
+Points Allowed,19,4,229,2019,19
+Points Allowed,19,5,235,2020,19
+Points Allowed,19,6,248,2017,19
+Points Allowed,19,7,248,2021,19
+Points Allowed,19,8,257,2018,19
+Passing Yards,19,0,3176,2018,19
+Passing Yards,19,1,3033,2020,19
+Passing Yards,19,2,3028,2016,19
+Passing Yards,19,3,2917,2019,19
+Passing Yards,19,4,2850,2017,19
+Passing Yards,19,5,2820,2015,19
+Passing Yards,19,6,2667,2022,19
+Passing Yards,19,7,2660,2014,19
+Passing Yards,19,8,2563,2021,19
+Passing Yards Allowed,19,0,1918,2014,19
+Passing Yards Allowed,19,1,2131,2016,19
+Passing Yards Allowed,19,2,2350,2021,19
+Passing Yards Allowed,19,3,2413,2018,19
+Passing Yards Allowed,19,4,2528,2015,19
+Passing Yards Allowed,19,5,2667,2019,19
+Passing Yards Allowed,19,6,2778,2020,19
+Passing Yards Allowed,19,7,2837,2022,19
+Passing Yards Allowed,19,8,2931,2017,19
+Rushing Yards,19,0,1547,2017,19
+Rushing Yards,19,1,1283,2015,19
+Rushing Yards,19,2,1254,2016,19
+Rushing Yards,19,3,1185,2014,19
+Rushing Yards,19,4,1182,2019,19
+Rushing Yards,19,5,1111,2020,19
+Rushing Yards,19,6,968,2018,19
+Rushing Yards,19,7,889,2021,19
+Rushing Yards,19,8,849,2022,19
+Rushing Yards Allowed,19,0,992,2020,19
+Rushing Yards Allowed,19,1,1022,2014,19
+Rushing Yards Allowed,19,2,1040,2022,19
+Rushing Yards Allowed,19,3,1125,2017,19
+Rushing Yards Allowed,19,4,1126,2015,19
+Rushing Yards Allowed,19,5,1153,2019,19
+Rushing Yards Allowed,19,6,1257,2021,19
+Rushing Yards Allowed,19,7,1335,2016,19
+Rushing Yards Allowed,19,8,1361,2018,19
+Total Yards,19,0,4398,2017,19
+Total Yards,19,1,4282,2016,19
+Total Yards,19,2,4145,2018,19
+Total Yards,19,3,4144,2020,19
+Total Yards,19,4,4104,2015,19
+Total Yards,19,5,4100,2019,19
+Total Yards,19,6,3845,2014,19
+Total Yards,19,7,3516,2022,19
+Total Yards,19,8,3453,2021,19
+Total Yards Allowed,19,0,2941,2014,19
+Total Yards Allowed,19,1,3466,2016,19
+Total Yards Allowed,19,2,3607,2021,19
+Total Yards Allowed,19,3,3655,2015,19
+Total Yards Allowed,19,4,3770,2020,19
+Total Yards Allowed,19,5,3775,2018,19
+Total Yards Allowed,19,6,3820,2019,19
+Total Yards Allowed,19,7,3878,2022,19
+Total Yards Allowed,19,8,4056,2017,19
+Pass Attempts,19,0,407,2018,19
+Pass Attempts,19,1,376,2020,19
+Pass Attempts,19,2,352,2021,19
+Pass Attempts,19,3,341,2022,19
+Pass Attempts,19,4,338,2019,19
+Pass Attempts,19,5,333,2014,19
+Pass Attempts,19,6,325,2017,19
+Pass Attempts,19,7,323,2016,19
+Pass Attempts,19,8,311,2015,19
+Rush Attempts,19,0,312,2014,19
+Rush Attempts,19,1,301,2015,19
+Rush Attempts,19,2,293,2017,19
+Rush Attempts,19,3,292,2016,19
+Rush Attempts,19,4,290,2019,19
+Rush Attempts,19,5,269,2022,19
+Rush Attempts,19,6,264,2020,19
+Rush Attempts,19,7,244,2018,19
+Rush Attempts,19,8,243,2021,19
+Points Scored,20,0,345,2022,20
+Points Scored,20,1,301,2020,20
+Points Scored,20,2,291,2017,20
+Points Scored,20,3,275,2016,20
+Points Scored,20,4,255,2019,20
+Points Scored,20,5,252,2021,20
+Points Scored,20,6,248,2018,20
+Points Scored,20,7,241,2015,20
+Points Scored,20,8,198,2014,20
+Points Allowed,20,0,178,2014,20
+Points Allowed,20,1,198,2019,20
+Points Allowed,20,2,211,2020,20
+Points Allowed,20,3,213,2016,20
+Points Allowed,20,4,224,2015,20
+Points Allowed,20,5,228,2021,20
+Points Allowed,20,6,233,2022,20
+Points Allowed,20,7,236,2017,20
+Points Allowed,20,8,250,2018,20
+Passing Yards,20,0,3171,2018,20
+Passing Yards,20,1,3134,2022,20
+Passing Yards,20,2,3002,2020,20
+Passing Yards,20,3,2960,2021,20
+Passing Yards,20,4,2918,2019,20
+Passing Yards,20,5,2858,2017,20
+Passing Yards,20,6,2650,2016,20
+Passing Yards,20,7,2486,2015,20
+Passing Yards,20,8,2030,2014,20
+Passing Yards Allowed,20,0,2320,2019,20
+Passing Yards Allowed,20,1,2433,2014,20
+Passing Yards Allowed,20,2,2522,2015,20
+Passing Yards Allowed,20,3,2588,2022,20
+Passing Yards Allowed,20,4,2600,2021,20
+Passing Yards Allowed,20,5,2625,2016,20
+Passing Yards Allowed,20,6,2715,2018,20
+Passing Yards Allowed,20,7,2823,2020,20
+Passing Yards Allowed,20,8,2831,2017,20
+Rushing Yards,20,0,1417,2022,20
+Rushing Yards,20,1,1342,2019,20
+Rushing Yards,20,2,1339,2017,20
+Rushing Yards,20,3,1327,2014,20
+Rushing Yards,20,4,1289,2015,20
+Rushing Yards,20,5,1240,2016,20
+Rushing Yards,20,6,1222,2021,20
+Rushing Yards,20,7,1033,2020,20
+Rushing Yards,20,8,1020,2018,20
+Rushing Yards Allowed,20,0,1003,2016,20
+Rushing Yards Allowed,20,1,1007,2020,20
+Rushing Yards Allowed,20,2,1009,2014,20
+Rushing Yards Allowed,20,3,1016,2022,20
+Rushing Yards Allowed,20,4,1017,2015,20
+Rushing Yards Allowed,20,5,1028,2019,20
+Rushing Yards Allowed,20,6,1147,2017,20
+Rushing Yards Allowed,20,7,1165,2018,20
+Rushing Yards Allowed,20,8,1217,2021,20
+Total Yards,20,0,4551,2022,20
+Total Yards,20,1,4260,2019,20
+Total Yards,20,2,4198,2017,20
+Total Yards,20,3,4191,2018,20
+Total Yards,20,4,4182,2021,20
+Total Yards,20,5,4036,2020,20
+Total Yards,20,6,3890,2016,20
+Total Yards,20,7,3776,2015,20
+Total Yards,20,8,3358,2014,20
+Total Yards Allowed,20,0,3348,2019,20
+Total Yards Allowed,20,1,3442,2014,20
+Total Yards Allowed,20,2,3540,2015,20
+Total Yards Allowed,20,3,3605,2022,20
+Total Yards Allowed,20,4,3628,2016,20
+Total Yards Allowed,20,5,3817,2021,20
+Total Yards Allowed,20,6,3830,2020,20
+Total Yards Allowed,20,7,3880,2018,20
+Total Yards Allowed,20,8,3978,2017,20
+Pass Attempts,20,0,376,2018,20
+Pass Attempts,20,1,352,2020,20
+Pass Attempts,20,2,350,2019,20
+Pass Attempts,20,3,345,2022,20
+Pass Attempts,20,4,338,2021,20
+Pass Attempts,20,5,336,2017,20
+Pass Attempts,20,6,317,2015,20
+Pass Attempts,20,7,311,2016,20
+Pass Attempts,20,8,296,2014,20
+Rush Attempts,20,0,321,2014,20
+Rush Attempts,20,1,311,2015,20
+Rush Attempts,20,2,301,2022,20
+Rush Attempts,20,3,291,2016,20
+Rush Attempts,20,4,286,2019,20
+Rush Attempts,20,5,276,2017,20
+Rush Attempts,20,6,276,2021,20
+Rush Attempts,20,7,263,2020,20
+Rush Attempts,20,8,246,2018,20
+Points Scored,21,0,280,2021,21
+Points Scored,21,1,270,2017,21
+Points Scored,21,2,261,2019,21
+Points Scored,21,3,236,2020,21
+Points Scored,21,4,235,2014,21
+Points Scored,21,5,215,2016,21
+Points Scored,21,6,206,2018,21
+Points Scored,21,7,203,2015,21
+Points Scored,21,8,181,2022,21
+Points Allowed,21,0,195,2014,21
+Points Allowed,21,1,206,2019,21
+Points Allowed,21,2,213,2016,21
+Points Allowed,21,3,214,2017,21
+Points Allowed,21,4,217,2015,21
+Points Allowed,21,5,235,2018,21
+Points Allowed,21,6,245,2020,21
+Points Allowed,21,7,253,2021,21
+Points Allowed,21,8,268,2022,21
+Passing Yards,21,0,3063,2020,21
+Passing Yards,21,1,2866,2021,21
+Passing Yards,21,2,2733,2017,21
+Passing Yards,21,3,2710,2022,21
+Passing Yards,21,4,2643,2019,21
+Passing Yards,21,5,2611,2015,21
+Passing Yards,21,6,2571,2016,21
+Passing Yards,21,7,2558,2014,21
+Passing Yards,21,8,2472,2018,21
+Passing Yards Allowed,21,0,2333,2015,21
+Passing Yards Allowed,21,1,2500,2014,21
+Passing Yards Allowed,21,2,2542,2019,21
+Passing Yards Allowed,21,3,2578,2017,21
+Passing Yards Allowed,21,4,2579,2016,21
+Passing Yards Allowed,21,5,2600,2020,21
+Passing Yards Allowed,21,6,2610,2018,21
+Passing Yards Allowed,21,7,2624,2022,21
+Passing Yards Allowed,21,8,2803,2021,21
+Rushing Yards,21,0,1520,2014,21
+Rushing Yards,21,1,1360,2015,21
+Rushing Yards,21,2,1155,2021,21
+Rushing Yards,21,3,1042,2018,21
+Rushing Yards,21,4,1025,2019,21
+Rushing Yards,21,5,989,2016,21
+Rushing Yards,21,6,979,2022,21
+Rushing Yards,21,7,887,2020,21
+Rushing Yards,21,8,860,2017,21
+Rushing Yards Allowed,21,0,729,2014,21
+Rushing Yards Allowed,21,1,873,2021,21
+Rushing Yards Allowed,21,2,1036,2019,21
+Rushing Yards Allowed,21,3,1043,2020,21
+Rushing Yards Allowed,21,4,1068,2016,21
+Rushing Yards Allowed,21,5,1110,2015,21
+Rushing Yards Allowed,21,6,1118,2017,21
+Rushing Yards Allowed,21,7,1160,2018,21
+Rushing Yards Allowed,21,8,1194,2022,21
+Total Yards,21,0,4078,2014,21
+Total Yards,21,1,4021,2021,21
+Total Yards,21,2,3971,2015,21
+Total Yards,21,3,3950,2020,21
+Total Yards,21,4,3690,2022,21
+Total Yards,21,5,3668,2019,21
+Total Yards,21,6,3593,2017,21
+Total Yards,21,7,3561,2016,21
+Total Yards,21,8,3515,2018,21
+Total Yards Allowed,21,0,3230,2014,21
+Total Yards Allowed,21,1,3444,2015,21
+Total Yards Allowed,21,2,3579,2019,21
+Total Yards Allowed,21,3,3643,2020,21
+Total Yards Allowed,21,4,3647,2016,21
+Total Yards Allowed,21,5,3676,2021,21
+Total Yards Allowed,21,6,3696,2017,21
+Total Yards Allowed,21,7,3771,2018,21
+Total Yards Allowed,21,8,3818,2022,21
+Pass Attempts,21,0,403,2020,21
+Pass Attempts,21,1,386,2021,21
+Pass Attempts,21,2,381,2022,21
+Pass Attempts,21,3,370,2019,21
+Pass Attempts,21,4,366,2014,21
+Pass Attempts,21,5,364,2018,21
+Pass Attempts,21,6,346,2017,21
+Pass Attempts,21,7,339,2015,21
+Pass Attempts,21,8,335,2016,21
+Rush Attempts,21,0,323,2014,21
+Rush Attempts,21,1,282,2015,21
+Rush Attempts,21,2,280,2016,21
+Rush Attempts,21,3,268,2021,21
+Rush Attempts,21,4,259,2018,21
+Rush Attempts,21,5,251,2019,21
+Rush Attempts,21,6,232,2022,21
+Rush Attempts,21,7,228,2020,21
+Rush Attempts,21,8,227,2017,21
+Points Scored,22,0,277,2014,22
+Points Scored,22,1,262,2022,22
+Points Scored,22,2,258,2020,22
+Points Scored,22,3,233,2015,22
+Points Scored,22,4,209,2021,22
+Points Scored,22,5,204,2019,22
+Points Scored,22,6,198,2018,22
+Points Scored,22,7,189,2017,22
+Points Scored,22,8,183,2016,22
+Points Allowed,22,0,176,2022,22
+Points Allowed,22,1,200,2018,22
+Points Allowed,22,2,208,2017,22
+Points Allowed,22,3,218,2014,22
+Points Allowed,22,4,223,2019,22
+Points Allowed,22,5,231,2020,22
+Points Allowed,22,6,243,2015,22
+Points Allowed,22,7,250,2021,22
+Points Allowed,22,8,270,2016,22
+Passing Yards,22,0,2866,2016,22
+Passing Yards,22,1,2857,2014,22
+Passing Yards,22,2,2723,2022,22
+Passing Yards,22,3,2677,2021,22
+Passing Yards,22,4,2578,2017,22
+Passing Yards,22,5,2525,2020,22
+Passing Yards,22,6,2448,2019,22
+Passing Yards,22,7,2408,2018,22
+Passing Yards,22,8,2306,2015,22
+Passing Yards Allowed,22,0,2144,2017,22
+Passing Yards Allowed,22,1,2160,2014,22
+Passing Yards Allowed,22,2,2392,2016,22
+Passing Yards Allowed,22,3,2414,2022,22
+Passing Yards Allowed,22,4,2419,2015,22
+Passing Yards Allowed,22,5,2449,2018,22
+Passing Yards Allowed,22,6,2453,2019,22
+Passing Yards Allowed,22,7,2554,2021,22
+Passing Yards Allowed,22,8,2604,2020,22
+Rushing Yards,22,0,1305,2015,22
+Rushing Yards,22,1,1103,2020,22
+Rushing Yards,22,2,1059,2014,22
+Rushing Yards,22,3,1018,2019,22
+Rushing Yards,22,4,933,2018,22
+Rushing Yards,22,5,928,2022,22
+Rushing Yards,22,6,911,2021,22
+Rushing Yards,22,7,854,2017,22
+Rushing Yards,22,8,836,2016,22
+Rushing Yards Allowed,22,0,1031,2022,22
+Rushing Yards Allowed,22,1,1042,2020,22
+Rushing Yards Allowed,22,2,1200,2021,22
+Rushing Yards Allowed,22,3,1236,2015,22
+Rushing Yards Allowed,22,4,1236,2018,22
+Rushing Yards Allowed,22,5,1238,2017,22
+Rushing Yards Allowed,22,6,1245,2016,22
+Rushing Yards Allowed,22,7,1267,2014,22
+Rushing Yards Allowed,22,8,1419,2019,22
+Total Yards,22,0,3916,2014,22
+Total Yards,22,1,3702,2016,22
+Total Yards,22,2,3652,2022,22
+Total Yards,22,3,3628,2020,22
+Total Yards,22,4,3611,2015,22
+Total Yards,22,5,3588,2021,22
+Total Yards,22,6,3466,2019,22
+Total Yards,22,7,3433,2017,22
+Total Yards,22,8,3341,2018,22
+Total Yards Allowed,22,0,3382,2017,22
+Total Yards Allowed,22,1,3428,2014,22
+Total Yards Allowed,22,2,3446,2022,22
+Total Yards Allowed,22,3,3638,2016,22
+Total Yards Allowed,22,4,3646,2020,22
+Total Yards Allowed,22,5,3656,2015,22
+Total Yards Allowed,22,6,3686,2018,22
+Total Yards Allowed,22,7,3754,2021,22
+Total Yards Allowed,22,8,3872,2019,22
+Pass Attempts,22,0,437,2016,22
+Pass Attempts,22,1,411,2017,22
+Pass Attempts,22,2,398,2019,22
+Pass Attempts,22,3,396,2018,22
+Pass Attempts,22,4,395,2021,22
+Pass Attempts,22,5,394,2015,22
+Pass Attempts,22,6,385,2020,22
+Pass Attempts,22,7,380,2014,22
+Pass Attempts,22,8,374,2022,22
+Rush Attempts,22,0,273,2014,22
+Rush Attempts,22,1,270,2020,22
+Rush Attempts,22,2,268,2022,22
+Rush Attempts,22,3,250,2015,22
+Rush Attempts,22,4,238,2019,22
+Rush Attempts,22,5,237,2017,22
+Rush Attempts,22,6,231,2018,22
+Rush Attempts,22,7,230,2021,22
+Rush Attempts,22,8,209,2016,22
+Points Scored,23,0,233,2021,23
+Points Scored,23,1,216,2015,23
+Points Scored,23,2,215,2022,23
+Points Scored,23,3,210,2016,23
+Points Scored,23,4,205,2017,23
+Points Scored,23,5,205,2019,23
+Points Scored,23,6,201,2018,23
+Points Scored,23,7,198,2014,23
+Points Scored,23,8,166,2020,23
+Points Allowed,23,0,183,2015,23
+Points Allowed,23,1,195,2016,23
+Points Allowed,23,2,197,2014,23
+Points Allowed,23,3,217,2017,23
+Points Allowed,23,4,221,2021,23
+Points Allowed,23,5,233,2019,23
+Points Allowed,23,6,252,2018,23
+Points Allowed,23,7,256,2022,23
+Points Allowed,23,8,278,2020,23
+Passing Yards,23,0,2531,2016,23
+Passing Yards,23,1,2348,2018,23
+Passing Yards,23,2,2346,2014,23
+Passing Yards,23,3,2276,2022,23
+Passing Yards,23,4,2260,2015,23
+Passing Yards,23,5,2236,2017,23
+Passing Yards,23,6,2235,2019,23
+Passing Yards,23,7,2111,2021,23
+Passing Yards,23,8,2051,2020,23
+Passing Yards Allowed,23,0,2197,2018,23
+Passing Yards Allowed,23,1,2267,2016,23
+Passing Yards Allowed,23,2,2281,2015,23
+Passing Yards Allowed,23,3,2334,2014,23
+Passing Yards Allowed,23,4,2481,2017,23
+Passing Yards Allowed,23,5,2575,2021,23
+Passing Yards Allowed,23,6,2639,2019,23
+Passing Yards Allowed,23,7,2690,2020,23
+Passing Yards Allowed,23,8,2741,2022,23
+Rushing Yards,23,0,1382,2015,23
+Rushing Yards,23,1,1316,2021,23
+Rushing Yards,23,2,1306,2022,23
+Rushing Yards,23,3,1264,2018,23
+Rushing Yards,23,4,1190,2019,23
+Rushing Yards,23,5,1158,2016,23
+Rushing Yards,23,6,1157,2017,23
+Rushing Yards,23,7,1155,2020,23
+Rushing Yards,23,8,1080,2014,23
+Rushing Yards Allowed,23,0,928,2019,23
+Rushing Yards Allowed,23,1,950,2015,23
+Rushing Yards Allowed,23,2,996,2014,23
+Rushing Yards Allowed,23,3,998,2016,23
+Rushing Yards Allowed,23,4,1018,2020,23
+Rushing Yards Allowed,23,5,1024,2022,23
+Rushing Yards Allowed,23,6,1032,2021,23
+Rushing Yards Allowed,23,7,1055,2017,23
+Rushing Yards Allowed,23,8,1120,2018,23
+Total Yards,23,0,3690,2016,23
+Total Yards,23,1,3642,2015,23
+Total Yards,23,2,3612,2018,23
+Total Yards,23,3,3583,2022,23
+Total Yards,23,4,3428,2021,23
+Total Yards,23,5,3426,2014,23
+Total Yards,23,6,3426,2019,23
+Total Yards,23,7,3393,2017,23
+Total Yards,23,8,3207,2020,23
+Total Yards Allowed,23,0,3231,2015,23
+Total Yards Allowed,23,1,3266,2016,23
+Total Yards Allowed,23,2,3317,2018,23
+Total Yards Allowed,23,3,3330,2014,23
+Total Yards Allowed,23,4,3536,2017,23
+Total Yards Allowed,23,5,3568,2019,23
+Total Yards Allowed,23,6,3607,2021,23
+Total Yards Allowed,23,7,3708,2020,23
+Total Yards Allowed,23,8,3765,2022,23
+Pass Attempts,23,0,342,2014,23
+Pass Attempts,23,1,334,2020,23
+Pass Attempts,23,2,333,2018,23
+Pass Attempts,23,3,321,2017,23
+Pass Attempts,23,4,321,2022,23
+Pass Attempts,23,5,320,2015,23
+Pass Attempts,23,6,320,2016,23
+Pass Attempts,23,7,316,2019,23
+Pass Attempts,23,8,298,2021,23
+Rush Attempts,23,0,316,2016,23
+Rush Attempts,23,1,315,2021,23
+Rush Attempts,23,2,308,2015,23
+Rush Attempts,23,3,299,2019,23
+Rush Attempts,23,4,295,2017,23
+Rush Attempts,23,5,285,2014,23
+Rush Attempts,23,6,285,2018,23
+Rush Attempts,23,7,275,2022,23
+Rush Attempts,23,8,264,2020,23
+Points Scored,24,0,243,2015,24
+Points Scored,24,1,223,2018,24
+Points Scored,24,2,218,2019,24
+Points Scored,24,3,206,2014,24
+Points Scored,24,4,205,2022,24
+Points Scored,24,5,184,2017,24
+Points Scored,24,6,172,2020,24
+Points Scored,24,7,163,2021,24
+Points Scored,24,8,137,2016,24
+Points Allowed,24,0,176,2014,24
+Points Allowed,24,1,186,2015,24
+Points Allowed,24,2,187,2020,24
+Points Allowed,24,3,206,2018,24
+Points Allowed,24,4,208,2019,24
+Points Allowed,24,5,213,2017,24
+Points Allowed,24,6,214,2022,24
+Points Allowed,24,7,221,2021,24
+Points Allowed,24,8,235,2016,24
+Passing Yards,24,0,2272,2015,24
+Passing Yards,24,1,2109,2016,24
+Passing Yards,24,2,2107,2021,24
+Passing Yards,24,3,2054,2020,24
+Passing Yards,24,4,1996,2019,24
+Passing Yards,24,5,1979,2017,24
+Passing Yards,24,6,1953,2022,24
+Passing Yards,24,7,1846,2014,24
+Passing Yards,24,8,1746,2018,24
+Passing Yards Allowed,24,0,2003,2014,24
+Passing Yards Allowed,24,1,2053,2021,24
+Passing Yards Allowed,24,2,2265,2016,24
+Passing Yards Allowed,24,3,2290,2015,24
+Passing Yards Allowed,24,4,2363,2020,24
+Passing Yards Allowed,24,5,2404,2022,24
+Passing Yards Allowed,24,6,2515,2018,24
+Passing Yards Allowed,24,7,2537,2019,24
+Passing Yards Allowed,24,8,2768,2017,24
+Rushing Yards,24,0,1547,2015,24
+Rushing Yards,24,1,1487,2019,24
+Rushing Yards,24,2,1453,2018,24
+Rushing Yards,24,3,1365,2014,24
+Rushing Yards,24,4,1338,2017,24
+Rushing Yards,24,5,1211,2021,24
+Rushing Yards,24,6,1140,2020,24
+Rushing Yards,24,7,1103,2016,24
+Rushing Yards,24,8,1061,2022,24
+Rushing Yards Allowed,24,0,923,2015,24
+Rushing Yards Allowed,24,1,981,2017,24
+Rushing Yards Allowed,24,2,995,2019,24
+Rushing Yards Allowed,24,3,1029,2014,24
+Rushing Yards Allowed,24,4,1054,2018,24
+Rushing Yards Allowed,24,5,1124,2020,24
+Rushing Yards Allowed,24,6,1139,2016,24
+Rushing Yards Allowed,24,7,1346,2021,24
+Rushing Yards Allowed,24,8,1410,2022,24
+Total Yards,24,0,3820,2015,24
+Total Yards,24,1,3484,2019,24
+Total Yards,24,2,3318,2021,24
+Total Yards,24,3,3317,2017,24
+Total Yards,24,4,3213,2016,24
+Total Yards,24,5,3212,2014,24
+Total Yards,24,6,3200,2018,24
+Total Yards,24,7,3194,2020,24
+Total Yards,24,8,3015,2022,24
+Total Yards Allowed,24,0,3032,2014,24
+Total Yards Allowed,24,1,3213,2015,24
+Total Yards Allowed,24,2,3400,2021,24
+Total Yards Allowed,24,3,3404,2016,24
+Total Yards Allowed,24,4,3488,2020,24
+Total Yards Allowed,24,5,3533,2019,24
+Total Yards Allowed,24,6,3569,2018,24
+Total Yards Allowed,24,7,3750,2017,24
+Total Yards Allowed,24,8,3814,2022,24
+Pass Attempts,24,0,351,2021,24
+Pass Attempts,24,1,340,2020,24
+Pass Attempts,24,2,335,2014,24
+Pass Attempts,24,3,330,2016,24
+Pass Attempts,24,4,308,2015,24
+Pass Attempts,24,5,298,2022,24
+Pass Attempts,24,6,292,2018,24
+Pass Attempts,24,7,289,2019,24
+Pass Attempts,24,8,285,2017,24
+Rush Attempts,24,0,376,2015,24
+Rush Attempts,24,1,335,2014,24
+Rush Attempts,24,2,326,2018,24
+Rush Attempts,24,3,321,2019,24
+Rush Attempts,24,4,318,2017,24
+Rush Attempts,24,5,276,2016,24
+Rush Attempts,24,6,275,2022,24
+Rush Attempts,24,7,273,2020,24
+Rush Attempts,24,8,266,2021,24
+Points Scored,25,0,253,2021,25
+Points Scored,25,1,243,2015,25
+Points Scored,25,2,224,2020,25
+Points Scored,25,3,220,2014,25
+Points Scored,25,4,217,2022,25
+Points Scored,25,5,209,2019,25
+Points Scored,25,6,185,2017,25
+Points Scored,25,7,173,2016,25
+Points Scored,25,8,157,2018,25
+Points Allowed,25,0,167,2015,25
+Points Allowed,25,1,183,2019,25
+Points Allowed,25,2,190,2018,25
+Points Allowed,25,3,206,2016,25
+Points Allowed,25,4,211,2020,25
+Points Allowed,25,5,215,2014,25
+Points Allowed,25,6,228,2022,25
+Points Allowed,25,7,236,2021,25
+Points Allowed,25,8,252,2017,25
+Passing Yards,25,0,2807,2014,25
+Passing Yards,25,1,2604,2021,25
+Passing Yards,25,2,2594,2015,25
+Passing Yards,25,3,2417,2022,25
+Passing Yards,25,4,2364,2020,25
+Passing Yards,25,5,2326,2017,25
+Passing Yards,25,6,2301,2019,25
+Passing Yards,25,7,2281,2016,25
+Passing Yards,25,8,2007,2018,25
+Passing Yards Allowed,25,0,2010,2015,25
+Passing Yards Allowed,25,1,2072,2016,25
+Passing Yards Allowed,25,2,2166,2018,25
+Passing Yards Allowed,25,3,2283,2022,25
+Passing Yards Allowed,25,4,2288,2019,25
+Passing Yards Allowed,25,5,2468,2021,25
+Passing Yards Allowed,25,6,2485,2017,25
+Passing Yards Allowed,25,7,2500,2020,25
+Passing Yards Allowed,25,8,2651,2014,25
+Rushing Yards,25,0,1432,2021,25
+Rushing Yards,25,1,1368,2020,25
+Rushing Yards,25,2,1323,2019,25
+Rushing Yards,25,3,1288,2022,25
+Rushing Yards,25,4,1201,2018,25
+Rushing Yards,25,5,1200,2016,25
+Rushing Yards,25,6,1120,2015,25
+Rushing Yards,25,7,1118,2014,25
+Rushing Yards,25,8,955,2017,25
+Rushing Yards Allowed,25,0,925,2014,25
+Rushing Yards Allowed,25,1,970,2020,25
+Rushing Yards Allowed,25,2,979,2021,25
+Rushing Yards Allowed,25,3,1016,2017,25
+Rushing Yards Allowed,25,4,1021,2019,25
+Rushing Yards Allowed,25,5,1113,2015,25
+Rushing Yards Allowed,25,6,1155,2022,25
+Rushing Yards Allowed,25,7,1186,2018,25
+Rushing Yards Allowed,25,8,1237,2016,25
+Total Yards,25,0,4036,2021,25
+Total Yards,25,1,3926,2014,25
+Total Yards,25,2,3733,2020,25
+Total Yards,25,3,3715,2015,25
+Total Yards,25,4,3706,2022,25
+Total Yards,25,5,3624,2019,25
+Total Yards,25,6,3481,2016,25
+Total Yards,25,7,3282,2017,25
+Total Yards,25,8,3209,2018,25
+Total Yards Allowed,25,0,3123,2015,25
+Total Yards Allowed,25,1,3310,2016,25
+Total Yards Allowed,25,2,3310,2019,25
+Total Yards Allowed,25,3,3353,2018,25
+Total Yards Allowed,25,4,3439,2022,25
+Total Yards Allowed,25,5,3448,2021,25
+Total Yards Allowed,25,6,3471,2020,25
+Total Yards Allowed,25,7,3501,2017,25
+Total Yards Allowed,25,8,3576,2014,25
+Pass Attempts,25,0,358,2022,25
+Pass Attempts,25,1,355,2014,25
+Pass Attempts,25,2,350,2021,25
+Pass Attempts,25,3,349,2017,25
+Pass Attempts,25,4,341,2019,25
+Pass Attempts,25,5,336,2020,25
+Pass Attempts,25,6,325,2018,25
+Pass Attempts,25,7,320,2015,25
+Pass Attempts,25,8,316,2016,25
+Rush Attempts,25,0,301,2020,25
+Rush Attempts,25,1,298,2019,25
+Rush Attempts,25,2,296,2021,25
+Rush Attempts,25,3,294,2015,25
+Rush Attempts,25,4,291,2022,25
+Rush Attempts,25,5,290,2016,25
+Rush Attempts,25,6,282,2018,25
+Rush Attempts,25,7,280,2017,25
+Rush Attempts,25,8,263,2014,25
+Points Scored,26,0,226,2014,26
+Points Scored,26,1,225,2019,26
+Points Scored,26,2,210,2022,26
+Points Scored,26,3,193,2021,26
+Points Scored,26,4,185,2015,26
+Points Scored,26,5,182,2020,26
+Points Scored,26,6,176,2017,26
+Points Scored,26,7,164,2016,26
+Points Scored,26,8,134,2018,26
+Points Allowed,26,0,191,2016,26
+Points Allowed,26,1,203,2017,26
+Points Allowed,26,2,203,2019,26
+Points Allowed,26,3,218,2015,26
+Points Allowed,26,4,221,2014,26
+Points Allowed,26,5,227,2022,26
+Points Allowed,26,6,232,2018,26
+Points Allowed,26,7,233,2021,26
+Points Allowed,26,8,255,2020,26
+Passing Yards,26,0,2740,2014,26
+Passing Yards,26,1,2401,2017,26
+Passing Yards,26,2,2321,2015,26
+Passing Yards,26,3,2269,2016,26
+Passing Yards,26,4,2226,2018,26
+Passing Yards,26,5,2145,2021,26
+Passing Yards,26,6,2098,2019,26
+Passing Yards,26,7,2004,2020,26
+Passing Yards,26,8,1996,2022,26
+Passing Yards Allowed,26,0,2065,2019,26
+Passing Yards Allowed,26,1,2254,2021,26
+Passing Yards Allowed,26,2,2256,2017,26
+Passing Yards Allowed,26,3,2263,2018,26
+Passing Yards Allowed,26,4,2274,2014,26
+Passing Yards Allowed,26,5,2290,2015,26
+Passing Yards Allowed,26,6,2308,2016,26
+Passing Yards Allowed,26,7,2407,2022,26
+Passing Yards Allowed,26,8,2445,2020,26
+Rushing Yards,26,0,1348,2020,26
+Rushing Yards,26,1,1291,2022,26
+Rushing Yards,26,2,1128,2019,26
+Rushing Yards,26,3,1006,2016,26
+Rushing Yards,26,4,980,2014,26
+Rushing Yards,26,5,936,2017,26
+Rushing Yards,26,6,893,2021,26
+Rushing Yards,26,7,880,2015,26
+Rushing Yards,26,8,858,2018,26
+Rushing Yards Allowed,26,0,1051,2017,26
+Rushing Yards Allowed,26,1,1093,2016,26
+Rushing Yards Allowed,26,2,1151,2014,26
+Rushing Yards Allowed,26,3,1215,2015,26
+Rushing Yards Allowed,26,4,1278,2022,26
+Rushing Yards Allowed,26,5,1313,2018,26
+Rushing Yards Allowed,26,6,1383,2019,26
+Rushing Yards Allowed,26,7,1438,2021,26
+Rushing Yards Allowed,26,8,1535,2020,26
+Total Yards,26,0,3720,2014,26
+Total Yards,26,1,3352,2020,26
+Total Yards,26,2,3338,2017,26
+Total Yards,26,3,3288,2022,26
+Total Yards,26,4,3275,2016,26
+Total Yards,26,5,3226,2019,26
+Total Yards,26,6,3201,2015,26
+Total Yards,26,7,3085,2018,26
+Total Yards,26,8,3038,2021,26
+Total Yards Allowed,26,0,3308,2017,26
+Total Yards Allowed,26,1,3401,2016,26
+Total Yards Allowed,26,2,3425,2014,26
+Total Yards Allowed,26,3,3448,2019,26
+Total Yards Allowed,26,4,3505,2015,26
+Total Yards Allowed,26,5,3577,2018,26
+Total Yards Allowed,26,6,3685,2022,26
+Total Yards Allowed,26,7,3692,2021,26
+Total Yards Allowed,26,8,3980,2020,26
+Pass Attempts,26,0,395,2017,26
+Pass Attempts,26,1,383,2018,26
+Pass Attempts,26,2,365,2016,26
+Pass Attempts,26,3,358,2015,26
+Pass Attempts,26,4,353,2014,26
+Pass Attempts,26,5,353,2021,26
+Pass Attempts,26,6,340,2020,26
+Pass Attempts,26,7,326,2019,26
+Pass Attempts,26,8,325,2022,26
+Rush Attempts,26,0,287,2022,26
+Rush Attempts,26,1,283,2019,26
+Rush Attempts,26,2,268,2016,26
+Rush Attempts,26,3,263,2014,26
+Rush Attempts,26,4,258,2015,26
+Rush Attempts,26,5,254,2017,26
+Rush Attempts,26,6,250,2021,26
+Rush Attempts,26,7,249,2020,26
+Rush Attempts,26,8,235,2018,26
+Points Scored,27,0,292,2022,27
+Points Scored,27,1,275,2014,27
+Points Scored,27,2,268,2016,27
+Points Scored,27,3,235,2021,27
+Points Scored,27,4,213,2019,27
+Points Scored,27,5,208,2017,27
+Points Scored,27,6,200,2015,27
+Points Scored,27,7,198,2020,27
+Points Scored,27,8,196,2018,27
+Points Allowed,27,0,153,2021,27
+Points Allowed,27,1,161,2018,27
+Points Allowed,27,2,168,2022,27
+Points Allowed,27,3,171,2014,27
+Points Allowed,27,4,171,2016,27
+Points Allowed,27,5,172,2015,27
+Points Allowed,27,6,195,2019,27
+Points Allowed,27,7,235,2020,27
+Points Allowed,27,8,237,2017,27
+Passing Yards,27,0,2523,2016,27
+Passing Yards,27,1,2435,2019,27
+Passing Yards,27,2,2418,2018,27
+Passing Yards,27,3,2399,2021,27
+Passing Yards,27,4,2310,2022,27
+Passing Yards,27,5,2255,2020,27
+Passing Yards,27,6,2168,2017,27
+Passing Yards,27,7,2064,2015,27
+Passing Yards,27,8,1957,2014,27
+Passing Yards Allowed,27,0,1957,2021,27
+Passing Yards Allowed,27,1,2035,2019,27
+Passing Yards Allowed,27,2,2120,2018,27
+Passing Yards Allowed,27,3,2141,2017,27
+Passing Yards Allowed,27,4,2195,2020,27
+Passing Yards Allowed,27,5,2197,2015,27
+Passing Yards Allowed,27,6,2291,2022,27
+Passing Yards Allowed,27,7,2344,2014,27
+Passing Yards Allowed,27,8,2422,2016,27
+Rushing Yards,27,0,1610,2022,27
+Rushing Yards,27,1,1603,2014,27
+Rushing Yards,27,2,1385,2016,27
+Rushing Yards,27,3,1319,2015,27
+Rushing Yards,27,4,1278,2019,27
+Rushing Yards,27,5,982,2020,27
+Rushing Yards,27,6,960,2021,27
+Rushing Yards,27,7,800,2017,27
+Rushing Yards,27,8,760,2018,27
+Rushing Yards Allowed,27,0,784,2014,27
+Rushing Yards Allowed,27,1,933,2019,27
+Rushing Yards Allowed,27,2,946,2015,27
+Rushing Yards Allowed,27,3,971,2021,27
+Rushing Yards Allowed,27,4,973,2022,27
+Rushing Yards Allowed,27,5,1025,2016,27
+Rushing Yards Allowed,27,6,1047,2018,27
+Rushing Yards Allowed,27,7,1154,2017,27
+Rushing Yards Allowed,27,8,1347,2020,27
+Total Yards,27,0,3920,2022,27
+Total Yards,27,1,3909,2016,27
+Total Yards,27,2,3713,2019,27
+Total Yards,27,3,3561,2014,27
+Total Yards,27,4,3383,2015,27
+Total Yards,27,5,3359,2021,27
+Total Yards,27,6,3237,2020,27
+Total Yards,27,7,3178,2018,27
+Total Yards,27,8,2968,2017,27
+Total Yards Allowed,27,0,2928,2021,27
+Total Yards Allowed,27,1,2968,2019,27
+Total Yards Allowed,27,2,3128,2014,27
+Total Yards Allowed,27,3,3143,2015,27
+Total Yards Allowed,27,4,3168,2018,27
+Total Yards Allowed,27,5,3265,2022,27
+Total Yards Allowed,27,6,3295,2017,27
+Total Yards Allowed,27,7,3447,2016,27
+Total Yards Allowed,27,8,3542,2020,27
+Pass Attempts,27,0,357,2018,27
+Pass Attempts,27,1,353,2019,27
+Pass Attempts,27,2,338,2017,27
+Pass Attempts,27,3,335,2015,27
+Pass Attempts,27,4,329,2021,27
+Pass Attempts,27,5,323,2020,27
+Pass Attempts,27,6,321,2016,27
+Pass Attempts,27,7,282,2022,27
+Pass Attempts,27,8,281,2014,27
+Rush Attempts,27,0,351,2022,27
+Rush Attempts,27,1,346,2014,27
+Rush Attempts,27,2,306,2015,27
+Rush Attempts,27,3,303,2021,27
+Rush Attempts,27,4,302,2019,27
+Rush Attempts,27,5,296,2016,27
+Rush Attempts,27,6,263,2020,27
+Rush Attempts,27,7,260,2018,27
+Rush Attempts,27,8,241,2017,27
+Points Scored,28,0,305,2022,28
+Points Scored,28,1,236,2018,28
+Points Scored,28,2,227,2017,28
+Points Scored,28,3,218,2014,28
+Points Scored,28,4,213,2016,28
+Points Scored,28,5,203,2015,28
+Points Scored,28,6,203,2021,28
+Points Scored,28,7,184,2020,28
+Points Scored,28,8,183,2019,28
+Points Allowed,28,0,141,2021,28
+Points Allowed,28,1,173,2022,28
+Points Allowed,28,2,180,2015,28
+Points Allowed,28,3,190,2019,28
+Points Allowed,28,4,200,2020,28
+Points Allowed,28,5,201,2016,28
+Points Allowed,28,6,204,2018,28
+Points Allowed,28,7,212,2014,28
+Points Allowed,28,8,214,2017,28
+Passing Yards,28,0,2498,2017,28
+Passing Yards,28,1,2354,2018,28
+Passing Yards,28,2,2345,2016,28
+Passing Yards,28,3,2310,2014,28
+Passing Yards,28,4,2230,2022,28
+Passing Yards,28,5,2210,2015,28
+Passing Yards,28,6,1913,2019,28
+Passing Yards,28,7,1845,2021,28
+Passing Yards,28,8,1767,2020,28
+Passing Yards Allowed,28,0,2323,2019,28
+Passing Yards Allowed,28,1,2340,2021,28
+Passing Yards Allowed,28,2,2363,2015,28
+Passing Yards Allowed,28,3,2368,2017,28
+Passing Yards Allowed,28,4,2374,2016,28
+Passing Yards Allowed,28,5,2434,2018,28
+Passing Yards Allowed,28,6,2601,2022,28
+Passing Yards Allowed,28,7,2647,2020,28
+Passing Yards Allowed,28,8,2759,2014,28
+Rushing Yards,28,0,1541,2022,28
+Rushing Yards,28,1,1483,2021,28
+Rushing Yards,28,2,1422,2020,28
+Rushing Yards,28,3,1295,2019,28
+Rushing Yards,28,4,1206,2014,28
+Rushing Yards,28,5,1197,2015,28
+Rushing Yards,28,6,1171,2016,28
+Rushing Yards,28,7,1088,2018,28
+Rushing Yards,28,8,870,2017,28
+Rushing Yards Allowed,28,0,761,2014,28
+Rushing Yards Allowed,28,1,776,2021,28
+Rushing Yards Allowed,28,2,827,2022,28
+Rushing Yards Allowed,28,3,925,2016,28
+Rushing Yards Allowed,28,4,953,2015,28
+Rushing Yards Allowed,28,5,975,2020,28
+Rushing Yards Allowed,28,6,1021,2019,28
+Rushing Yards Allowed,28,7,1074,2017,28
+Rushing Yards Allowed,28,8,1110,2018,28
+Total Yards,28,0,3771,2022,28
+Total Yards,28,1,3517,2014,28
+Total Yards,28,2,3517,2016,28
+Total Yards,28,3,3443,2018,28
+Total Yards,28,4,3407,2015,28
+Total Yards,28,5,3369,2017,28
+Total Yards,28,6,3328,2021,28
+Total Yards,28,7,3208,2019,28
+Total Yards,28,8,3190,2020,28
+Total Yards Allowed,28,0,3116,2021,28
+Total Yards Allowed,28,1,3299,2016,28
+Total Yards Allowed,28,2,3316,2015,28
+Total Yards Allowed,28,3,3345,2019,28
+Total Yards Allowed,28,4,3429,2022,28
+Total Yards Allowed,28,5,3443,2017,28
+Total Yards Allowed,28,6,3520,2014,28
+Total Yards Allowed,28,7,3545,2018,28
+Total Yards Allowed,28,8,3622,2020,28
+Pass Attempts,28,0,342,2017,28
+Pass Attempts,28,1,340,2018,28
+Pass Attempts,28,2,333,2016,28
+Pass Attempts,28,3,326,2014,28
+Pass Attempts,28,4,313,2020,28
+Pass Attempts,28,5,310,2021,28
+Pass Attempts,28,6,306,2022,28
+Pass Attempts,28,7,296,2019,28
+Pass Attempts,28,8,286,2015,28
+Rush Attempts,28,0,339,2021,28
+Rush Attempts,28,1,338,2015,28
+Rush Attempts,28,2,329,2020,28
+Rush Attempts,28,3,326,2022,28
+Rush Attempts,28,4,299,2019,28
+Rush Attempts,28,5,294,2014,28
+Rush Attempts,28,6,288,2018,28
+Rush Attempts,28,7,281,2016,28
+Rush Attempts,28,8,270,2017,28
+Points Scored,29,0,280,2014,29
+Points Scored,29,1,271,2022,29
+Points Scored,29,2,264,2020,29
+Points Scored,29,3,239,2017,29
+Points Scored,29,4,220,2015,29
+Points Scored,29,5,216,2021,29
+Points Scored,29,6,211,2018,29
+Points Scored,29,7,191,2019,29
+Points Scored,29,8,161,2016,29
+Points Allowed,29,0,175,2015,29
+Points Allowed,29,1,176,2014,29
+Points Allowed,29,2,179,2016,29
+Points Allowed,29,3,199,2017,29
+Points Allowed,29,4,210,2018,29
+Points Allowed,29,5,211,2020,29
+Points Allowed,29,6,216,2022,29
+Points Allowed,29,7,266,2021,29
+Points Allowed,29,8,271,2019,29
+Passing Yards,29,0,2934,2014,29
+Passing Yards,29,1,2786,2019,29
+Passing Yards,29,2,2555,2020,29
+Passing Yards,29,3,2453,2021,29
+Passing Yards,29,4,2450,2015,29
+Passing Yards,29,5,2410,2022,29
+Passing Yards,29,6,2354,2017,29
+Passing Yards,29,7,2243,2018,29
+Passing Yards,29,8,2200,2016,29
+Passing Yards Allowed,29,0,2057,2015,29
+Passing Yards Allowed,29,1,2175,2016,29
+Passing Yards Allowed,29,2,2298,2017,29
+Passing Yards Allowed,29,3,2361,2019,29
+Passing Yards Allowed,29,4,2400,2014,29
+Passing Yards Allowed,29,5,2405,2018,29
+Passing Yards Allowed,29,6,2456,2022,29
+Passing Yards Allowed,29,7,2748,2021,29
+Passing Yards Allowed,29,8,2880,2020,29
+Rushing Yards,29,0,1254,2020,29
+Rushing Yards,29,1,1245,2022,29
+Rushing Yards,29,2,1231,2021,29
+Rushing Yards,29,3,1103,2015,29
+Rushing Yards,29,4,1078,2017,29
+Rushing Yards,29,5,1012,2018,29
+Rushing Yards,29,6,837,2014,29
+Rushing Yards,29,7,823,2016,29
+Rushing Yards,29,8,483,2019,29
+Rushing Yards Allowed,29,0,875,2020,29
+Rushing Yards Allowed,29,1,892,2022,29
+Rushing Yards Allowed,29,2,906,2018,29
+Rushing Yards Allowed,29,3,918,2016,29
+Rushing Yards Allowed,29,4,1013,2017,29
+Rushing Yards Allowed,29,5,1106,2019,29
+Rushing Yards Allowed,29,6,1111,2021,29
+Rushing Yards Allowed,29,7,1165,2014,29
+Rushing Yards Allowed,29,8,1166,2015,29
+Total Yards,29,0,3810,2020,29
+Total Yards,29,1,3771,2014,29
+Total Yards,29,2,3685,2021,29
+Total Yards,29,3,3656,2022,29
+Total Yards,29,4,3553,2015,29
+Total Yards,29,5,3432,2017,29
+Total Yards,29,6,3269,2019,29
+Total Yards,29,7,3256,2018,29
+Total Yards,29,8,3023,2016,29
+Total Yards Allowed,29,0,3093,2016,29
+Total Yards Allowed,29,1,3224,2015,29
+Total Yards Allowed,29,2,3311,2018,29
+Total Yards Allowed,29,3,3312,2017,29
+Total Yards Allowed,29,4,3348,2022,29
+Total Yards Allowed,29,5,3468,2019,29
+Total Yards Allowed,29,6,3565,2014,29
+Total Yards Allowed,29,7,3755,2020,29
+Total Yards Allowed,29,8,3860,2021,29
+Pass Attempts,29,0,410,2019,29
+Pass Attempts,29,1,367,2022,29
+Pass Attempts,29,2,360,2018,29
+Pass Attempts,29,3,357,2021,29
+Pass Attempts,29,4,353,2016,29
+Pass Attempts,29,5,352,2014,29
+Pass Attempts,29,6,336,2017,29
+Pass Attempts,29,7,332,2020,29
+Pass Attempts,29,8,328,2015,29
+Rush Attempts,29,0,301,2015,29
+Rush Attempts,29,1,298,2022,29
+Rush Attempts,29,2,286,2020,29
+Rush Attempts,29,3,276,2021,29
+Rush Attempts,29,4,273,2017,29
+Rush Attempts,29,5,256,2016,29
+Rush Attempts,29,6,255,2014,29
+Rush Attempts,29,7,251,2018,29
+Rush Attempts,29,8,185,2019,29
+Points Scored,30,0,255,2021,30
+Points Scored,30,1,243,2016,30
+Points Scored,30,2,232,2020,30
+Points Scored,30,3,180,2018,30
+Points Scored,30,4,178,2019,30
+Points Scored,30,5,165,2017,30
+Points Scored,30,6,155,2022,30
+Points Scored,30,7,114,2014,30
+Points Scored,30,8,94,2015,30
+Points Allowed,30,0,192,2020,30
+Points Allowed,30,1,230,2021,30
+Points Allowed,30,2,238,2016,30
+Points Allowed,30,3,242,2017,30
+Points Allowed,30,4,245,2014,30
+Points Allowed,30,5,258,2018,30
+Points Allowed,30,6,271,2022,30
+Points Allowed,30,7,273,2019,30
+Points Allowed,30,8,303,2015,30
+Passing Yards,30,0,2675,2021,30
+Passing Yards,30,1,2618,2020,30
+Passing Yards,30,2,2503,2022,30
+Passing Yards,30,3,2483,2018,30
+Passing Yards,30,4,2437,2016,30
+Passing Yards,30,5,2372,2019,30
+Passing Yards,30,6,2303,2017,30
+Passing Yards,30,7,1898,2015,30
+Passing Yards,30,8,1817,2014,30
+Passing Yards Allowed,30,0,2018,2017,30
+Passing Yards Allowed,30,1,2156,2015,30
+Passing Yards Allowed,30,2,2190,2018,30
+Passing Yards Allowed,30,3,2248,2014,30
+Passing Yards Allowed,30,4,2341,2021,30
+Passing Yards Allowed,30,5,2347,2019,30
+Passing Yards Allowed,30,6,2424,2020,30
+Passing Yards Allowed,30,7,2440,2016,30
+Passing Yards Allowed,30,8,2571,2022,30
+Rushing Yards,30,0,1099,2021,30
+Rushing Yards,30,1,1017,2016,30
+Rushing Yards,30,2,1014,2020,30
+Rushing Yards,30,3,847,2014,30
+Rushing Yards,30,4,818,2017,30
+Rushing Yards,30,5,803,2018,30
+Rushing Yards,30,6,798,2019,30
+Rushing Yards,30,7,787,2022,30
+Rushing Yards,30,8,561,2015,30
+Rushing Yards Allowed,30,0,996,2020,30
+Rushing Yards Allowed,30,1,1060,2017,30
+Rushing Yards Allowed,30,2,1120,2016,30
+Rushing Yards Allowed,30,3,1201,2022,30
+Rushing Yards Allowed,30,4,1257,2018,30
+Rushing Yards Allowed,30,5,1288,2021,30
+Rushing Yards Allowed,30,6,1358,2014,30
+Rushing Yards Allowed,30,7,1536,2019,30
+Rushing Yards Allowed,30,8,1637,2015,30
+Total Yards,30,0,3774,2021,30
+Total Yards,30,1,3633,2020,30
+Total Yards,30,2,3455,2016,30
+Total Yards,30,3,3291,2022,30
+Total Yards,30,4,3286,2018,30
+Total Yards,30,5,3171,2019,30
+Total Yards,30,6,3121,2017,30
+Total Yards,30,7,2665,2014,30
+Total Yards,30,8,2460,2015,30
+Total Yards Allowed,30,0,3079,2017,30
+Total Yards Allowed,30,1,3421,2020,30
+Total Yards Allowed,30,2,3447,2018,30
+Total Yards Allowed,30,3,3560,2016,30
+Total Yards Allowed,30,4,3607,2014,30
+Total Yards Allowed,30,5,3630,2021,30
+Total Yards Allowed,30,6,3773,2022,30
+Total Yards Allowed,30,7,3793,2015,30
+Total Yards Allowed,30,8,3883,2019,30
+Pass Attempts,30,0,413,2022,30
+Pass Attempts,30,1,409,2017,30
+Pass Attempts,30,2,394,2018,30
+Pass Attempts,30,3,386,2014,30
+Pass Attempts,30,4,373,2015,30
+Pass Attempts,30,5,373,2020,30
+Pass Attempts,30,6,364,2016,30
+Pass Attempts,30,7,350,2021,30
+Pass Attempts,30,8,348,2019,30
+Rush Attempts,30,0,262,2020,30
+Rush Attempts,30,1,259,2021,30
+Rush Attempts,30,2,250,2016,30
+Rush Attempts,30,3,216,2014,30
+Rush Attempts,30,4,213,2017,30
+Rush Attempts,30,5,212,2019,30
+Rush Attempts,30,6,210,2018,30
+Rush Attempts,30,7,200,2022,30
+Rush Attempts,30,8,181,2015,30
+Points Scored,31,0,282,2019,31
+Points Scored,31,1,273,2022,31
+Points Scored,31,2,251,2017,31
+Points Scored,31,3,237,2018,31
+Points Scored,31,4,223,2021,31
+Points Scored,31,5,211,2015,31
+Points Scored,31,6,205,2014,31
+Points Scored,31,7,201,2016,31
+Points Scored,31,8,200,2020,31
+Points Allowed,31,0,180,2021,31
+Points Allowed,31,1,199,2018,31
+Points Allowed,31,2,208,2019,31
+Points Allowed,31,3,210,2015,31
+Points Allowed,31,4,212,2017,31
+Points Allowed,31,5,223,2014,31
+Points Allowed,31,6,230,2016,31
+Points Allowed,31,7,254,2020,31
+Points Allowed,31,8,254,2022,31
+Passing Yards,31,0,3008,2022,31
+Passing Yards,31,1,2568,2019,31
+Passing Yards,31,2,2515,2018,31
+Passing Yards,31,3,2498,2014,31
+Passing Yards,31,4,2418,2017,31
+Passing Yards,31,5,2357,2016,31
+Passing Yards,31,6,2333,2021,31
+Passing Yards,31,7,2243,2020,31
+Passing Yards,31,8,2026,2015,31
+Passing Yards Allowed,31,0,2229,2015,31
+Passing Yards Allowed,31,1,2269,2017,31
+Passing Yards Allowed,31,2,2291,2016,31
+Passing Yards Allowed,31,3,2333,2020,31
+Passing Yards Allowed,31,4,2371,2018,31
+Passing Yards Allowed,31,5,2375,2019,31
+Passing Yards Allowed,31,6,2530,2014,31
+Passing Yards Allowed,31,7,2590,2022,31
+Passing Yards Allowed,31,8,2653,2021,31
+Rushing Yards,31,0,1470,2017,31
+Rushing Yards,31,1,1350,2018,31
+Rushing Yards,31,2,1286,2016,31
+Rushing Yards,31,3,1255,2019,31
+Rushing Yards,31,4,1131,2021,31
+Rushing Yards,31,5,1115,2015,31
+Rushing Yards,31,6,1115,2020,31
+Rushing Yards,31,7,1033,2022,31
+Rushing Yards,31,8,993,2014,31
+Rushing Yards Allowed,31,0,1094,2016,31
+Rushing Yards Allowed,31,1,1116,2017,31
+Rushing Yards Allowed,31,2,1116,2018,31
+Rushing Yards Allowed,31,3,1220,2021,31
+Rushing Yards Allowed,31,4,1230,2019,31
+Rushing Yards Allowed,31,5,1238,2020,31
+Rushing Yards Allowed,31,6,1301,2022,31
+Rushing Yards Allowed,31,7,1364,2014,31
+Rushing Yards Allowed,31,8,1399,2015,31
+Total Yards,31,0,4042,2022,31
+Total Yards,31,1,3888,2017,31
+Total Yards,31,2,3865,2018,31
+Total Yards,31,3,3823,2019,31
+Total Yards,31,4,3644,2016,31
+Total Yards,31,5,3491,2014,31
+Total Yards,31,6,3465,2021,31
+Total Yards,31,7,3359,2020,31
+Total Yards,31,8,3141,2015,31
+Total Yards Allowed,31,0,3385,2016,31
+Total Yards Allowed,31,1,3385,2017,31
+Total Yards Allowed,31,2,3487,2018,31
+Total Yards Allowed,31,3,3571,2020,31
+Total Yards Allowed,31,4,3605,2019,31
+Total Yards Allowed,31,5,3628,2015,31
+Total Yards Allowed,31,6,3873,2021,31
+Total Yards Allowed,31,7,3891,2022,31
+Total Yards Allowed,31,8,3894,2014,31
+Pass Attempts,31,0,373,2014,31
+Pass Attempts,31,1,358,2016,31
+Pass Attempts,31,2,348,2018,31
+Pass Attempts,31,3,345,2020,31
+Pass Attempts,31,4,337,2022,31
+Pass Attempts,31,5,331,2021,31
+Pass Attempts,31,6,318,2019,31
+Pass Attempts,31,7,316,2017,31
+Pass Attempts,31,8,309,2015,31
+Rush Attempts,31,0,310,2017,31
+Rush Attempts,31,1,305,2018,31
+Rush Attempts,31,2,298,2016,31
+Rush Attempts,31,3,290,2015,31
+Rush Attempts,31,4,288,2019,31
+Rush Attempts,31,5,276,2022,31
+Rush Attempts,31,6,268,2021,31
+Rush Attempts,31,7,266,2020,31
+Rush Attempts,31,8,244,2014,31
+Points Scored,99,0,345,2022,20
+Points Scored,99,1,316,2016,19
+Points Scored,99,2,314,2020,13
+Points Scored,99,3,309,2019,19
+Points Scored,99,4,308,2014,19
+Points Scored,99,5,308,2019,10
+Points Scored,99,6,305,2022,28
+Points Scored,99,7,301,2020,20
+Points Scored,99,8,297,2020,10
+Points Scored,99,9,296,2015,19
+Points Scored,99,10,296,2017,18
+Points Scored,99,11,295,2018,3
+Points Scored,99,12,293,2017,19
+Points Scored,99,13,293,2021,10
+Points Scored,99,14,292,2016,18
+Points Scored,99,15,292,2022,27
+Points Scored,99,16,291,2017,20
+Points Scored,99,17,283,2015,18
+Points Scored,99,18,283,2017,10
+Points Scored,99,19,282,2019,31
+Points Scored,99,20,280,2014,29
+Points Scored,99,21,280,2017,3
+Points Scored,99,22,280,2021,21
+Points Scored,99,23,278,2022,14
+Points Scored,99,24,277,2014,22
+Points Scored,99,25,276,2017,2
+Points Scored,99,26,276,2020,12
+Points Scored,99,27,276,2021,14
+Points Scored,99,28,275,2014,27
+Points Scored,99,29,275,2016,20
+Points Scored,99,30,273,2022,31
+Points Scored,99,31,271,2022,29
+Points Scored,99,32,270,2017,21
+Points Scored,99,33,270,2021,4
+Points Scored,99,34,269,2018,18
+Points Scored,99,35,269,2022,3
+Points Scored,99,36,268,2016,27
+Points Scored,99,37,266,2016,3
+Points Scored,99,38,266,2018,4
+Points Scored,99,39,266,2021,18
+Points Scored,99,40,265,2019,17
+Points Scored,99,41,264,2020,29
+Points Scored,99,42,264,2022,18
+Points Scored,99,43,263,2014,15
+Points Scored,99,44,263,2015,2
+Points Scored,99,45,263,2020,19
+Points Scored,99,46,262,2022,8
+Points Scored,99,47,262,2022,22
+Points Scored,99,48,261,2018,12
+Points Scored,99,49,261,2019,21
+Points Scored,99,50,261,2020,17
+Points Scored,99,51,261,2021,7
+Points Scored,99,52,259,2016,2
+Points Scored,99,53,259,2019,18
+Points Scored,99,54,259,2020,18
+Points Scored,99,55,258,2014,12
+Points Scored,99,56,258,2020,22
+Points Scored,99,57,256,2020,3
+Points Scored,99,58,255,2019,3
+Points Scored,99,59,255,2019,20
+Points Scored,99,60,255,2021,30
+Points Scored,99,61,254,2022,4
+Points Scored,99,62,253,2017,0
+Points Scored,99,63,253,2017,14
+Points Scored,99,64,253,2021,25
+Points Scored,99,65,252,2021,20
+Points Scored,99,66,251,2017,31
+Points Scored,99,67,251,2019,16
+Points Scored,99,68,251,2020,2
+Points Scored,99,69,251,2021,0
+Points Scored,99,70,248,2018,20
+Points Scored,99,71,247,2014,16
+Points Scored,99,72,247,2015,6
+Points Scored,99,73,247,2017,12
+Points Scored,99,74,246,2015,10
+Points Scored,99,75,246,2020,8
+Points Scored,99,76,246,2022,9
+Points Scored,99,77,245,2018,16
+Points Scored,99,78,245,2021,9
+Points Scored,99,79,245,2022,0
+Points Scored,99,80,243,2015,24
+Points Scored,99,81,243,2015,25
+Points Scored,99,82,243,2016,30
+Points Scored,99,83,243,2021,8
+Points Scored,99,84,243,2022,2
+Points Scored,99,85,241,2015,20
+Points Scored,99,86,241,2016,4
+Points Scored,99,87,240,2014,4
+Points Scored,99,88,239,2017,29
+Points Scored,99,89,238,2014,6
+Points Scored,99,90,237,2018,31
+Points Scored,99,91,236,2018,28
+Points Scored,99,92,236,2020,21
+Points Scored,99,93,236,2021,12
+Points Scored,99,94,235,2014,18
+Points Scored,99,95,235,2014,21
+Points Scored,99,96,235,2016,10
+Points Scored,99,97,235,2019,12
+Points Scored,99,98,235,2021,6
+Points Scored,99,99,235,2021,27
+Points Allowed,99,0,133,2016,4
+Points Allowed,99,1,141,2021,28
+Points Allowed,99,2,147,2019,10
+Points Allowed,99,3,148,2021,9
+Points Allowed,99,4,153,2021,27
+Points Allowed,99,5,157,2018,0
+Points Allowed,99,6,159,2016,10
+Points Allowed,99,7,161,2018,27
+Points Allowed,99,8,163,2014,19
+Points Allowed,99,9,165,2016,9
+Points Allowed,99,10,165,2017,9
+Points Allowed,99,11,166,2014,10
+Points Allowed,99,12,167,2015,25
+Points Allowed,99,13,168,2022,27
+Points Allowed,99,14,170,2014,16
+Points Allowed,99,15,170,2019,3
+Points Allowed,99,16,171,2014,27
+Points Allowed,99,17,171,2016,27
+Points Allowed,99,18,171,2020,13
+Points Allowed,99,19,172,2015,27
+Points Allowed,99,20,173,2022,28
+Points Allowed,99,21,175,2015,4
+Points Allowed,99,22,175,2015,29
+Points Allowed,99,23,175,2019,4
+Points Allowed,99,24,175,2021,4
+Points Allowed,99,25,176,2014,24
+Points Allowed,99,26,176,2014,29
+Points Allowed,99,27,176,2022,22
+Points Allowed,99,28,177,2015,10
+Points Allowed,99,29,178,2014,20
+Points Allowed,99,30,179,2016,29
+Points Allowed,99,31,179,2018,9
+Points Allowed,99,32,180,2015,6
+Points Allowed,99,33,180,2015,28
+Points Allowed,99,34,180,2016,19
+Points Allowed,99,35,180,2021,31
+Points Allowed,99,36,180,2022,2
+Points Allowed,99,37,181,2018,4
+Points Allowed,99,38,181,2022,14
+Points Allowed,99,39,183,2015,23
+Points Allowed,99,40,183,2019,25
+Points Allowed,99,41,184,2018,1
+Points Allowed,99,42,184,2018,2
+Points Allowed,99,43,185,2014,7
+Points Allowed,99,44,186,2015,19
+Points Allowed,99,45,186,2015,24
+Points Allowed,99,46,187,2015,9
+Points Allowed,99,47,187,2020,24
+Points Allowed,99,48,188,2014,4
+Points Allowed,99,49,188,2015,15
+Points Allowed,99,50,188,2019,9
+Points Allowed,99,51,189,2017,2
+Points Allowed,99,52,189,2017,15
+Points Allowed,99,53,190,2015,2
+Points Allowed,99,54,190,2018,13
+Points Allowed,99,55,190,2018,25
+Points Allowed,99,56,190,2019,28
+Points Allowed,99,57,190,2020,6
+Points Allowed,99,58,190,2020,9
+Points Allowed,99,59,191,2014,15
+Points Allowed,99,60,191,2016,2
+Points Allowed,99,61,191,2016,26
+Points Allowed,99,62,191,2019,16
+Points Allowed,99,63,191,2021,2
+Points Allowed,99,64,192,2017,0
+Points Allowed,99,65,192,2018,16
+Points Allowed,99,66,192,2020,30
+Points Allowed,99,67,194,2017,10
+Points Allowed,99,68,195,2014,21
+Points Allowed,99,69,195,2016,23
+Points Allowed,99,70,195,2019,27
+Points Allowed,99,71,195,2022,9
+Points Allowed,99,72,196,2015,5
+Points Allowed,99,73,196,2020,10
+Points Allowed,99,74,197,2014,23
+Points Allowed,99,75,198,2015,8
+Points Allowed,99,76,198,2019,20
+Points Allowed,99,77,198,2022,4
+Points Allowed,99,78,199,2015,13
+Points Allowed,99,79,199,2017,29
+Points Allowed,99,80,199,2018,31
+Points Allowed,99,81,199,2020,15
+Points Allowed,99,82,199,2021,10
+Points Allowed,99,83,200,2018,3
+Points Allowed,99,84,200,2018,5
+Points Allowed,99,85,200,2018,22
+Points Allowed,99,86,200,2020,0
+Points Allowed,99,87,200,2020,28
+Points Allowed,99,88,201,2014,6
+Points Allowed,99,89,201,2016,7
+Points Allowed,99,90,201,2016,28
+Points Allowed,99,91,201,2022,0
+Points Allowed,99,92,203,2014,3
+Points Allowed,99,93,203,2016,11
+Points Allowed,99,94,203,2017,26
+Points Allowed,99,95,203,2019,26
+Points Allowed,99,96,203,2022,19
+Points Allowed,99,97,204,2016,13
+Points Allowed,99,98,204,2018,28
+Points Allowed,99,99,205,2014,17
+Passing Yards,99,0,3500,2017,18
+Passing Yards,99,1,3313,2020,8
+Passing Yards,99,2,3310,2021,18
+Passing Yards,99,3,3233,2020,10
+Passing Yards,99,4,3176,2018,19
+Passing Yards,99,5,3171,2018,20
+Passing Yards,99,6,3134,2022,20
+Passing Yards,99,7,3118,2022,18
+Passing Yards,99,8,3098,2018,18
+Passing Yards,99,9,3098,2019,18
+Passing Yards,99,10,3063,2020,21
+Passing Yards,99,11,3046,2017,14
+Passing Yards,99,12,3046,2020,18
+Passing Yards,99,13,3033,2020,19
+Passing Yards,99,14,3028,2016,19
+Passing Yards,99,15,3021,2022,10
+Passing Yards,99,16,3008,2022,31
+Passing Yards,99,17,3002,2020,20
+Passing Yards,99,18,2973,2022,7
+Passing Yards,99,19,2968,2016,18
+Passing Yards,99,20,2968,2019,12
+Passing Yards,99,21,2965,2017,10
+Passing Yards,99,22,2960,2021,20
+Passing Yards,99,23,2934,2014,29
+Passing Yards,99,24,2918,2019,20
+Passing Yards,99,25,2917,2019,19
+Passing Yards,99,26,2893,2022,14
+Passing Yards,99,27,2888,2021,14
+Passing Yards,99,28,2884,2021,8
+Passing Yards,99,29,2866,2016,22
+Passing Yards,99,30,2866,2021,21
+Passing Yards,99,31,2858,2017,20
+Passing Yards,99,32,2857,2014,22
+Passing Yards,99,33,2850,2017,19
+Passing Yards,99,34,2844,2015,18
+Passing Yards,99,35,2830,2021,12
+Passing Yards,99,36,2826,2019,17
+Passing Yards,99,37,2826,2022,8
+Passing Yards,99,38,2823,2022,17
+Passing Yards,99,39,2820,2015,19
+Passing Yards,99,40,2807,2014,25
+Passing Yards,99,41,2786,2019,29
+Passing Yards,99,42,2785,2020,14
+Passing Yards,99,43,2772,2017,8
+Passing Yards,99,44,2763,2014,18
+Passing Yards,99,45,2758,2020,12
+Passing Yards,99,46,2745,2022,9
+Passing Yards,99,47,2740,2014,26
+Passing Yards,99,48,2733,2017,21
+Passing Yards,99,49,2723,2022,22
+Passing Yards,99,50,2719,2015,17
+Passing Yards,99,51,2716,2019,10
+Passing Yards,99,52,2715,2014,12
+Passing Yards,99,53,2715,2021,10
+Passing Yards,99,54,2712,2020,6
+Passing Yards,99,55,2710,2022,21
+Passing Yards,99,56,2693,2017,17
+Passing Yards,99,57,2692,2019,14
+Passing Yards,99,58,2688,2020,13
+Passing Yards,99,59,2686,2016,14
+Passing Yards,99,60,2681,2020,17
+Passing Yards,99,61,2677,2021,22
+Passing Yards,99,62,2675,2021,30
+Passing Yards,99,63,2667,2021,9
+Passing Yards,99,64,2667,2022,19
+Passing Yards,99,65,2662,2018,12
+Passing Yards,99,66,2661,2020,16
+Passing Yards,99,67,2660,2014,19
+Passing Yards,99,68,2650,2016,20
+Passing Yards,99,69,2649,2018,6
+Passing Yards,99,70,2644,2021,17
+Passing Yards,99,71,2643,2016,11
+Passing Yards,99,72,2643,2019,21
+Passing Yards,99,73,2642,2017,13
+Passing Yards,99,74,2639,2022,12
+Passing Yards,99,75,2618,2020,30
+Passing Yards,99,76,2615,2021,2
+Passing Yards,99,77,2611,2015,21
+Passing Yards,99,78,2609,2016,12
+Passing Yards,99,79,2604,2021,25
+Passing Yards,99,80,2603,2014,15
+Passing Yards,99,81,2603,2017,6
+Passing Yards,99,82,2596,2020,7
+Passing Yards,99,83,2594,2015,25
+Passing Yards,99,84,2578,2017,1
+Passing Yards,99,85,2578,2017,22
+Passing Yards,99,86,2571,2016,21
+Passing Yards,99,87,2570,2015,8
+Passing Yards,99,88,2568,2019,31
+Passing Yards,99,89,2567,2022,1
+Passing Yards,99,90,2563,2021,19
+Passing Yards,99,91,2560,2014,11
+Passing Yards,99,92,2558,2014,21
+Passing Yards,99,93,2558,2018,14
+Passing Yards,99,94,2555,2020,29
+Passing Yards,99,95,2550,2021,13
+Passing Yards,99,96,2548,2018,10
+Passing Yards,99,97,2531,2016,23
+Passing Yards,99,98,2531,2018,4
+Passing Yards,99,99,2530,2016,10
+Passing Yards Allowed,99,0,1918,2014,19
+Passing Yards Allowed,99,1,1957,2021,27
+Passing Yards Allowed,99,2,1961,2021,2
+Passing Yards Allowed,99,3,1993,2015,12
+Passing Yards Allowed,99,4,2003,2014,24
+Passing Yards Allowed,99,5,2010,2015,25
+Passing Yards Allowed,99,6,2014,2018,10
+Passing Yards Allowed,99,7,2018,2017,30
+Passing Yards Allowed,99,8,2035,2014,16
+Passing Yards Allowed,99,9,2035,2019,27
+Passing Yards Allowed,99,10,2041,2015,13
+Passing Yards Allowed,99,11,2053,2021,24
+Passing Yards Allowed,99,12,2055,2015,10
+Passing Yards Allowed,99,13,2057,2015,29
+Passing Yards Allowed,99,14,2065,2019,26
+Passing Yards Allowed,99,15,2072,2016,25
+Passing Yards Allowed,99,16,2081,2014,5
+Passing Yards Allowed,99,17,2081,2015,15
+Passing Yards Allowed,99,18,2084,2014,2
+Passing Yards Allowed,99,19,2085,2019,0
+Passing Yards Allowed,99,20,2090,2020,6
+Passing Yards Allowed,99,21,2093,2018,11
+Passing Yards Allowed,99,22,2096,2019,13
+Passing Yards Allowed,99,23,2099,2015,9
+Passing Yards Allowed,99,24,2105,2016,0
+Passing Yards Allowed,99,25,2115,2018,9
+Passing Yards Allowed,99,26,2120,2018,27
+Passing Yards Allowed,99,27,2131,2016,19
+Passing Yards Allowed,99,28,2132,2016,5
+Passing Yards Allowed,99,29,2140,2014,10
+Passing Yards Allowed,99,30,2141,2017,27
+Passing Yards Allowed,99,31,2144,2017,22
+Passing Yards Allowed,99,32,2155,2015,11
+Passing Yards Allowed,99,33,2156,2015,30
+Passing Yards Allowed,99,34,2160,2014,22
+Passing Yards Allowed,99,35,2163,2021,9
+Passing Yards Allowed,99,36,2166,2018,25
+Passing Yards Allowed,99,37,2166,2020,15
+Passing Yards Allowed,99,38,2168,2015,16
+Passing Yards Allowed,99,39,2175,2016,29
+Passing Yards Allowed,99,40,2181,2018,0
+Passing Yards Allowed,99,41,2185,2015,5
+Passing Yards Allowed,99,42,2185,2019,4
+Passing Yards Allowed,99,43,2186,2020,1
+Passing Yards Allowed,99,44,2190,2018,30
+Passing Yards Allowed,99,45,2195,2014,14
+Passing Yards Allowed,99,46,2195,2020,27
+Passing Yards Allowed,99,47,2197,2015,27
+Passing Yards Allowed,99,48,2197,2018,23
+Passing Yards Allowed,99,49,2203,2014,4
+Passing Yards Allowed,99,50,2207,2016,12
+Passing Yards Allowed,99,51,2216,2014,3
+Passing Yards Allowed,99,52,2218,2016,2
+Passing Yards Allowed,99,53,2219,2020,2
+Passing Yards Allowed,99,54,2229,2015,31
+Passing Yards Allowed,99,55,2233,2016,4
+Passing Yards Allowed,99,56,2233,2019,12
+Passing Yards Allowed,99,57,2237,2019,1
+Passing Yards Allowed,99,58,2238,2019,8
+Passing Yards Allowed,99,59,2238,2019,10
+Passing Yards Allowed,99,60,2242,2015,17
+Passing Yards Allowed,99,61,2243,2018,2
+Passing Yards Allowed,99,62,2247,2018,5
+Passing Yards Allowed,99,63,2248,2014,30
+Passing Yards Allowed,99,64,2249,2018,15
+Passing Yards Allowed,99,65,2253,2014,15
+Passing Yards Allowed,99,66,2253,2018,13
+Passing Yards Allowed,99,67,2254,2015,2
+Passing Yards Allowed,99,68,2254,2021,26
+Passing Yards Allowed,99,69,2255,2014,13
+Passing Yards Allowed,99,70,2256,2017,0
+Passing Yards Allowed,99,71,2256,2017,26
+Passing Yards Allowed,99,72,2256,2019,2
+Passing Yards Allowed,99,73,2257,2020,10
+Passing Yards Allowed,99,74,2259,2018,7
+Passing Yards Allowed,99,75,2260,2021,10
+Passing Yards Allowed,99,76,2261,2020,9
+Passing Yards Allowed,99,77,2263,2018,26
+Passing Yards Allowed,99,78,2265,2016,24
+Passing Yards Allowed,99,79,2265,2017,9
+Passing Yards Allowed,99,80,2267,2016,23
+Passing Yards Allowed,99,81,2269,2017,31
+Passing Yards Allowed,99,82,2271,2016,1
+Passing Yards Allowed,99,83,2272,2015,1
+Passing Yards Allowed,99,84,2274,2014,26
+Passing Yards Allowed,99,85,2278,2014,9
+Passing Yards Allowed,99,86,2279,2015,0
+Passing Yards Allowed,99,87,2281,2015,23
+Passing Yards Allowed,99,88,2283,2022,25
+Passing Yards Allowed,99,89,2288,2019,25
+Passing Yards Allowed,99,90,2290,2015,24
+Passing Yards Allowed,99,91,2290,2015,26
+Passing Yards Allowed,99,92,2291,2016,31
+Passing Yards Allowed,99,93,2291,2022,27
+Passing Yards Allowed,99,94,2298,2017,11
+Passing Yards Allowed,99,95,2298,2017,29
+Passing Yards Allowed,99,96,2306,2016,17
+Passing Yards Allowed,99,97,2308,2016,26
+Passing Yards Allowed,99,98,2308,2017,4
+Passing Yards Allowed,99,99,2310,2022,8
+Rushing Yards,99,0,1721,2018,3
+Rushing Yards,99,1,1655,2016,3
+Rushing Yards,99,2,1641,2017,0
+Rushing Yards,99,3,1624,2015,3
+Rushing Yards,99,4,1610,2022,27
+Rushing Yards,99,5,1605,2019,3
+Rushing Yards,99,6,1603,2014,27
+Rushing Yards,99,7,1600,2022,3
+Rushing Yards,99,8,1561,2018,16
+Rushing Yards,99,9,1555,2016,4
+Rushing Yards,99,10,1547,2015,24
+Rushing Yards,99,11,1547,2017,19
+Rushing Yards,99,12,1541,2022,28
+Rushing Yards,99,13,1520,2014,21
+Rushing Yards,99,14,1506,2016,0
+Rushing Yards,99,15,1487,2019,24
+Rushing Yards,99,16,1483,2021,28
+Rushing Yards,99,17,1480,2021,3
+Rushing Yards,99,18,1476,2017,2
+Rushing Yards,99,19,1470,2017,3
+Rushing Yards,99,20,1470,2017,31
+Rushing Yards,99,21,1463,2015,6
+Rushing Yards,99,22,1461,2016,15
+Rushing Yards,99,23,1453,2018,24
+Rushing Yards,99,24,1453,2020,3
+Rushing Yards,99,25,1442,2015,0
+Rushing Yards,99,26,1432,2021,25
+Rushing Yards,99,27,1422,2020,28
+Rushing Yards,99,28,1420,2014,3
+Rushing Yards,99,29,1418,2015,2
+Rushing Yards,99,30,1417,2022,20
+Rushing Yards,99,31,1416,2022,4
+Rushing Yards,99,32,1404,2018,0
+Rushing Yards,99,33,1391,2019,16
+Rushing Yards,99,34,1385,2016,27
+Rushing Yards,99,35,1382,2015,23
+Rushing Yards,99,36,1381,2021,10
+Rushing Yards,99,37,1377,2021,4
+Rushing Yards,99,38,1373,2018,1
+Rushing Yards,99,39,1368,2020,25
+Rushing Yards,99,40,1365,2014,24
+Rushing Yards,99,41,1361,2014,10
+Rushing Yards,99,42,1361,2016,16
+Rushing Yards,99,43,1360,2015,21
+Rushing Yards,99,44,1359,2019,0
+Rushing Yards,99,45,1350,2018,31
+Rushing Yards,99,46,1348,2020,26
+Rushing Yards,99,47,1343,2020,13
+Rushing Yards,99,48,1342,2019,20
+Rushing Yards,99,49,1340,2022,11
+Rushing Yards,99,50,1339,2017,20
+Rushing Yards,99,51,1338,2017,24
+Rushing Yards,99,52,1327,2014,20
+Rushing Yards,99,53,1325,2022,0
+Rushing Yards,99,54,1323,2019,25
+Rushing Yards,99,55,1323,2021,0
+Rushing Yards,99,56,1319,2015,27
+Rushing Yards,99,57,1316,2021,23
+Rushing Yards,99,58,1310,2019,13
+Rushing Yards,99,59,1306,2022,23
+Rushing Yards,99,60,1305,2015,22
+Rushing Yards,99,61,1304,2019,10
+Rushing Yards,99,62,1300,2015,4
+Rushing Yards,99,63,1297,2014,4
+Rushing Yards,99,64,1295,2019,28
+Rushing Yards,99,65,1291,2022,26
+Rushing Yards,99,66,1289,2015,20
+Rushing Yards,99,67,1288,2022,25
+Rushing Yards,99,68,1286,2016,31
+Rushing Yards,99,69,1285,2017,10
+Rushing Yards,99,70,1283,2015,19
+Rushing Yards,99,71,1278,2019,27
+Rushing Yards,99,72,1264,2018,23
+Rushing Yards,99,73,1259,2019,14
+Rushing Yards,99,74,1257,2019,11
+Rushing Yards,99,75,1255,2019,31
+Rushing Yards,99,76,1254,2016,19
+Rushing Yards,99,77,1254,2020,29
+Rushing Yards,99,78,1253,2020,4
+Rushing Yards,99,79,1251,2019,17
+Rushing Yards,99,80,1249,2014,6
+Rushing Yards,99,81,1246,2020,11
+Rushing Yards,99,82,1245,2022,29
+Rushing Yards,99,83,1240,2016,20
+Rushing Yards,99,84,1231,2021,29
+Rushing Yards,99,85,1229,2018,9
+Rushing Yards,99,86,1228,2016,2
+Rushing Yards,99,87,1222,2020,15
+Rushing Yards,99,88,1222,2021,20
+Rushing Yards,99,89,1211,2018,4
+Rushing Yards,99,90,1211,2021,24
+Rushing Yards,99,91,1210,2021,6
+Rushing Yards,99,92,1207,2014,15
+Rushing Yards,99,93,1206,2014,28
+Rushing Yards,99,94,1203,2019,4
+Rushing Yards,99,95,1201,2018,25
+Rushing Yards,99,96,1201,2020,0
+Rushing Yards,99,97,1200,2016,25
+Rushing Yards,99,98,1200,2018,13
+Rushing Yards,99,99,1197,2015,28
+Rushing Yards Allowed,99,0,669,2020,13
+Rushing Yards Allowed,99,1,729,2014,21
+Rushing Yards Allowed,99,2,735,2017,2
+Rushing Yards Allowed,99,3,761,2014,28
+Rushing Yards Allowed,99,4,776,2021,28
+Rushing Yards Allowed,99,5,784,2014,27
+Rushing Yards Allowed,99,6,791,2022,2
+Rushing Yards Allowed,99,7,809,2019,9
+Rushing Yards Allowed,99,8,823,2019,14
+Rushing Yards Allowed,99,9,824,2019,10
+Rushing Yards Allowed,99,10,825,2021,9
+Rushing Yards Allowed,99,11,827,2022,28
+Rushing Yards Allowed,99,12,831,2016,13
+Rushing Yards Allowed,99,13,837,2019,16
+Rushing Yards Allowed,99,14,851,2017,10
+Rushing Yards Allowed,99,15,855,2014,10
+Rushing Yards Allowed,99,16,858,2015,13
+Rushing Yards Allowed,99,17,861,2014,12
+Rushing Yards Allowed,99,18,871,2020,4
+Rushing Yards Allowed,99,19,873,2021,21
+Rushing Yards Allowed,99,20,875,2020,29
+Rushing Yards Allowed,99,21,882,2016,9
+Rushing Yards Allowed,99,22,883,2018,18
+Rushing Yards Allowed,99,23,891,2018,1
+Rushing Yards Allowed,99,24,892,2022,29
+Rushing Yards Allowed,99,25,898,2015,4
+Rushing Yards Allowed,99,26,901,2020,2
+Rushing Yards Allowed,99,27,902,2016,5
+Rushing Yards Allowed,99,28,906,2018,29
+Rushing Yards Allowed,99,29,907,2021,4
+Rushing Yards Allowed,99,30,908,2017,9
+Rushing Yards Allowed,99,31,913,2019,13
+Rushing Yards Allowed,99,32,917,2015,9
+Rushing Yards Allowed,99,33,918,2016,29
+Rushing Yards Allowed,99,34,921,2021,13
+Rushing Yards Allowed,99,35,923,2015,24
+Rushing Yards Allowed,99,36,925,2014,25
+Rushing Yards Allowed,99,37,925,2016,28
+Rushing Yards Allowed,99,38,925,2020,5
+Rushing Yards Allowed,99,39,928,2019,23
+Rushing Yards Allowed,99,40,933,2019,27
+Rushing Yards Allowed,99,41,935,2017,13
+Rushing Yards Allowed,99,42,945,2022,18
+Rushing Yards Allowed,99,43,946,2015,27
+Rushing Yards Allowed,99,44,950,2015,23
+Rushing Yards Allowed,99,45,953,2015,28
+Rushing Yards Allowed,99,46,953,2019,5
+Rushing Yards Allowed,99,47,956,2015,8
+Rushing Yards Allowed,99,48,958,2018,9
+Rushing Yards Allowed,99,49,963,2018,16
+Rushing Yards Allowed,99,50,965,2018,3
+Rushing Yards Allowed,99,51,965,2021,2
+Rushing Yards Allowed,99,52,970,2020,25
+Rushing Yards Allowed,99,53,971,2021,27
+Rushing Yards Allowed,99,54,972,2017,3
+Rushing Yards Allowed,99,55,973,2022,27
+Rushing Yards Allowed,99,56,974,2015,10
+Rushing Yards Allowed,99,57,974,2022,11
+Rushing Yards Allowed,99,58,975,2020,28
+Rushing Yards Allowed,99,59,979,2021,25
+Rushing Yards Allowed,99,60,980,2016,4
+Rushing Yards Allowed,99,61,980,2022,15
+Rushing Yards Allowed,99,62,981,2017,24
+Rushing Yards Allowed,99,63,981,2022,14
+Rushing Yards Allowed,99,64,986,2017,14
+Rushing Yards Allowed,99,65,990,2021,14
+Rushing Yards Allowed,99,66,992,2020,19
+Rushing Yards Allowed,99,67,995,2019,24
+Rushing Yards Allowed,99,68,996,2014,23
+Rushing Yards Allowed,99,69,996,2020,30
+Rushing Yards Allowed,99,70,998,2016,23
+Rushing Yards Allowed,99,71,998,2022,9
+Rushing Yards Allowed,99,72,999,2018,14
+Rushing Yards Allowed,99,73,1003,2016,20
+Rushing Yards Allowed,99,74,1003,2018,4
+Rushing Yards Allowed,99,75,1003,2021,10
+Rushing Yards Allowed,99,76,1005,2017,15
+Rushing Yards Allowed,99,77,1007,2020,20
+Rushing Yards Allowed,99,78,1008,2021,16
+Rushing Yards Allowed,99,79,1009,2014,20
+Rushing Yards Allowed,99,80,1010,2016,18
+Rushing Yards Allowed,99,81,1010,2018,2
+Rushing Yards Allowed,99,82,1011,2022,3
+Rushing Yards Allowed,99,83,1013,2017,29
+Rushing Yards Allowed,99,84,1013,2021,3
+Rushing Yards Allowed,99,85,1015,2017,8
+Rushing Yards Allowed,99,86,1016,2017,25
+Rushing Yards Allowed,99,87,1016,2022,20
+Rushing Yards Allowed,99,88,1017,2015,20
+Rushing Yards Allowed,99,89,1017,2022,16
+Rushing Yards Allowed,99,90,1018,2020,23
+Rushing Yards Allowed,99,91,1020,2018,8
+Rushing Yards Allowed,99,92,1020,2020,6
+Rushing Yards Allowed,99,93,1021,2019,25
+Rushing Yards Allowed,99,94,1021,2019,28
+Rushing Yards Allowed,99,95,1021,2021,1
+Rushing Yards Allowed,99,96,1022,2014,19
+Rushing Yards Allowed,99,97,1024,2022,23
+Rushing Yards Allowed,99,98,1025,2016,27
+Rushing Yards Allowed,99,99,1025,2017,1
+Total Yards,99,0,4551,2022,20
+Total Yards,99,1,4453,2017,18
+Total Yards,99,2,4398,2017,19
+Total Yards,99,3,4356,2020,10
+Total Yards,99,4,4282,2016,19
+Total Yards,99,5,4260,2019,20
+Total Yards,99,6,4251,2017,10
+Total Yards,99,7,4198,2017,20
+Total Yards,99,8,4191,2018,20
+Total Yards,99,9,4182,2021,20
+Total Yards,99,10,4145,2018,19
+Total Yards,99,11,4144,2020,19
+Total Yards,99,12,4104,2015,19
+Total Yards,99,13,4101,2018,18
+Total Yards,99,14,4100,2019,19
+Total Yards,99,15,4099,2016,3
+Total Yards,99,16,4096,2021,10
+Total Yards,99,17,4078,2014,21
+Total Yards,99,18,4078,2019,17
+Total Yards,99,19,4058,2019,18
+Total Yards,99,20,4042,2022,31
+Total Yards,99,21,4036,2020,20
+Total Yards,99,22,4036,2021,25
+Total Yards,99,23,4031,2020,13
+Total Yards,99,24,4023,2021,18
+Total Yards,99,25,4023,2022,10
+Total Yards,99,26,4021,2019,10
+Total Yards,99,27,4021,2021,21
+Total Yards,99,28,4002,2016,18
+Total Yards,99,29,3987,2021,14
+Total Yards,99,30,3986,2017,3
+Total Yards,99,31,3971,2015,21
+Total Yards,99,32,3955,2017,14
+Total Yards,99,33,3951,2019,14
+Total Yards,99,34,3951,2020,8
+Total Yards,99,35,3951,2022,17
+Total Yards,99,36,3950,2020,21
+Total Yards,99,37,3946,2017,0
+Total Yards,99,38,3942,2022,4
+Total Yards,99,39,3936,2015,18
+Total Yards,99,40,3926,2014,25
+Total Yards,99,41,3920,2022,27
+Total Yards,99,42,3919,2022,3
+Total Yards,99,43,3916,2014,22
+Total Yards,99,44,3909,2016,27
+Total Yards,99,45,3902,2020,12
+Total Yards,99,46,3900,2022,7
+Total Yards,99,47,3890,2016,20
+Total Yards,99,48,3888,2017,31
+Total Yards,99,49,3865,2018,31
+Total Yards,99,50,3864,2022,8
+Total Yards,99,51,3845,2014,19
+Total Yards,99,52,3841,2022,18
+Total Yards,99,53,3838,2017,8
+Total Yards,99,54,3828,2022,0
+Total Yards,99,55,3823,2019,31
+Total Yards,99,56,3820,2015,24
+Total Yards,99,57,3811,2020,17
+Total Yards,99,58,3810,2014,15
+Total Yards,99,59,3810,2020,29
+Total Yards,99,60,3804,2019,12
+Total Yards,99,61,3804,2021,12
+Total Yards,99,62,3793,2020,18
+Total Yards,99,63,3789,2022,14
+Total Yards,99,64,3786,2019,3
+Total Yards,99,65,3778,2021,8
+Total Yards,99,66,3776,2015,20
+Total Yards,99,67,3774,2021,30
+Total Yards,99,68,3771,2014,29
+Total Yards,99,69,3771,2022,28
+Total Yards,99,70,3759,2021,0
+Total Yards,99,71,3756,2014,6
+Total Yards,99,72,3755,2019,16
+Total Yards,99,73,3743,2018,4
+Total Yards,99,74,3739,2020,16
+Total Yards,99,75,3733,2020,25
+Total Yards,99,76,3720,2014,26
+Total Yards,99,77,3715,2015,25
+Total Yards,99,78,3713,2018,16
+Total Yards,99,79,3713,2019,27
+Total Yards,99,80,3707,2022,9
+Total Yards,99,81,3706,2020,3
+Total Yards,99,82,3706,2022,25
+Total Yards,99,83,3702,2016,22
+Total Yards,99,84,3698,2018,12
+Total Yards,99,85,3690,2014,18
+Total Yards,99,86,3690,2016,23
+Total Yards,99,87,3690,2022,21
+Total Yards,99,88,3687,2016,10
+Total Yards,99,89,3685,2015,17
+Total Yards,99,90,3685,2017,13
+Total Yards,99,91,3685,2020,14
+Total Yards,99,92,3685,2021,29
+Total Yards,99,93,3684,2021,2
+Total Yards,99,94,3683,2016,16
+Total Yards,99,95,3676,2018,8
+Total Yards,99,96,3675,2017,17
+Total Yards,99,97,3669,2014,12
+Total Yards,99,98,3668,2019,21
+Total Yards,99,99,3666,2021,3
+Total Yards Allowed,99,0,2900,2015,13
+Total Yards Allowed,99,1,2926,2021,2
+Total Yards Allowed,99,2,2928,2021,27
+Total Yards Allowed,99,3,2941,2014,19
+Total Yards Allowed,99,4,2968,2019,27
+Total Yards Allowed,99,5,2988,2021,9
+Total Yards Allowed,99,6,2995,2014,10
+Total Yards Allowed,99,7,3010,2019,13
+Total Yards Allowed,99,8,3016,2015,9
+Total Yards Allowed,99,9,3029,2015,10
+Total Yards Allowed,99,10,3032,2014,24
+Total Yards Allowed,99,11,3035,2016,5
+Total Yards Allowed,99,12,3063,2019,10
+Total Yards Allowed,99,13,3073,2018,9
+Total Yards Allowed,99,14,3079,2017,30
+Total Yards Allowed,99,15,3093,2016,29
+Total Yards Allowed,99,16,3110,2020,6
+Total Yards Allowed,99,17,3116,2021,28
+Total Yards Allowed,99,18,3121,2020,2
+Total Yards Allowed,99,19,3123,2015,25
+Total Yards Allowed,99,20,3128,2014,27
+Total Yards Allowed,99,21,3139,2022,2
+Total Yards Allowed,99,22,3141,2014,2
+Total Yards Allowed,99,23,3143,2015,27
+Total Yards Allowed,99,24,3168,2018,27
+Total Yards Allowed,99,25,3173,2017,9
+Total Yards Allowed,99,26,3173,2017,10
+Total Yards Allowed,99,27,3213,2015,24
+Total Yards Allowed,99,28,3213,2016,4
+Total Yards Allowed,99,29,3224,2015,29
+Total Yards Allowed,99,30,3230,2014,21
+Total Yards Allowed,99,31,3231,2015,23
+Total Yards Allowed,99,32,3235,2018,11
+Total Yards Allowed,99,33,3238,2014,16
+Total Yards Allowed,99,34,3240,2015,15
+Total Yards Allowed,99,35,3246,2016,9
+Total Yards Allowed,99,36,3253,2018,2
+Total Yards Allowed,99,37,3263,2021,10
+Total Yards Allowed,99,38,3265,2022,27
+Total Yards Allowed,99,39,3266,2016,23
+Total Yards Allowed,99,40,3268,2014,14
+Total Yards Allowed,99,41,3281,2018,1
+Total Yards Allowed,99,42,3287,2019,0
+Total Yards Allowed,99,43,3295,2016,2
+Total Yards Allowed,99,44,3295,2017,27
+Total Yards Allowed,99,45,3299,2016,28
+Total Yards Allowed,99,46,3300,2015,2
+Total Yards Allowed,99,47,3300,2016,13
+Total Yards Allowed,99,48,3301,2021,13
+Total Yards Allowed,99,49,3308,2017,26
+Total Yards Allowed,99,50,3308,2019,4
+Total Yards Allowed,99,51,3310,2016,25
+Total Yards Allowed,99,52,3310,2019,25
+Total Yards Allowed,99,53,3311,2018,29
+Total Yards Allowed,99,54,3312,2017,29
+Total Yards Allowed,99,55,3316,2015,28
+Total Yards Allowed,99,56,3317,2018,23
+Total Yards Allowed,99,57,3318,2020,4
+Total Yards Allowed,99,58,3320,2020,13
+Total Yards Allowed,99,59,3321,2014,13
+Total Yards Allowed,99,60,3322,2019,2
+Total Yards Allowed,99,61,3326,2018,10
+Total Yards Allowed,99,62,3329,2019,5
+Total Yards Allowed,99,63,3330,2014,23
+Total Yards Allowed,99,64,3334,2020,15
+Total Yards Allowed,99,65,3338,2014,3
+Total Yards Allowed,99,66,3345,2019,28
+Total Yards Allowed,99,67,3348,2017,4
+Total Yards Allowed,99,68,3348,2019,20
+Total Yards Allowed,99,69,3348,2022,29
+Total Yards Allowed,99,70,3353,2015,1
+Total Yards Allowed,99,71,3353,2018,25
+Total Yards Allowed,99,72,3357,2018,0
+Total Yards Allowed,99,73,3361,2017,6
+Total Yards Allowed,99,74,3362,2014,4
+Total Yards Allowed,99,75,3370,2015,5
+Total Yards Allowed,99,76,3370,2020,10
+Total Yards Allowed,99,77,3371,2016,0
+Total Yards Allowed,99,78,3371,2016,10
+Total Yards Allowed,99,79,3372,2022,14
+Total Yards Allowed,99,80,3379,2014,6
+Total Yards Allowed,99,81,3380,2018,5
+Total Yards Allowed,99,82,3382,2017,22
+Total Yards Allowed,99,83,3385,2016,31
+Total Yards Allowed,99,84,3385,2017,31
+Total Yards Allowed,99,85,3385,2018,13
+Total Yards Allowed,99,86,3385,2020,9
+Total Yards Allowed,99,87,3398,2017,15
+Total Yards Allowed,99,88,3399,2019,14
+Total Yards Allowed,99,89,3400,2015,4
+Total Yards Allowed,99,90,3400,2018,6
+Total Yards Allowed,99,91,3400,2021,24
+Total Yards Allowed,99,92,3401,2016,26
+Total Yards Allowed,99,93,3404,2016,24
+Total Yards Allowed,99,94,3421,2019,3
+Total Yards Allowed,99,95,3421,2020,30
+Total Yards Allowed,99,96,3422,2021,4
+Total Yards Allowed,99,97,3423,2017,0
+Total Yards Allowed,99,98,3423,2017,11
+Total Yards Allowed,99,99,3425,2014,26
+Pass Attempts,99,0,437,2015,12
+Pass Attempts,99,1,437,2016,22
+Pass Attempts,99,2,428,2014,1
+Pass Attempts,99,3,428,2017,14
+Pass Attempts,99,4,428,2021,17
+Pass Attempts,99,5,428,2022,13
+Pass Attempts,99,6,425,2014,14
+Pass Attempts,99,7,418,2014,12
+Pass Attempts,99,8,416,2018,18
+Pass Attempts,99,9,415,2014,2
+Pass Attempts,99,10,413,2021,1
+Pass Attempts,99,11,413,2022,30
+Pass Attempts,99,12,412,2022,7
+Pass Attempts,99,13,411,2017,22
+Pass Attempts,99,14,411,2022,1
+Pass Attempts,99,15,410,2019,29
+Pass Attempts,99,16,409,2017,30
+Pass Attempts,99,17,408,2016,12
+Pass Attempts,99,18,408,2021,12
+Pass Attempts,99,19,408,2021,13
+Pass Attempts,99,20,408,2022,18
+Pass Attempts,99,21,407,2018,19
+Pass Attempts,99,22,407,2019,12
+Pass Attempts,99,23,403,2020,21
+Pass Attempts,99,24,401,2017,18
+Pass Attempts,99,25,401,2018,7
+Pass Attempts,99,26,400,2014,18
+Pass Attempts,99,27,400,2022,10
+Pass Attempts,99,28,398,2019,22
+Pass Attempts,99,29,396,2018,12
+Pass Attempts,99,30,396,2018,22
+Pass Attempts,99,31,396,2020,18
+Pass Attempts,99,32,396,2022,12
+Pass Attempts,99,33,395,2015,14
+Pass Attempts,99,34,395,2017,26
+Pass Attempts,99,35,395,2020,14
+Pass Attempts,99,36,395,2021,22
+Pass Attempts,99,37,394,2015,22
+Pass Attempts,99,38,394,2018,30
+Pass Attempts,99,39,392,2020,12
+Pass Attempts,99,40,391,2019,18
+Pass Attempts,99,41,391,2021,18
+Pass Attempts,99,42,390,2014,17
+Pass Attempts,99,43,390,2015,1
+Pass Attempts,99,44,390,2017,9
+Pass Attempts,99,45,389,2016,14
+Pass Attempts,99,46,389,2019,1
+Pass Attempts,99,47,388,2021,2
+Pass Attempts,99,48,386,2014,30
+Pass Attempts,99,49,386,2021,14
+Pass Attempts,99,50,386,2021,21
+Pass Attempts,99,51,385,2020,6
+Pass Attempts,99,52,385,2020,22
+Pass Attempts,99,53,384,2022,6
+Pass Attempts,99,54,383,2016,17
+Pass Attempts,99,55,383,2018,26
+Pass Attempts,99,56,381,2015,18
+Pass Attempts,99,57,381,2020,8
+Pass Attempts,99,58,381,2020,15
+Pass Attempts,99,59,381,2020,16
+Pass Attempts,99,60,381,2022,21
+Pass Attempts,99,61,380,2014,22
+Pass Attempts,99,62,380,2017,6
+Pass Attempts,99,63,380,2017,12
+Pass Attempts,99,64,380,2018,10
+Pass Attempts,99,65,380,2018,17
+Pass Attempts,99,66,380,2021,8
+Pass Attempts,99,67,379,2017,10
+Pass Attempts,99,68,379,2019,5
+Pass Attempts,99,69,379,2020,17
+Pass Attempts,99,70,379,2022,8
+Pass Attempts,99,71,379,2022,17
+Pass Attempts,99,72,378,2014,5
+Pass Attempts,99,73,378,2017,17
+Pass Attempts,99,74,378,2018,14
+Pass Attempts,99,75,376,2015,17
+Pass Attempts,99,76,376,2018,20
+Pass Attempts,99,77,376,2020,19
+Pass Attempts,99,78,376,2022,5
+Pass Attempts,99,79,375,2015,15
+Pass Attempts,99,80,375,2018,6
+Pass Attempts,99,81,375,2019,14
+Pass Attempts,99,82,375,2022,14
+Pass Attempts,99,83,374,2022,22
+Pass Attempts,99,84,373,2014,31
+Pass Attempts,99,85,373,2015,30
+Pass Attempts,99,86,373,2017,8
+Pass Attempts,99,87,373,2019,0
+Pass Attempts,99,88,373,2019,7
+Pass Attempts,99,89,373,2020,30
+Pass Attempts,99,90,372,2019,9
+Pass Attempts,99,91,371,2016,11
+Pass Attempts,99,92,371,2020,1
+Pass Attempts,99,93,370,2019,21
+Pass Attempts,99,94,368,2015,5
+Pass Attempts,99,95,368,2020,2
+Pass Attempts,99,96,368,2021,5
+Pass Attempts,99,97,368,2022,9
+Pass Attempts,99,98,368,2022,15
+Pass Attempts,99,99,367,2016,9
+Rush Attempts,99,0,376,2015,24
+Rush Attempts,99,1,376,2018,3
+Rush Attempts,99,2,351,2016,4
+Rush Attempts,99,3,351,2022,27
+Rush Attempts,99,4,346,2014,27
+Rush Attempts,99,5,346,2016,3
+Rush Attempts,99,6,339,2021,28
+Rush Attempts,99,7,339,2022,4
+Rush Attempts,99,8,338,2014,4
+Rush Attempts,99,9,338,2015,28
+Rush Attempts,99,10,338,2017,2
+Rush Attempts,99,11,338,2021,4
+Rush Attempts,99,12,337,2020,13
+Rush Attempts,99,13,336,2015,3
+Rush Attempts,99,14,335,2014,3
+Rush Attempts,99,15,335,2014,24
+Rush Attempts,99,16,333,2021,3
+Rush Attempts,99,17,332,2020,4
+Rush Attempts,99,18,331,2017,0
+Rush Attempts,99,19,330,2019,3
+Rush Attempts,99,20,330,2019,10
+Rush Attempts,99,21,329,2017,3
+Rush Attempts,99,22,329,2020,28
+Rush Attempts,99,23,327,2018,4
+Rush Attempts,99,24,326,2018,24
+Rush Attempts,99,25,326,2022,28
+Rush Attempts,99,26,323,2014,21
+Rush Attempts,99,27,323,2015,2
+Rush Attempts,99,28,321,2014,20
+Rush Attempts,99,29,321,2019,24
+Rush Attempts,99,30,319,2019,16
+Rush Attempts,99,31,319,2022,3
+Rush Attempts,99,32,318,2014,10
+Rush Attempts,99,33,318,2017,24
+Rush Attempts,99,34,317,2019,11
+Rush Attempts,99,35,316,2016,23
+Rush Attempts,99,36,316,2020,3
+Rush Attempts,99,37,315,2016,0
+Rush Attempts,99,38,315,2021,23
+Rush Attempts,99,39,314,2019,13
+Rush Attempts,99,40,313,2018,0
+Rush Attempts,99,41,312,2014,19
+Rush Attempts,99,42,311,2015,20
+Rush Attempts,99,43,311,2018,16
+Rush Attempts,99,44,310,2017,31
+Rush Attempts,99,45,308,2015,23
+Rush Attempts,99,46,306,2015,4
+Rush Attempts,99,47,306,2015,27
+Rush Attempts,99,48,305,2015,0
+Rush Attempts,99,49,305,2016,10
+Rush Attempts,99,50,305,2018,31
+Rush Attempts,99,51,305,2022,0
+Rush Attempts,99,52,303,2021,27
+Rush Attempts,99,53,302,2015,6
+Rush Attempts,99,54,302,2016,2
+Rush Attempts,99,55,302,2019,27
+Rush Attempts,99,56,301,2015,19
+Rush Attempts,99,57,301,2015,29
+Rush Attempts,99,58,301,2020,25
+Rush Attempts,99,59,301,2022,20
+Rush Attempts,99,60,300,2018,13
+Rush Attempts,99,61,299,2019,23
+Rush Attempts,99,62,299,2019,28
+Rush Attempts,99,63,298,2015,10
+Rush Attempts,99,64,298,2016,31
+Rush Attempts,99,65,298,2019,25
+Rush Attempts,99,66,298,2020,11
+Rush Attempts,99,67,298,2022,29
+Rush Attempts,99,68,296,2016,27
+Rush Attempts,99,69,296,2017,10
+Rush Attempts,99,70,296,2021,25
+Rush Attempts,99,71,295,2017,23
+Rush Attempts,99,72,295,2019,4
+Rush Attempts,99,73,294,2014,28
+Rush Attempts,99,74,294,2015,25
+Rush Attempts,99,75,293,2017,19
+Rush Attempts,99,76,293,2020,10
+Rush Attempts,99,77,293,2021,10
+Rush Attempts,99,78,292,2015,8
+Rush Attempts,99,79,292,2016,19
+Rush Attempts,99,80,291,2016,15
+Rush Attempts,99,81,291,2016,20
+Rush Attempts,99,82,291,2021,0
+Rush Attempts,99,83,291,2022,25
+Rush Attempts,99,84,290,2014,6
+Rush Attempts,99,85,290,2015,31
+Rush Attempts,99,86,290,2016,25
+Rush Attempts,99,87,290,2019,19
+Rush Attempts,99,88,290,2022,2
+Rush Attempts,99,89,288,2018,28
+Rush Attempts,99,90,288,2019,31
+Rush Attempts,99,91,288,2022,11
+Rush Attempts,99,92,287,2022,26
+Rush Attempts,99,93,286,2019,20
+Rush Attempts,99,94,286,2020,29
+Rush Attempts,99,95,286,2021,9
+Rush Attempts,99,96,285,2014,23
+Rush Attempts,99,97,285,2018,23
+Rush Attempts,99,98,285,2020,0
+Rush Attempts,99,99,284,2016,16
