@@ -16,11 +16,11 @@ class StatsRushing(BaseStats):
     def execute(self, cursor, year):
         def manipulate_df(df, **kwargs):
             year = kwargs["year"]
-            df["Stage_Name"] = df.apply(lambda x: self.get_stage(x).name, axis=1)
-            df["Stage_Type"] = df.apply(lambda x: self.get_stage(x).type, axis=1)
-            df["Year"] = year
             query = " != 0 or ".join(self.stats)
-            df = df.query(query)
+            df = df.query(query).copy(deep=True)
+            df["Stage_Name"] = self.get_stage_name_vectorized(df['Week'])
+            df["Stage_Type"] = self.get_stage_type_vectorized(df['Week'])
+            df["Year"] = year
             return df
 
         file_name = f"player_season_{int(year) - 1}.csv"
