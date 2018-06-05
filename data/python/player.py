@@ -9,7 +9,7 @@ class Player(BaseFof):
             year = kwargs["year"]
             df["Birth_Date"] = df.apply(get_birth_date, axis=1)
             df["Stage_Name"] = "Draft"
-            df["Stage_Type"] = "Pre Season"
+            df["Stage_Type"] = "Free Agency"
             df["Year"] = int(year)
             df = df.query("Season_1_Year == 0")
             return df

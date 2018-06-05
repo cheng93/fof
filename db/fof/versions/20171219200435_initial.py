@@ -648,11 +648,11 @@ def data_upgrades():
         ;
 
         INSERT INTO stage_type (stage_type, rank)
-        VALUES ('Pre Season', 0)
+        VALUES ('Free Agency', 0)
         ;
 
         INSERT INTO stage_type (stage_type, rank)
-        VALUES ('Exhibition', 10)
+        VALUES ('Pre Season', 10)
         ;
 
         INSERT INTO stage_type (stage_type, rank)
@@ -664,23 +664,23 @@ def data_upgrades():
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Week 1', 'Exhibition', 0)
+        VALUES ('Week 1', 'Pre Season', 0)
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Week 2', 'Exhibition', 10)
+        VALUES ('Week 2', 'Pre Season', 10)
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Week 3', 'Exhibition', 20)
+        VALUES ('Week 3', 'Pre Season', 20)
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Week 4', 'Exhibition', 30)
+        VALUES ('Week 4', 'Pre Season', 30)
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Week 5', 'Exhibition', 40)
+        VALUES ('Week 5', 'Pre Season', 40)
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
@@ -768,23 +768,67 @@ def data_upgrades():
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Pre Free Agency', 'Pre Season', 0)
+        VALUES ('Pre Free Agency', 'Free Agency', 0)
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Free Agency', 'Pre Season', 10)
+        VALUES ('Stage 1', 'Free Agency', 10)
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Draft', 'Pre Season', 20)
+        VALUES ('Stage 2', 'Free Agency', 20)
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Late Free Agency', 'Pre Season', 30)
+        VALUES ('Stage 3', 'Free Agency', 30)
         ;
 
         INSERT INTO stage (stage_name, stage_type, rank)
-        VALUES ('Training Camp', 'Pre Season', 40)
+        VALUES ('Stage 4', 'Free Agency', 40)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Stage 5', 'Free Agency', 50)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Stage 6', 'Free Agency', 60)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Stage 7', 'Free Agency', 70)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Stage 8', 'Free Agency', 80)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Stage 9', 'Free Agency', 90)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Stage 10', 'Free Agency', 100)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Stage 11', 'Free Agency', 110)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Stage 12', 'Free Agency', 120)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Draft', 'Free Agency', 130)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Late Free Agency', 'Free Agency', 140)
+        ;
+
+        INSERT INTO stage (stage_name, stage_type, rank)
+        VALUES ('Training Camp', 'Pre Season', -10)
         ;
 
         INSERT INTO position (position)

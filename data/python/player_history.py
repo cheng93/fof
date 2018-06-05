@@ -10,7 +10,7 @@ class PlayerHistory(BaseFof):
             year = kwargs["year"]
             df["Year"] = int(year) +1
             df["Stage_Name"] = "Pre Free Agency"
-            df["Stage_Type"] = "Pre Season"
+            df["Stage_Type"] = "Free Agency"
             df = df.query("Contract_Length == 1")
             return df
 
@@ -126,6 +126,15 @@ class PlayerHistory(BaseFof):
                 INNER JOIN stage s
                     ON s.stage_name = t.stage_name
                         AND s.stage_type = t.stage_type
+            WHERE
+                NOT EXISTS (
+                    SELECT NULL
+                    FROM player_history ph
+                    WHERE ph.player_id = t.player_id
+                        AND ph.year = t.year
+                        AND ph.stage_id = s.stage_id
+                        AND ph.old_team_id = t.old
+                )
             ;
         """
 
@@ -147,25 +156,27 @@ def get_stage(row):
     exhibition = "Ex. Season "
     regular = "Reg. Season "
     pre_staff_draft = "Pre-Staff Draft"
-    free_agency = "FA Stage "
+    free_agency = "FA "
     late_free_agency = "Late FA Stage "
     pre_training_camp = "Pre-Training Camp"
 
+    free_agency_stage = "Free Agency"
     pre_season = "Pre Season"
+
     if week == pre_staff_draft:
-        stage.type = pre_season
+        stage.type = free_agency_stage
         stage.name = "Pre Free Agency"
     elif week.startswith(free_agency):
-        stage.type = pre_season
-        stage.name = "Free Agency"
+        stage.type = free_agency_stage
+        stage.name = week[len(free_agency):]
     elif week.startswith(late_free_agency):
-        stage.type = pre_season
+        stage.type = free_agency_stage
         stage.name = "Late Free Agency"
     elif week == pre_training_camp:
         stage.type = pre_season
         stage.name = "Training Camp"
     elif week.startswith(exhibition):
-        stage.type = "Exhibition"
+        stage.type = pre_season
         stage.name = week[len(exhibition):]
     elif week.startswith(regular):
         stage.type = "Regular"
