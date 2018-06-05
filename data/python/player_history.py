@@ -79,7 +79,8 @@ class PlayerHistory(BaseFof):
                 "released",
                 "retired",
                 "signed as a free agent",
-                "signed as an unrestricted free agent"
+                "signed as an unrestricted free agent",
+                "signed to a new contract"
             ]
             df = df[df["Transaction"].isin(transactions)]
 
@@ -135,6 +136,7 @@ class PlayerHistory(BaseFof):
                         AND ph.stage_id = s.stage_id
                         AND ph.old_team_id = t.old
                 )
+            ORDER BY t.temp_player_history_id
             ;
         """
 
@@ -206,7 +208,8 @@ def get_team(row):
         "designated as a franchise player",
         "re-signed as an unrestricted free agent",
         "signed as a free agent",
-        "signed as an unrestricted free agent"
+        "signed as an unrestricted free agent",
+        "signed to a new contract"
     ]
     if transaction in new_transaction:
         team.old = "NULL"
