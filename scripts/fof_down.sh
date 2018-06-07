@@ -16,7 +16,7 @@ dir=$(dirname -- "$(readlink -f -- "$BASH_SOURCE")")
 
 if [ -v password ]
 then
-    python "$dir/../fof/python/down.py" -u $user -ho $hostname -p $port -d $db -pa $password
+    python "$dir/../data/python/down.py" -u $user -ho $hostname -p $port -d $db -pa $password
 else 
-    python "$dir/../fof/python/down.py" -u $user -ho $hostname -p $port -d $db
+    python "$dir/../data/python/down.py" -u $user -ho $hostname -p $port -d $db
 fi

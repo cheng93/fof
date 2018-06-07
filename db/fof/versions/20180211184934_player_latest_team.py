@@ -38,7 +38,9 @@ def schema_upgrades():
             SELECT
                 ph.player_id,
                 ph.new_team_id,
-                DENSE_RANK() OVER (PARTITION BY ph.player_id ORDER BY ph.year DESC, st.rank DESC, s.rank DESC) AS rank
+                DENSE_RANK() OVER (
+                    PARTITION BY ph.player_id 
+                    ORDER BY ph.year DESC, st.rank DESC, s.rank DESC, ph.player_history_id DESC) AS rank
             FROM player_history ph
                 INNER JOIN stage s
                     ON s.stage_id = ph.stage_id

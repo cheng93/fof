@@ -10,7 +10,7 @@ class PlayerHistory(BaseFof):
             year = kwargs["year"]
             df["Year"] = int(year) +1
             df["Stage_Name"] = "Pre Free Agency"
-            df["Stage_Type"] = "Pre Season"
+            df["Stage_Type"] = "Free Agency"
             df = df.query("Contract_Length == 1")
             return df
 
@@ -79,7 +79,9 @@ class PlayerHistory(BaseFof):
                 "released",
                 "retired",
                 "signed as a free agent",
-                "signed as an unrestricted free agent"
+                "signed as an unrestricted free agent",
+                "signed to a new contract",
+                "received in trade"
             ]
             df = df[df["Transaction"].isin(transactions)]
 
@@ -126,6 +128,30 @@ class PlayerHistory(BaseFof):
                 INNER JOIN stage s
                     ON s.stage_name = t.stage_name
                         AND s.stage_type = t.stage_type
+            WHERE
+                -- retired
+                NOT EXISTS (
+                    SELECT NULL
+                    FROM player_history ph
+                    WHERE ph.player_id = t.player_id
+                        AND ph.year = t.year
+                        AND ph.stage_id = s.stage_id
+                        AND ph.old_team_id = t.old
+                )
+                AND
+                -- explicit release
+                NOT EXISTS (
+                    SELECT NULL
+                    FROM player_history ph
+                        INNER JOIN stage s1
+                            ON s1.stage_id = ph.stage_id
+                    WHERE ph.player_id = t.player_id
+                        AND ph.year = t.year
+                        AND s1.stage_name = 'Pre Free Agency'
+                        AND s.stage_name = 'Late Free Agency'
+                        AND ph.old_team_id = t.old
+                )
+            ORDER BY t.temp_player_history_id
             ;
         """
 
@@ -147,25 +173,27 @@ def get_stage(row):
     exhibition = "Ex. Season "
     regular = "Reg. Season "
     pre_staff_draft = "Pre-Staff Draft"
-    free_agency = "FA Stage "
+    free_agency = "FA "
     late_free_agency = "Late FA Stage "
     pre_training_camp = "Pre-Training Camp"
 
+    free_agency_stage = "Free Agency"
     pre_season = "Pre Season"
+
     if week == pre_staff_draft:
-        stage.type = pre_season
+        stage.type = free_agency_stage
         stage.name = "Pre Free Agency"
     elif week.startswith(free_agency):
-        stage.type = pre_season
-        stage.name = "Free Agency"
+        stage.type = free_agency_stage
+        stage.name = week[len(free_agency):]
     elif week.startswith(late_free_agency):
-        stage.type = pre_season
+        stage.type = free_agency_stage
         stage.name = "Late Free Agency"
     elif week == pre_training_camp:
         stage.type = pre_season
         stage.name = "Training Camp"
     elif week.startswith(exhibition):
-        stage.type = "Exhibition"
+        stage.type = pre_season
         stage.name = week[len(exhibition):]
     elif week.startswith(regular):
         stage.type = "Regular"
@@ -195,12 +223,18 @@ def get_team(row):
         "designated as a franchise player",
         "re-signed as an unrestricted free agent",
         "signed as a free agent",
-        "signed as an unrestricted free agent"
+        "signed as an unrestricted free agent",
+        "signed to a new contract"
     ]
+    trade = "received in trade"
+
     if transaction in new_transaction:
         team.old = "NULL"
         team.new = team_id
     elif transaction in old_transaction:
         team.old = team_id
         team.new = "NULL"
+    elif transaction == trade:
+        team.old = row["Original_Team/Destination_Position/Misc."]
+        team.new = team_id
     return team
