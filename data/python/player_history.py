@@ -80,7 +80,8 @@ class PlayerHistory(BaseFof):
                 "retired",
                 "signed as a free agent",
                 "signed as an unrestricted free agent",
-                "signed to a new contract"
+                "signed to a new contract",
+                "received in trade"
             ]
             df = df[df["Transaction"].isin(transactions)]
 
@@ -128,12 +129,26 @@ class PlayerHistory(BaseFof):
                     ON s.stage_name = t.stage_name
                         AND s.stage_type = t.stage_type
             WHERE
+                -- retired
                 NOT EXISTS (
                     SELECT NULL
                     FROM player_history ph
                     WHERE ph.player_id = t.player_id
                         AND ph.year = t.year
                         AND ph.stage_id = s.stage_id
+                        AND ph.old_team_id = t.old
+                )
+                AND
+                -- explicit release
+                NOT EXISTS (
+                    SELECT NULL
+                    FROM player_history ph
+                        INNER JOIN stage s1
+                            ON s1.stage_id = ph.stage_id
+                    WHERE ph.player_id = t.player_id
+                        AND ph.year = t.year
+                        AND s1.stage_name = 'Pre Free Agency'
+                        AND s.stage_name = 'Late Free Agency'
                         AND ph.old_team_id = t.old
                 )
             ORDER BY t.temp_player_history_id
@@ -211,10 +226,15 @@ def get_team(row):
         "signed as an unrestricted free agent",
         "signed to a new contract"
     ]
+    trade = "received in trade"
+
     if transaction in new_transaction:
         team.old = "NULL"
         team.new = team_id
     elif transaction in old_transaction:
         team.old = team_id
         team.new = "NULL"
+    elif transaction == trade:
+        team.old = row["Original_Team/Destination_Position/Misc."]
+        team.new = team_id
     return team
