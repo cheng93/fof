@@ -35,13 +35,14 @@ def schema_upgrades():
         SELECT
             s.team_id,
             t.team_name,
-            s.wins,
-            s.loses,
-            s.ties,
+            t.city,
+            CAST(s.wins as smallint) wins,
+            CAST(s.loses as smallint) loses,
+            CAST(s.ties as smallint) ties,
             s.win_lose_percent,
-            s.conference_wins,
-            s.superbowl_wins,
-            p.playoff_appearances
+            CAST(s.conference_wins AS smallint) conference_wins,
+            CAST(s.superbowl_wins AS smallint) superbowl_wins,
+            CAST(p.playoff_appearances AS smallint) playoff_appearances
         FROM team t
             INNER JOIN (
                 SELECT
