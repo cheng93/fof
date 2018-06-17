@@ -1,7 +1,10 @@
 import Vue from 'vue';
+import Vuetify from 'vuetify';
 import app from './app/app';
 import router from './app/router';
 import store from './app/store';
+
+Vue.use(Vuetify);
 
 new Vue({
     router,

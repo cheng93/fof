@@ -2,7 +2,9 @@ from setuptools import setup
 
 requires = [
     "aiohttp",
-    "aiopg[sa]"
+    "aiopg[sa]",
+    "marshmallow",
+    "simplejson"
 ]
 
 setup(name="fof",

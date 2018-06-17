@@ -1,8 +1,10 @@
-psycopg2-binary
-sqlalchemy
-alembic
-pandas
-sqlacodegen
 aiohttp
 aiohttp-devtools
 aiopg[sa]
+alembic
+marshmallow
+pandas
+psycopg2-binary
+simplejson
+sqlacodegen
+sqlalchemy
