@@ -6,7 +6,6 @@ const VueLoaderPlugin = require('vue-loader/lib/plugin');
 
 module.exports = {
     entry: {
-        vendor: './src/client/vendor.scss',
         app: './src/client/main'
     },
     resolve: {
