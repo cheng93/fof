@@ -22,7 +22,7 @@
 <script>
 import numeral from 'numeral';
 import { mapState } from 'vuex';
-import { actionTypes } from './teams.store';
+import { actionTypes } from './store/teams.actions';
 
 export default {
     computed: mapState({
