@@ -1,9 +1,11 @@
-import { shallowMount, RouterLinkStub } from '@vue/test-utils';
+import { mount, RouterLinkStub } from '@vue/test-utils';
 import toolbar from './toolbar.vue';
 
 describe('Toolbar', () => {
-    it('matches snapshot', () => {
-        const wrapper = shallowMount(toolbar, {
+    let wrapper;
+
+    beforeEach(() => {
+        wrapper = mount(toolbar, {
             propsData: {
                 title: 'Hello World'
             },
@@ -11,6 +13,12 @@ describe('Toolbar', () => {
                 RouterLink: RouterLinkStub
             }
         });
+    });
+    it('matches snapshot', () => {
         expect(wrapper.html()).toMatchSnapshot();
+    });
+
+    it('should link to home', () => {
+        expect(wrapper.find(RouterLinkStub).props().to).toBe('/');
     });
 });

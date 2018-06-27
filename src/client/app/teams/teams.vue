@@ -7,7 +7,11 @@
             hide-actions
             class="elevation-1">
              <template slot="items" slot-scope="props">
-                <td>{{ props.item.name }}</td>
+                <td>
+                    <router-link :to="'/teams/' + props.item.team_id">
+                        {{ props.item.name }}
+                    </router-link>
+                </td>
                 <td>{{ props.item.wins }}</td>
                 <td>{{ props.item.loses }}</td>
                 <td>{{ props.item.ties }}</td>
