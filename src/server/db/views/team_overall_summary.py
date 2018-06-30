@@ -6,8 +6,6 @@ metadata = MetaData()
 team_overall_summary = Table(
     'team_overall_summary', metadata,
     Column('team_id', SmallInteger),
-    Column('team_name', String(50)),
-    Column('city', String(50)),
     Column('wins', SmallInteger),
     Column('loses', SmallInteger),
     Column('ties', SmallInteger),
