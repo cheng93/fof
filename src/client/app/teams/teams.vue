@@ -15,7 +15,7 @@
                 <td>{{ props.item.wins }}</td>
                 <td>{{ props.item.loses }}</td>
                 <td>{{ props.item.ties }}</td>
-                <td>{{ props.item.win_lose_percent | win_lose_percent }}</td>
+                <td>{{ props.item.win_lose_percent | to_percentage }}</td>
                 <td>{{ props.item.playoff_appearances }}</td>
                 <td>{{ props.item.conference_wins }}</td>
                 <td>{{ props.item.superbowl_wins }}</td>
@@ -72,27 +72,12 @@ export default {
                 }
             ]
         };
-    },
-    filters: {
-        win_lose_percent: function(value) {
-            return `${numeral(value * 100).format('0.00')}%`;
-        }
     }
 };
 </script>
 
 <style scoped>
 h1 {
-    margin: 12px 0;
-}
-
-ul {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-li {
-    flex: 0 1 200px;
     margin: 12px 0;
 }
 </style>

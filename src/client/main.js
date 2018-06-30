@@ -3,6 +3,7 @@ import Vuetify from 'vuetify';
 import app from './app/app';
 import router from './app/router';
 import store from './app/store';
+import './app/filters';
 
 Vue.use(Vuetify);
 

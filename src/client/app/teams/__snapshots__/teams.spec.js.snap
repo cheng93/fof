@@ -47,7 +47,7 @@ exports[`Teams matches snapshot 1`] = `
             <td>6</td>
             <td>5</td>
             <td>0</td>
-            <td>5000.00%</td>
+            <td>toPercentage(0.5)</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -61,7 +61,7 @@ exports[`Teams matches snapshot 1`] = `
             <td>11</td>
             <td>10</td>
             <td>1</td>
-            <td>1111.00%</td>
+            <td>toPercentage(0.1111)</td>
             <td>5</td>
             <td>3</td>
             <td>2</td>

@@ -4,8 +4,6 @@ import Vuetify from 'vuetify';
 import { actionTypes } from './store/teams.actions';
 import teams from './teams.vue';
 
-let localVue;
-
 describe('Teams', () => {
     let wrapper;
 
@@ -33,7 +31,7 @@ describe('Teams', () => {
                 wins: 11,
                 loses: 10,
                 ties: 1,
-                win_lose_percent: 11.11,
+                win_lose_percent: 0.1111,
                 playoff_appearances: 5,
                 conference_wins: 3,
                 superbowl_wins: 2
@@ -44,7 +42,7 @@ describe('Teams', () => {
                 wins: 6,
                 loses: 5,
                 ties: 0,
-                win_lose_percent: 50,
+                win_lose_percent: 0.5,
                 playoff_appearances: 0,
                 conference_wins: 0,
                 superbowl_wins: 0
@@ -57,6 +55,9 @@ describe('Teams', () => {
             },
             computed: {
                 teams: () => teamsData
+            },
+            filters: {
+                to_percentage: val => `toPercentage(${val})`
             },
             store,
             localVue
