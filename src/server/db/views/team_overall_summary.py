@@ -1,4 +1,4 @@
-from sqlalchemy import Column, MetaData, Numeric, SmallInteger, String, Table
+from sqlalchemy import Column, MetaData, Numeric, SmallInteger, Table
 
 metadata = MetaData()
 
@@ -13,6 +13,5 @@ team_overall_summary = Table(
     Column('conference_wins', SmallInteger),
     Column('superbowl_wins', SmallInteger),
     Column('playoff_appearances', SmallInteger)
-
 )
 
