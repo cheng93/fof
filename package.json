@@ -11,7 +11,7 @@
         "html-webpack-plugin": "^3.2.0",
         "jest": "^23.1.0",
         "jest-serializer-vue": "^2.0.2",
-        "mini-css-extract-plugin": "^0.4.0",
+        "mini-css-extract-plugin": "^0.4.1",
         "node-sass": "^4.9.0",
         "rimraf": "^2.6.2",
         "sass-loader": "^7.0.3",
@@ -19,7 +19,7 @@
         "vue-jest": "^2.6.0",
         "vue-loader": "^15.2.4",
         "vue-template-compiler": "^2.5.16",
-        "webpack": "^4.12.0",
+        "webpack": "^4.14.0",
         "webpack-cli": "^3.0.3"
     },
     "dependencies": {
@@ -29,7 +29,7 @@
         "numeral": "^2.0.6",
         "vue": "^2.5.16",
         "vue-router": "^3.0.1",
-        "vuetify": "^1.0.19",
+        "vuetify": "^1.1.0",
         "vuex": "^3.0.1"
     },
     "scripts": {

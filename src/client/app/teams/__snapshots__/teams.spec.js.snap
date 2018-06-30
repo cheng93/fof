@@ -4,36 +4,36 @@ exports[`Teams matches snapshot 1`] = `
 <section>
   <h1 class="mdc-typography--headline5">Teams</h1>
   <div class="elevation-1">
-    <div class="table__overflow">
-      <table class="datatable table">
+    <div class="v-table__overflow">
+      <table class="v-datatable v-table">
         <thead>
           <tr>
             <th role="columnheader" scope="col" aria-label="Team: Sorted ascending. Activate to sort descending." aria-sort="ascending" tabindex="0" class="column sortable active asc text-xs-left">Team
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Wins: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Wins
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Loses: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Loses
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Ties: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Ties
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="WL%: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">WL%
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Playoffs: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Playoffs
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Conference: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Conference
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Superbowl: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Superbowl
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
           </tr>
-          <tr class="datatable__progress">
+          <tr class="v-datatable__progress">
             <th colspan="8" class="column"></th>
           </tr>
         </thead>

@@ -42,30 +42,30 @@ exports[`Team matches snapshot 1`] = `
     </dd>
   </dl>
   <div class="elevation-1">
-    <div class="table__overflow">
-      <table class="datatable table">
+    <div class="v-table__overflow">
+      <table class="v-datatable v-table">
         <thead>
           <tr>
             <th role="columnheader" scope="col" aria-label="Season: Sorted ascending. Activate to sort descending." aria-sort="ascending" tabindex="0" class="column sortable active asc text-xs-left">Season
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Wins: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Wins
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Loses: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Loses
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Ties: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Ties
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="WL%: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">WL%
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
             <th role="columnheader" scope="col" aria-label="Standing: Not sorted. Activate to sort ascending." aria-sort="none" tabindex="0" class="column sortable text-xs-left">Standing
-              <i aria-hidden="true" class="icon material-icons" style="font-size: 16px;">arrow_upward</i>
+              <i aria-hidden="true" class="v-icon material-icons" style="font-size: 16px;">arrow_upward</i>
             </th>
           </tr>
-          <tr class="datatable__progress">
+          <tr class="v-datatable__progress">
             <th colspan="6" class="column"></th>
           </tr>
         </thead>
