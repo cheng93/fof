@@ -18,6 +18,35 @@ class GetTeamSchema(Schema):
                     "superbowl_wins", "playoff_appearances",
                     "division")
 
+def seasons_query(team_id):
+    join = (team_season_summary
+        .join(team_final_standing,
+            sa.and_(
+                team_final_standing.c.team_id == team_season_summary.c.team_id,
+                team_final_standing.c.year == team_season_summary.c.year)))
+    return (sa.select([
+                team_season_summary,
+                team_final_standing.c.standing_name
+            ])
+            .select_from(join)
+            .where(team_season_summary.c.team_id == team_id)
+            .order_by(team_season_summary.c.year))
+
+def team_query(team_id):
+    join = (team
+        .join(team_overall_summary,
+            team_overall_summary.c.team_id == team.c.team_id)
+        .join(division,
+            division.c.division_id == team.c.division_id))
+    return (sa.select([
+                team_overall_summary,
+                team.c.team_name,
+                team.c.city,
+                division.c.name.label("division")
+            ])
+            .select_from(join)
+            .where(team.c.team_id == team_id))
+
 class GetTeamCommand(Command):
     def __init__(self, db, team_id):
         self.db = db
@@ -25,45 +54,14 @@ class GetTeamCommand(Command):
 
     async def execute(self):
         async with self.db.acquire() as conn:
-            cursor = await conn.execute(self.seasons_query)
+            cursor = await conn.execute(seasons_query(self.team_id))
             records = await cursor.fetchall()
             schema = GetTeamSeasonSchema()
             (seasons, errors) = schema.dump(records, many=True)
 
-            cursor = await conn.execute(self.team_query)
+            cursor = await conn.execute(team_query(self.team_id))
             record = await cursor.first()
             schema = GetTeamSchema()
             (t, errors) = schema.dump(record)
 
             return (t, seasons)
-
-    @property
-    def seasons_query(self):
-        join = (team_season_summary
-            .join(team_final_standing,
-                sa.and_(
-                    team_final_standing.c.team_id == team_season_summary.c.team_id,
-                    team_final_standing.c.year == team_season_summary.c.year)))
-        return (sa.select([
-                    team_season_summary,
-                    team_final_standing.c.standing_name
-                ])
-                .select_from(join)
-                .where(team_season_summary.c.team_id == self.team_id)
-                .order_by(team_season_summary.c.year))
-
-    @property
-    def team_query(self):
-        join = (team
-            .join(team_overall_summary,
-                team_overall_summary.c.team_id == team.c.team_id)
-            .join(division,
-                division.c.division_id == team.c.division_id))
-        return (sa.select([
-                    team_overall_summary,
-                    team.c.team_name,
-                    team.c.city,
-                    division.c.name.label("division")
-                ])
-                .select_from(join)
-                .where(team.c.team_id == self.team_id))

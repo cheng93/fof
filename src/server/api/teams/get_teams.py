@@ -11,22 +11,24 @@ class GetTeamsSchema(Schema):
                     "win_lose_percent", "conference_wins",
                     "superbowl_wins", "playoff_appearances")
 
+def teams_query():
+    join = team_overall_summary.join(team, 
+        team.c.team_id == team_overall_summary.c.team_id)
+    return (sa.select([
+                team_overall_summary,
+                team.c.team_name, 
+                team.c.city
+            ])
+            .select_from(join)
+            .order_by(team.c.city))
+
 class GetTeamsCommand(Command):
     def __init__(self, db):
         self.db = db
 
     async def execute(self):
         async with self.db.acquire() as conn:
-            join = team_overall_summary.join(team, 
-                team.c.team_id == team_overall_summary.c.team_id)
-            query = (sa.select([
-                        team_overall_summary,
-                        team.c.team_name, 
-                        team.c.city
-                    ])
-                    .select_from(join)
-                    .order_by(team.c.city))
-            cursor = await conn.execute(query)
+            cursor = await conn.execute(teams_query())
             records = await cursor.fetchall()
             schema = GetTeamsSchema()
             (data, errors) = schema.dump(records, many=True)

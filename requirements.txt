@@ -5,6 +5,7 @@ alembic
 marshmallow
 pandas
 psycopg2-binary
+pytest
 simplejson
 sqlacodegen
 sqlalchemy
