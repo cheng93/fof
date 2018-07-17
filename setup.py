@@ -3,7 +3,7 @@ from setuptools import setup
 install_requires = [
     "aiohttp",
     "aiopg[sa]",
-    "marshmallow",
+    "marshmallow >=2,<3",
     "simplejson"
 ]
 
