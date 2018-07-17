@@ -1,0 +1,13 @@
+language: python
+
+cache: yarn
+
+notifications:
+  email: false
+
+install:
+  - yarn install
+
+script:
+  - yarn build
+  - python setup.py test
