@@ -6,6 +6,8 @@ marshmallow
 pandas
 psycopg2-binary
 pytest
+pytest-asyncio
+pytest-mock
 simplejson
 sqlacodegen
 sqlalchemy
