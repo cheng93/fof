@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toolbar matches snapshot 1`] = `
+<header class="mdc-top-app-bar mdc-top-app-bar--fixed">
+  <div class="mdc-top-app-bar__row">
+    <div class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start"><span class="mdc-top-app-bar__title"><a class="link mdc-theme--text-primary-on-primary">
+                    Hello World
+                </a></span></div>
+  </div>
+</header>
+`;
