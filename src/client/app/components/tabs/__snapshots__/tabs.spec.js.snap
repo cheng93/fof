@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs matches snapshot 1`] = `
+<div>
+  <nav class="mdc-tab-bar"><span class="mdc-tab mdc-tab--active">
+            A
+        </span><span class="mdc-tab">
+            B
+        </span></nav>
+  <div>
+    <div>This is tab A</div>
+  </div>
+  <!---->
+</div>
+`;
+
+exports[`Tabs when on other tab, should match snapshot 1`] = `
+<div>
+  <nav class="mdc-tab-bar"><span class="mdc-tab">
+            A
+        </span><span class="mdc-tab mdc-tab--active">
+            B
+        </span></nav>
+  <!---->
+  <div>
+    <div>This is tab B</div>
+  </div>
+</div>
+`;
