@@ -1,6 +1,5 @@
-import { createLocalVue, mount, RouterLinkStub } from '@vue/test-utils';
+import { createLocalVue, mount } from '@vue/test-utils';
 import Vuex from 'vuex';
-import Vuetify from 'vuetify';
 import { actionTypes } from './store/teams.actions';
 import team from './team.vue';
 
@@ -10,7 +9,6 @@ describe('Team', () => {
     beforeEach(() => {
         const localVue = createLocalVue();
         localVue.use(Vuex);
-        localVue.use(Vuetify);
         const actions = {
             [actionTypes.GET_TEAM]: jest.fn()
         };
@@ -34,25 +32,7 @@ describe('Team', () => {
             playoff_appearances: 3,
             conference_wins: 2,
             superbowl_wins: 1,
-            division: 'Bar',
-            seasons: [
-                {
-                    year: 2015,
-                    wins: 2,
-                    loses: 1,
-                    ties: 1,
-                    win_lose_percent: 0.3333,
-                    standing_name: 'Regular'
-                },
-                {
-                    year: 2016,
-                    wins: 3,
-                    loses: 0,
-                    ties: 0,
-                    win_lose_percent: 1,
-                    standing_name: 'Runner Up'
-                }
-            ]
+            division: 'Bar'
         };
 
         const $route = {
@@ -63,7 +43,7 @@ describe('Team', () => {
 
         wrapper = mount(team, {
             stubs: {
-                RouterLink: RouterLinkStub
+                TeamTable: '<div>Team Table</div>'
             },
             computed: {
                 team: () => teamData

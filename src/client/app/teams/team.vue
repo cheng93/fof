@@ -39,24 +39,9 @@
                 {{team.superbowl_wins}}
             </dd>
         </dl>
-        <tabs :headers="tabHeaders">
+        <tabs :headers="headers">
             <template slot="tab-0">
-                <v-data-table
-                    :headers="tableHeaders"
-                    :items="team.seasons"
-                    hide-actions
-                    class="elevation-1">
-                    <template slot="items" slot-scope="props">
-                        <td>
-                            {{props.item.year}}
-                        </td>
-                        <td>{{ props.item.wins }}</td>
-                        <td>{{ props.item.loses }}</td>
-                        <td>{{ props.item.ties }}</td>
-                        <td>{{ props.item.win_lose_percent | to_percentage }}</td>
-                        <td>{{ props.item.standing_name }}</td>
-                        </template>
-                </v-data-table>
+                <team-table></team-table>
             </template>
             <template slot="tab-1">
                 Hello World
@@ -67,52 +52,28 @@
 <script>
 import { mapState } from 'vuex';
 import { actionTypes } from './store/teams.actions';
+import store from '../store';
 
 import tabs from '../components/tabs/tabs';
+import teamTable from './team.table';
 
 export default {
     computed: mapState({
         team: state => state.teams.teamData
     }),
-    created() {
-        this.$store.dispatch(
-            `teams/${actionTypes.GET_TEAM}`,
-            this.$route.params.id
-        );
+    beforeRouteEnter(to, from, next) {
+        store
+            .dispatch(`teams/${actionTypes.GET_TEAM}`, to.params.id)
+            .then(() => next());
     },
     data() {
         return {
-            tabHeaders: ['Table', 'Chart'],
-            tableHeaders: [
-                {
-                    text: 'Season',
-                    value: 'year'
-                },
-                {
-                    text: 'Wins',
-                    value: 'wins'
-                },
-                {
-                    text: 'Loses',
-                    value: 'loses'
-                },
-                {
-                    text: 'Ties',
-                    value: 'ties'
-                },
-                {
-                    text: 'WL%',
-                    value: 'win_lose_percent'
-                },
-                {
-                    text: 'Standing',
-                    value: 'standing_name'
-                }
-            ]
+            headers: ['Table', 'Chart']
         };
     },
     components: {
-        tabs
+        tabs,
+        teamTable
     }
 };
 </script>
