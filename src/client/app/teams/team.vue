@@ -39,27 +39,36 @@
                 {{team.superbowl_wins}}
             </dd>
         </dl>
-        <v-data-table
-            :headers="headers"
-            :items="team.seasons"
-            hide-actions
-            class="elevation-1">
-             <template slot="items" slot-scope="props">
-                <td>
-                    {{props.item.year}}
-                </td>
-                <td>{{ props.item.wins }}</td>
-                <td>{{ props.item.loses }}</td>
-                <td>{{ props.item.ties }}</td>
-                <td>{{ props.item.win_lose_percent | to_percentage }}</td>
-                <td>{{ props.item.standing_name }}</td>
-                </template>
-        </v-data-table>
+        <tabs :headers="tabHeaders">
+            <template slot="tab-0">
+                <v-data-table
+                    :headers="tableHeaders"
+                    :items="team.seasons"
+                    hide-actions
+                    class="elevation-1">
+                    <template slot="items" slot-scope="props">
+                        <td>
+                            {{props.item.year}}
+                        </td>
+                        <td>{{ props.item.wins }}</td>
+                        <td>{{ props.item.loses }}</td>
+                        <td>{{ props.item.ties }}</td>
+                        <td>{{ props.item.win_lose_percent | to_percentage }}</td>
+                        <td>{{ props.item.standing_name }}</td>
+                        </template>
+                </v-data-table>
+            </template>
+            <template slot="tab-1">
+                Hello World
+            </template>
+        </tabs>
     </section>
 </template>
 <script>
 import { mapState } from 'vuex';
 import { actionTypes } from './store/teams.actions';
+
+import tabs from '../components/tabs/tabs';
 
 export default {
     computed: mapState({
@@ -73,7 +82,8 @@ export default {
     },
     data() {
         return {
-            headers: [
+            tabHeaders: ['Table', 'Chart'],
+            tableHeaders: [
                 {
                     text: 'Season',
                     value: 'year'
@@ -100,6 +110,9 @@ export default {
                 }
             ]
         };
+    },
+    components: {
+        tabs
     }
 };
 </script>
