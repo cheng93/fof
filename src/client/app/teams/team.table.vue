@@ -18,7 +18,6 @@
 </template>
 <script>
 import { mapState } from 'vuex';
-import { actionTypes } from './store/teams.actions';
 
 export default {
     computed: mapState({

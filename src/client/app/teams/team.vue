@@ -44,7 +44,7 @@
                 <team-table></team-table>
             </template>
             <template slot="tab-1">
-                Hello World
+                <team-chart></team-chart>
             </template>
         </tabs>
     </section>
@@ -55,6 +55,7 @@ import { actionTypes } from './store/teams.actions';
 import store from '../store';
 
 import tabs from '../components/tabs/tabs';
+import teamChart from './team.chart';
 import teamTable from './team.table';
 
 export default {
@@ -73,6 +74,7 @@ export default {
     },
     components: {
         tabs,
+        teamChart,
         teamTable
     }
 };
