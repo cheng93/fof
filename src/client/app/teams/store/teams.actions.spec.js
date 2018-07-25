@@ -7,10 +7,21 @@ describe('Teams Store: Actions', () => {
     describe(actionTypes.GET_TEAM, () => {
         describe('when it needs to fetch from api', () => {
             let team;
+            let seasons;
             beforeEach(() => {
                 team = { team_id: 1, team_name: 'Foo' };
+                seasons = {
+                    seasons: [
+                        { team_id: 1, year: 2015 },
+                        { team_id: 1, year: 2016 }
+                    ]
+                };
                 teamsService.getTeam.mockImplementation(
                     payload => new Promise(resolve => resolve({ data: team }))
+                );
+                teamsService.getSeasons.mockImplementation(
+                    payload =>
+                        new Promise(resolve => resolve({ data: seasons }))
                 );
             });
 
@@ -23,9 +34,10 @@ describe('Teams Store: Actions', () => {
 
                 await action({ commit, state }, teamId);
 
+                console.log(commit.mock);
                 expect(commit.mock.calls).toEqual([
                     [mutationTypes.SET_SELECTED_TEAM, teamId],
-                    [mutationTypes.SET_TEAM_DATA, team]
+                    [mutationTypes.SET_TEAM_DATA, { ...team, ...seasons }]
                 ]);
             });
 
@@ -40,7 +52,7 @@ describe('Teams Store: Actions', () => {
 
                 expect(commit.mock.calls).toEqual([
                     [mutationTypes.SET_SELECTED_TEAM, teamId],
-                    [mutationTypes.SET_TEAM_DATA, team]
+                    [mutationTypes.SET_TEAM_DATA, { ...team, ...seasons }]
                 ]);
             });
         });

@@ -9,15 +9,22 @@ export const actionTypes = {
 export const actions = {
     [actionTypes.GET_TEAM]({ commit, state }, payload) {
         if (!state.selectedTeam || state.selectedTeam != payload) {
-            teamsService.getTeam(payload).then(response => {
+            return Promise.all([
+                teamsService.getTeam(payload),
+                teamsService.getSeasons(payload)
+            ]).then(([team, seasons]) => {
                 commit(mutationTypes.SET_SELECTED_TEAM, payload);
-                commit(mutationTypes.SET_TEAM_DATA, response.data);
+                const teamData = {
+                    ...team.data,
+                    ...seasons.data
+                };
+                commit(mutationTypes.SET_TEAM_DATA, teamData);
             });
         }
     },
     [actionTypes.GET_TEAMS]({ commit, state }) {
         if (!state.teamsLoaded) {
-            teamsService.getTeams().then(response => {
+            return teamsService.getTeams().then(response => {
                 commit(mutationTypes.SET_TEAMS, response.data.teams);
                 commit(mutationTypes.SET_TEAMS_LOADED, true);
             });
